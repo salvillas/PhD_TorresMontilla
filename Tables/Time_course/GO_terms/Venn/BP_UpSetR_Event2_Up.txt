@@ -1,0 +1,11 @@
+GOterm	Event1_Up
+auxin-activated signaling pathway	GO:0009734
+phosphorelay signal transduction system	GO:0000160
+NAD biosynthetic process	GO:0009435
+molybdate ion transport	GO:0015689
+cortical microtubule organization	GO:0043622
+cytoskeleton organization	GO:0007010
+ion transport	GO:0006811
+chloride transmembrane transport	GO:1902476
+DNA replication initiation	GO:0006270
+1-deoxy-D-xylulose 5-phosphate biosynthetic process	GO:0052865

@@ -1,0 +1,14 @@
+GOterm	Event4_Down
+plastoquinone biosynthetic process	GO:0010236
+lipid biosynthetic process	GO:0008610
+glycogen biosynthetic process	GO:0005978
+phosphate ion transport	GO:0006817
+polynucleotide 3' dephosphorylation	GO:0098506
+starch biosynthetic process	GO:0019252
+gametophyte development	GO:0048229
+carbohydrate transmembrane transport	GO:0034219
+phosphatidylinositol phosphorylation	GO:0046854
+inositol biosynthetic process	GO:0006021
+oligopeptide transport	GO:0006857
+shade avoidance	GO:0009641
+photomorphogenesis	GO:0009640

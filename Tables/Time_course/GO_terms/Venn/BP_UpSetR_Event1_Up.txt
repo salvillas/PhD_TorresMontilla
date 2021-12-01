@@ -1,0 +1,28 @@
+GOterm	Event2_Up
+mRNA stabilization	GO:0048255
+mitochondrial tRNA wobble uridine modification	GO:0070899
+proline catabolic process	GO:0006562
+UDP-N-acetylglucosamine biosynthetic process	GO:0006048
+mitochondrial alanyl-tRNA aminoacylation	GO:0070143
+arginine transmembrane transport	GO:1903826
+formaldehyde catabolic process	GO:0046294
+L-glutamate transmembrane transport	GO:0015813
+inositol phosphorylation	GO:0052746
+positive regulation of cell cycle arrest	GO:0071158
+chloroplast-nucleus signaling pathway	GO:0010019
+S-adenosyl-L-methionine transmembrane transport	GO:1901962
+threonine catabolic process	GO:0006567
+RNA biosynthetic process	GO:0032774
+response to aluminum ion	GO:0010044
+negative regulation of phosphoprotein phosphatase activity	GO:0032515
+protein localization involved in auxin polar transport	GO:1901703
+regulation of chromatin assembly	GO:0010847
+positive regulation of anaphase-promoting complex-dependent catabolic process	GO:1905786
+plasmodesma organization	GO:0009663
+L-alanine transport	GO:0015808
+gamma-aminobutyric acid transport	GO:0015812
+fatty acid biosynthetic process	GO:0006633
+nucleobase-containing small molecule interconversion	GO:0015949
+L-lysine transmembrane transport	GO:1903401
+cell wall modification	GO:0042545
+SOS response	GO:0009432

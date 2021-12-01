@@ -1,0 +1,20 @@
+GOterm	Event1_Down
+removal of superoxide radicals	GO:0019430
+regulation of salicylic acid biosynthetic process	GO:0080142
+jasmonic acid metabolic process	GO:0009694
+clathrin coat assembly	GO:0048268
+vesicle docking	GO:0048278
+G protein-coupled receptor signaling pathway	GO:0007186
+ceramide biosynthetic process	GO:0046513
+arginine catabolic process	GO:0006527
+phosphatidylcholine metabolic process	GO:0046470
+biosynthetic process	GO:0009058
+regulation of transcription, DNA-templated	GO:0006355
+glycolytic process	GO:0006096
+adenylate cyclase-modulating G protein-coupled receptor signaling pathway	GO:0007188
+regulation of catalytic activity	GO:0050790
+electron transport chain	GO:0022900
+posttranslational protein targeting to membrane, translocation	GO:0031204
+isocitrate metabolic process	GO:0006102
+steroid biosynthetic process	GO:0006694
+developmental process	GO:0032502
