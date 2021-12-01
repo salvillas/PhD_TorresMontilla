@@ -1,0 +1,2 @@
+"GeneID"	"Description"	"moduleColor"	"GS.expcrtB"	"p.GS.expcrtB"	"GS.Phytoene"	"p.GS.Phytoene"	"MM.cyan"	"p.MM.cyan"
+"Niben261Chr14g0651006.1"	"Protein-serine/threonine phosphatase"	"cyan"	-0.20925314397751	0.153467289336345	-0.163717884847768	0.266183578316493	0.853835974938015	1.23167194638408e-14

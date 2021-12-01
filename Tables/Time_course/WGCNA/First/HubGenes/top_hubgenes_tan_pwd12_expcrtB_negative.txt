@@ -1,0 +1,2 @@
+"GeneID"	"Description"	"moduleColor"	"GS.expcrtB"	"p.GS.expcrtB"	"GS.Phytoene"	"p.GS.Phytoene"	"MM.tan"	"p.MM.tan"
+"Niben261Chr08g0320015.1"	"protein REVEILLE 1-like isoform X2"	"tan"	-0.209862903484656	0.152245362563343	-0.20329252520531	0.165793944067259	0.806476809863051	4.55904344096329e-12

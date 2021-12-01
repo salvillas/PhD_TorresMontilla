@@ -1,0 +1,2 @@
+"GeneID"	"Description"	"moduleColor"	"GS.expcrtB"	"p.GS.expcrtB"	"GS.Phytoene"	"p.GS.Phytoene"	"MM.darkred"	"p.MM.darkred"
+"Niben261Chr08g0458001.1"	"Pyruvate kinase"	"darkred"	-0.210491980751423	0.15099224425367	-0.419067133422087	0.00303042360032583	0.811023780952703	2.78096644385443e-12

@@ -1,0 +1,1 @@
+"GeneID"	"Description"	"moduleColor"	"GS.expcrtB"	"p.GS.expcrtB"	"GS.Phytoene"	"p.GS.Phytoene"	"MM.lightcyan"	"p.MM.lightcyan"
