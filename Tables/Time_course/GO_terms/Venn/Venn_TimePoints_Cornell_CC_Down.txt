@@ -1,0 +1,98 @@
+Names	total	elements
+22h_Down 25h_Down 28h_Down 34h_Down 37h_Down 40h_Down 46h_Down 56h_Down	6	endoplasmic reticulum lumen
+		perinuclear region of cytoplasm
+		cytosol
+		cytoplasm
+		plasma membrane
+		cell surface
+22h_Down 25h_Down 28h_Down 34h_Down 37h_Down 40h_Down 46h_Down	1	VCP-NPL4-UFD1 AAA ATPase complex
+22h_Down 28h_Down 34h_Down 37h_Down 40h_Down 46h_Down 56h_Down	1	Z disc
+25h_Down 28h_Down 34h_Down 37h_Down 40h_Down 46h_Down 56h_Down	2	methylosome
+		pICln-Sm protein complex
+22h_Down 25h_Down 28h_Down 34h_Down 40h_Down 56h_Down	1	SNARE complex
+22h_Down 25h_Down 28h_Down 37h_Down 46h_Down	1	endoplasmic reticulum
+25h_Down 28h_Down 34h_Down 40h_Down 46h_Down	1	mitochondrial respiratory chain complex III
+34h_Down 37h_Down 40h_Down 46h_Down 56h_Down	1	U2AF complex
+34h_Down 37h_Down 40h_Down 46h_Down	1	mitochondrial matrix
+22h_Down 25h_Down 28h_Down	4	vacuole
+		mitochondrial intermembrane space
+		oxoglutarate dehydrogenase complex
+		heterotrimeric G-protein complex
+22h_Down 25h_Down 40h_Down	1	endoplasmic reticulum membrane
+22h_Down 25h_Down 56h_Down	1	integral component of membrane
+25h_Down 28h_Down 40h_Down	1	cytoplasmic stress granule
+34h_Down 37h_Down 40h_Down	1	Swr1 complex
+34h_Down 40h_Down 46h_Down	1	snRNA-activating protein complex
+40h_Down 46h_Down 56h_Down	1	commitment complex
+22h_Down 25h_Down	2	membrane
+		peroxisome
+22h_Down 56h_Down	1	extracellular region
+25h_Down 28h_Down	3	transport vesicle membrane
+		peroxisomal matrix
+		1,3-beta-D-glucan synthase complex
+25h_Down 40h_Down	2	late endosome membrane
+		SCF ubiquitin ligase complex
+25h_Down 56h_Down	1	plasmodesma
+34h_Down 37h_Down	1	nucleotide-activated protein kinase complex
+34h_Down 40h_Down	1	collagen-containing extracellular matrix
+37h_Down 56h_Down	1	starch grain
+40h_Down 46h_Down	2	messenger ribonucleoprotein complex
+		U2-type prespliceosome
+46h_Down 56h_Down	3	DNA polymerase III complex
+		nuclear pre-replicative complex
+		amyloplast
+22h_Down	6	endoplasmic reticulum-Golgi intermediate compartment
+		endomembrane system
+		FACT complex
+		phagophore assembly site membrane
+		polysome
+		lipid droplet
+25h_Down	6	integral component of mitochondrial inner membrane
+		cytoplasmic vesicle membrane
+		telomerase holoenzyme complex
+		Golgi apparatus
+		vacuolar membrane
+		AP-2 adaptor complex
+28h_Down	15	PAM complex, Tim23 associated import motor
+		proteasome complex
+		mitochondria-associated endoplasmic reticulum membrane
+		box C/D RNP complex
+		small-subunit processome
+		glyoxysomal membrane
+		preribosome, large subunit precursor
+		CURI complex
+		ESCRT III complex
+		etioplast membrane
+		preribosome, small subunit precursor
+		nucleolus
+		centriole
+		germ cell nucleus
+		UTP-C complex
+34h_Down	2	integral component of mitochondrial outer membrane
+		nuclear origin of replication recognition complex
+37h_Down	4	BAT3 complex
+		Hrd1p ubiquitin ligase ERAD-L complex
+		t-UTP complex
+		RNA polymerase II, core complex
+40h_Down	3	pore complex
+		U1 snRNP
+		ER to Golgi transport vesicle membrane
+46h_Down	10	protein phosphatase type 2A complex
+		proteasome regulatory particle
+		plasma membrane proton-transporting V-type ATPase complex
+		chloroplast intermembrane space
+		TIM23 mitochondrial import inner membrane translocase complex
+		chloroplast membrane
+		vacuolar proton-transporting V-type ATPase, V1 domain
+		postsynapse
+		autophagosome membrane
+		proteasome accessory complex
+56h_Down	9	extrinsic component of stromal side of plastid thylakoid membrane
+		cortical microtubule
+		cytoskeleton
+		Cul4A-RING E3 ubiquitin ligase complex
+		microtubule
+		chloroplast stroma
+		anchored component of plasma membrane
+		plastoglobule
+		Ddb1-Ckn1 complex

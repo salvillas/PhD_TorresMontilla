@@ -1,0 +1,390 @@
+Names	total	elements
+22h_Down 25h_Down 28h_Down 34h_Down 37h_Down 40h_Down 46h_Down 56h_Down	9	raffinose alpha-galactosidase activity
+		heat shock protein binding
+		unfolded protein binding
+		protein self-association
+		chaperone binding
+		L-ascorbate peroxidase activity
+		Hsp90 protein binding
+		ATP binding
+		ATPase activator activity
+22h_Down 25h_Down 28h_Down 34h_Down 37h_Down 40h_Down 46h_Down	1	glutathione transferase activity
+22h_Down 25h_Down 28h_Down 34h_Down 40h_Down 46h_Down 56h_Down	1	catalase activity
+25h_Down 28h_Down 34h_Down 37h_Down 40h_Down 46h_Down 56h_Down	2	S100 protein binding
+		ATPase activity
+25h_Down 34h_Down 37h_Down 40h_Down 46h_Down 56h_Down	1	peptidyl-prolyl cis-trans isomerase activity
+22h_Down 25h_Down 28h_Down 40h_Down 46h_Down	1	sequence-specific DNA binding
+22h_Down 25h_Down 28h_Down 46h_Down 56h_Down	3	heme binding
+		iron ion binding
+		monooxygenase activity
+25h_Down 28h_Down 34h_Down 37h_Down 40h_Down	1	pre-mRNA 3'-splice site binding
+25h_Down 28h_Down 34h_Down 37h_Down 46h_Down	1	phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase activity
+25h_Down 34h_Down 37h_Down 40h_Down 46h_Down	1	polyubiquitin modification-dependent protein binding
+28h_Down 34h_Down 37h_Down 40h_Down 46h_Down	2	protein homodimerization activity
+		mechanosensitive ion channel activity
+28h_Down 34h_Down 40h_Down 46h_Down 56h_Down	1	phosphatase inhibitor activity
+34h_Down 37h_Down 40h_Down 46h_Down 56h_Down	1	misfolded protein binding
+22h_Down 25h_Down 28h_Down 34h_Down	5	diacylglycerol O-acyltransferase activity
+		long-chain-alcohol O-fatty-acyltransferase activity
+		terpene synthase activity
+		hydroxymethylglutaryl-CoA reductase (NADPH) activity
+		5-epi-aristolochene synthase activity
+22h_Down 25h_Down 28h_Down 40h_Down	3	DNA-binding transcription factor activity
+		alcohol dehydrogenase activity, zinc-dependent
+		S-(hydroxymethyl)glutathione dehydrogenase activity
+22h_Down 25h_Down 28h_Down 46h_Down	3	alpha-1,4-glucosidase activity
+		maltose alpha-glucosidase activity
+		oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+22h_Down 25h_Down 28h_Down 56h_Down	2	protein kinase activity
+		ligand-gated ion channel activity
+22h_Down 25h_Down 40h_Down 56h_Down	1	NADP binding
+22h_Down 34h_Down 37h_Down 46h_Down	1	glutathione peroxidase activity
+25h_Down 28h_Down 40h_Down 56h_Down	1	GTPase activator activity
+25h_Down 28h_Down 46h_Down 56h_Down	1	inositol 3-alpha-galactosyltransferase activity
+25h_Down 40h_Down 46h_Down 56h_Down	2	ethylene binding
+		ethylene receptor activity
+34h_Down 40h_Down 46h_Down 56h_Down	1	sucrose-phosphate synthase activity
+22h_Down 25h_Down 28h_Down	27	diacylglycerol kinase activity
+		thiamine pyrophosphate binding
+		ubiquitin-protein transferase activity
+		syntaxin binding
+		5-epi-aristolochene-1,3-dihydroxylase activity
+		oxygen binding
+		phosphatidylcholine transporter activity
+		luteolin O-methyltransferase activity
+		acetylserotonin O-methyltransferase activity
+		chitin binding
+		ATPase-coupled transmembrane transporter activity
+		thioredoxin-disulfide reductase activity
+		diphosphomevalonate decarboxylase activity
+		carbohydrate binding
+		calmodulin binding
+		geranyltranstransferase activity
+		dimethylallyltranstransferase activity
+		ribosome binding
+		calcium ion binding
+		oxoglutarate dehydrogenase (succinyl-transferring) activity
+		NAD(P)H dehydrogenase (quinone) activity
+		phosphatidylinositol transfer activity
+		dihydrolipoyllysine-residue succinyltransferase activity
+		hydroxymethylglutaryl-CoA synthase activity
+		ATP citrate synthase activity
+		protein serine/threonine kinase activity
+		long-chain fatty acid-CoA ligase activity
+22h_Down 25h_Down 40h_Down	2	1-aminocyclopropane-1-carboxylate oxidase activity
+		FMN binding
+22h_Down 25h_Down 56h_Down	2	4-coumarate-CoA ligase activity
+		flavin adenine dinucleotide binding
+22h_Down 28h_Down 40h_Down	1	polysaccharide binding
+22h_Down 28h_Down 46h_Down	2	guanyl nucleotide binding
+		G-protein beta/gamma-subunit complex binding
+25h_Down 28h_Down 46h_Down	1	antiporter activity
+25h_Down 34h_Down 37h_Down	2	phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity
+		preprotein binding
+25h_Down 46h_Down 56h_Down	2	NADPH-hemoprotein reductase activity
+		long-chain-alcohol oxidase activity
+34h_Down 37h_Down 40h_Down	4	protein C-terminus binding
+		urate oxidase activity
+		UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase activity
+		UDP-3-O-acyl-N-acetylglucosamine deacetylase activity
+34h_Down 37h_Down 56h_Down	2	dGTPase activity
+		inositol-3-phosphate synthase activity
+34h_Down 40h_Down 46h_Down	2	glutaminase activity
+		spermine synthase activity
+34h_Down 46h_Down 56h_Down	1	transition metal ion binding
+40h_Down 46h_Down 56h_Down	4	inorganic anion exchanger activity
+		metal ion binding
+		phosphorelay sensor kinase activity
+		U1 snRNA binding
+22h_Down 25h_Down	40	G-protein gamma-subunit binding
+		citrate dehydratase activity
+		sphingomyelin synthase activity
+		hydrolase activity
+		glucose-6-phosphate dehydrogenase activity
+		6-phosphofructokinase activity
+		acetyl-CoA C-acyltransferase activity
+		N-acylphosphatidylethanolamine-specific phospholipase D activity
+		mevalonate kinase activity
+		enoyl-CoA hydratase activity
+		protein domain specific binding
+		magnesium ion binding
+		3-methyl-2-oxobutanoate hydroxymethyltransferase activity
+		methyl jasmonate esterase activity
+		pyruvate kinase activity
+		ornithine decarboxylase activity
+		UDP-glucose 4-epimerase activity
+		potassium ion binding
+		aconitate hydratase activity
+		methyl salicylate esterase activity
+		succinate-CoA ligase (ADP-forming) activity
+		ATPase binding
+		phospholipase D activity
+		peroxidase activity
+		inositol phosphoceramide synthase activity
+		transferase activity, transferring phosphorus-containing groups
+		3-hydroxybutyryl-CoA epimerase activity
+		3-dehydroquinate dehydratase activity
+		methyl indole-3-acetate esterase activity
+		shikimate 3-dehydrogenase (NADP+) activity
+		isopentenyl-diphosphate delta-isomerase activity
+		citrate (Si)-synthase activity
+		dodecenoyl-CoA delta-isomerase activity
+		L-ascorbate oxidase activity
+		GTP cyclohydrolase II activity
+		3-hydroxyacyl-CoA dehydrogenase activity
+		3,4-dihydroxy-2-butanone-4-phosphate synthase activity
+		ubiquitin-ubiquitin ligase activity
+		ceramide cholinephosphotransferase activity
+		colneleate synthase activity
+22h_Down 28h_Down	4	glucosylceramidase activity
+		tripeptide transmembrane transporter activity
+		chitinase activity
+		pantothenate kinase activity
+22h_Down 34h_Down	1	superoxide dismutase copper chaperone activity
+22h_Down 40h_Down	1	L-ascorbic acid binding
+22h_Down 46h_Down	1	procollagen-proline 4-dioxygenase activity
+25h_Down 28h_Down	18	aminophospholipid flippase activity
+		threonine-tRNA ligase activity
+		malate dehydrogenase activity
+		sulfite reductase activity
+		proteasome binding
+		ubiquitin activating enzyme activity
+		peptidase activator activity
+		U6 snRNA binding
+		transferase activity, transferring acyl groups
+		1,3-beta-D-glucan synthase activity
+		8-oxo-7,8-dihydrodeoxyguanosine triphosphate pyrophosphatase activity
+		soluble NSF attachment protein activity
+		lysine-acetylated histone binding
+		dihydrolipoyl dehydrogenase activity
+		xenobiotic transmembrane transporter activity
+		ATP transmembrane transporter activity
+		phosphomevalonate kinase activity
+		trehalose-phosphatase activity
+25h_Down 46h_Down	3	phosphoglycerate transmembrane transporter activity
+		proline dehydrogenase activity
+		triose-phosphate transmembrane transporter activity
+28h_Down 34h_Down	1	NAD+ ADP-ribosyltransferase activity
+28h_Down 40h_Down	1	chromatin DNA binding
+28h_Down 56h_Down	1	signaling receptor activity
+34h_Down 37h_Down	2	NAD+ synthase (glutamine-hydrolyzing) activity
+		single-stranded DNA helicase activity
+34h_Down 40h_Down	4	phosphoribosylaminoimidazolecarboxamide formyltransferase activity
+		imidazoleglycerol-phosphate synthase activity
+		IMP cyclohydrolase activity
+		pyridoxal kinase activity
+34h_Down 46h_Down	3	acyl-[acyl-carrier-protein] desaturase activity
+		potassium:proton antiporter activity
+		ubiquitin protein ligase activity
+34h_Down 56h_Down	2	zeaxanthin epoxidase [overall] activity
+		peroxiredoxin activity
+40h_Down 46h_Down	2	thiol-dependent ubiquitin-specific protease activity
+		pyridoxal 5'-phosphate synthase (glutamine hydrolysing) activity
+40h_Down 56h_Down	1	SNAP receptor activity
+46h_Down 56h_Down	23	inositol-1,3,4,5,6-pentakisphosphate kinase activity
+		SHG alpha-glucan phosphorylase activity
+		glycogen phosphorylase activity
+		glycogen (starch) synthase activity
+		polynucleotide 3'-phosphatase activity
+		1,4-alpha-glucan branching enzyme activity (using a glucosylated glycogenin as primer for glycogen synthesis)
+		microtubule binding
+		protein-macromolecule adaptor activity
+		transmembrane transporter activity
+		inositol hexakisphosphate 3-kinase activity
+		5-diphosphoinositol pentakisphosphate 3-kinase activity
+		inositol heptakisphosphate kinase activity
+		allantoinase activity
+		carotene beta-ring hydroxylase activity
+		linear malto-oligosaccharide phosphorylase activity
+		glucose-1-phosphate adenylyltransferase activity
+		inositol hexakisphosphate 1-kinase activity
+		diphosphoinositol-pentakisphosphate kinase activity
+		saccharopine dehydrogenase (NAD+, L-glutamate-forming) activity
+		saccharopine dehydrogenase (NADP+, L-lysine-forming) activity
+		sugar transmembrane transporter activity
+		inositol hexakisphosphate 5-kinase activity
+		1,4-alpha-glucan branching enzyme activity
+22h_Down	11	arginine decarboxylase activity
+		cardiolipin synthase activity
+		electron transfer activity
+		oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor
+		ferrochelatase activity
+		glutamate decarboxylase activity
+		G protein-coupled receptor binding
+		enzyme regulator activity
+		ubiquinol:oxygen oxidoreductase activity
+		ferrous iron binding
+		alternative oxidase activity
+25h_Down	17	malate dehydrogenase (decarboxylating) (NAD+) activity
+		iron ion transmembrane transporter activity
+		phosphopantothenate--cysteine ligase activity
+		histone demethylase activity (H3-trimethyl-K4 specific)
+		acetate-CoA ligase activity
+		telomeric DNA binding
+		acyl-CoA oxidase activity
+		isovaleryl-CoA dehydrogenase activity
+		clathrin adaptor activity
+		caffeoyl-CoA O-methyltransferase activity
+		ion channel activity
+		hydroxymethylglutaryl-CoA lyase activity
+		protein-cysteine S-palmitoyltransferase activity
+		transferase activity, transferring glycosyl groups
+		L-alanine:2-oxoglutarate aminotransferase activity
+		telomerase RNA binding
+		calcium-dependent protein serine/threonine kinase activity
+28h_Down	19	phosphatidate phosphatase activity
+		transmembrane receptor protein serine/threonine kinase binding
+		diphthine-ammonia ligase activity
+		GMP synthase (glutamine-hydrolyzing) activity
+		ribosomal large subunit binding
+		serine-type endopeptidase inhibitor activity
+		aldehyde dehydrogenase (NAD+) activity
+		thiamine diphosphokinase activity
+		3-isopropylmalate dehydratase activity
+		phospholipid binding
+		abscisic acid binding
+		protein phosphatase inhibitor activity
+		thiamine binding
+		phosphoadenylyl-sulfate reductase (thioredoxin) activity
+		N-(long-chain-acyl)ethanolamine deacylase activity
+		snoRNA binding
+		lipase activity
+		voltage-gated cation channel activity
+		rRNA (adenine-N6,N6-)-dimethyltransferase activity
+34h_Down	6	ubiquinol-cytochrome-c reductase activity
+		mannan synthase activity
+		transcription corepressor activity
+		adenylate kinase activity
+		UDP-N-acetylmuramate dehydrogenase activity
+		adenyl-nucleotide exchange factor activity
+37h_Down	5	asparaginase activity
+		beta-aspartyl-peptidase activity
+		glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity
+		AMP binding
+		ubiquitin-specific protease binding
+40h_Down	19	deoxyhypusine synthase activity
+		phosphoglycerate dehydrogenase activity
+		tubulin binding
+		intramolecular lyase activity
+		glyoxalase III activity
+		1-deoxy-D-xylulose-5-phosphate synthase activity
+		glutamate synthase (NADH) activity
+		adenylate cyclase binding
+		NADPH:quinone reductase activity
+		ubiquitin conjugating enzyme activity
+		guanylate kinase activity
+		NAD+ nucleotidase, cyclic ADP-ribose generating
+		3 iron, 4 sulfur cluster binding
+		metallopeptidase activity
+		porin activity
+		NAD(P)+ nucleosidase activity
+		RNA helicase activity
+		polyprenol reductase activity
+		3-oxo-5-alpha-steroid 4-dehydrogenase activity
+46h_Down	35	spermidine synthase activity
+		chromatin binding
+		ferroxidase activity
+		centromeric DNA binding
+		inositol tetrakisphosphate 1-kinase activity
+		succinate dehydrogenase (ubiquinone) activity
+		phosphatidylinositol-3,5-bisphosphate 5-phosphatase activity
+		protein phosphatase regulator activity
+		acetylpyruvate hydrolase activity
+		non-membrane spanning protein tyrosine kinase activity
+		1-phosphatidylinositol-3-phosphate 5-kinase activity
+		sodium:proton antiporter activity
+		beta-amylase activity
+		3-beta-hydroxy-delta5-steroid dehydrogenase activity
+		calcium activated cation channel activity
+		protein serine/threonine phosphatase activity
+		ammonium transmembrane transporter activity
+		amylopectin maltohydrolase activity
+		DNA-binding transcription factor activity, RNA polymerase II-specific
+		inositol-1,3,4-trisphosphate 6-kinase activity
+		oxidoreductase activity
+		ATP:ADP antiporter activity
+		fluoride transmembrane transporter activity
+		chalcone isomerase activity
+		nitrate reductase (NADH) activity
+		molybdopterin cofactor binding
+		nitrate reductase (NADPH) activity
+		ferric iron binding
+		4-amino-4-deoxychorismate synthase activity
+		kinase binding
+		phosphoenolpyruvate carboxylase activity
+		inositol-1,3,4-trisphosphate 5-kinase activity
+		proton-exporting ATPase activity, phosphorylative mechanism
+		1-phosphatidylinositol-4-phosphate 5-kinase activity
+		GTPase binding
+56h_Down	72	MAP kinase activity
+		phenethylamine:oxygen oxidoreductase (deaminating) activity
+		octadecanal decarbonylase activity
+		alpha-L-fucosidase activity
+		tryptamine:oxygen oxidoreductase (deaminating) activity
+		alpha-amylase activity (releasing maltohexaose)
+		alpha-amylase activity
+		phospholipase A2 activity
+		beta-galactosidase activity
+		tetrapyrrole binding
+		protein tyrosine/serine/threonine phosphatase activity
+		sterol transporter activity
+		channel activity
+		molybdate ion transmembrane transporter activity
+		Arp2/3 complex binding
+		3-oxoacyl-[acyl-carrier-protein] synthase activity
+		1-ethyladenine demethylase activity
+		microtubule motor activity
+		aliphatic-amine oxidase activity
+		pectate lyase activity
+		inositol monophosphate 1-phosphatase activity
+		mRNA 3'-UTR AU-rich region binding
+		molybdenum ion binding
+		transferase activity
+		4-alpha-glucanotransferase activity
+		L-ornithine transmembrane transporter activity
+		aminoacetone:oxygen oxidoreductase(deaminating) activity
+		pre-mRNA intronic binding
+		glutamyl-tRNA reductase activity
+		anaphase-promoting complex binding
+		magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase activity
+		structural constituent of cytoskeleton
+		fructose-bisphosphate aldolase activity
+		C-4 methylsterol oxidase activity
+		sequence-specific double-stranded DNA binding
+		glycerate kinase activity
+		FAD binding
+		beta-maltose 4-alpha-glucanotransferase activity
+		inositol monophosphate 4-phosphatase activity
+		zeinoxanthin epsilon hydroxylase activity
+		fructose 1,6-bisphosphate 1-phosphatase activity
+		inositol monophosphate 3-phosphatase activity
+		primary amine oxidase activity
+		cellulase activity
+		sigma factor activity
+		protein phosphatase 1 binding
+		ubiquitin ligase activator activity
+		carbohydrate phosphatase activity
+		hydrolase activity, acting on ester bonds
+		gibberellin 20-oxidase activity
+		ADP-ribose diphosphatase activity
+		phospholipase C activity
+		sterol binding
+		protochlorophyllide reductase activity
+		protein kinase A regulatory subunit binding
+		lipid binding
+		aldehyde oxygenase (deformylating) activity
+		folic acid binding
+		starch binding
+		magnesium chelatase activity
+		bile acid:sodium symporter activity
+		cellulose synthase (UDP-forming) activity
+		maltose transmembrane transporter activity
+		fatty-acyl-CoA binding
+		mandelonitrile lyase activity
+		fatty acid alpha-hydroxylase activity
+		sulfite oxidase activity
+		oxidoreductase activity, acting on CH-OH group of donors
+		adenine phosphoribosyltransferase activity
+		(1->3)-beta-D-glucan binding
+		beta-glucosidase activity
+		mRNA CDS binding

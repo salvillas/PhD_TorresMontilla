@@ -1,0 +1,74 @@
+Names	total	elements
+22h_Up 25h_Up 28h_Up 34h_Up 37h_Up 40h_Up	3	cell wall
+		extracellular region
+		apoplast
+22h_Up 25h_Up 34h_Up 40h_Up 46h_Up 56h_Up	1	photosystem II oxygen evolving complex
+22h_Up 25h_Up 34h_Up 40h_Up 46h_Up	3	photosystem I
+		chloroplast
+		chloroplast thylakoid membrane
+22h_Up 25h_Up 40h_Up 46h_Up 56h_Up	1	extrinsic component of membrane
+28h_Up 34h_Up 40h_Up 46h_Up 56h_Up	1	integral component of membrane
+28h_Up 37h_Up 40h_Up 46h_Up 56h_Up	1	vacuole
+34h_Up 37h_Up 40h_Up 46h_Up 56h_Up	1	endoplasmic reticulum lumen
+25h_Up 28h_Up 40h_Up 46h_Up	1	anchored component of plasma membrane
+25h_Up 28h_Up 46h_Up 56h_Up	1	plasma membrane
+25h_Up 34h_Up 40h_Up 46h_Up	3	chloroplast thylakoid lumen
+		photosystem II
+		photosystem I reaction center
+34h_Up 37h_Up 46h_Up 56h_Up	2	extracellular space
+		endoplasmic reticulum chaperone complex
+25h_Up 28h_Up 34h_Up	1	nucleosome
+25h_Up 40h_Up 46h_Up	3	cyanelle thylakoid membrane
+		chloroplast stroma
+		thylakoid
+25h_Up 46h_Up 56h_Up	1	NAD(P)H dehydrogenase complex (plastoquinone)
+34h_Up 40h_Up 56h_Up	1	CCAAT-binding factor complex
+34h_Up 46h_Up 56h_Up	2	plastid
+		plasmodesma
+25h_Up 28h_Up	2	cortical microtubule
+		microtubule
+25h_Up 40h_Up	1	chloroplast thylakoid membrane protein complex
+25h_Up 46h_Up	2	chloroplast nucleoid
+		plastid chromosome
+28h_Up 37h_Up	1	plant-type cell wall
+28h_Up 56h_Up	1	Golgi apparatus
+34h_Up 37h_Up	1	vacuolar lumen
+37h_Up 56h_Up	2	RISC complex
+		endoplasmic reticulum
+40h_Up 46h_Up	1	plastoglobule
+40h_Up 56h_Up	1	formate dehydrogenase complex
+22h_Up	1	DNA polymerase III complex
+25h_Up	2	plastid-encoded plastid RNA polymerase complex
+		thylakoid lumen
+28h_Up	8	anchored component of membrane
+		Cul4A-RING E3 ubiquitin ligase complex
+		cellulose synthase complex
+		microtubule minus-end
+		cortical microtubule, transverse to long axis
+		MCM complex
+		cytoplasmic side of plasma membrane
+		AP-4 adaptor complex
+34h_Up	1	protein storage vacuole membrane
+37h_Up	4	XPC complex
+		integral component of Golgi membrane
+		endoplasmic reticulum exit site
+		nucleotide-excision repair factor 2 complex
+40h_Up	1	chloroplast thylakoid
+46h_Up	9	ribosome
+		NSL complex
+		stromal side of plastid thylakoid membrane
+		Mpp10 complex
+		plastid small ribosomal subunit
+		chloroplast envelope
+		sno(s)RNA-containing ribonucleoprotein complex
+		Fanconi anaemia nuclear complex
+		box H/ACA snoRNP complex
+56h_Up	9	Atg1/ULK1 kinase complex
+		membrane
+		extracellular exosome
+		CURI complex
+		Sec61 translocon complex
+		phagophore assembly site membrane
+		endoplasmic reticulum membrane
+		Ku70:Ku80 complex
+		UTP-C complex
