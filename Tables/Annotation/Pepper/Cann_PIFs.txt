@@ -1,0 +1,44 @@
+ID	Name
+PHT72553	CaPIF1a
+PHT77785	CaPIF1b
+PHT62542	CaPIF3
+PHT75765	CaPIF4
+PHT79617	CaPIF7a
+PHT88276	CaPIF7b
+PHT95415	CaPIF8a
+PHT95414	CaPIF8b
+PHT86960	CaHY5
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

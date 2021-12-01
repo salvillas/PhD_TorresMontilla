@@ -1,0 +1,16 @@
+GeneID	Name
+PHT75847	CaPrefoldin1
+PHT78572	CaPrefoldin2a
+PHT77602	CaPrefoldin2b
+PHT67145	CaPrefoldin2c
+PHT82163	CaPrefoldin3
+PHT74900	CaPrefoldin4
+PHT73864	CaPrefoldin5
+PHT74943	CaPrefoldin6a
+PHT74942	CaPrefoldin6b
+PHT74941	CaPrefoldin6c
+PHT57607	CaPrefoldin6d
+PHT76669	CaPrefoldin_L1
+PHT73505	CaPrefoldin_L2a
+PHT67753	CaPrefoldin_L2b
+PHT75587	CaARG
