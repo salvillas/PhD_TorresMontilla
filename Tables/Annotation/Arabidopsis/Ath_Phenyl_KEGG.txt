@@ -1,0 +1,176 @@
+ath:AT1G02850	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU11; beta glucosidase 11 
+ath:AT1G05240	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT1G05250	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT1G05260	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) RCI3; Peroxidase superfamily protein 
+ath:AT1G14540	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) PER4; Peroxidase superfamily protein 
+ath:AT1G14550	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT1G15950	K09753 cinnamoyl-CoA reductase [EC:1.2.1.44] | (RefSeq) CCR1; cinnamoyl coa reductase 1 
+ath:AT1G24110	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT1G24735	K00588 caffeoyl-CoA O-methyltransferase [EC:2.1.1.104] | (RefSeq) S-adenosyl-L-methionine-dependent  
+ath:AT1G26560	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU40; beta glucosidase 40 
+ath:AT1G30760	K22395 cinnamyl-alcohol dehydrogenase [EC:1.1.1.195] | (RefSeq) FAD-binding Berberine family protein 
+ath:AT1G30870	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT1G34510	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT1G44970	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT1G45191	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU1; Glycosyl hydrolase superfamily protein 
+ath:AT1G48130	K11188 peroxiredoxin 6 [EC:1.11.1.7 1.11.1.27 3.1.1.-] | (RefSeq) PER1; 1-cysteine peroxiredoxin 1 
+ath:AT1G49570	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT1G51680	K01904 4-coumarate--CoA ligase [EC:6.2.1.12] | (RefSeq) 4CL1; 4-coumarate:CoA ligase 1 
+ath:AT1G52760	K18368 caffeoylshikimate esterase [EC:3.1.1.-] | (RefSeq) LysoPL2; lysophospholipase 2 
+ath:AT1G55290	K06892 feruloyl-CoA 6-hydroxylase [EC:1.14.11.61] | (RefSeq) 2-oxoglutarate (2OG) and Fe(II)-depende 
+ath:AT1G60260	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU5; beta glucosidase 5 
+ath:AT1G60270	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU6; beta glucosidase 6 
+ath:AT1G61810	K05350 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU45; beta-glucosidase 45 
+ath:AT1G61820	K05350 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU46; beta glucosidase 46 
+ath:AT1G62940	K01904 4-coumarate--CoA ligase [EC:6.2.1.12] | (RefSeq) ACOS5; acyl-CoA synthetase 5 
+ath:AT1G65060	K01904 4-coumarate--CoA ligase [EC:6.2.1.12] | (RefSeq) 4CL3; 4-coumarate:CoA ligase 3 
+ath:AT1G66270	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU21; Glycosyl hydrolase superfamily protein 
+ath:AT1G66280	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU22; Glycosyl hydrolase superfamily protein 
+ath:AT1G67980	K00588 caffeoyl-CoA O-methyltransferase [EC:2.1.1.104] | (RefSeq) CCOAMT; caffeoyl-CoA 3-O-methyltra 
+ath:AT1G67990	K13067 putative caffeoyl-CoA 3-O-methyltransferase [EC:2.1.1.-] | (RefSeq) TSM1; S-adenosyl-L-methio 
+ath:AT1G68850	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT1G71695	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT1G72680	K00083 cinnamyl-alcohol dehydrogenase [EC:1.1.1.195] | (RefSeq) CAD1; cinnamyl-alcohol dehydrogenase 
+ath:AT1G74540	K15506 cytochrome P450 family 98 subfamily A8 [EC:1.14.13.-] | (RefSeq) CYP98A8; cytochrome P450, fa 
+ath:AT1G74550	K23662 cytochrome P450 family 98 subfamily A9 [EC:1.14.13.-] | (RefSeq) CYP98A9; cytochrome P450, fa 
+ath:AT1G75940	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) ATA27; Glycosyl hydrolase superfamily protein 
+ath:AT1G77100	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) peroxidase superfamily protein 
+ath:AT1G77420	K18368 caffeoylshikimate esterase [EC:3.1.1.-] | (RefSeq) alpha/beta-Hydrolases superfamily protein 
+ath:AT1G80820	K09753 cinnamoyl-CoA reductase [EC:1.2.1.44] | (RefSeq) CCR2; cinnamoyl coa reductase 
+ath:AT2G18140	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT2G18150	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT2G18980	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT2G19070	K13065 shikimate O-hydroxycinnamoyltransferase [EC:2.3.1.133] | (RefSeq) SHT; spermidine hydroxycinn 
+ath:AT2G21730	K00083 cinnamyl-alcohol dehydrogenase [EC:1.1.1.195] | (RefSeq) CAD2; cinnamyl alcohol dehydrogenase 
+ath:AT2G21890	K00083 cinnamyl-alcohol dehydrogenase [EC:1.1.1.195] | (RefSeq) CAD3; cinnamyl alcohol dehydrogenase 
+ath:AT2G22420	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT2G22990	K09757 serine carboxypeptidase-like 8 [EC:3.4.16.- 2.3.1.92] | (RefSeq) SNG1; sinapoylglucose 1 
+ath:AT2G24800	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT2G25630	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU14; beta glucosidase 14 
+ath:AT2G30490	K00487 trans-cinnamate 4-monooxygenase [EC:1.14.14.91] | (RefSeq) C4H; cinnamate-4-hydroxylase 
+ath:AT2G32860	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU33; beta glucosidase 33 
+ath:AT2G34060	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT2G34790	K22395 cinnamyl-alcohol dehydrogenase [EC:1.1.1.195] | (RefSeq) MEE23; FAD-binding Berberine family  
+ath:AT2G35380	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT2G37040	K10775 phenylalanine ammonia-lyase [EC:4.3.1.24] | (RefSeq) PAL1; PHE ammonia lyase 1 
+ath:AT2G37130	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT2G38380	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT2G38390	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT2G39040	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT2G39420	K18368 caffeoylshikimate esterase [EC:3.1.1.-] | (RefSeq) alpha/beta-Hydrolases superfamily protein 
+ath:AT2G40890	K09754 5-O-(4-coumaroyl)-D-quinate 3'-monooxygenase [EC:1.14.14.96] | (RefSeq) CYP98A3; cytochrome P 
+ath:AT2G41480	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) peroxidase superfamily protein 
+ath:AT2G43480	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT2G44450	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU15; beta glucosidase 15 
+ath:AT2G44460	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU28; beta glucosidase 28 
+ath:AT2G44470	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU29; beta glucosidase 29 
+ath:AT2G44480	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU17; beta glucosidase 17 
+ath:AT2G44490	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) PEN2; Glycosyl hydrolase superfamily protein 
+ath:AT2G47630	K18368 caffeoylshikimate esterase [EC:3.1.1.-] | (RefSeq) alpha/beta-Hydrolases superfamily protein 
+ath:AT3G01190	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT3G03640	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU25; beta glucosidase 25 
+ath:AT3G03670	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT3G09260	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) PYK10; Glycosyl hydrolase superfamily protein 
+ath:AT3G10340	K10775 phenylalanine ammonia-lyase [EC:4.3.1.24] | (RefSeq) PAL4; phenylalanine ammonia-lyase 4 
+ath:AT3G13610	K06892 feruloyl-CoA 6-hydroxylase [EC:1.14.11.61] | (RefSeq) 2-oxoglutarate (2OG) and Fe(II)-depende 
+ath:AT3G17070	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase family protein 
+ath:AT3G18070	K05350 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU43; beta glucosidase 43 
+ath:AT3G18080	K05350 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU44; B-S glucosidase 44 
+ath:AT3G19450	K00083 cinnamyl-alcohol dehydrogenase [EC:1.1.1.195] | (RefSeq) ATCAD4; GroES-like zinc-binding alco 
+ath:AT3G21230	K01904 4-coumarate--CoA ligase [EC:6.2.1.12] | (RefSeq) 4CL5; 4-coumarate:CoA ligase 5 
+ath:AT3G21240	K01904 4-coumarate--CoA ligase [EC:6.2.1.12] | (RefSeq) 4CL2; 4-coumarate:CoA ligase 2 
+ath:AT3G21370	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU19; beta glucosidase 19 
+ath:AT3G21560	K13068 sinapate 1-glucosyltransferase [EC:2.4.1.120] | (RefSeq) UGT84A2; UDP-Glycosyltransferase sup 
+ath:AT3G21770	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT3G24503	K12355 coniferyl-aldehyde dehydrogenase [EC:1.2.1.68] | (RefSeq) ALDH2C4; aldehyde dehydrogenase 2C4 
+ath:AT3G28200	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT3G32980	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT3G47000	K05349 beta-glucosidase [EC:3.2.1.21] | (RefSeq) Glycosyl hydrolase family protein 
+ath:AT3G47010	K05349 beta-glucosidase [EC:3.2.1.21] | (RefSeq) Glycosyl hydrolase family protein 
+ath:AT3G47040	K05349 beta-glucosidase [EC:3.2.1.21] | (RefSeq) Glycosyl hydrolase family protein 
+ath:AT3G47050	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) Glycosyl hydrolase family protein 
+ath:AT3G49110	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) PRXCA; peroxidase CA 
+ath:AT3G49120	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) PRXCB; peroxidase CB 
+ath:AT3G49960	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT3G50740	K12356 coniferyl-alcohol glucosyltransferase [EC:2.4.1.111] | (RefSeq) UGT72E1; UDP-glucosyl transfe 
+ath:AT3G50990	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT3G53260	K10775 phenylalanine ammonia-lyase [EC:4.3.1.24] | (RefSeq) PAL2; phenylalanine ammonia-lyase 2 
+ath:AT3G55180	K18368 caffeoylshikimate esterase [EC:3.1.1.-] | (RefSeq) alpha/beta-Hydrolases superfamily protein 
+ath:AT3G60120	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU27; beta glucosidase 27 
+ath:AT3G60130	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU16; beta glucosidase 16 
+ath:AT3G60140	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) DIN2; Glycosyl hydrolase superfamily protein 
+ath:AT3G62740	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU7; beta glucosidase 7 
+ath:AT3G62750	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU8; beta glucosidase 8 
+ath:AT3G62860	K18368 caffeoylshikimate esterase [EC:3.1.1.-] | (RefSeq) alpha/beta-Hydrolases superfamily protein 
+ath:AT4G05160	K01904 4-coumarate--CoA ligase [EC:6.2.1.12] | (RefSeq) AMP-dependent synthetase and ligase family p 
+ath:AT4G08770	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Prx37; Peroxidase superfamily protein 
+ath:AT4G08780	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT4G11290	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT4G16270	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) peroxidase superfamily protein 
+ath:AT4G17690	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT4G19010	K01904 4-coumarate--CoA ligase [EC:6.2.1.12] | (RefSeq) AMP-dependent synthetase and ligase family p 
+ath:AT4G21760	K05350 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU47; beta-glucosidase 47 
+ath:AT4G21960	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) PRXR1; Peroxidase superfamily protein 
+ath:AT4G22100	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU3; beta glucosidase 2 
+ath:AT4G25980	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) peroxidase superfamily protein 
+ath:AT4G26010	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT4G26220	K00588 caffeoyl-CoA O-methyltransferase [EC:2.1.1.104] | (RefSeq) S-adenosyl-L-methionine-dependent  
+ath:AT4G27820	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU9; beta glucosidase 9 
+ath:AT4G27830	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU10; beta glucosidase 10 
+ath:AT4G30170	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase family protein 
+ath:AT4G31760	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) peroxidase superfamily protein 
+ath:AT4G33420	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT4G33870	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT4G34050	K00588 caffeoyl-CoA O-methyltransferase [EC:2.1.1.104] | (RefSeq) CCoAOMT1; S-adenosyl-L-methionine- 
+ath:AT4G34230	K00083 cinnamyl-alcohol dehydrogenase [EC:1.1.1.195] | (RefSeq) CAD5; cinnamyl alcohol dehydrogenase 
+ath:AT4G36220	K09755 ferulate-5-hydroxylase [EC:1.14.-.-] | (RefSeq) FAH1; ferulic acid 5-hydroxylase 1 
+ath:AT4G36430	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT4G37520	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT4G37530	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT4G37970	K00083 cinnamyl-alcohol dehydrogenase [EC:1.1.1.195] | (RefSeq) CAD6; cinnamyl alcohol dehydrogenase 
+ath:AT4G37980	K00083 cinnamyl-alcohol dehydrogenase [EC:1.1.1.195] | (RefSeq) ELI3-1; cinnamyl alcohol dehydrogena 
+ath:AT4G37990	K00083 cinnamyl-alcohol dehydrogenase [EC:1.1.1.195] | (RefSeq) ELI3-2; cinnamyl alcohol dehydrogena 
+ath:AT4G39330	K00083 cinnamyl-alcohol dehydrogenase [EC:1.1.1.195] | (RefSeq) CAD9; cinnamyl alcohol dehydrogenase 
+ath:AT5G04230	K10775 phenylalanine ammonia-lyase [EC:4.3.1.24] | (RefSeq) PAL3; phenyl alanine ammonia-lyase 3 
+ath:AT5G04330	K09755 ferulate-5-hydroxylase [EC:1.14.-.-] | (RefSeq) CYP84A4; Cytochrome P450 superfamily protein 
+ath:AT5G04885	K05349 beta-glucosidase [EC:3.2.1.21] | (RefSeq) Glycosyl hydrolase family protein 
+ath:AT5G05340	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) PRX52; Peroxidase superfamily protein 
+ath:AT5G06720	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) PA2; peroxidase 2 
+ath:AT5G06730	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT5G09640	K09756 serine carboxypeptidase-like 19 [EC:3.4.16.- 2.3.1.91] | (RefSeq) SCPL19; serine carboxypepti 
+ath:AT5G14130	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT5G15180	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT5G16120	K18368 caffeoylshikimate esterase [EC:3.1.1.-] | (RefSeq) alpha/beta-Hydrolases superfamily protein 
+ath:AT5G16580	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU2; beta glucosidase 2 
+ath:AT5G17820	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT5G19880	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT5G19890	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT5G20940	K05349 beta-glucosidase [EC:3.2.1.21] | (RefSeq) Glycosyl hydrolase family protein 
+ath:AT5G20950	K05349 beta-glucosidase [EC:3.2.1.21] | (RefSeq) Glycosyl hydrolase family protein 
+ath:AT5G22410	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) RHS18; root hair specific 18 
+ath:AT5G24070	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT5G24540	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU31; beta glucosidase 31 
+ath:AT5G24550	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU32; beta glucosidase 32 
+ath:AT5G26310	K12356 coniferyl-alcohol glucosyltransferase [EC:2.4.1.111] | (RefSeq) UGT72E3; UDP-Glycosyltransfer 
+ath:AT5G28510	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU24; beta glucosidase 24 
+ath:AT5G36890	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU42; beta glucosidase 42 
+ath:AT5G39580	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT5G40150	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT5G42180	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) PER64; Peroxidase superfamily protein 
+ath:AT5G42260	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU12; beta glucosidase 12 
+ath:AT5G44640	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU13; beta glucosidase 13 
+ath:AT5G47000	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT5G48930	K13065 shikimate O-hydroxycinnamoyltransferase [EC:2.3.1.133] | (RefSeq) HCT; hydroxycinnamoyl-CoA s 
+ath:AT5G51890	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT5G54160	K13066 caffeic acid 3-O-methyltransferase / acetylserotonin O-methyltransferase [EC:2.1.1.68 2.1.1.4 
+ath:AT5G54570	K01188 beta-glucosidase [EC:3.2.1.21] | (RefSeq) BGLU41; beta glucosidase 41 
+ath:AT5G57840	K13065 shikimate O-hydroxycinnamoyltransferase [EC:2.3.1.133] | (RefSeq) HXXXD-type acyl-transferase 
+ath:AT5G58390	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT5G58400	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT5G63380	K01904 4-coumarate--CoA ligase [EC:6.2.1.12] | (RefSeq) AMP-dependent synthetase and ligase family p 
+ath:AT5G64100	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT5G64110	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT5G64120	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT5G66390	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) Peroxidase superfamily protein 
+ath:AT5G66690	K12356 coniferyl-alcohol glucosyltransferase [EC:2.4.1.111] | (RefSeq) UGT72E2; UDP-Glycosyltransfer 
+ath:AT5G67400	K00430 peroxidase [EC:1.11.1.7] | (RefSeq) RHS19; root hair specific 19 

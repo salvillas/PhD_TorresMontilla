@@ -1,0 +1,8 @@
+GeneID	Name
+AT5G52640	heat_shock_like_protein
+AT5G56030	heat_shock_protein_81.2
+AT5G56010	heat_shock_protein_81.3
+AT5G56000	hEAT_SHOCK_PROTEIN_81.4
+AT4G24190	Chaperone_proteinhtpG_family_protein_1
+AT2G04030	Chaperone_proteinhtpG_family_protein_2
+AT3G07770	HEAT_SHOCK_PROTEIN_89_1

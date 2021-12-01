@@ -1,0 +1,9 @@
+GeneID	Name
+AT5G07220	BCL-2-associatedathanogene3
+AT5G52060	BCL-2-associatedathanogene1
+AT1G12060	BCL-2-associatedathanogene5
+AT3G51780	BCL-2-associatedathanogene4
+AT2G46240	BCL-2-associatedathanogene6
+AT5G62100	BCL-2-associatedathanogene2
+AT5G62390	BCL-2-associatedathanogene7
+AT3G29310	calmodulin-bindingprotein-likeprotein

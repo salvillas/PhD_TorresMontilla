@@ -1,0 +1,6 @@
+GeneID	Name
+AT5G20720	chaperonin_20
+AT1G14980	chaperonin_10
+AT1G23100	GroES-like_family_protein_1
+AT3G60210	GroES-like_family_protein_2
+AT2G44650	chloroplast_chaperonin_10

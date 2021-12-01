@@ -1,0 +1,2 @@
+ID	Name
+AT1G63900	SP1

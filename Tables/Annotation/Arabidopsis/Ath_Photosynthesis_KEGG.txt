@@ -1,0 +1,77 @@
+ath:AT1G03130	K02692 photosystem I subunit II | (RefSeq) PSAD-2; photosystem I subunit D-2 
+ath:AT1G03600	K08902 photosystem II Psb27 protein | (RefSeq) PSB27; photosystem II family protein 
+ath:AT1G06680	K02717 photosystem II oxygen-evolving enhancer protein 2 | (RefSeq) PSBP-1; photosystem II subunit P 
+ath:AT1G08380	K14332 photosystem I subunit PsaO | (RefSeq) PSAO; photosystem I subunit O 
+ath:AT1G10960	K02639 ferredoxin | (RefSeq) FD1; ferredoxin 1 
+ath:AT1G14150	K08901 photosystem II oxygen-evolving enhancer protein 3 | (RefSeq) PnsL2; PsbQ-like 2 
+ath:AT1G15700	K02115 F-type H+-transporting ATPase subunit gamma | (RefSeq) ATPC2; ATPase, F1 complex, gamma subun 
+ath:AT1G20020	K02641 ferredoxin--NADP+ reductase [EC:1.18.1.2] | (RefSeq) FNR2; ferredoxin-NADP[+]-oxidoreductase  
+ath:AT1G20340	K02638 plastocyanin | (RefSeq) DRT112; Cupredoxin superfamily protein 
+ath:AT1G30380	K02698 photosystem I subunit X | (RefSeq) PSAK; photosystem I subunit K 
+ath:AT1G30510	K02641 ferredoxin--NADP+ reductase [EC:1.18.1.2] | (RefSeq) RFNR2; root FNR 2 
+ath:AT1G31330	K02694 photosystem I subunit III | (RefSeq) PSAF; photosystem I subunit F 
+ath:AT1G32550	K02639 ferredoxin | (RefSeq) FdC2; 2Fe-2S ferredoxin-like superfamily protein 
+ath:AT1G44575	K03542 photosystem II 22kDa protein | (RefSeq) NPQ4; Chlorophyll A-B binding family protein 
+ath:AT1G52230	K02695 photosystem I subunit VI | (RefSeq) PSAH2; photosystem I subunit H2 
+ath:AT1G55670	K08905 photosystem I subunit V | (RefSeq) PSAG; photosystem I subunit G 
+ath:AT1G60950	K02639 ferredoxin | (RefSeq) FED_A; 2Fe-2S ferredoxin-like superfamily protein 
+ath:AT1G67740	K02723 photosystem II PsbY protein | (RefSeq) PSBY; photosystem II BY 
+ath:AT1G76100	K02638 plastocyanin | (RefSeq) PETE1; plastocyanin 1 
+ath:AT1G79040	K03541 photosystem II 10kDa protein | (RefSeq) PSBR; photosystem II subunit R 
+ath:AT2G07707	K02109 F-type H+-transporting ATPase subunit b | (RefSeq) Plant mitochondrial ATPase, F0 complex, su 
+ath:AT2G20260	K02693 photosystem I subunit IV | (RefSeq) PSAE-2; photosystem I subunit E-2 
+ath:AT2G27510	K02639 ferredoxin | (RefSeq) FD3; ferredoxin 3 
+ath:AT2G30570	K02721 photosystem II PsbW protein | (RefSeq) PSBW; photosystem II reaction center W 
+ath:AT2G30790	K02717 photosystem II oxygen-evolving enhancer protein 2 | (RefSeq) PSBP-2; photosystem II subunit P 
+ath:AT3G01440	K08901 photosystem II oxygen-evolving enhancer protein 3 | (RefSeq) PnsL3; PsbQ-like 1 
+ath:AT3G16140	K02695 photosystem I subunit VI | (RefSeq) PSAH-1; photosystem I subunit H-1 
+ath:AT3G50820	K02716 photosystem II oxygen-evolving enhancer protein 1 | (RefSeq) PSBO2; photosystem II subunit O- 
+ath:AT3G55330	K02717 photosystem II oxygen-evolving enhancer protein 2 | (RefSeq) PPL1; PsbP-like protein 1 
+ath:AT4G02770	K02692 photosystem I subunit II | (RefSeq) PSAD-1; photosystem I subunit D-1 
+ath:AT4G03280	K02636 cytochrome b6-f complex iron-sulfur subunit [EC:7.1.1.6] | (RefSeq) PETC; photosynthetic elec 
+ath:AT4G04640	K02115 F-type H+-transporting ATPase subunit gamma | (RefSeq) ATPC1; ATPase, F1 complex, gamma subun 
+ath:AT4G05180	K08901 photosystem II oxygen-evolving enhancer protein 3 | (RefSeq) PSBQ-2; photosystem II subunit Q 
+ath:AT4G05390	K02641 ferredoxin--NADP+ reductase [EC:1.18.1.2] | (RefSeq) RFNR1; root FNR 1 
+ath:AT4G09650	K02113 F-type H+-transporting ATPase subunit delta | (RefSeq) ATPD; F-type H+-transporting ATPase su 
+ath:AT4G12800	K02699 photosystem I subunit XI | (RefSeq) PSAL; photosystem I subunit l 
+ath:AT4G14890	K02639 ferredoxin | (RefSeq) FdC1; 2Fe-2S ferredoxin-like superfamily protein 
+ath:AT4G21280	K08901 photosystem II oxygen-evolving enhancer protein 3 | (RefSeq) PSBQA; photosystem II subunit QA 
+ath:AT4G28660	K08903 photosystem II 13kDa protein | (RefSeq) PSB28; photosystem II reaction center PSB28 protein 
+ath:AT4G28750	K02693 photosystem I subunit IV | (RefSeq) PSAE-1; Photosystem I reaction centre subunit IV / PsaE p 
+ath:AT4G32260	K02109 F-type H+-transporting ATPase subunit b | (RefSeq) PDE334; ATPase, F0 complex, subunit B/B',  
+ath:AT5G10000	K02639 ferredoxin | (RefSeq) FD4; ferredoxin 4 
+ath:AT5G45040	K08906 cytochrome c6 | (RefSeq) CYTC6A; Cytochrome c 
+ath:AT5G64040	K02701 photosystem I subunit PsaN | (RefSeq) PSAN; photosystem I reaction center subunit PSI-N, chlo 
+ath:AT5G66190	K02641 ferredoxin--NADP+ reductase [EC:1.18.1.2] | (RefSeq) FNR1; ferredoxin-NADP[+]-oxidoreductase  
+ath:AT5G66570	K02716 photosystem II oxygen-evolving enhancer protein 1 | (RefSeq) PSBO1; PS II oxygen-evolving com 
+ath:ArthCp002	K02703 photosystem II P680 reaction center D1 protein [EC:1.10.3.9] | (RefSeq) psbA; photosystem II  
+ath:ArthCp005	K02712 photosystem II PsbK protein | (RefSeq) psbK; photosystem II protein K 
+ath:ArthCp006	K02710 photosystem II PsbI protein | (RefSeq) psbI; photosystem II protein I 
+ath:ArthCp007	K02111 F-type H+/Na+-transporting ATPase subunit alpha [EC:7.1.2.2 7.2.2.1] | (RefSeq) atpA; ATP syn 
+ath:ArthCp008	K02109 F-type H+-transporting ATPase subunit b | (RefSeq) atpF; ATP synthase CF0 B subunit 
+ath:ArthCp009	K02110 F-type H+-transporting ATPase subunit c | (RefSeq) atpH; ATP synthase CF0 C subunit 
+ath:ArthCp010	K02108 F-type H+-transporting ATPase subunit a | (RefSeq) atpI; ATP synthase CF0 A subunit 
+ath:ArthCp015	K03689 cytochrome b6-f complex subunit 8 | (RefSeq) petN; cytochrome b6/f complex subunit VIII 
+ath:ArthCp016	K02714 photosystem II PsbM protein | (RefSeq) psbM; photosystem II protein M 
+ath:ArthCp017	K02706 photosystem II P680 reaction center D2 protein [EC:1.10.3.9] | (RefSeq) psbD; photosystem II  
+ath:ArthCp018	K02705 photosystem II CP43 chlorophyll apoprotein | (RefSeq) psbC; photosystem II 44 kDa protein 
+ath:ArthCp019	K02724 photosystem II PsbZ protein | (RefSeq) psbZ; photosystem II protein Z 
+ath:ArthCp021	K02690 photosystem I P700 chlorophyll a apoprotein A2 | (RefSeq) psaB; photosystem I P700 chlorophyl 
+ath:ArthCp022	K02689 photosystem I P700 chlorophyll a apoprotein A1 | (RefSeq) psaA; photosystem I P700 chlorophyl 
+ath:ArthCp028	K02114 F-type H+-transporting ATPase subunit epsilon | (RefSeq) atpE; ATP synthase CF1 epsilon subun 
+ath:ArthCp029	K02112 F-type H+/Na+-transporting ATPase subunit beta [EC:7.1.2.2 7.2.2.1] | (RefSeq) atpB; ATP synt 
+ath:ArthCp032	K02696 photosystem I subunit VIII | (RefSeq) psaI; photosystem I subunit VIII 
+ath:ArthCp035	K02634 apocytochrome f | (RefSeq) petA; cytochrome f 
+ath:ArthCp036	K02711 photosystem II PsbJ protein | (RefSeq) psbJ; photosystem II protein J 
+ath:ArthCp037	K02713 photosystem II PsbL protein | (RefSeq) psbL; photosystem II protein L 
+ath:ArthCp038	K02708 photosystem II cytochrome b559 subunit beta | (RefSeq) psbF; photosystem II protein VI 
+ath:ArthCp039	K02707 photosystem II cytochrome b559 subunit alpha | (RefSeq) psbE; photosystem II protein V 
+ath:ArthCp041	K02640 cytochrome b6-f complex subunit 5 | (RefSeq) petG; cytochrome b6/f complex subunit V 
+ath:ArthCp042	K02697 photosystem I subunit IX | (RefSeq) psaJ; photosystem I subunit IX 
+ath:ArthCp049	K02704 photosystem II CP47 chlorophyll apoprotein | (RefSeq) psbB; photosystem II 47 kDa protein 
+ath:ArthCp050	K02718 photosystem II PsbT protein | (RefSeq) psbT; photosystem II protein T 
+ath:ArthCp052	K02709 photosystem II PsbH protein | (RefSeq) psbH; photosystem II protein H 
+ath:ArthCp053	K02635 cytochrome b6 | (RefSeq) petB; cytochrome b6 
+ath:ArthCp054	K02637 cytochrome b6-f complex subunit 4 | (RefSeq) petD; cytochrome b6/f complex subunit IV 
+ath:ArthCp075	K02691 photosystem I subunit VII | (RefSeq) psaC; photosystem I subunit VII 
+ath:ArthMp040	K02109 F-type H+-transporting ATPase subunit b | (RefSeq) orfB; orfB

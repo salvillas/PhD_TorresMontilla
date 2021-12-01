@@ -1,0 +1,270 @@
+ath:AT1G01090	K00161 pyruvate dehydrogenase E1 component alpha subunit [EC:1.2.4.1] | (RefSeq) PDH-E1_ALPHA; pyruv 
+ath:AT1G04410	K00025 malate dehydrogenase [EC:1.1.1.37] | (RefSeq) c-NAD-MDH1; Lactate/malate dehydrogenase family 
+ath:AT1G06290	K00232 acyl-CoA oxidase [EC:1.3.3.6] | (RefSeq) ACX3; acyl-CoA oxidase 3 
+ath:AT1G06310	K00232 acyl-CoA oxidase [EC:1.3.3.6] | (RefSeq) ACX6; acyl-CoA oxidase 6 
+ath:AT1G06550	K05605 3-hydroxyisobutyryl-CoA hydrolase [EC:3.1.2.4] | (RefSeq) ATP-dependent caseinolytic (Clp) pr 
+ath:AT1G09420	K00036 glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363] | (RefSeq) G6PD4; glucose-6-phosp 
+ath:AT1G09780	K15633 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12] | (RefSeq) iPGAM1;  
+ath:AT1G11860	K00605 aminomethyltransferase [EC:2.1.2.10] | (RefSeq) Glycine cleavage T-protein family 
+ath:AT1G12230	K00616 transaldolase [EC:2.2.1.2] | (RefSeq) Aldolase superfamily protein 
+ath:AT1G12550	K15919 glyoxylate/hydroxypyruvate reductase [EC:1.1.1.79 1.1.1.81] | (RefSeq) HPR3; D-isomer specifi 
+ath:AT1G12900	K05298 glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating) [EC:1.2.1.13] | (RefSeq) G 
+ath:AT1G13440	K00134 glyceraldehyde 3-phosphate dehydrogenase (phosphorylating) [EC:1.2.1.12] | (RefSeq) GAPC2; gl 
+ath:AT1G13700	K01057 6-phosphogluconolactonase [EC:3.1.1.31] | (RefSeq) PGL1; 6-phosphogluconolactonase 1 
+ath:AT1G16300	K00134 glyceraldehyde 3-phosphate dehydrogenase (phosphorylating) [EC:1.2.1.12] | (RefSeq) GAPCP-2;  
+ath:AT1G17290	K00814 alanine transaminase [EC:2.6.1.2] | (RefSeq) AlaAT1; alanine aminotransferas 
+ath:AT1G17650	K18121 glyoxylate/succinic semialdehyde reductase [EC:1.1.1.79 1.1.1.-] | (RefSeq) GLYR2; glyoxylate 
+ath:AT1G17745	K00058 D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase [EC:1.1.1.95 1.1.1.399] | (RefS 
+ath:AT1G18640	K01079 phosphoserine phosphatase [EC:3.1.3.3] | (RefSeq) PSP; 3-phosphoserine phosphatase 
+ath:AT1G20620	K03781 catalase [EC:1.11.1.6] | (RefSeq) CAT3; catalase 3 
+ath:AT1G20630	K03781 catalase [EC:1.11.1.6] | (RefSeq) CAT1; catalase 1 
+ath:AT1G22020	K00600 glycine hydroxymethyltransferase [EC:2.1.2.1] | (RefSeq) SHM6; serine hydroxymethyltransferas 
+ath:AT1G22170	K01834 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11] | (RefSeq) Phosphogly 
+ath:AT1G22430	K00121 S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1] | ( 
+ath:AT1G22440	K00121 S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1] | ( 
+ath:AT1G23310	K14272 glutamate--glyoxylate aminotransferase [EC:2.6.1.4 2.6.1.2 2.6.1.44] | (RefSeq) GGT1; glutama 
+ath:AT1G24180	K00161 pyruvate dehydrogenase E1 component alpha subunit [EC:1.2.4.1] | (RefSeq) IAR4; Thiamin dipho 
+ath:AT1G24280	K00036 glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363] | (RefSeq) G6PD3; glucose-6-phosp 
+ath:AT1G30120	K00162 pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1] | (RefSeq) PDH-E1_BETA; pyruvat 
+ath:AT1G32060	K00855 phosphoribulokinase [EC:2.7.1.19] | (RefSeq) PRK; phosphoribulokinase 
+ath:AT1G32380	K00948 ribose-phosphate pyrophosphokinase [EC:2.7.6.1] | (RefSeq) PRS2; phosphoribosyl pyrophosphate 
+ath:AT1G32440	K00873 pyruvate kinase [EC:2.7.1.40] | (RefSeq) PKp3; plastidial pyruvate kinase 3 
+ath:AT1G32470	K02437 glycine cleavage system H protein | (RefSeq) Single hybrid motif superfamily protein 
+ath:AT1G32480	K00030 isocitrate dehydrogenase (NAD+) [EC:1.1.1.41] | (RefSeq) IDH-IV; isocitrate dehydrogenase IV 
+ath:AT1G34430	K00627 pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12] | (Ref 
+ath:AT1G36370	K00600 glycine hydroxymethyltransferase [EC:2.1.2.1] | (RefSeq) SHM7; serine hydroxymethyltransferas 
+ath:AT1G42970	K05298 glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating) [EC:1.2.1.13] | (RefSeq) G 
+ath:AT1G43670	K03841 fructose-1,6-bisphosphatase I [EC:3.1.3.11] | (RefSeq) FBP; Inositol monophosphatase family p 
+ath:AT1G47840	K00844 hexokinase [EC:2.7.1.1] | (RefSeq) HXK3; hexokinase 3 
+ath:AT1G48030	K00382 dihydrolipoamide dehydrogenase [EC:1.8.1.4] | (RefSeq) mtLPD1; mitochondrial lipoamide dehydr 
+ath:AT1G48430	K00863 triose/dihydroxyacetone kinase / FAD-AMP lyase (cyclizing) [EC:2.7.1.28 2.7.1.29 4.6.1.15] |  
+ath:AT1G50460	K00844 hexokinase [EC:2.7.1.1] | (RefSeq) HKL1; hexokinase-like 1 
+ath:AT1G50480	K01938 formate--tetrahydrofolate ligase [EC:6.3.4.3] | (RefSeq) THFS; 10-formyltetrahydrofolate synt 
+ath:AT1G53240	K00026 malate dehydrogenase [EC:1.1.1.37] | (RefSeq) mMDH1; Lactate/malate dehydrogenase family prot 
+ath:AT1G53310	K01595 phosphoenolpyruvate carboxylase [EC:4.1.1.31] | (RefSeq) PPC1; phosphoenolpyruvate carboxylas 
+ath:AT1G54220	K00627 pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12] | (Ref 
+ath:AT1G54340	K00031 isocitrate dehydrogenase [EC:1.1.1.42] | (RefSeq) ICDH; isocitrate dehydrogenase 
+ath:AT1G55880	K01738 cysteine synthase [EC:2.5.1.47] | (RefSeq) Pyridoxal-5'-phosphate-dependent enzyme family pro 
+ath:AT1G55920	K00640 serine O-acetyltransferase [EC:2.3.1.30] | (RefSeq) SERAT2;1; serine acetyltransferase 2;1 
+ath:AT1G56190	K00927 phosphoglycerate kinase [EC:2.7.2.3] | (RefSeq) Phosphoglycerate kinase family protein 
+ath:AT1G59900	K00161 pyruvate dehydrogenase E1 component alpha subunit [EC:1.2.4.1] | (RefSeq) E1_ALPHA; pyruvate  
+ath:AT1G62800	K14454 aspartate aminotransferase, cytoplasmic [EC:2.6.1.1] | (RefSeq) ASP4; aspartate aminotransfer 
+ath:AT1G63290	K01783 ribulose-phosphate 3-epimerase [EC:5.1.3.1] | (RefSeq) Aldolase-type TIM barrel family protei 
+ath:AT1G64190	K00033 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343] | (RefSeq) 6-phosphogluconate dehydr 
+ath:AT1G65930	K00031 isocitrate dehydrogenase [EC:1.1.1.42] | (RefSeq) cICDH; cytosolic NADP+-dependent isocitrate 
+ath:AT1G67090	K01602 ribulose-bisphosphate carboxylase small chain [EC:4.1.1.39] | (RefSeq) RBCS1A; ribulose bisph 
+ath:AT1G68010	K15893 glycerate dehydrogenase [EC:1.1.1.29] | (RefSeq) HPR; hydroxypyruvate reductase 
+ath:AT1G68750	K01595 phosphoenolpyruvate carboxylase [EC:4.1.1.31] | (RefSeq) PPC4; phosphoenolpyruvate carboxylas 
+ath:AT1G70580	K14272 glutamate--glyoxylate aminotransferase [EC:2.6.1.4 2.6.1.2 2.6.1.44] | (RefSeq) AOAT2; alanin 
+ath:AT1G71100	K01807 ribose 5-phosphate isomerase A [EC:5.3.1.6] | (RefSeq) RSW10; Ribose 5-phosphate isomerase, t 
+ath:AT1G72330	K00814 alanine transaminase [EC:2.6.1.2] | (RefSeq) ALAAT2; alanine aminotransferase 2 
+ath:AT1G74030	K01689 enolase [EC:4.2.1.11] | (RefSeq) ENO1; enolase 1 
+ath:AT1G78050	K01834 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11] | (RefSeq) PGM; phosp 
+ath:AT1G79530	K00134 glyceraldehyde 3-phosphate dehydrogenase (phosphorylating) [EC:1.2.1.12] | (RefSeq) GAPCP-1;  
+ath:AT1G79550	K00927 phosphoglycerate kinase [EC:2.7.2.3] | (RefSeq) PGK; phosphoglycerate kinase 
+ath:AT1G79750	K00029 malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40] | (RefSeq) NADP-ME4; 
+ath:AT1G79870	K15919 glyoxylate/hydroxypyruvate reductase [EC:1.1.1.79 1.1.1.81] | (RefSeq) D-isomer specific 2-hy 
+ath:AT1G80380	K15918 D-glycerate 3-kinase [EC:2.7.1.31] | (RefSeq) P-loop containing nucleoside triphosphate hydro 
+ath:AT2G01140	K01623 fructose-bisphosphate aldolase, class I [EC:4.1.2.13] | (RefSeq) PDE345; Aldolase superfamily 
+ath:AT2G01290	K01807 ribose 5-phosphate isomerase A [EC:5.3.1.6] | (RefSeq) RPI2; ribose-5-phosphate isomerase 2 
+ath:AT2G05710	K01681 aconitate hydratase [EC:4.2.1.3] | (RefSeq) ACO3; aconitase 3 
+ath:AT2G13360	K00830 alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transamina 
+ath:AT2G13560	K00028 malate dehydrogenase (decarboxylating) [EC:1.1.1.39] | (RefSeq) NAD-ME1; NAD-dependent malic  
+ath:AT2G14170	K00140 malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase 
+ath:AT2G16790	K00851 gluconokinase [EC:2.7.1.12] | (RefSeq) P-loop containing nucleoside triphosphate hydrolases s 
+ath:AT2G17130	K00030 isocitrate dehydrogenase (NAD+) [EC:1.1.1.41] | (RefSeq) IDH2; isocitrate dehydrogenase subun 
+ath:AT2G17630	K00831 phosphoserine aminotransferase [EC:2.6.1.52] | (RefSeq) Pyridoxal phosphate (PLP)-dependent t 
+ath:AT2G17640	K00640 serine O-acetyltransferase [EC:2.3.1.30] | (RefSeq) ATSERAT3;1; Trimeric LpxA-like enzymes su 
+ath:AT2G18450	K00234 succinate dehydrogenase (ubiquinone) flavoprotein subunit [EC:1.3.5.1] | (RefSeq) SDH1-2; suc 
+ath:AT2G19860	K00844 hexokinase [EC:2.7.1.1] | (RefSeq) HXK2; hexokinase 2 
+ath:AT2G19900	K00029 malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40] | (RefSeq) NADP-ME1; 
+ath:AT2G20420	K01900 succinyl-CoA synthetase beta subunit [EC:6.2.1.4 6.2.1.5] | (RefSeq) ATP citrate lyase (ACL)  
+ath:AT2G21170	K01803 triosephosphate isomerase (TIM) [EC:5.3.1.1] | (RefSeq) TIM; triosephosphate isomerase 
+ath:AT2G21330	K01623 fructose-bisphosphate aldolase, class I [EC:4.1.2.13] | (RefSeq) FBA1; fructose-bisphosphate  
+ath:AT2G22480	K00850 6-phosphofructokinase 1 [EC:2.7.1.11] | (RefSeq) PFK5; phosphofructokinase 5 
+ath:AT2G22780	K00026 malate dehydrogenase [EC:1.1.1.37] | (RefSeq) PMDH1; peroxisomal NAD-malate dehydrogenase 1 
+ath:AT2G24270	K00131 glyceraldehyde-3-phosphate dehydrogenase (NADP+) [EC:1.2.1.9] | (RefSeq) ALDH11A3; aldehyde d 
+ath:AT2G26080	K00281 glycine dehydrogenase [EC:1.4.4.2] | (RefSeq) GLDP2; glycine decarboxylase P-protein 2 
+ath:AT2G29560	K01689 enolase [EC:4.2.1.11] | (RefSeq) ENOC; cytosolic enolase 
+ath:AT2G30650	K05605 3-hydroxyisobutyryl-CoA hydrolase [EC:3.1.2.4] | (RefSeq) ATP-dependent caseinolytic (Clp) pr 
+ath:AT2G30660	K05605 3-hydroxyisobutyryl-CoA hydrolase [EC:3.1.2.4] | (RefSeq) ATP-dependent caseinolytic (Clp) pr 
+ath:AT2G30970	K14455 aspartate aminotransferase, mitochondrial [EC:2.6.1.1] | (RefSeq) ASP1; aspartate aminotransf 
+ath:AT2G34590	K00162 pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1] | (RefSeq) Transketolase family 
+ath:AT2G35120	K02437 glycine cleavage system H protein | (RefSeq) Single hybrid motif superfamily protein 
+ath:AT2G35370	K02437 glycine cleavage system H protein | (RefSeq) GDCH; glycine decarboxylase complex H 
+ath:AT2G35390	K00948 ribose-phosphate pyrophosphokinase [EC:2.7.6.1] | (RefSeq) Phosphoribosyltransferase family p 
+ath:AT2G35690	K00232 acyl-CoA oxidase [EC:1.3.3.6] | (RefSeq) ACX5; acyl-CoA oxidase 5 
+ath:AT2G36460	K01623 fructose-bisphosphate aldolase, class I [EC:4.1.2.13] | (RefSeq) FBA6; Aldolase superfamily p 
+ath:AT2G36530	K01689 enolase [EC:4.2.1.11] | (RefSeq) LOS2; Enolase 
+ath:AT2G36580	K00873 pyruvate kinase [EC:2.7.1.40] | (RefSeq) Pyruvate kinase family protein 
+ath:AT2G38040	K01962 acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2 2.1.3.15] | (RefSeq) CA 
+ath:AT2G41530	K01070 S-formylglutathione hydrolase [EC:3.1.2.12] | (RefSeq) SFGH; S-formylglutathione hydrolase 
+ath:AT2G42600	K01595 phosphoenolpyruvate carboxylase [EC:4.1.1.31] | (RefSeq) PPC2; phosphoenolpyruvate carboxylas 
+ath:AT2G42790	K01647 citrate synthase [EC:2.3.3.1] | (RefSeq) CSY3; citrate synthase 3 
+ath:AT2G43750	K01738 cysteine synthase [EC:2.5.1.47] | (RefSeq) OASB; O-acetylserine (thiol) lyase B 
+ath:AT2G44160	K00297 methylenetetrahydrofolate reductase (NADH) [EC:1.5.1.54] | (RefSeq) MTHFR2; methylenetetrahyd 
+ath:AT2G44350	K01647 citrate synthase [EC:2.3.3.1] | (RefSeq) ATCS; Citrate synthase family protein 
+ath:AT2G44530	K00948 ribose-phosphate pyrophosphokinase [EC:2.7.6.1] | (RefSeq) Phosphoribosyltransferase family p 
+ath:AT2G45290	K00615 transketolase [EC:2.2.1.1] | (RefSeq) Transketolase 
+ath:AT2G47510	K01679 fumarate hydratase, class II [EC:4.2.1.2] | (RefSeq) FUM1; fumarase 1 
+ath:AT3G01850	K01783 ribulose-phosphate 3-epimerase [EC:5.1.3.1] | (RefSeq) Aldolase-type TIM barrel family protei 
+ath:AT3G02360	K00033 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343] | (RefSeq) 6-phosphogluconate dehydr 
+ath:AT3G03910	K00261 glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3] | (RefSeq) GDH3; glutamate dehydrogenase 3 
+ath:AT3G04050	K00873 pyruvate kinase [EC:2.7.1.40] | (RefSeq) Pyruvate kinase family protein 
+ath:AT3G04120	K00134 glyceraldehyde 3-phosphate dehydrogenase (phosphorylating) [EC:1.2.1.12] | (RefSeq) GAPC1; gl 
+ath:AT3G04790	K01807 ribose 5-phosphate isomerase A [EC:5.3.1.6] | (RefSeq) EMB3119; Ribose 5-phosphate isomerase, 
+ath:AT3G04940	K01738 cysteine synthase [EC:2.5.1.47] | (RefSeq) CYSD1; cysteine synthase D1 
+ath:AT3G06690	K00232 acyl-CoA oxidase [EC:1.3.3.6] | (RefSeq) putative acyl-coenzyme A oxidase 
+ath:AT3G08590	K15633 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12] | (RefSeq) iPGAM2;  
+ath:AT3G09810	K00030 isocitrate dehydrogenase (NAD+) [EC:1.1.1.41] | (RefSeq) IDH-VI; isocitrate dehydrogenase VI 
+ath:AT3G10050	K01754 threonine dehydratase [EC:4.3.1.19] | (RefSeq) OMR1; L-O-methylthreonine resistant 1 
+ath:AT3G12780	K00927 phosphoglycerate kinase [EC:2.7.2.3] | (RefSeq) PGK1; phosphoglycerate kinase 1 
+ath:AT3G13110	K00640 serine O-acetyltransferase [EC:2.3.1.30] | (RefSeq) SERAT2;2; serine acetyltransferase 2;2 
+ath:AT3G13930	K00627 pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12] | (Ref 
+ath:AT3G14130	K11517 (S)-2-hydroxy-acid oxidase [EC:1.1.3.15] | (RefSeq) HAOX1; Aldolase-type TIM barrel family pr 
+ath:AT3G14150	K11517 (S)-2-hydroxy-acid oxidase [EC:1.1.3.15] | (RefSeq) HAOX2; Aldolase-type TIM barrel family pr 
+ath:AT3G14415	K11517 (S)-2-hydroxy-acid oxidase [EC:1.1.3.15] | (RefSeq) GOX2; Aldolase-type TIM barrel family pro 
+ath:AT3G14420	K11517 (S)-2-hydroxy-acid oxidase [EC:1.1.3.15] | (RefSeq) GOX1; Aldolase-type TIM barrel family pro 
+ath:AT3G14940	K01595 phosphoenolpyruvate carboxylase [EC:4.1.1.31] | (RefSeq) PPC3; phosphoenolpyruvate carboxylas 
+ath:AT3G15020	K00026 malate dehydrogenase [EC:1.1.1.37] | (RefSeq) mMDH2; Lactate/malate dehydrogenase family prot 
+ath:AT3G15290	K00074 3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157] | (RefSeq) 3-hydroxyacyl-CoA dehydrogenase  
+ath:AT3G16910	K01913 acetate/butyrate---CoA ligase [EC:6.2.1.1 6.2.1.2] | (RefSeq) AAE7; acyl-activating enzyme 7 
+ath:AT3G16950	K00382 dihydrolipoamide dehydrogenase [EC:1.8.1.4] | (RefSeq) LPD1; lipoamide dehydrogenase 1 
+ath:AT3G17240	K00382 dihydrolipoamide dehydrogenase [EC:1.8.1.4] | (RefSeq) mtLPD2; lipoamide dehydrogenase 2 
+ath:AT3G19480	K00058 D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase [EC:1.1.1.95 1.1.1.399] | (RefS 
+ath:AT3G20040	K00844 hexokinase [EC:2.7.1.1] | (RefSeq) ATHXK4; Hexokinase 
+ath:AT3G21720	K01637 isocitrate lyase [EC:4.1.3.1] | (RefSeq) ICL; isocitrate lyase 
+ath:AT3G22460	K01738 cysteine synthase [EC:2.5.1.47] | (RefSeq) OASA2; O-acetylserine (thiol) lyase (OAS-TL) 
+ath:AT3G22960	K00873 pyruvate kinase [EC:2.7.1.40] | (RefSeq) PKP-ALPHA; Pyruvate kinase family protein 
+ath:AT3G24360	K05605 3-hydroxyisobutyryl-CoA hydrolase [EC:3.1.2.4] | (RefSeq) ATP-dependent caseinolytic (Clp) pr 
+ath:AT3G25530	K18121 glyoxylate/succinic semialdehyde reductase [EC:1.1.1.79 1.1.1.-] | (RefSeq) GLYR1; glyoxylate 
+ath:AT3G25860	K00627 pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12] | (Ref 
+ath:AT3G25960	K00873 pyruvate kinase [EC:2.7.1.40] | (RefSeq) Pyruvate kinase family protein 
+ath:AT3G26650	K05298 glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating) [EC:1.2.1.13] | (RefSeq) G 
+ath:AT3G27300	K00036 glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363] | (RefSeq) G6PD5; glucose-6-phosp 
+ath:AT3G27380	K00235 succinate dehydrogenase (ubiquinone) iron-sulfur subunit [EC:1.3.5.1] | (RefSeq) SDH2-1; succ 
+ath:AT3G47520	K00026 malate dehydrogenase [EC:1.1.1.37] | (RefSeq) MDH; malate dehydrogenase 
+ath:AT3G49160	K00873 pyruvate kinase [EC:2.7.1.40] | (RefSeq) pyruvate kinase family protein 
+ath:AT3G49360	K01057 6-phosphogluconolactonase [EC:3.1.1.31] | (RefSeq) PGL2; 6-phosphogluconolactonase 2 
+ath:AT3G50520	K15634 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11] | (RefSeq) Phosphogly 
+ath:AT3G51840	K00232 acyl-CoA oxidase [EC:1.3.3.6] | (RefSeq) ACX4; acyl-CoA oxidase 4 
+ath:AT3G52200	K00627 pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12] | (Ref 
+ath:AT3G52930	K01623 fructose-bisphosphate aldolase, class I [EC:4.1.2.13] | (RefSeq) FBA8; Aldolase superfamily p 
+ath:AT3G52990	K00873 pyruvate kinase [EC:2.7.1.40] | (RefSeq) Pyruvate kinase family protein 
+ath:AT3G54050	K03841 fructose-1,6-bisphosphatase I [EC:3.1.3.11] | (RefSeq) HCEF1; high cyclic electron flow 1 
+ath:AT3G55410	K00164 2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2] | (RefSeq) 2-oxoglutarate dehydrogenas 
+ath:AT3G55440	K01803 triosephosphate isomerase (TIM) [EC:5.3.1.1] | (RefSeq) TPI; triosephosphate isomerase 
+ath:AT3G55650	K00873 pyruvate kinase [EC:2.7.1.40] | (RefSeq) Pyruvate kinase family protein 
+ath:AT3G55800	K01100 sedoheptulose-bisphosphatase [EC:3.1.3.37] | (RefSeq) SBPASE; sedoheptulose-bisphosphatase 
+ath:AT3G55810	K00873 pyruvate kinase [EC:2.7.1.40] | (RefSeq) Pyruvate kinase family protein 
+ath:AT3G58740	K01647 citrate synthase [EC:2.3.3.1] | (RefSeq) CSY1; citrate synthase 1 
+ath:AT3G58750	K01647 citrate synthase [EC:2.3.3.1] | (RefSeq) CSY2; citrate synthase 2 
+ath:AT3G59760	K01738 cysteine synthase [EC:2.5.1.47] | (RefSeq) OASC; O-acetylserine (thiol) lyase 
+ath:AT3G59970	K00297 methylenetetrahydrofolate reductase (NADH) [EC:1.5.1.54] | (RefSeq) MTHFR1; methylenetetrahyd 
+ath:AT3G60100	K01647 citrate synthase [EC:2.3.3.1] | (RefSeq) CSY5; citrate synthase 5 
+ath:AT3G60510	K05605 3-hydroxyisobutyryl-CoA hydrolase [EC:3.1.2.4] | (RefSeq) ATP-dependent caseinolytic (Clp) pr 
+ath:AT3G60750	K00615 transketolase [EC:2.2.1.1] | (RefSeq) Transketolase 
+ath:AT3G61440	K13034 L-3-cyanoalanine synthase/ cysteine synthase [EC:2.5.1.47 4.4.1.9] | (RefSeq) CYSC1; cysteine 
+ath:AT4G00570	K00028 malate dehydrogenase (decarboxylating) [EC:1.1.1.39] | (RefSeq) NAD-ME2; NAD-dependent malic  
+ath:AT4G13360	K05605 3-hydroxyisobutyryl-CoA hydrolase [EC:3.1.2.4] | (RefSeq) ATP-dependent caseinolytic (Clp) pr 
+ath:AT4G13890	K00600 glycine hydroxymethyltransferase [EC:2.1.2.1] | (RefSeq) EDA36; Pyridoxal phosphate (PLP)-dep 
+ath:AT4G13930	K00600 glycine hydroxymethyltransferase [EC:2.1.2.1] | (RefSeq) SHM4; serine hydroxymethyltransferas 
+ath:AT4G14880	K01738 cysteine synthase [EC:2.5.1.47] | (RefSeq) OASA1; O-acetylserine (thiol) lyase (OAS-TL) 
+ath:AT4G15530	K01006 pyruvate, orthophosphate dikinase [EC:2.7.9.1] | (RefSeq) PPDK; pyruvate orthophosphate dikin 
+ath:AT4G16155	K00382 dihydrolipoamide dehydrogenase [EC:1.8.1.4] | (RefSeq) dihydrolipoamide dehydrogenase 
+ath:AT4G16760	K00232 acyl-CoA oxidase [EC:1.3.3.6] | (RefSeq) ACX1; acyl-CoA oxidase 1 
+ath:AT4G18360	K11517 (S)-2-hydroxy-acid oxidase [EC:1.1.3.15] | (RefSeq) GOX3; Aldolase-type TIM barrel family pro 
+ath:AT4G20930	K23146 3-hydroxyisobutyrate/3-hydroxypropionate dehydrogenase [EC:1.1.1.31 1.1.1.59] | (RefSeq) 6-ph 
+ath:AT4G22110	K00121 S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1] | ( 
+ath:AT4G24620	K01810 glucose-6-phosphate isomerase [EC:5.3.1.9] | (RefSeq) PGI1; phosphoglucose isomerase 1 
+ath:AT4G26270	K00850 6-phosphofructokinase 1 [EC:2.7.1.11] | (RefSeq) PFK3; phosphofructokinase 3 
+ath:AT4G26390	K00873 pyruvate kinase [EC:2.7.1.40] | (RefSeq) Pyruvate kinase family protein 
+ath:AT4G26520	K01623 fructose-bisphosphate aldolase, class I [EC:4.1.2.13] | (RefSeq) FBA7; Aldolase superfamily p 
+ath:AT4G26530	K01623 fructose-bisphosphate aldolase, class I [EC:4.1.2.13] | (RefSeq) FBA5; Aldolase superfamily p 
+ath:AT4G26910	K00658 2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61 
+ath:AT4G26970	K01681 aconitate hydratase [EC:4.2.1.3] | (RefSeq) ACO2; aconitase 2 
+ath:AT4G29130	K00844 hexokinase [EC:2.7.1.1] | (RefSeq) HXK1; hexokinase 1 
+ath:AT4G29220	K00850 6-phosphofructokinase 1 [EC:2.7.1.11] | (RefSeq) PFK1; phosphofructokinase 1 
+ath:AT4G31810	K05605 3-hydroxyisobutyryl-CoA hydrolase [EC:3.1.2.4] | (RefSeq) ATP-dependent caseinolytic (Clp) pr 
+ath:AT4G32210	K00236 succinate dehydrogenase (ubiquinone) cytochrome b560 subunit | (RefSeq) SDH3-2; succinate deh 
+ath:AT4G32520	K00600 glycine hydroxymethyltransferase [EC:2.1.2.1] | (RefSeq) SHM3; serine hydroxymethyltransferas 
+ath:AT4G32840	K00850 6-phosphofructokinase 1 [EC:2.7.1.11] | (RefSeq) PFK6; phosphofructokinase 6 
+ath:AT4G33010	K00281 glycine dehydrogenase [EC:1.4.4.2] | (RefSeq) GLDP1; glycine decarboxylase P-protein 1 
+ath:AT4G34200	K00058 D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase [EC:1.1.1.95 1.1.1.399] | (RefS 
+ath:AT4G35090	K03781 catalase [EC:1.11.1.6] | (RefSeq) CAT2; catalase 2 
+ath:AT4G35260	K00030 isocitrate dehydrogenase (NAD+) [EC:1.1.1.41] | (RefSeq) IDH1; isocitrate dehydrogenase 1 
+ath:AT4G35630	K00831 phosphoserine aminotransferase [EC:2.6.1.52] | (RefSeq) PSAT; phosphoserine aminotransferase 
+ath:AT4G35640	K00640 serine O-acetyltransferase [EC:2.3.1.30] | (RefSeq) SERAT3;2; serine acetyltransferase 3;2 
+ath:AT4G35650	K00030 isocitrate dehydrogenase (NAD+) [EC:1.1.1.41] | (RefSeq) IDH-III; isocitrate dehydrogenase II 
+ath:AT4G35830	K01681 aconitate hydratase [EC:4.2.1.3] | (RefSeq) ACO1; aconitase 1 
+ath:AT4G37550	K01455 formamidase [EC:3.5.1.49] | (RefSeq) Acetamidase/Formamidase family protein 
+ath:AT4G37560	K01455 formamidase [EC:3.5.1.49] | (RefSeq) Acetamidase/Formamidase family protein 
+ath:AT4G37840	K00844 hexokinase [EC:2.7.1.1] | (RefSeq) HKL3; hexokinase-like 3 
+ath:AT4G37870	K01610 phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49] | (RefSeq) PCK1; phosphoenolpyruvate ca 
+ath:AT4G37930	K00600 glycine hydroxymethyltransferase [EC:2.1.2.1] | (RefSeq) SHM1; serine transhydroxymethyltrans 
+ath:AT4G38970	K01623 fructose-bisphosphate aldolase, class I [EC:4.1.2.13] | (RefSeq) FBA2; fructose-bisphosphate  
+ath:AT5G03290	K00030 isocitrate dehydrogenase (NAD+) [EC:1.1.1.41] | (RefSeq) IDH-V; isocitrate dehydrogenase V 
+ath:AT5G03690	K01623 fructose-bisphosphate aldolase, class I [EC:4.1.2.13] | (RefSeq) FBA4; Aldolase superfamily p 
+ath:AT5G03860	K01638 malate synthase [EC:2.3.3.9] | (RefSeq) MLS; malate synthase 
+ath:AT5G07440	K00261 glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3] | (RefSeq) GDH2; glutamate dehydrogenase 2 
+ath:AT5G08300	K01899 succinyl-CoA synthetase alpha subunit [EC:6.2.1.4 6.2.1.5] | (RefSeq) Succinyl-CoA ligase, al 
+ath:AT5G08570	K00873 pyruvate kinase [EC:2.7.1.40] | (RefSeq) Pyruvate kinase family protein 
+ath:AT5G09600	K00236 succinate dehydrogenase (ubiquinone) cytochrome b560 subunit | (RefSeq) SDH3-1; succinate deh 
+ath:AT5G09660	K00026 malate dehydrogenase [EC:1.1.1.37] | (RefSeq) PMDH2; peroxisomal NAD-malate dehydrogenase 2 
+ath:AT5G11520	K14454 aspartate aminotransferase, cytoplasmic [EC:2.6.1.1] | (RefSeq) ASP3; aspartate aminotransfer 
+ath:AT5G11670	K00029 malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40] | (RefSeq) NADP-ME2; 
+ath:AT5G13110	K00036 glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363] | (RefSeq) G6PD2; glucose-6-phosp 
+ath:AT5G13420	K00616 transaldolase [EC:2.2.1.2] | (RefSeq) TRA2; Aldolase-type TIM barrel family protein 
+ath:AT5G14590	K00031 isocitrate dehydrogenase [EC:1.1.1.42] | (RefSeq) Isocitrate/isopropylmalate dehydrogenase fa 
+ath:AT5G14780	K00122 formate dehydrogenase [EC:1.17.1.9] | (RefSeq) FDH; formate dehydrogenase 
+ath:AT5G15530	K02160 acetyl-CoA carboxylase biotin carboxyl carrier protein | (RefSeq) BCCP2; biotin carboxyl carr 
+ath:AT5G16390	K02160 acetyl-CoA carboxylase biotin carboxyl carrier protein | (RefSeq) CAC1; chloroplastic acetylc 
+ath:AT5G18170	K00261 glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3] | (RefSeq) GDH1; glutamate dehydrogenase 1 
+ath:AT5G19550	K14454 aspartate aminotransferase, cytoplasmic [EC:2.6.1.1] | (RefSeq) ASP2; aspartate aminotransfer 
+ath:AT5G23250	K01899 succinyl-CoA synthetase alpha subunit [EC:6.2.1.4 6.2.1.5] | (RefSeq) Succinyl-CoA ligase, al 
+ath:AT5G24400	K01057 6-phosphogluconolactonase [EC:3.1.1.31] | (RefSeq) EMB2024; NagB/RpiA/CoA transferase-like su 
+ath:AT5G24410	K01057 6-phosphogluconolactonase [EC:3.1.1.31] | (RefSeq) PGL4; 6-phosphogluconolactonase 4 
+ath:AT5G24420	K01057 6-phosphogluconolactonase [EC:3.1.1.31] | (RefSeq) PGL5; 6-phosphogluconolactonase 5 
+ath:AT5G25880	K00029 malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40] | (RefSeq) NADP-ME3; 
+ath:AT5G26780	K00600 glycine hydroxymethyltransferase [EC:2.1.2.1] | (RefSeq) SHM2; serine hydroxymethyltransferas 
+ath:AT5G28020	K01738 cysteine synthase [EC:2.5.1.47] | (RefSeq) CYSD2; cysteine synthase D2 
+ath:AT5G28030	K01738 cysteine synthase [EC:2.5.1.47] | (RefSeq) DES1; L-cysteine desulfhydrase 1 
+ath:AT5G35360	K01961 acetyl-CoA carboxylase, biotin carboxylase subunit [EC:6.4.1.2 6.3.4.14] | (RefSeq) CAC2; ace 
+ath:AT5G35790	K00036 glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363] | (RefSeq) G6PD1; glucose-6-phosp 
+ath:AT5G36700	K19269 phosphoglycolate phosphatase [EC:3.1.3.18 3.1.3.48] | (RefSeq) PGLP1; 2-phosphoglycolate phos 
+ath:AT5G36790	K19269 phosphoglycolate phosphatase [EC:3.1.3.18 3.1.3.48] | (RefSeq) Haloacid dehalogenase-like hyd 
+ath:AT5G36880	K01895 acetyl-CoA synthetase [EC:6.2.1.1] | (RefSeq) ACS; acetyl-CoA synthetase 
+ath:AT5G38410	K01602 ribulose-bisphosphate carboxylase small chain [EC:4.1.1.39] | (RefSeq) RBCS3B; Ribulose bisph 
+ath:AT5G38420	K01602 ribulose-bisphosphate carboxylase small chain [EC:4.1.1.39] | (RefSeq) RBCS2B; Ribulose bisph 
+ath:AT5G38430	K01602 ribulose-bisphosphate carboxylase small chain [EC:4.1.1.39] | (RefSeq) RBCS1B; Ribulose bisph 
+ath:AT5G40650	K00235 succinate dehydrogenase (ubiquinone) iron-sulfur subunit [EC:1.3.5.1] | (RefSeq) SDH2-2; succ 
+ath:AT5G40760	K00036 glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363] | (RefSeq) G6PD6; glucose-6-phosp 
+ath:AT5G41670	K00033 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343] | (RefSeq) 6-phosphogluconate dehydr 
+ath:AT5G42250	K00121 S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1] | ( 
+ath:AT5G42740	K01810 glucose-6-phosphate isomerase [EC:5.3.1.9] | (RefSeq) Sugar isomerase (SIS) family protein 
+ath:AT5G43330	K00025 malate dehydrogenase [EC:1.1.1.37] | (RefSeq) c-NAD-MDH2; Lactate/malate dehydrogenase family 
+ath:AT5G43940	K00121 S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1] | ( 
+ath:AT5G44520	K01807 ribose 5-phosphate isomerase A [EC:5.3.1.6] | (RefSeq) NagB/RpiA/CoA transferase-like superfa 
+ath:AT5G47720	K00626 acetyl-CoA C-acetyltransferase [EC:2.3.1.9] | (RefSeq) AACT1; Thiolase family protein 
+ath:AT5G47760	K19269 phosphoglycolate phosphatase [EC:3.1.3.18 3.1.3.48] | (RefSeq) PGLP2; 2-phosphoglycolate phos 
+ath:AT5G47810	K00850 6-phosphofructokinase 1 [EC:2.7.1.11] | (RefSeq) PFK2; phosphofructokinase 2 
+ath:AT5G48230	K00626 acetyl-CoA C-acetyltransferase [EC:2.3.1.9] | (RefSeq) ACAT2; acetoacetyl-CoA thiolase 2 
+ath:AT5G50850	K00162 pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1] | (RefSeq) MAB1; Transketolase  
+ath:AT5G50950	K01679 fumarate hydratase, class II [EC:4.2.1.2] | (RefSeq) FUM2; FUMARASE 2 
+ath:AT5G52920	K00873 pyruvate kinase [EC:2.7.1.40] | (RefSeq) PKP-BETA1; plastidic pyruvate kinase beta subunit 1 
+ath:AT5G55070	K00658 2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61 
+ath:AT5G56350	K00873 pyruvate kinase [EC:2.7.1.40] | (RefSeq) Pyruvate kinase family protein 
+ath:AT5G56630	K00850 6-phosphofructokinase 1 [EC:2.7.1.11] | (RefSeq) PFK7; phosphofructokinase 7 
+ath:AT5G56720	K00025 malate dehydrogenase [EC:1.1.1.37] | (RefSeq) c-NAD-MDH3; Lactate/malate dehydrogenase family 
+ath:AT5G56760	K00640 serine O-acetyltransferase [EC:2.3.1.30] | (RefSeq) SERAT1;1; serine acetyltransferase 1;1 
+ath:AT5G58330	K00051 malate dehydrogenase (NADP+) [EC:1.1.1.82] | (RefSeq) lactate/malate dehydrogenase family pro 
+ath:AT5G61410	K01783 ribulose-phosphate 3-epimerase [EC:5.1.3.1] | (RefSeq) RPE; D-ribulose-5-phosphate-3-epimeras 
+ath:AT5G61580	K00850 6-phosphofructokinase 1 [EC:2.7.1.11] | (RefSeq) PFK4; phosphofructokinase 4 
+ath:AT5G63680	K00873 pyruvate kinase [EC:2.7.1.40] | (RefSeq) Pyruvate kinase family protein 
+ath:AT5G64380	K03841 fructose-1,6-bisphosphatase I [EC:3.1.3.11] | (RefSeq) Inositol monophosphatase family protei 
+ath:AT5G65110	K00232 acyl-CoA oxidase [EC:1.3.3.6] | (RefSeq) ACX2; acyl-CoA oxidase 2 
+ath:AT5G65165	K00235 succinate dehydrogenase (ubiquinone) iron-sulfur subunit [EC:1.3.5.1] | (RefSeq) SDH2-3; succ 
+ath:AT5G65690	K01610 phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49] | (RefSeq) PCK2; phosphoenolpyruvate ca 
+ath:AT5G65750	K00164 2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2] | (RefSeq) 2-oxoglutarate dehydrogenas 
+ath:AT5G65940	K05605 3-hydroxyisobutyryl-CoA hydrolase [EC:3.1.2.4] | (RefSeq) CHY1; beta-hydroxyisobutyryl-CoA hy 
+ath:AT5G66760	K00234 succinate dehydrogenase (ubiquinone) flavoprotein subunit [EC:1.3.5.1] | (RefSeq) SDH1-1; suc 

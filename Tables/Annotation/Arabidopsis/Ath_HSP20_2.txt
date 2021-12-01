@@ -1,0 +1,55 @@
+GeneID	Name	Localization
+AT3G46230	HSP17.4CI	Cytoplasm
+AT1G53540	HSP17.6C	Cytoplasm
+AT5G12030	HSP17.6A	Cytoplasm
+AT5G12020	HSP17.6	Cytoplasm
+AT5G51440	HSP23.5	Mitochondrion
+AT2G29500	HSP17.6B	Cytoplasm
+AT1G59860	HSP17.6A	Cytoplasm
+AT1G54050	HSP17.4B	Cytoplasm
+AT5G37670	HSP15.7	Peroxisome
+AT4G10250	HSP22.0	ER
+AT4G27670	HSP21	Chloroplast
+AT4G25200	HSP23.6	Mitochondrion
+AT1G07400	HSP17.8	Cytoplasm
+AT2G19310	HSP18.5	Cytoplasm
+AT1G52560	HSP26.5	Mitochondrion
+AT5G59720	HSP18.2	Cytoplasm
+AT4G16550	"HSP20-like
+chaperone"	Unknown
+AT4G21870	"HSP20-like
+chaperone"	Cytoplasm
+AT1G76770	"HSP20-like
+chaperone"	Cytoplasm
+AT5G54660	HSP21.7	Cytoplasm
+AT5G47600	HSP14.7	Cytoplasm
+AT2G37570	"HSP20-like
+chaperone, SLT1"	Mitochondrion
+AT5G53400	"HSP20-like chaperone,
+BOB1"	Cytoplasm
+AT5G58740	"HSP20-like
+chaperone"	Cytoplasm
+AT4G27890	"HSP20-like
+chaperone, BOB2"	Cytoplasm
+AT4G02450	Co- chaperone protein p23-1	"Cytoplasm, nucleus, plasma membrane,
+plasmodesma"
+AT1G54400	HSP20-like chaperone	"Cytoplasm, integral component of
+membrane"
+AT5G20970	HSP20-like chaperone	"Cytoplasm, integral component of
+membrane"
+AT2G27140	Heat shock family protein	"Cytoplasm, integral component of
+membrane"
+AT3G10680	HSP20-like chaperone	"Cell wall,  sieve plate, integral component of
+membrane"
+AT3G03773	"Co- chaperone
+protein p23-2"	Cytoplasm, nucleus
+AT1G54840	"HSP20-like chaperone,
+IDM2"	Nucleoplasm, nucleus
+AT1G76780	HSP20-like chaperone	"Integral
+component of membrane"
+AT2G03020	"HSP20/alpha crystalline
+family"	Cytoplasm
+AT4G16540	"HSP20/alpha crystalline
+family"	Chloroplast, cytoplasm
+AT5G47590	"HSP20/alpha
+crystalline family"	Cytoplasm

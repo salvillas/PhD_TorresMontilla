@@ -1,0 +1,14 @@
+GeneID	Name
+AT5G49510	prefoldin_3
+AT5G23290	prefoldin_5
+AT1G26660	prefoldin_chaperone_subunit_familyprotein_1
+AT1G03760	prefoldin_chaperone_subunit_familyprotein_2
+AT3G22480	prefoldin_2
+AT1G08780	ABI3-interactingprotein_3
+AT1G29990	prefoldin_6
+AT2G07340	PREFOLDIN_1
+AT1G49245	prefoldin_chaperone_subunit_familyprotein_3
+ATMG00140	transmembraneprotein
+AT1G68370	Chaperone_DnaJ-domain_superfamilyprotein
+AT1G03760	prefoldin_chaperone_subunit_familyprotein_4
+AT2G12940	Basic-leucine_zipper_(bZIP)_transcription_fact
