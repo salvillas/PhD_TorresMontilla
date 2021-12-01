@@ -1,0 +1,31 @@
+Annotated	Significant	Expected	Term	pval
+GO:0009414	100	2	0.19	response to water deprivation	0.0163840246361871
+GO:0010253	7	1	0.01	UDP-rhamnose biosynthetic process	0.0135652939620755
+GO:0080167	25	1	0.05	response to karrikin	0.0476206751150391
+GO:0009251	73	3	0.14	glucan catabolic process	0.0499026481911529
+GO:0019432	24	1	0.05	triglyceride biosynthetic process	0.0457594741242769
+GO:0050896	4699	15	9.16	response to stimulus	0.0487962447771189
+GO:0045490	191	3	0.37	pectin catabolic process	0.00623179401955279
+GO:0080147	6	1	0.01	root hair cell development	0.0116385513434369
+GO:0000079	123	3	0.24	regulation of cyclin-dependent protein serine/threonine kinase activity	0.00181226534347793
+GO:0006166	14	1	0.03	purine ribonucleoside salvage	0.0269492804992025
+GO:0006168	9	1	0.02	adenine salvage	0.0174076858996249
+GO:2000012	10	1	0.02	regulation of auxin polar transport	0.0193233492018635
+GO:0010043	1	1	0	response to zinc ion	0.0019490909090909
+GO:0032468	2	1	0	Golgi calcium ion homeostasis	0.00389443945476753
+GO:0019346	11	1	0.02	transsulfuration	0.0212353333602655
+GO:0032472	2	1	0	Golgi calcium ion transport	0.00389443945476753
+GO:0006004	93	3	0.18	fucose metabolic process	0.000810128409064245
+GO:0019305	5	1	0.01	dTDP-rhamnose biosynthetic process	0.00970810161425895
+GO:0016117	20	1	0.04	carotenoid biosynthetic process	0.0382787733073123
+GO:0015689	8	1	0.02	molybdate ion transport	0.0154883364814118
+GO:0042546	186	4	0.36	cell wall biogenesis	0.000326735123334049
+GO:0015937	13	1	0.03	coenzyme A biosynthetic process	0.0250482920692107
+GO:0071421	24	1	0.05	manganese ion transmembrane transport	0.0457594741242769
+GO:0071555	535	6	1.04	cell wall organization	0.000843543334553323
+GO:0009649	22	1	0.04	entrainment of circadian clock	0.042026316690601
+GO:0030245	46	2	0.09	cellulose catabolic process	0.00366481249427952
+GO:0010411	79	4	0.15	xyloglucan metabolic process	1.77378555816136e-05
+GO:0009737	218	3	0.42	response to abscisic acid	0.0257579568664527
+GO:1990937	8	1	0.02	xylan acetylation	0.0154883364814118
+GO:0044209	10	1	0.02	AMP salvage	0.0193233492018635

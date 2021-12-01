@@ -1,0 +1,44 @@
+Annotated	Significant	Expected	Term	pval
+GO:0051453	11	1	0.04	regulation of intracellular pH	0.0423676678190591
+GO:0048205	3	1	0.01	COPI coating of Golgi vesicle	0.011735948414226
+GO:0009651	117	3	0.46	response to salt stress	0.0111274758982269
+GO:0034605	25	5	0.1	cellular response to heat	1.52968409970237e-06
+GO:2001011	2	1	0.01	positive regulation of plant-type cell wall cellulose biosynthetic process	0.00783923578603252
+GO:0010157	4	1	0.02	response to chlorate	0.0156174696223048
+GO:0006986	23	4	0.09	response to unfolded protein	0.00767004243605451
+GO:0009408	109	17	0.43	response to heat	4.60699978582861e-16
+GO:0098719	3	1	0.01	sodium ion import across plasma membrane	0.011735948414226
+GO:0010091	9	1	0.04	trichome branching	0.0347992539112333
+GO:0019628	2	1	0.01	urate catabolic process	0.00783923578603252
+GO:0009704	7	1	0.03	de-etiolation	0.0271714714361576
+GO:0052865	11	1	0.04	1-deoxy-D-xylulose 5-phosphate biosynthetic process	0.0423676678190591
+GO:0006123	3	1	0.01	mitochondrial electron transport, cytochrome c to oxygen	0.011735948414226
+GO:0010104	4	1	0.02	regulation of ethylene-activated signaling pathway	0.0156174696223048
+GO:0006884	3	1	0.01	cell volume homeostasis	0.011735948414226
+GO:0005983	5	1	0.02	starch catabolic process	0.0194838581940946
+GO:0042026	58	12	0.23	protein refolding	6.24371780287667e-18
+GO:1900034	3	1	0.01	regulation of cellular response to heat	0.011735948414226
+GO:1901671	5	2	0.02	positive regulation of superoxide dismutase activity	0.000151915335145266
+GO:1901672	2	1	0.01	positive regulation of systemic acquired resistance	0.00783923578603252
+GO:0098869	378	6	1.48	cellular oxidant detoxification	0.0447848868257577
+GO:0042256	4	1	0.02	mature ribosome assembly	0.0156174696223048
+GO:0032922	4	1	0.02	circadian regulation of gene expression	0.0156174696223048
+GO:0045037	12	1	0.05	protein import into chloroplast stroma	0.0461297550278945
+GO:1902066	5	1	0.02	regulation of cell wall pectin metabolic process	0.0194838581940946
+GO:0051131	11	2	0.04	chaperone-mediated protein complex assembly	0.000822706869929548
+GO:0006379	9	1	0.04	mRNA cleavage	0.0347992539112333
+GO:0000302	75	6	0.29	response to reactive oxygen species	0.0051191835419665
+GO:0006267	1	1	0	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	0.00392727272727267
+GO:0045332	6	1	0.02	phospholipid translocation	0.0233351726876587
+GO:0016320	1	1	0	endoplasmic reticulum membrane fusion	0.00392727272727267
+GO:0051085	61	12	0.24	chaperone cofactor-dependent protein refolding	1.20761300632104e-17
+GO:0042542	10	2	0.04	response to hydrogen peroxide	0.000674860426456371
+GO:0070417	6	1	0.02	cellular response to cold	0.0233351726876587
+GO:0051259	29	2	0.11	protein complex oligomerization	0.00579861991236799
+GO:0034765	15	2	0.06	regulation of ion transmembrane transport	0.00155452991576745
+GO:0006457	365	35	1.43	protein folding	9.17876872229804e-15
+GO:0006751	9	1	0.04	glutathione catabolic process	0.0347992539112333
+GO:0006414	163	4	0.64	translational elongation	0.00398424750720364
+GO:0034620	21	3	0.08	cellular response to unfolded protein	7.48059252555367e-05
+GO:1905499	2	1	0.01	trichome papilla formation	0.00783923578603252
+GO:0048586	10	1	0.04	regulation of long-day photoperiodism, flowering	0.0385908531873201

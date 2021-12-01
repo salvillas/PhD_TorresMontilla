@@ -1,0 +1,7 @@
+Annotated	Significant	Expected	Term	pval
+GO:0016554	32	1	0.01	cytidine to uridine editing	0.00742380673212062
+GO:0061077	85	1	0.02	chaperone-mediated protein folding	0.0196134394298344
+GO:0006869	189	1	0.04	lipid transport	0.0431525681159345
+GO:0006633	197	1	0.05	fatty acid biosynthetic process	0.0449426097206495
+GO:1900865	25	1	0.01	chloroplast RNA modification	0.00580398289598028
+GO:0110102	2	1	0	chloroplast ribulose bisphosphate carboxylase complex assembly	0.000465407152340003

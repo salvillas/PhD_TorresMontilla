@@ -1,0 +1,14 @@
+Annotated	Significant	Expected	Term	pval	Enrichment
+GO:0071555	535	7	0.65	cell wall organization	3.58025110968074e-06	1.36641744548287
+GO:0006952	893	8	1.09	defense response	1.08449969349373e-05	0.935572974990668
+GO:0048354	3	1	0	mucilage biosynthetic process involved in seed coat development	0.00366108422657585	34.8111111111111
+GO:0051560	20	1	0.02	mitochondrial calcium ion homeostasis	0.0241613934141929	5.22166666666667
+GO:0006355	2859	13	3.49	regulation of transcription, DNA-templated	2.26039075799213e-05	0.474863005712953
+GO:0010411	79	6	0.1	xyloglucan metabolic process	5.96182540732568e-10	7.93164556962025
+GO:0042546	186	6	0.23	cell wall biogenesis	1.0327375314384e-07	3.36881720430108
+GO:0006629	1330	4	1.63	lipid metabolic process	0.00818630388045217	0.314085213032581
+GO:0000290	17	1	0.02	deadenylation-dependent decapping of nuclear-transcribed mRNA	0.020573859739659	6.14313725490196
+GO:0010115	4	1	0	regulation of abscisic acid biosynthetic process	0.00487853547941219	26.1083333333333
+GO:0030244	79	2	0.1	cellulose biosynthetic process	0.00423032232212432	2.64388185654008
+GO:0009741	65	3	0.08	response to brassinosteroid	7.02725423544338e-05	4.82
+GO:0009873	196	7	0.24	ethylene-activated signaling pathway	4.00926912554669e-09	3.7297619047619

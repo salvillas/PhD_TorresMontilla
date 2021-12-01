@@ -1,0 +1,47 @@
+Annotated	Significant	Expected	Term	pval
+GO:0017186	5	1	0.02	peptidyl-pyroglutamic acid biosynthetic process, using glutaminyl-peptide cyclotransferase	0.0187676929918862
+GO:0006253	8	1	0.03	dCTP catabolic process	0.0298601002155112
+GO:0052865	11	2	0.04	1-deoxy-D-xylulose 5-phosphate biosynthetic process	0.00076334117422978
+GO:0033353	9	4	0.03	S-adenosylmethionine cycle	5.16583609192746e-08
+GO:0033355	2	1	0.01	ascorbate glutathione cycle	0.00754944381853073
+GO:0042183	3	1	0.01	formate catabolic process	0.0113029297610904
+GO:0055114	3664	27	13.86	oxidation-reduction process	0.000178314685823245
+GO:0009611	80	4	0.3	response to wounding	0.000247268586274479
+GO:0009644	13	1	0.05	response to high light intensity	0.0480715945112911
+GO:0031347	105	3	0.4	regulation of defense response	0.00748289394936465
+GO:0019509	10	1	0.04	L-methionine salvage from methylthioadenosine	0.0371858185742997
+GO:0010193	14	2	0.05	response to ozone	0.00125362683548916
+GO:0019693	643	7	2.43	ribose phosphate metabolic process	0.0109869648382165
+GO:0009228	22	2	0.08	thiamine biosynthetic process	0.00311990790278872
+GO:0006527	5	1	0.02	arginine catabolic process	0.0187676929918862
+GO:0042262	8	1	0.03	DNA protection	0.0298601002155112
+GO:0009911	6	1	0.02	positive regulation of flower development	0.022479075008501
+GO:0006753	792	11	3	nucleoside phosphate metabolic process	0.0106808171406805
+GO:0015996	12	2	0.05	chlorophyll catabolic process	0.000913741288973988
+GO:0035672	2	1	0.01	oligopeptide transmembrane transport	0.00754944381853073
+GO:0046686	26	2	0.1	response to cadmium ion	0.00434632499750108
+GO:0010731	3	1	0.01	protein glutathionylation	0.0113029297610904
+GO:0051560	20	2	0.08	mitochondrial calcium ion homeostasis	0.00257887786005568
+GO:0032456	11	1	0.04	endocytic recycling	0.0408280663143072
+GO:0006166	14	3	0.05	purine ribonucleoside salvage	1.86598500876672e-05
+GO:0006168	9	2	0.03	adenine salvage	0.000502126118968826
+GO:0046294	6	1	0.02	formaldehyde catabolic process	0.022479075008501
+GO:0009435	24	2	0.09	NAD biosynthetic process	0.00370930686927445
+GO:0006730	64	4	0.24	one-carbon metabolic process	0.00010408236317259
+GO:0044209	10	3	0.04	AMP salvage	6.22016648547679e-06
+GO:0070897	44	2	0.17	transcription preinitiation complex assembly	0.012102738953782
+GO:0006656	12	1	0.05	phosphatidylcholine biosynthetic process	0.0444566413166098
+GO:0050992	6	1	0.02	dimethylallyl diphosphate biosynthetic process	0.022479075008501
+GO:0007623	68	2	0.26	circadian rhythm	0.0274818766795744
+GO:0019284	6	1	0.02	L-methionine salvage from S-adenosylmethionine	0.022479075008501
+GO:0019288	6	1	0.02	isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway	0.022479075008501
+GO:0008295	18	2	0.07	spermidine biosynthetic process	0.00208697499875127
+GO:0008299	153	5	0.58	isoprenoid biosynthetic process	0.0101701265429397
+GO:2000022	29	3	0.11	regulation of jasmonic acid mediated signaling pathway	0.000179701209901122
+GO:0031408	27	3	0.1	oxylipin biosynthetic process	0.00014464685224989
+GO:0048443	10	2	0.04	stamen development	0.000626102607089663
+GO:1905691	4	1	0.02	lipid droplet disassembly	0.015042328665171
+GO:0009690	56	4	0.21	cytokinin metabolic process	3.38969339341623e-05
+GO:0010289	2	1	0.01	homogalacturonan biosynthetic process	0.00754944381853073
+GO:0009695	12	3	0.05	jasmonic acid biosynthetic process	1.13406005087426e-05
+GO:0002238	9	1	0.03	response to molecule of fungal origin	0.0335298469775787

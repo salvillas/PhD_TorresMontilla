@@ -1,0 +1,12 @@
+Annotated	Significant	Expected	Term	pval
+GO:0009873	196	5	0.11	ethylene-activated signaling pathway	8.28118300264487e-08
+GO:0006487	54	1	0.03	protein N-linked glycosylation	0.0309621287558255
+GO:0010115	4	1	0	regulation of abscisic acid biosynthetic process	0.00232534382403204
+GO:0071555	535	5	0.31	cell wall organization	1.14535079505825e-05
+GO:0000290	17	1	0.01	deadenylation-dependent decapping of nuclear-transcribed mRNA	0.00984728633718179
+GO:0006355	2859	7	1.66	regulation of transcription, DNA-templated	0.000801835656467116
+GO:0010411	79	5	0.05	xyloglucan metabolic process	8.50643039395402e-10
+GO:0051560	20	1	0.01	mitochondrial calcium ion homeostasis	0.0115754519547751
+GO:0009741	65	1	0.04	response to brassinosteroid	0.0371565619038762
+GO:0042546	186	5	0.11	cell wall biogenesis	6.37896785674433e-08
+GO:0006952	893	5	0.52	defense response	0.000131090347140417

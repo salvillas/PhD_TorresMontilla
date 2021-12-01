@@ -1,0 +1,48 @@
+Annotated	Significant	Expected	Term	pval
+GO:0008360	47	2	0.18	regulation of cell shape	0.0147452472162809
+GO:0009443	2	1	0.01	pyridoxal 5'-phosphate salvage	0.00783923578603252
+GO:0034976	61	2	0.24	response to endoplasmic reticulum stress	0.0240891481624043
+GO:0048511	80	5	0.31	rhythmic process	0.000945508073235369
+GO:0009408	109	3	0.43	response to heat	0.0391754034912535
+GO:0009409	68	2	0.27	response to cold	0.0294592613130243
+GO:0015768	2	1	0.01	maltose transport	0.00783923578603252
+GO:0010114	17	2	0.07	response to red light	0.0020031543555334
+GO:0009646	8	1	0.03	response to absence of light	0.0309928125487081
+GO:0009637	25	2	0.1	response to blue light	0.00432885798545121
+GO:1902983	2	1	0.01	DNA strand elongation involved in mitotic DNA replication	0.00783923578603252
+GO:0000398	272	7	1.07	mRNA splicing, via spliceosome	0.000144686125983264
+GO:0045901	9	1	0.04	positive regulation of translational elongation	0.0347992539112333
+GO:0045905	9	1	0.04	positive regulation of translational termination	0.0347992539112333
+GO:0010052	10	1	0.04	guard cell differentiation	0.0385908531873201
+GO:0010054	11	1	0.04	trichoblast differentiation	0.0423676678190591
+GO:0010100	4	1	0.02	negative regulation of photomorphogenesis	0.0156174696223048
+GO:0009187	3	1	0.01	cyclic nucleotide metabolic process	0.011735948414226
+GO:0055129	8	1	0.03	L-proline biosynthetic process	0.0309928125487081
+GO:0070370	3	1	0.01	cellular heat acclimation	0.011735948414226
+GO:0010020	17	3	0.07	chloroplast fission	3.86892889357187e-05
+GO:0006812	1053	5	4.14	cation transport	0.0386188529114152
+GO:0018206	6	1	0.02	peptidyl-methionine modification	0.0233351726876587
+GO:0015976	12	1	0.05	carbon utilization	0.0461297550278945
+GO:0098869	378	5	1.48	cellular oxidant detoxification	0.0170007767225613
+GO:0006086	13	1	0.05	acetyl-CoA biosynthetic process from pyruvate	0.0498771718154633
+GO:0045040	13	1	0.05	protein insertion into mitochondrial outer membrane	0.0498771718154633
+GO:0006021	9	1	0.04	inositol biosynthetic process	0.0347992539112333
+GO:0045046	1	1	0	protein import into peroxisome membrane	0.00392727272727267
+GO:0015866	24	2	0.09	ADP transport	0.0307804959589448
+GO:0010218	4	1	0.02	response to far red light	0.0156174696223048
+GO:0070544	1	1	0	histone H3-K36 demethylation	0.00392727272727267
+GO:0019365	5	2	0.02	pyridine nucleotide salvage	0.000151915335145266
+GO:2000028	34	3	0.13	regulation of photoperiodism, flowering	0.000324233597376872
+GO:0030259	10	1	0.04	lipid glycosylation	0.0385908531873201
+GO:0006225	1	1	0	UDP biosynthetic process	0.00392727272727267
+GO:2000032	11	2	0.04	regulation of secondary shoot formation	0.000822706869929548
+GO:0010478	2	1	0.01	chlororespiration	0.00783923578603252
+GO:0042752	35	3	0.14	regulation of circadian rhythm	0.00693083591810778
+GO:0042753	3	1	0.01	positive regulation of circadian rhythm	0.011735948414226
+GO:0033523	2	1	0.01	histone H2B ubiquitination	0.00783923578603252
+GO:0050896	4699	31	18.45	response to stimulus	0.0252760052441974
+GO:0006426	8	1	0.03	glycyl-tRNA aminoacylation	0.0309928125487081
+GO:0009414	100	3	0.39	response to water deprivation	0.00725797880959059
+GO:0048575	3	1	0.01	short-day photoperiodism, flowering	0.011735948414226
+GO:0006656	12	1	0.05	phosphatidylcholine biosynthetic process	0.0461297550278945
+GO:0010196	6	1	0.02	nonphotochemical quenching	0.0233351726876587

@@ -1,0 +1,28 @@
+Annotated	Significant	Expected	Term	pval
+GO:0042773	92	3	0.41	ATP synthesis coupled electron transport	0.0352343405409684
+GO:0000165	68	2	0.3	MAPK cascade	0.0365878498958769
+GO:0000719	2	1	0.01	photoreactive repair	0.00882421195724026
+GO:0006607	10	1	0.04	NLS-bearing protein import into nucleus	0.0433541786796713
+GO:0033356	7	1	0.03	UDP-L-arabinose metabolic process	0.0305477687199278
+GO:0042351	1	1	0	'de novo' GDP-L-fucose biosynthetic process	0.00442181818181819
+GO:0033615	4	1	0.02	mitochondrial proton-transporting ATP synthase complex assembly	0.0175710649853548
+GO:0006412	1733	17	7.66	translation	0.00293972779250665
+GO:0006096	146	4	0.65	glycolytic process	0.00410672028859606
+GO:0006438	10	1	0.04	valyl-tRNA aminoacylation	0.0433541786796713
+GO:0006520	798	9	3.53	cellular amino acid metabolic process	0.0286101691490695
+GO:0032955	7	1	0.03	regulation of division septum assembly	0.0305477687199278
+GO:0046654	10	1	0.04	tetrahydrofolate biosynthetic process	0.0433541786796713
+GO:0015990	9	1	0.04	electron transport coupled proton transport	0.0391041592478394
+GO:0006535	22	2	0.1	cysteine biosynthetic process from serine	0.00423385827318094
+GO:0032467	11	1	0.05	positive regulation of cytokinesis	0.0475855235026221
+GO:0006729	5	1	0.02	tetrahydrobiopterin biosynthetic process	0.0219156926692227
+GO:0034551	4	1	0.02	mitochondrial respiratory chain complex III assembly	0.0175710649853548
+GO:0006152	6	1	0.03	purine nucleoside catabolic process	0.0262412328122044
+GO:0022904	140	5	0.62	respiratory electron transport chain	0.0185719780992592
+GO:0035998	2	1	0.01	7,8-dihydroneopterin 3'-triphosphate biosynthetic process	0.00882421195724026
+GO:0006361	5	1	0.02	transcription initiation from RNA polymerase I promoter	0.0219156926692227
+GO:0070131	10	1	0.04	positive regulation of mitochondrial translation	0.0433541786796713
+GO:0009086	75	2	0.33	methionine biosynthetic process	0.0436921991700885
+GO:0033169	7	1	0.03	histone H3-K9 demethylation	0.0305477687199278
+GO:0036090	9	1	0.04	cleavage furrow ingression	0.0391041592478394
+GO:0048793	2	1	0.01	pronephros development	0.00882421195724026

@@ -1,0 +1,12 @@
+Annotated	Significant	Expected	Term	pval
+GO:0043562	10	1	0.01	cellular response to nitrogen levels	0.00724991774833994
+GO:0006012	27	1	0.02	galactose metabolic process	0.0194591217046491
+GO:0010581	10	1	0.01	regulation of starch biosynthetic process	0.00724991774833994
+GO:0048278	53	1	0.04	vesicle docking	0.037853625286006
+GO:0006906	59	1	0.04	vesicle fusion	0.0420512209326541
+GO:0042790	3	1	0	nucleolar large rRNA transcription by RNA polymerase I	0.00218029517149032
+GO:0070981	5	2	0	L-asparagine biosynthetic process	5.0710414707208e-06
+GO:0003333	48	1	0.03	amino acid transmembrane transport	0.0343421458956064
+GO:0045900	4	1	0	negative regulation of translational elongation	0.00290604556776386
+GO:0045859	191	2	0.14	regulation of protein kinase activity	0.0358349999678181
+GO:0006541	95	2	0.07	glutamine metabolic process	0.00217523992322835

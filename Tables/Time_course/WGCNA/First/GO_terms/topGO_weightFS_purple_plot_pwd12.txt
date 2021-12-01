@@ -1,0 +1,34 @@
+Annotated	Significant	Expected	Term	pval	Enrichment
+GO:0072344	6	2	0.05	rescue of stalled ribosome	0.000998172008898975	2.38060309698452
+GO:1902546	3	1	0.02	positive regulation of DNA N-glycosylase activity	0.024581954759486	2.38060309698452
+GO:1901224	2	1	0.02	positive regulation of NIK/NF-kappaB signaling	0.0164556170890262	3.57090464547677
+GO:0070301	3	1	0.02	cellular response to hydrogen peroxide	0.024581954759486	2.38060309698452
+GO:0010115	4	1	0.03	regulation of abscisic acid biosynthetic process	0.0326413846689559	1.78545232273839
+GO:0042254	472	47	3.9	ribosome biogenesis	2.22743136190052e-09	0.711154738717832
+GO:1990090	3	1	0.02	cellular response to nerve growth factor stimulus	0.024581954759486	2.38060309698452
+GO:0006750	4	1	0.03	glutathione biosynthetic process	0.0326413846689559	1.78545232273839
+GO:0042273	112	19	0.93	ribosomal large subunit biogenesis	5.35797389764576e-07	1.21155693328676
+GO:0017148	38	5	0.31	negative regulation of translation	1.49202556643308e-05	0.939711748809677
+GO:0031116	3	1	0.02	positive regulation of microtubule polymerization	0.024581954759486	2.38060309698452
+GO:0045738	4	1	0.03	negative regulation of DNA repair	0.0326413846689559	1.78545232273839
+GO:0043507	2	1	0.02	positive regulation of JUN kinase activity	0.0164556170890262	3.57090464547677
+GO:0051092	4	1	0.03	positive regulation of NF-kappaB transcription factor activity	0.0326413846689559	1.78545232273839
+GO:1902231	2	1	0.02	positive regulation of intrinsic apoptotic signaling pathway in response to DNA damage	0.0164556170890262	3.57090464547677
+GO:0002181	140	16	1.16	cytoplasmic translation	5.26735851757238e-14	0.816206776108977
+GO:0001934	48	3	0.4	positive regulation of protein phosphorylation	0.000666078843068296	0.446363080684597
+GO:0071356	2	1	0.02	cellular response to tumor necrosis factor	0.0164556170890262	3.57090464547677
+GO:1905053	2	1	0.02	positive regulation of base-excision repair	0.0164556170890262	3.57090464547677
+GO:0010477	1	1	0.01	response to sulfur dioxide	0.00826181818181815	7.14180929095355
+GO:0032743	2	1	0.02	positive regulation of interleukin-2 production	0.0164556170890262	3.57090464547677
+GO:0042769	2	1	0.02	DNA damage response, detection of DNA damage	0.0164556170890262	3.57090464547677
+GO:0006412	1733	250	14.32	translation	6.2648268070929e-304	1.03026677595983
+GO:0006414	163	13	1.35	translational elongation	8.10399598495153e-08	0.56959215203924
+GO:2001272	2	1	0.02	positive regulation of cysteine-type endopeptidase activity involved in execution phase of apoptosis	0.0164556170890262	3.57090464547677
+GO:0000462	45	6	0.37	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1.87450329726801e-06	0.952241238793806
+GO:0000463	32	8	0.26	maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1.74215595287948e-10	1.78545232273839
+GO:0061481	2	1	0.02	response to TNF agonist	0.0164556170890262	3.57090464547677
+GO:0000027	41	6	0.34	ribosomal large subunit assembly	1.06386616947647e-06	1.04514282306637
+GO:0000028	38	13	0.31	ribosomal small subunit assembly	2.85563121478244e-18	2.44325054690516
+GO:0032079	2	1	0.02	positive regulation of endodeoxyribonuclease activity	0.0164556170890262	3.57090464547677
+GO:0042104	2	1	0.02	positive regulation of activated T cell proliferation	0.0164556170890262	3.57090464547677
+GO:0050862	2	1	0.02	positive regulation of T cell receptor signaling pathway	0.0164556170890262	3.57090464547677

@@ -1,0 +1,35 @@
+Annotated	Significant	Expected	Term	pval
+GO:0006207	19	1	0.05	'de novo' pyrimidine nucleobase biosynthetic process	0.0459625345488963
+GO:0007010	369	7	0.91	cytoskeleton organization	4.31633191445286e-06
+GO:0007017	390	8	0.96	microtubule-based process	2.71953233905036e-07
+GO:0005980	3	1	0.01	glycogen catabolic process	0.00740006854301734
+GO:0035511	3	1	0.01	oxidative DNA demethylation	0.00740006854301734
+GO:0016104	12	2	0.03	triterpenoid biosynthetic process	0.000392444433958087
+GO:0005978	17	2	0.04	glycogen biosynthetic process	0.000802199313600903
+GO:0030244	79	2	0.2	cellulose biosynthetic process	0.0164593953556136
+GO:0010315	8	1	0.02	auxin efflux	0.019613439429835
+GO:0044206	12	1	0.03	UMP salvage	0.029277107078151
+GO:0009415	109	2	0.27	response to water	0.0218444240840908
+GO:0030837	16	1	0.04	negative regulation of actin filament polymerization	0.0388466296989283
+GO:0055062	12	1	0.03	phosphate ion homeostasis	0.029277107078151
+GO:0051174	333	2	0.82	regulation of phosphorus metabolic process	0.00246746761448757
+GO:0052837	2	1	0	thiazole biosynthetic process	0.00493941192338776
+GO:1905582	14	1	0.03	response to mannose	0.0340735796662899
+GO:0060236	15	1	0.04	regulation of mitotic spindle organization	0.0364630254253876
+GO:0006307	2	1	0	DNA dealkylation involved in DNA repair	0.00493941192338776
+GO:0050764	10	1	0.02	regulation of phagocytosis	0.0244570983691177
+GO:0010252	12	1	0.03	auxin homeostasis	0.029277107078151
+GO:0030587	8	1	0.02	sorocarp development	0.019613439429835
+GO:0042793	17	1	0.04	plastid transcription	0.041224406598011
+GO:0030148	15	1	0.04	sphingolipid biosynthetic process	0.0364630254253876
+GO:0019252	62	2	0.15	starch biosynthetic process	0.0103791211115295
+GO:0009773	18	1	0.04	photosynthetic electron transport in photosystem I	0.0435963702000596
+GO:0015979	598	4	1.48	photosynthesis	0.0226886932612097
+GO:0018106	9	1	0.02	peptidyl-histidine phosphorylation	0.022038232331411
+GO:0000919	11	1	0.03	cell plate assembly	0.0268700518578016
+GO:0031222	11	1	0.03	arabinan catabolic process	0.0268700518578016
+GO:0009749	30	2	0.07	response to glucose	0.00251287704453323
+GO:0016121	5	2	0.01	carotene catabolic process	6.01349217832567e-05
+GO:0032467	11	1	0.03	positive regulation of cytokinesis	0.0268700518578016
+GO:0044211	8	1	0.02	CTP salvage	0.019613439429835
+GO:2000694	2	1	0	regulation of phragmoplast microtubule organization	0.00493941192338776

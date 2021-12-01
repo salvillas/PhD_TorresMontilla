@@ -1,0 +1,14 @@
+Annotated	Significant	Expected	Term	pval
+GO:0009611	80	2	0.04	response to wounding	0.000798783183749858
+GO:0055114	3664	5	1.92	oxidation-reduction process	0.0359440629374384
+GO:0000162	30	1	0.02	tryptophan biosynthetic process	0.0155969271454557
+GO:0006952	893	3	0.47	defense response	0.0368280632377746
+GO:0018401	4	1	0	peptidyl-proline hydroxylation to 4-hydroxy-L-proline	0.00209299211957237
+GO:0031640	5	1	0	killing of cells of other organism	0.00261559332820316
+GO:0010199	5	1	0	organ boundary specification between lateral organs and the meristem	0.00261559332820316
+GO:0010951	71	3	0.04	negative regulation of endopeptidase activity	6.73810108277427e-06
+GO:0009097	35	1	0.02	isoleucine biosynthetic process	0.0181739720876986
+GO:0048530	5	1	0	fruit morphogenesis	0.00261559332820316
+GO:0015976	12	1	0.01	carbon utilization	0.006266570869504
+GO:0019288	6	1	0	isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway	0.00313793604918344
+GO:0050832	80	1	0.04	defense response to fungus	0.0410823867510102

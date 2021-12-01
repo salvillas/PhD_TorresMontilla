@@ -1,0 +1,10 @@
+Annotated	Significant	Expected	Term	pval
+GO:0061077	85	1	0.03	chaperone-mediated protein folding	0.029277107078151
+GO:0003333	48	1	0.02	amino acid transmembrane transport	0.0166309125840272
+GO:0006096	146	1	0.05	glycolytic process	0.0498011566594613
+GO:0043562	10	1	0	cellular response to nitrogen levels	0.00348588593379306
+GO:0042908	135	1	0.05	xenobiotic transport	0.0461297550278945
+GO:0010581	10	1	0	regulation of starch biosynthetic process	0.00348588593379306
+GO:0070981	5	1	0	L-asparagine biosynthetic process	0.00174433774700544
+GO:0006541	95	1	0.03	glutamine metabolic process	0.0326693122764159
+GO:0006012	27	1	0.01	galactose metabolic process	0.00938633842724979

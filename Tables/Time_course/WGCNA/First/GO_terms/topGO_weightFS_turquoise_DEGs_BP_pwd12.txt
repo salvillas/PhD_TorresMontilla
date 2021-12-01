@@ -1,0 +1,153 @@
+Annotated	Significant	Expected	Term	pval
+GO:0034976	61	10	2.73	response to endoplasmic reticulum stress	0.00837914878920496
+GO:1905037	41	5	1.83	autophagosome organization	0.0112668807257019
+GO:0019511	16	5	0.72	peptidyl-proline hydroxylation	0.00147335146393533
+GO:0006749	60	11	2.68	glutathione metabolic process	0.000597105993256103
+GO:1990170	2	2	0.09	stress response to cadmium ion	0.00199798536949174
+GO:0000467	11	3	0.49	exonucleolytic trimming to generate mature 3'-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	0.0112372471758415
+GO:0071965	2	2	0.09	multicellular organismal locomotion	0.00199798536949174
+GO:1904482	6	2	0.27	cellular response to tetrahydrofolate	0.0265757758798819
+GO:0010029	26	4	1.16	regulation of seed germination	0.0182077678665753
+GO:1905582	14	3	0.63	response to mannose	0.0224324906015099
+GO:0000413	117	12	5.23	protein peptidyl-prolyl isomerization	0.00620912794076626
+GO:0006896	17	6	0.76	Golgi to vacuole transport	0.00363991054125342
+GO:0006897	96	11	4.29	endocytosis	0.00580844744691343
+GO:0007080	8	2	0.36	mitotic metaphase plate congression	0.0467479995389597
+GO:0070072	5	2	0.22	vacuolar proton-transporting V-type ATPase complex assembly	0.0182543872327525
+GO:0022900	617	36	27.59	electron transport chain	0.000566833933072045
+GO:2000300	1	1	0.04	regulation of synaptic vesicle exocytosis	0.0447127272727272
+GO:0006850	7	2	0.31	mitochondrial pyruvate transmembrane transport	0.0361154590189844
+GO:2000306	2	2	0.09	positive regulation of photomorphogenesis	0.00199798536949174
+GO:0007010	369	25	16.5	cytoskeleton organization	0.0488493883146646
+GO:0006099	84	10	3.76	tricarboxylic acid cycle	0.00423506205711405
+GO:0007040	1	1	0.04	lysosome organization	0.0447127272727272
+GO:0006886	730	76	32.64	intracellular protein transport	4.45330757093793e-09
+GO:0006888	108	11	4.83	endoplasmic reticulum to Golgi vesicle-mediated transport	0.00638486988612466
+GO:0007030	43	5	1.92	Golgi organization	0.0418960260936581
+GO:0007034	102	14	4.56	vacuolar transport	0.0303367716979196
+GO:0090481	31	8	1.39	pyrimidine nucleotide-sugar transmembrane transport	0.0180887715179404
+GO:0000956	104	17	4.65	nuclear-transcribed mRNA catabolic process	0.0433410024940144
+GO:0006086	13	4	0.58	acetyl-CoA biosynthetic process from pyruvate	0.00205726323995593
+GO:0043161	252	23	11.27	proteasome-mediated ubiquitin-dependent protein catabolic process	0.001519248460567
+GO:0030865	50	4	2.24	cortical cytoskeleton organization	0.0379802797418394
+GO:0043928	9	3	0.4	exonucleolytic catabolism of deadenylated mRNA	0.00611744460523487
+GO:1904970	1	1	0.04	brush border assembly	0.0447127272727272
+GO:0000184	38	7	1.7	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	0.00131497885819359
+GO:1902479	6	2	0.27	positive regulation of defense response to bacterium, incompatible interaction	0.0265757758798819
+GO:0016192	667	74	29.82	vesicle-mediated transport	1.70932730415667e-05
+GO:0016925	20	4	0.89	protein sumoylation	0.0108633785563601
+GO:0070536	10	3	0.45	protein K63-linked deubiquitination	0.00845077703683009
+GO:0006565	6	2	0.27	L-serine catabolic process	0.0265757758798819
+GO:0080009	7	2	0.31	mRNA methylation	0.0361154590189844
+GO:0090160	2	2	0.09	Golgi to lysosome transport	0.00199798536949174
+GO:0042176	83	14	3.71	regulation of protein catabolic process	0.0302833142977782
+GO:1904106	1	1	0.04	protein localization to microvillus	0.0447127272727272
+GO:0009792	4	2	0.18	embryo development ending in birth or egg hatching	0.0112860637291292
+GO:0042147	37	5	1.65	retrograde transport, endosome to Golgi	0.0235766059359009
+GO:0006511	526	59	23.52	ubiquitin-dependent protein catabolic process	1.55797172662465e-09
+GO:0008615	3	2	0.13	pyridoxine biosynthetic process	0.00581550746900995
+GO:0016139	1	1	0.04	glycoside catabolic process	0.0447127272727272
+GO:0110039	2	2	0.09	positive regulation of nematode male tail tip morphogenesis	0.00199798536949174
+GO:0015916	1	1	0.04	fatty-acyl-CoA transport	0.0447127272727272
+GO:0048193	199	25	8.9	Golgi vesicle transport	0.0299142147991428
+GO:0009744	23	5	1.03	response to sucrose	0.0129269873450277
+GO:0043248	20	4	0.89	proteasome assembly	0.0440023185055625
+GO:0010603	6	2	0.27	regulation of cytoplasmic mRNA processing body assembly	0.0265757758798819
+GO:0009735	55	3	2.46	response to cytokinin	0.0266145218470081
+GO:1903292	2	2	0.09	protein localization to Golgi membrane	0.00199798536949174
+GO:0006659	3	2	0.13	phosphatidylserine biosynthetic process	0.00581550746900995
+GO:0016226	46	8	2.06	iron-sulfur cluster assembly	0.0035922013424463
+GO:0006621	15	5	0.67	protein retention in ER lumen	0.000365972595208488
+GO:0035999	31	4	1.39	tetrahydrofolate interconversion	0.0479770499655257
+GO:0120009	22	4	0.98	intermembrane lipid transfer	0.015282081841412
+GO:0009860	31	4	1.39	pollen tube growth	0.0479770499655257
+GO:0008380	404	42	18.06	RNA splicing	0.0053152100800835
+GO:0034063	14	3	0.63	stress granule assembly	0.0224324906015099
+GO:0034052	1	1	0.04	positive regulation of plant-type hypersensitive response	0.0447127272727272
+GO:0019447	2	2	0.09	D-cysteine catabolic process	0.00199798536949174
+GO:0048280	13	3	0.58	vesicle fusion with Golgi apparatus	0.0182209962000725
+GO:1990592	3	2	0.13	protein K69-linked ufmylation	0.00581550746900995
+GO:0000706	1	1	0.04	meiotic DNA double-strand break processing	0.0447127272727272
+GO:0048213	1	1	0.04	Golgi vesicle prefusion complex stabilization	0.0447127272727272
+GO:0071051	8	2	0.36	polyadenylation-dependent snoRNA 3'-end processing	0.0467479995389597
+GO:0009590	1	1	0.04	detection of gravity	0.0447127272727272
+GO:1903775	1	1	0.04	regulation of DNA double-strand break processing	0.0447127272727272
+GO:0015790	8	2	0.36	UDP-xylose transmembrane transport	0.0467479995389597
+GO:0006364	289	23	12.92	rRNA processing	0.0461800613684787
+GO:0006368	51	7	2.28	transcription elongation from RNA polymerase II promoter	0.018148345401089
+GO:0071028	15	4	0.67	nuclear mRNA surveillance	0.00272330404510917
+GO:0009561	20	3	0.89	megagametogenesis	0.0182469135353643
+GO:0071042	4	2	0.18	nuclear polyadenylation-dependent mRNA catabolic process	0.0112860637291292
+GO:0002188	7	2	0.31	translation reinitiation	0.0361154590189844
+GO:0071035	10	3	0.45	nuclear polyadenylation-dependent rRNA catabolic process	0.00845077703683009
+GO:0015786	7	2	0.31	UDP-glucose transmembrane transport	0.0361154590189844
+GO:0071038	9	3	0.4	nuclear polyadenylation-dependent tRNA catabolic process	0.00611744460523487
+GO:0045901	9	3	0.4	positive regulation of translational elongation	0.00611744460523487
+GO:0045905	9	3	0.4	positive regulation of translational termination	0.00611744460523487
+GO:0002119	2	2	0.09	nematode larval development	0.00199798536949174
+GO:0006334	69	8	3.09	nucleosome assembly	0.0256341618296391
+GO:0000054	19	4	0.85	ribosomal subunit export from nucleus	0.0466645124116091
+GO:0010444	1	1	0.04	guard mother cell differentiation	0.0447127272727272
+GO:0033566	1	1	0.04	gamma-tubulin complex localization	0.0447127272727272
+GO:0045292	52	9	2.33	mRNA cis splicing, via spliceosome	0.000451144812815613
+GO:0044571	1	1	0.04	[2Fe-2S] cluster assembly	0.0447127272727272
+GO:0042823	10	3	0.45	pyridoxal phosphate biosynthetic process	0.00845077703683009
+GO:0051603	629	74	28.12	proteolysis involved in cellular protein catabolic process	0.000105746181179448
+GO:0006480	1	1	0.04	N-terminal protein amino acid methylation	0.0447127272727272
+GO:0019252	62	7	2.77	starch biosynthetic process	0.0278553526717732
+GO:0006423	5	2	0.22	cysteinyl-tRNA aminoacylation	0.0182543872327525
+GO:0006413	333	35	14.89	translational initiation	4.19583289137889e-06
+GO:0006415	35	8	1.56	translational termination	0.00443138616757903
+GO:0010188	2	2	0.09	response to microbial phytotoxin	0.00199798536949174
+GO:0006417	210	23	9.39	regulation of translation	0.00314417676312735
+GO:0019222	4141	218	185.16	regulation of metabolic process	0.0107882110146233
+GO:0070194	2	2	0.09	synaptonemal complex disassembly	0.00199798536949174
+GO:0097428	19	5	0.85	protein maturation by iron-sulfur cluster transfer	0.00469464198477289
+GO:0006431	5	2	0.22	methionyl-tRNA aminoacylation	0.0182543872327525
+GO:0006432	7	2	0.31	phenylalanyl-tRNA aminoacylation	0.0361154590189844
+GO:0070973	15	3	0.67	protein localization to endoplasmic reticulum exit site	0.0271265482395875
+GO:0030488	57	6	2.55	tRNA methylation	0.0413080763614381
+GO:0043547	88	10	3.93	positive regulation of GTPase activity	0.00293328721828465
+GO:2000072	4	2	0.18	regulation of defense response to fungus, incompatible interaction	0.0112860637291292
+GO:0070919	1	1	0.04	production of siRNA involved in chromatin silencing by small RNA	0.0447127272727272
+GO:0051365	3	2	0.13	cellular response to potassium ion starvation	0.00581550746900995
+GO:0008104	1341	119	59.96	protein localization	0.0244965075135847
+GO:2001173	1	1	0.04	regulation of histone H2B conserved C-terminal lysine ubiquitination	0.0447127272727272
+GO:0016567	901	54	40.29	protein ubiquitination	0.0190949913125156
+GO:0016559	12	4	0.54	peroxisome fission	0.00147627676784476
+GO:0030433	42	7	1.88	ubiquitin-dependent ERAD pathway	0.0024067561874522
+GO:0046716	2	2	0.09	muscle cell cellular homeostasis	0.00199798536949174
+GO:0016579	125	15	5.59	protein deubiquitination	0.00950111567743853
+GO:0006914	101	12	4.52	autophagy	0.0489704116460457
+GO:0048026	1	1	0.04	positive regulation of mRNA splicing, via spliceosome	0.0447127272727272
+GO:0050790	780	47	34.88	regulation of catalytic activity	0.024109136917882
+GO:0097167	2	2	0.09	circadian regulation of translation	0.00199798536949174
+GO:0043666	103	9	4.61	regulation of phosphoprotein phosphatase activity	0.0120689980543706
+GO:0006120	14	3	0.63	mitochondrial electron transport, NADH to ubiquinone	0.0224324906015099
+GO:0006122	8	3	0.36	mitochondrial electron transport, ubiquinol to cytochrome c	0.00421783745905834
+GO:0051306	40	5	1.79	mitotic sister chromatid separation	0.00199459839715451
+GO:1901800	37	4	1.65	positive regulation of proteasomal protein catabolic process	0.0182232893190371
+GO:0005978	17	3	0.76	glycogen biosynthetic process	0.0379505565874192
+GO:0030150	23	6	1.03	protein import into mitochondrial matrix	0.000414149492177557
+GO:0045732	46	7	2.06	positive regulation of protein catabolic process	0.00271510181359054
+GO:0090501	1696	17	75.83	RNA phosphodiester bond hydrolysis	0.0389241266621429
+GO:0030154	303	27	13.55	cell differentiation	0.00157948135313466
+GO:1901002	6	2	0.27	positive regulation of response to salt stress	0.0265757758798819
+GO:0048578	5	2	0.22	positive regulation of long-day photoperiodism, flowering	0.0182543872327525
+GO:0072334	8	2	0.36	UDP-galactose transmembrane transport	0.0467479995389597
+GO:0045892	171	17	7.65	negative regulation of transcription, DNA-templated	0.038462080884269
+GO:0031647	35	3	1.56	regulation of protein stability	0.0265854137500268
+GO:0006265	24	4	1.07	DNA topological change	0.0206893249118921
+GO:0046034	466	29	20.84	ATP metabolic process	0.0463824348140894
+GO:0045087	167	13	7.47	innate immune response	0.00271204439027203
+GO:0034473	4	2	0.18	U1 snRNA 3'-end processing	0.0112860637291292
+GO:0034475	12	4	0.54	U4 snRNA 3'-end processing	0.00147627676784476
+GO:0034476	4	2	0.18	U5 snRNA 3'-end processing	0.0112860637291292
+GO:0034477	1	1	0.04	U6 snRNA 3'-end processing	0.0447127272727272
+GO:0034427	19	4	0.85	nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'	0.0090042506749863
+GO:0000381	42	7	1.88	regulation of alternative mRNA splicing, via spliceosome	0.0024067561874522
+GO:0071461	1	1	0.04	cellular response to redox state	0.0447127272727272
+GO:1902600	458	29	20.48	proton transmembrane transport	0.0196780582588715
+GO:0034402	1	1	0.04	recruitment of 3'-end processing factors to RNA polymerase II holoenzyme complex	0.0447127272727272
+GO:0019563	2	2	0.09	glycerol catabolic process	0.00199798536949174
+GO:0006780	1	1	0.04	uroporphyrinogen III biosynthetic process	0.0447127272727272

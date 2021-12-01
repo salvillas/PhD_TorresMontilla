@@ -1,0 +1,67 @@
+Annotated	Significant	Expected	Term	pval
+GO:0046854	61	2	0.3	phosphatidylinositol phosphorylation	0.0367824650822239
+GO:0008299	153	3	0.76	isoprenoid biosynthetic process	0.0406081057207345
+GO:0017183	9	1	0.04	peptidyl-diphthamide biosynthetic process from peptidyl-histidine	0.0436436839179744
+GO:0019441	7	1	0.03	tryptophan catabolic process to kynurenine	0.0341117194273581
+GO:0006623	42	2	0.21	protein targeting to vacuole	0.0183908806380449
+GO:0015798	3	1	0.01	myo-inositol transport	0.0147635393935293
+GO:0009734	207	4	1.02	auxin-activated signaling pathway	0.0197831033528156
+GO:0006974	954	3	4.72	cellular response to DNA damage stimulus	0.0284920641896242
+GO:0006633	197	4	0.97	fatty acid biosynthetic process	0.0168242149968736
+GO:0000902	152	4	0.75	cell morphogenesis	0.0107682741553123
+GO:0045893	415	6	2.05	positive regulation of transcription, DNA-templated	0.0383236901454693
+GO:0009624	18	2	0.09	response to nematode	0.00353135985042134
+GO:0009611	80	3	0.4	response to wounding	0.00738903284738158
+GO:0009972	3	1	0.01	cytidine deamination	0.0147635393935293
+GO:0015713	6	3	0.03	phosphoglycerate transmembrane transport	2.35087435393857e-06
+GO:0009944	18	2	0.09	polarity specification of adaxial/abaxial axis	0.00353135985042134
+GO:0010393	249	2	1.23	galacturonan metabolic process	0.0484255671010817
+GO:0034058	5	1	0.02	endosomal vesicle fusion	0.0244853146191744
+GO:0005986	18	2	0.09	sucrose biosynthetic process	0.00353135985042134
+GO:0010073	37	2	0.18	meristem maintenance	0.0144563141481165
+GO:0001666	59	2	0.29	response to hypoxia	0.0346106700770054
+GO:1902183	15	2	0.07	regulation of shoot apical meristem development	0.00244719663585965
+GO:0005978	17	3	0.08	glycogen biosynthetic process	7.67890789909314e-05
+GO:0035436	6	3	0.03	triose phosphate transmembrane transport	2.35087435393857e-06
+GO:0009909	55	2	0.27	regulation of flower development	0.0304252276401977
+GO:0010044	9	1	0.04	response to aluminum ion	0.0436436839179744
+GO:0000256	4	1	0.02	allantoin catabolic process	0.0196364067944107
+GO:0009827	4	1	0.02	plant-type cell wall modification	0.0196364067944107
+GO:0006021	9	1	0.04	inositol biosynthetic process	0.0436436839179744
+GO:0090677	2	1	0.01	reversible differentiation	0.00986659473068929
+GO:0006011	9	1	0.04	UDP-glucose metabolic process	0.0436436839179744
+GO:0010272	15	2	0.07	response to silver ion	0.00244719663585965
+GO:1902066	5	1	0.02	regulation of cell wall pectin metabolic process	0.0244853146191744
+GO:0010224	44	2	0.22	response to UV-B	0.0200770952550953
+GO:0050482	4	1	0.02	arachidonic acid secretion	0.0196364067944107
+GO:0034219	25	6	0.12	carbohydrate transmembrane transport	7.28885800085913e-05
+GO:0010555	4	1	0.02	response to mannitol	0.0196364067944107
+GO:1902074	37	2	0.18	response to salt	0.0144563141481165
+GO:2000024	26	2	0.13	regulation of leaf development	0.00730938758819352
+GO:0010236	5	2	0.02	plastoquinone biosynthetic process	0.000240775495356281
+GO:0006562	4	1	0.02	proline catabolic process	0.0196364067944107
+GO:0042542	10	1	0.05	response to hydrogen peroxide	0.0483745392323531
+GO:0051382	6	1	0.03	kinetochore assembly	0.0293103799818377
+GO:0019252	62	3	0.31	starch biosynthetic process	0.00362866066039747
+GO:0046786	7	1	0.03	viral replication complex formation and maintenance	0.0341117194273581
+GO:0008154	67	2	0.33	actin polymerization or depolymerization	0.043599498973438
+GO:0045454	62	2	0.31	cell redox homeostasis	0.0378875918962848
+GO:0048358	3	1	0.01	mucilage pectin biosynthetic process	0.0147635393935293
+GO:0048359	16	2	0.08	mucilage metabolic process involved in seed coat development	0.00278772920172919
+GO:0042753	3	1	0.01	positive regulation of circadian rhythm	0.0147635393935293
+GO:0006457	365	8	1.81	protein folding	0.000859326519691796
+GO:0045761	2	2	0.01	regulation of adenylate cyclase activity	2.43143602194047e-05
+GO:0090351	61	3	0.3	seedling development	0.0384980843107025
+GO:0051512	10	1	0.05	positive regulation of unidimensional cell growth	0.0483745392323531
+GO:0006751	9	1	0.04	glutathione catabolic process	0.0436436839179744
+GO:1901001	3	1	0.01	negative regulation of response to salt stress	0.0147635393935293
+GO:0046898	15	2	0.07	response to cycloheximide	0.00244719663585965
+GO:1901006	8	1	0.04	ubiquinone-6 biosynthetic process	0.0388894489343806
+GO:0045995	15	2	0.07	regulation of embryonic development	0.00244719663585965
+GO:0007163	7	2	0.03	establishment or maintenance of cell polarity	0.000502343308715861
+GO:0080001	14	2	0.07	mucilage extrusion from seed coat	0.00212780460363791
+GO:0071217	15	2	0.07	cellular response to external biotic stimulus	0.00244719663585965
+GO:0019509	10	1	0.05	L-methionine salvage from methylthioadenosine	0.0483745392323531
+GO:0071586	22	2	0.11	CAAX-box protein processing	0.0052629786446486
+GO:0006662	21	2	0.1	glycerol ether metabolic process	0.00480005061227204
+GO:0009414	100	5	0.49	response to water deprivation	0.000143695811091582

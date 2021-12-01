@@ -1,0 +1,15 @@
+Annotated	Significant	Expected	Term	pval
+GO:0002181	140	8	0.56	cytoplasmic translation	1.05165809415601e-07
+GO:0000027	41	4	0.16	ribosomal large subunit assembly	2.24367276951815e-05
+GO:0000028	38	6	0.15	ribosomal small subunit assembly	9.31930774381955e-09
+GO:0000462	45	3	0.18	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	0.000793989410196035
+GO:0000463	32	3	0.13	maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	0.000288314567529108
+GO:0017148	38	3	0.15	negative regulation of translation	0.000481811321777433
+GO:0006471	10	1	0.04	protein ADP-ribosylation	0.03943298792938
+GO:0006426	8	1	0.03	glycyl-tRNA aminoacylation	0.031671884340857
+GO:0006750	4	1	0.02	glutathione biosynthetic process	0.0159624332722119
+GO:0006412	1733	123	6.96	translation	4.54577080716412e-139
+GO:0006414	163	6	0.65	translational elongation	0.000429247409826206
+GO:0042254	472	22	1.89	ribosome biogenesis	0.00471468161508506
+GO:0072344	6	1	0.02	rescue of stalled ribosome	0.0238485313251751
+GO:0042273	112	10	0.45	ribosomal large subunit biogenesis	6.89490207823813e-05

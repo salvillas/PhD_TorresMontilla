@@ -1,0 +1,8 @@
+Annotated	Significant	Expected	Term	pval
+GO:0010027	13	1	0.01	thylakoid membrane organization	0.0079141493290279
+GO:0000105	21	1	0.01	histidine biosynthetic process	0.0127547074543656
+GO:0045454	62	1	0.04	cell redox homeostasis	0.037211584500296
+GO:1900865	25	1	0.02	chloroplast RNA modification	0.0151665433648874
+GO:0070084	7	1	0	protein initiator methionine removal	0.00426890609398001
+GO:0016554	32	2	0.02	cytidine to uridine editing	0.000174364387938733
+GO:0110102	2	1	0	chloroplast ribulose bisphosphate carboxylase complex assembly	0.00122146273346124

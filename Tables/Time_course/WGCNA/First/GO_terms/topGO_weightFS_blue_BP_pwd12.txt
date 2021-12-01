@@ -1,0 +1,113 @@
+Annotated	Significant	Expected	Term	pval
+GO:0016310	3629	125	139.78	phosphorylation	0.0283198758747408
+GO:0016311	753	46	29	dephosphorylation	0.00336844583401547
+GO:0006729	5	2	0.19	tetrahydrobiopterin biosynthetic process	0.013716561104402
+GO:0010821	10	3	0.39	regulation of mitochondrion organization	0.00558200260770425
+GO:0010027	13	3	0.5	thylakoid membrane organization	0.0122035822607927
+GO:0009116	152	12	5.85	nucleoside metabolic process	0.0130728972381597
+GO:0030713	1	1	0.04	ovarian follicle cell stalk formation	0.0385163636363637
+GO:0000413	117	21	4.51	protein peptidyl-prolyl isomerization	3.91670431092802e-09
+GO:0043448	1	1	0.04	alkane catabolic process	0.0385163636363637
+GO:0070084	7	2	0.27	protein initiator methionine removal	0.027363163956907
+GO:0018160	6	4	0.23	peptidyl-pyrromethane cofactor linkage	3.0881009550938e-05
+GO:0009107	7	2	0.27	lipoate biosynthetic process	0.027363163956907
+GO:0022900	617	56	23.76	electron transport chain	0.00280484656179048
+GO:0030708	1	1	0.04	germarium-derived female germ-line cyst encapsulation	0.0385163636363637
+GO:0006094	27	4	1.04	gluconeogenesis	0.0189670103832379
+GO:0006096	146	21	5.62	glycolytic process	2.20788184020458e-07
+GO:0006098	35	7	1.35	pentose-phosphate shunt	0.0213258040175623
+GO:0032955	7	2	0.27	regulation of division septum assembly	0.027363163956907
+GO:0019684	354	68	13.63	photosynthesis, light reaction	0.0118192296494259
+GO:0017183	9	3	0.35	peptidyl-diphthamide biosynthetic process from peptidyl-histidine	0.00402194883396738
+GO:0006048	8	2	0.31	UDP-N-acetylglucosamine biosynthetic process	0.0355641959274024
+GO:0018108	32	4	1.23	peptidyl-tyrosine phosphorylation	0.0334350401786791
+GO:0016192	667	36	25.69	vesicle-mediated transport	1.73243532057344e-05
+GO:0018298	275	28	10.59	protein-chromophore linkage	3.23905480294622e-06
+GO:0055114	3664	215	141.12	oxidation-reduction process	3.38445535277161e-05
+GO:0006006	79	11	3.04	glucose metabolic process	0.00359748944531416
+GO:0015995	46	20	1.77	chlorophyll biosynthetic process	9.68440431033726e-17
+GO:0015986	219	19	8.44	ATP synthesis coupled proton transport	0.000881068241710895
+GO:0006542	17	3	0.65	glutamine biosynthetic process	0.0258834140023018
+GO:0015976	12	4	0.46	carbon utilization	0.000846019200585521
+GO:0015977	39	12	1.5	carbon fixation	1.97076119678989e-06
+GO:0006546	14	5	0.54	glycine catabolic process	0.00431663002158517
+GO:0009765	62	20	2.39	photosynthesis, light harvesting	1.26702720749288e-10
+GO:0015979	598	162	23.03	photosynthesis	2.95896891906026e-68
+GO:0009767	176	26	6.78	photosynthetic electron transport chain	0.00213851829600562
+GO:0009768	12	3	0.46	photosynthesis, light harvesting in photosystem I	0.00966080520998799
+GO:0009750	1	1	0.04	response to fructose	0.0385163636363637
+GO:0044206	12	3	0.46	UMP salvage	0.00966080520998799
+GO:0009772	94	10	3.62	photosynthetic electron transport in photosystem II	0.0033519604157961
+GO:0009773	18	6	0.69	photosynthetic electron transport in photosystem I	4.02071283053175e-05
+GO:0070681	8	2	0.31	glutaminyl-tRNAGln biosynthesis via transamidation	0.0355641959274024
+GO:2000123	1	1	0.04	positive regulation of stomatal complex development	0.0385163636363637
+GO:1901962	6	2	0.23	S-adenosyl-L-methionine transmembrane transport	0.0200524957084399
+GO:0009733	367	17	14.14	response to auxin	0.00896139821040449
+GO:0042254	472	32	18.18	ribosome biogenesis	0.00482254859347098
+GO:0006662	21	8	0.81	glycerol ether metabolic process	6.1637443051913e-07
+GO:0051083	1	1	0.04	'de novo' cotranslational protein folding	0.0385163636363637
+GO:0045498	1	1	0.04	sex comb development	0.0385163636363637
+GO:1902290	2	2	0.08	positive regulation of defense response to oomycetes	0.00148243291705676
+GO:0045454	62	13	2.39	cell redox homeostasis	5.5451410121693e-07
+GO:0019464	11	3	0.42	glycine decarboxylation via glycine cleavage system	0.00745710870763737
+GO:0006633	197	21	7.59	fatty acid biosynthetic process	0.00667562740743077
+GO:0009853	54	15	2.08	photorespiration	2.13691619227397e-07
+GO:0009854	10	3	0.39	oxidative photosynthetic carbon pathway	0.00558200260770425
+GO:0006636	7	4	0.27	unsaturated fatty acid biosynthetic process	6.98476417319804e-05
+GO:0009097	35	5	1.35	isoleucine biosynthetic process	0.0104496019569471
+GO:0009099	24	4	0.92	valine biosynthetic process	0.0125760531441164
+GO:0009052	7	3	0.27	pentose-phosphate shunt, non-oxidative branch	0.00177582508727204
+GO:0042793	17	6	0.65	plastid transcription	2.77084628224201e-05
+GO:0009088	17	4	0.65	threonine biosynthetic process	0.00348747757183467
+GO:0009089	20	7	0.77	lysine biosynthetic process via diaminopimelate	6.17126329952405e-06
+GO:0048255	3	2	0.12	mRNA stabilization	0.00433326876738365
+GO:0046940	32	6	1.23	nucleoside monophosphate phosphorylation	0.00123712310225225
+GO:0034599	58	9	2.23	cellular response to oxidative stress	0.034548854600285
+GO:1990575	2	2	0.08	mitochondrial L-ornithine transmembrane transport	0.00148243291705676
+GO:0009554	21	3	0.81	megasporogenesis	0.0452057354876664
+GO:0009556	21	3	0.81	microsporogenesis	0.0452057354876664
+GO:0071806	87	12	3.35	protein transmembrane transport	0.000791813887661584
+GO:0022008	16	2	0.62	neurogenesis	0.0385040745052384
+GO:0030388	9	3	0.35	fructose 1,6-bisphosphate metabolic process	0.00402194883396738
+GO:0018008	1	1	0.04	N-terminal peptidyl-glycine N-myristoylation	0.0385163636363637
+GO:0007419	1	1	0.04	ventral cord development	0.0385163636363637
+GO:0010196	6	2	0.23	nonphotochemical quenching	0.0200524957084399
+GO:0019264	21	3	0.81	glycine biosynthetic process from serine	0.0452057354876664
+GO:0019252	62	7	2.39	starch biosynthetic process	0.0144802973839714
+GO:0019253	15	4	0.58	reductive pentose-phosphate cycle	0.00212689548401241
+GO:0009658	122	10	4.7	chloroplast organization	0.0411262511397633
+GO:0006420	4	2	0.15	arginyl-tRNA aminoacylation	0.00844505124381665
+GO:0006421	6	2	0.23	asparaginyl-tRNA aminoacylation	0.0200524957084399
+GO:0006424	4	2	0.15	glutamyl-tRNA aminoacylation	0.00844505124381665
+GO:0006429	9	2	0.35	leucyl-tRNA aminoacylation	0.0445762665255267
+GO:0006412	1733	165	66.75	translation	1.1047793869595e-23
+GO:0006414	163	14	6.28	translational elongation	0.0357881693789021
+GO:0090023	1	1	0.04	positive regulation of neutrophil chemotaxis	0.0385163636363637
+GO:0090026	1	1	0.04	positive regulation of monocyte chemotaxis	0.0385163636363637
+GO:0032544	4	2	0.15	plastid translation	0.00844505124381665
+GO:0006430	7	2	0.27	lysyl-tRNA aminoacylation	0.027363163956907
+GO:0006432	7	2	0.27	phenylalanyl-tRNA aminoacylation	0.027363163956907
+GO:0031564	2	2	0.08	transcription antitermination	0.00148243291705676
+GO:0070158	1	1	0.04	mitochondrial seryl-tRNA aminoacylation	0.0385163636363637
+GO:0015031	1238	76	47.68	protein transport	0.0123999693258183
+GO:0042549	11	8	0.42	photosystem II stabilization	7.05825774036099e-10
+GO:0043666	103	11	3.97	regulation of phosphoprotein phosphatase activity	0.00548106238963294
+GO:0010258	2	2	0.08	NADH dehydrogenase complex (plastoquinone) assembly	0.00148243291705676
+GO:0080183	2	2	0.08	response to photooxidative stress	0.00148243291705676
+GO:0030150	23	4	0.89	protein import into mitochondrial matrix	0.0108032584190323
+GO:0048564	8	2	0.31	photosystem I assembly	0.0355641959274024
+GO:0046855	23	5	0.89	inositol phosphate dephosphorylation	0.00158506933025634
+GO:0010205	3	2	0.12	photoinhibition	0.00433326876738365
+GO:0010206	3	2	0.12	photosystem II repair	0.00433326876738365
+GO:0010207	17	9	0.65	photosystem II assembly	3.33888009081563e-09
+GO:0019877	5	2	0.19	diaminopimelate biosynthetic process	0.013716561104402
+GO:0010729	2	2	0.08	positive regulation of hydrogen peroxide biosynthetic process	0.00148243291705676
+GO:0050821	29	4	1.12	protein stabilization	0.0241660074356905
+GO:0000381	42	5	1.62	regulation of alternative mRNA splicing, via spliceosome	0.0219814380329949
+GO:0006207	19	3	0.73	'de novo' pyrimidine nucleobase biosynthetic process	0.0348494277670169
+GO:0045036	19	4	0.73	protein targeting to chloroplast	0.0273037091626895
+GO:0043335	1	1	0.04	protein unfolding	0.0385163636363637
+GO:1901671	5	2	0.19	positive regulation of superoxide dismutase activity	0.013716561104402
+GO:0042372	8	3	0.31	phylloquinone biosynthetic process	0.00276006804542082
+GO:0006782	30	19	1.16	protoporphyrinogen IX biosynthetic process	4.31480319451121e-20
+GO:0042325	213	7	8.2	regulation of phosphorylation	0.0385797500219536

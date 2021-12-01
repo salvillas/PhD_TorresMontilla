@@ -1,0 +1,64 @@
+Annotated	Significant	Expected	Term	pval
+GO:0010796	1	1	0.01	regulation of multivesicular body size	0.00957090909090896
+GO:0019303	1	1	0.01	D-ribose catabolic process	0.00957090909090896
+GO:0014909	2	1	0.02	smooth muscle cell migration	0.0190504916506662
+GO:0030001	546	13	5.23	metal ion transport	0.000597448990377095
+GO:0030149	13	2	0.12	sphingolipid catabolic process	0.0066437877274859
+GO:1901352	3	1	0.03	negative regulation of phosphatidylglycerol biosynthetic process	0.0284396164942042
+GO:0009651	117	4	1.12	response to salt stress	0.0262979447234094
+GO:0007080	8	2	0.08	mitotic metaphase plate congression	0.0283580868209528
+GO:0005986	18	2	0.17	sucrose biosynthetic process	0.0126280952491543
+GO:0009649	22	3	0.21	entrainment of circadian clock	0.00116892320573134
+GO:0120009	22	2	0.21	intermembrane lipid transfer	0.0185933705095871
+GO:1903078	1	1	0.01	positive regulation of protein localization to plasma membrane	0.00957090909090896
+GO:0045773	1	1	0.01	positive regulation of axon extension	0.00957090909090896
+GO:0019404	1	1	0.01	galactitol catabolic process	0.00957090909090896
+GO:2001246	3	1	0.03	negative regulation of phosphatidylcholine biosynthetic process	0.0284396164942042
+GO:0010971	4	1	0.04	positive regulation of G2/M transition of mitotic cell cycle	0.0377391441962117
+GO:0016226	46	3	0.44	iron-sulfur cluster assembly	0.00973179235932407
+GO:0010928	18	2	0.17	regulation of auxin mediated signaling pathway	0.0126280952491543
+GO:0071470	25	2	0.24	cellular response to osmotic stress	0.0236982000091079
+GO:0150093	1	1	0.01	amyloid-beta clearance by transcytosis	0.00957090909090896
+GO:0036071	2	1	0.02	N-glycan fucosylation	0.0190504916506662
+GO:0010595	2	1	0.02	positive regulation of endothelial cell migration	0.0190504916506662
+GO:0032366	10	2	0.1	intracellular sterol transport	0.0468166257891666
+GO:0032367	5	1	0.05	intracellular cholesterol transport	0.0469499271690508
+GO:0031054	4	1	0.04	pre-miRNA processing	0.0377391441962117
+GO:2000028	34	2	0.33	regulation of photoperiodism, flowering	0.0419006566112846
+GO:0006348	3	1	0.03	chromatin silencing at telomere	0.0284396164942042
+GO:0006879	16	2	0.15	cellular iron ion homeostasis	0.0100297703247464
+GO:0006335	2	1	0.02	DNA replication-dependent nucleosome assembly	0.0190504916506662
+GO:0034080	2	1	0.02	CENP-A containing nucleosome assembly	0.0190504916506662
+GO:0006808	3	1	0.03	regulation of nitrogen utilization	0.0284396164942042
+GO:0000256	4	2	0.04	allantoin catabolic process	0.000541033388181237
+GO:1990182	1	1	0.01	exosomal secretion	0.00957090909090896
+GO:0010048	2	1	0.02	vernalization response	0.0190504916506662
+GO:0030953	1	1	0.01	astral microtubule organization	0.00957090909090896
+GO:0010136	3	2	0.03	ureide catabolic process	0.000272241963590251
+GO:0046373	3	1	0.03	L-arabinose metabolic process	0.0284396164942042
+GO:0001525	3	1	0.03	angiogenesis	0.0284396164942042
+GO:0032402	1	1	0.01	melanosome transport	0.00957090909090896
+GO:0010634	3	2	0.03	positive regulation of epithelial cell migration	0.00954237337445085
+GO:0099003	2	1	0.02	vesicle-mediated transport in synapse	0.0190504916506662
+GO:0070979	5	1	0.05	protein K11-linked ubiquitination	0.0469499271690508
+GO:0048169	1	1	0.01	regulation of long-term neuronal synaptic plasticity	0.00957090909090896
+GO:0000725	178	2	1.7	recombinational repair	0.0470421913641593
+GO:0046839	49	2	0.47	phospholipid dephosphorylation	0.00955516066070461
+GO:0043068	5	1	0.05	positive regulation of programmed cell death	0.0469499271690508
+GO:0070936	4	1	0.04	protein K48-linked ubiquitination	0.0377391441962117
+GO:0098887	1	1	0.01	neurotransmitter receptor transport, endosome to postsynaptic membrane	0.00957090909090896
+GO:0032020	1	1	0.01	ISG15-protein conjugation	0.00957090909090896
+GO:0046496	33	2	0.32	nicotinamide nucleotide metabolic process	0.0190099265708498
+GO:0030437	4	1	0.04	ascospore formation	0.0377391441962117
+GO:0006145	3	2	0.03	purine nucleobase catabolic process	0.000272241963590251
+GO:0051315	5	1	0.05	attachment of mitotic spindle microtubules to kinetochore	0.0469499271690508
+GO:0000395	4	1	0.04	mRNA 5'-splice site recognition	0.0377391441962117
+GO:0009585	18	2	0.17	red, far-red light phototransduction	0.0126280952491543
+GO:0010227	2	1	0.02	floral organ abscission	0.0190504916506662
+GO:0010228	64	5	0.61	vegetative to reproductive phase transition of meristem	0.0183183334912667
+GO:0019354	3	1	0.03	siroheme biosynthetic process	0.0284396164942042
+GO:2001059	1	1	0.01	D-tagatose 6-phosphate catabolic process	0.00957090909090896
+GO:1900087	2	1	0.02	positive regulation of G1/S transition of mitotic cell cycle	0.0190504916506662
+GO:0019853	22	3	0.21	L-ascorbic acid biosynthetic process	0.00116892320573134
+GO:0000387	33	2	0.32	spliceosomal snRNP assembly	0.0396813991418409
+GO:0030163	689	12	6.59	protein catabolic process	0.0169563882132681

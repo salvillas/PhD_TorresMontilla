@@ -1,0 +1,24 @@
+Annotated	Significant	Expected	Term	pval
+GO:0030026	19	1	0.05	cellular manganese ion homeostasis	0.0449044421194726
+GO:0019441	7	1	0.02	tryptophan catabolic process to kynurenine	0.0167813330687209
+GO:0006896	17	1	0.04	Golgi to vacuole transport	0.0402730738431605
+GO:0032957	12	1	0.03	inositol trisphosphate metabolic process	0.0285973589134947
+GO:0042753	3	1	0.01	positive regulation of circadian rhythm	0.00722637006900051
+GO:0045761	2	2	0	regulation of adenylate cyclase activity	5.7599559921082e-06
+GO:0010236	5	1	0.01	plastoquinone biosynthetic process	0.0120152632883265
+GO:0007163	7	2	0.02	establishment or maintenance of cell polarity	0.00012001225302121
+GO:0008154	67	2	0.16	actin polymerization or depolymerization	0.0115047192796269
+GO:0006021	9	1	0.02	inositol biosynthetic process	0.0215246868643918
+GO:0019509	10	1	0.02	L-methionine salvage from methylthioadenosine	0.0238878787107009
+GO:0006662	21	1	0.05	glycerol ether metabolic process	0.0495137287228851
+GO:0015798	3	1	0.01	myo-inositol transport	0.00722637006900051
+GO:0006006	79	2	0.19	glucose metabolic process	0.0157357681417507
+GO:0006751	9	1	0.02	glutathione catabolic process	0.0215246868643918
+GO:0048280	13	1	0.03	vesicle fusion with Golgi apparatus	0.0309436738222679
+GO:0120029	20	1	0.05	proton export across plasma membrane	0.04721183911866
+GO:0006457	365	6	0.88	protein folding	0.000862252829718469
+GO:0035436	6	1	0.01	triose phosphate transmembrane transport	0.0144011443807637
+GO:0006562	4	1	0.01	proline catabolic process	0.00962367634399985
+GO:0015713	6	1	0.01	phosphoglycerate transmembrane transport	0.0144011443807637
+GO:0034219	25	2	0.06	carbohydrate transmembrane transport	0.0398061644872126
+GO:0050482	4	1	0.01	arachidonic acid secretion	0.00962367634399985

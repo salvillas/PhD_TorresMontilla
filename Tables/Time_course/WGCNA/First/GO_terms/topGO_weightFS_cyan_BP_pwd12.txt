@@ -1,0 +1,47 @@
+Annotated	Significant	Expected	Term	pval
+GO:0006811	2120	9	8.45	ion transport	0.000816802716829919
+GO:0015742	6	1	0.02	alpha-ketoglutarate transport	0.0236774367700205
+GO:0016126	43	3	0.17	sterol biosynthetic process	0.000680078048946945
+GO:0010411	79	4	0.31	xyloglucan metabolic process	0.000287761702174549
+GO:0055114	3664	24	14.6	oxidation-reduction process	0.00599720331174297
+GO:0072318	9	1	0.04	clathrin coat disassembly	0.0353066015672671
+GO:0030244	79	3	0.31	cellulose biosynthetic process	0.0039260362867176
+GO:0030245	46	4	0.18	cellulose catabolic process	3.45982288662942e-05
+GO:0015689	8	1	0.03	molybdate ion transport	0.0314455733585237
+GO:0009251	73	6	0.29	glucan catabolic process	0.00490754375354691
+GO:0009846	12	1	0.05	pollen germination	0.0467982482658738
+GO:0009835	10	1	0.04	fruit ripening	0.0391523501439205
+GO:0009959	8	1	0.03	negative gravitropism	0.0314455733585237
+GO:0016998	60	2	0.24	cell wall macromolecule catabolic process	0.0240051563629929
+GO:0010043	1	1	0	response to zinc ion	0.00398545454545463
+GO:0046686	26	2	0.1	response to cadmium ion	0.00481326824357567
+GO:0006021	9	1	0.04	inositol biosynthetic process	0.0353066015672671
+GO:0032468	2	1	0.01	Golgi calcium ion homeostasis	0.00795514072475467
+GO:0006166	14	2	0.06	purine ribonucleoside salvage	0.00139055368405502
+GO:0006168	9	1	0.04	adenine salvage	0.0353066015672671
+GO:0006032	28	2	0.11	chitin catabolic process	0.00556914485879695
+GO:0032472	2	1	0.01	Golgi calcium ion transport	0.00795514072475467
+GO:0019346	11	1	0.04	transsulfuration	0.0429828791132296
+GO:0071423	6	1	0.02	malate transmembrane transport	0.0236774367700205
+GO:0044209	10	2	0.04	AMP salvage	0.000694864377382694
+GO:0006004	93	4	0.37	fucose metabolic process	0.000535647158380951
+GO:0007131	48	2	0.19	reciprocal meiotic recombination	0.0157791764081004
+GO:0009409	68	2	0.27	response to cold	0.0302657411939009
+GO:0071555	535	12	2.13	cell wall organization	2.01232592655182e-05
+GO:0019305	5	1	0.02	dTDP-rhamnose biosynthetic process	0.0197702071622589
+GO:0015936	22	2	0.09	coenzyme A metabolic process	0.0350660108923404
+GO:0009753	71	2	0.28	response to jasmonic acid	0.0327627131369634
+GO:0080113	5	1	0.02	regulation of seed growth	0.0197702071622589
+GO:0080147	6	1	0.02	root hair cell development	0.0236774367700205
+GO:2000082	3	2	0.01	regulation of L-ascorbic acid biosynthetic process	4.71812379072347e-05
+GO:0045490	191	6	0.76	pectin catabolic process	0.000122314714864074
+GO:0043086	296	4	1.18	negative regulation of catalytic activity	0.0295918287948407
+GO:2000012	10	2	0.04	regulation of auxin polar transport	0.000694864377382694
+GO:0010253	7	1	0.03	UDP-rhamnose biosynthetic process	0.027569205257975
+GO:0000079	123	4	0.49	regulation of cyclin-dependent protein serine/threonine kinase activity	0.00151922880865617
+GO:0009734	207	4	0.82	auxin-activated signaling pathway	0.00962882038206494
+GO:0009737	218	5	0.87	response to abscisic acid	0.00177766780708478
+GO:1990937	8	1	0.03	xylan acetylation	0.0314455733585237
+GO:0042545	155	3	0.62	cell wall modification	0.0243010829842587
+GO:0042546	186	4	0.74	cell wall biogenesis	0.00264786995771481
+GO:0045489	44	2	0.18	pectin biosynthetic process	0.0133708561032172

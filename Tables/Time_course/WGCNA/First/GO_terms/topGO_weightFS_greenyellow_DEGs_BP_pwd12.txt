@@ -1,0 +1,34 @@
+Annotated	Significant	Expected	Term	pval
+GO:0009904	22	1	0.05	chloroplast accumulation movement	0.0499829556062668
+GO:0009693	20	1	0.05	ethylene biosynthetic process	0.0455429164613298
+GO:0080163	10	1	0.02	regulation of protein serine/threonine phosphatase activity	0.0230334887359633
+GO:0044209	10	1	0.02	AMP salvage	0.0230334887359633
+GO:0006166	14	1	0.03	purine ribonucleoside salvage	0.032099481772267
+GO:0043953	9	1	0.02	protein transport by the Tat complex	0.0207539192060938
+GO:0006168	9	1	0.02	adenine salvage	0.0207539192060938
+GO:1990544	16	1	0.04	mitochondrial ATP transmembrane transport	0.0366012731147929
+GO:0009245	19	1	0.04	lipid A biosynthetic process	0.0433152187520554
+GO:0010099	11	1	0.03	regulation of photomorphogenesis	0.0253078178761101
+GO:0009835	10	1	0.02	fruit ripening	0.0230334887359633
+GO:0042218	8	1	0.02	1-aminocyclopropane-1-carboxylate biosynthetic process	0.0184690973650606
+GO:0140021	16	1	0.04	mitochondrial ADP transmembrane transport	0.0366012731147929
+GO:0006099	84	2	0.2	tricarboxylic acid cycle	0.0164826449453553
+GO:0006535	22	1	0.05	cysteine biosynthetic process from serine	0.0499829556062668
+GO:0007165	1437	7	3.34	signal transduction	0.0491056094205619
+GO:1903506	2887	8	6.72	regulation of nucleic acid-templated transcription	0.0475566948380872
+GO:0010020	17	1	0.04	chloroplast fission	0.0388444087750512
+GO:0010027	13	1	0.03	thylakoid membrane organization	0.0298408025394851
+GO:0019464	11	2	0.03	glycine decarboxylation via glycine cleavage system	0.000290197334502156
+GO:0045038	2	1	0	protein import into chloroplast thylakoid membrane	0.00464919680308029
+GO:0015976	12	1	0.03	carbon utilization	0.0275769185212589
+GO:0090378	3	1	0.01	seed trichome elongation	0.00696578436470607
+GO:0009585	18	1	0.04	red, far-red light phototransduction	0.0410823867510105
+GO:0070208	2	1	0	protein heterotrimerization	0.00464919680308029
+GO:0032544	4	1	0.01	plastid translation	0.0092770475222419
+GO:0090342	1	1	0	regulation of cell aging	0.00232727272727284
+GO:0006413	333	3	0.77	translational initiation	0.0428696313942422
+GO:0010207	17	1	0.04	photosystem II assembly	0.0388444087750512
+GO:0016559	12	1	0.03	peroxisome fission	0.0275769185212589
+GO:0006006	79	2	0.18	glucose metabolic process	0.0146769029007953
+GO:0048366	83	2	0.19	leaf development	0.0161142420152968
+GO:0009058	8842	23	20.58	biosynthetic process	0.0386581685432202

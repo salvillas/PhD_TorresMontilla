@@ -1,0 +1,19 @@
+Annotated	Significant	Expected	Term	pval
+GO:0031120	1	1	0	snRNA pseudouridine synthesis	0.0010181818181817
+GO:0045901	9	1	0.01	positive regulation of translational elongation	0.00912746173548717
+GO:0045905	9	1	0.01	positive regulation of translational termination	0.00912746173548717
+GO:0009058	8842	30	9	biosynthetic process	0.0316006315784076
+GO:0031118	5	1	0.01	rRNA pseudouridine synthesis	0.0050808477183899
+GO:0006421	6	1	0.01	asparaginyl-tRNA aminoacylation	0.00609400367794322
+GO:0006412	1733	29	1.76	translation	2.34456308286701e-25
+GO:0006413	333	4	0.34	translational initiation	0.0249880814946867
+GO:0006414	163	3	0.17	translational elongation	0.00861069002527679
+GO:0000469	28	1	0.03	cleavage involved in rRNA processing	0.0281315548528948
+GO:0001732	47	2	0.05	formation of cytoplasmic translation initiation complex	0.00105780001714931
+GO:0042254	472	8	0.48	ribosome biogenesis	0.00304807746726421
+GO:0001558	38	1	0.04	regulation of cell growth	0.0379910057304321
+GO:0000027	41	3	0.04	ribosomal large subunit assembly	1.00370394966213e-05
+GO:0000028	38	1	0.04	ribosomal small subunit assembly	0.0379910057304321
+GO:0002181	140	5	0.14	cytoplasmic translation	2.95263661864353e-05
+GO:0044843	14	1	0.01	cell cycle G1/S phase transition	0.0141632500632293
+GO:0000387	33	1	0.03	spliceosomal snRNP assembly	0.033073487890127

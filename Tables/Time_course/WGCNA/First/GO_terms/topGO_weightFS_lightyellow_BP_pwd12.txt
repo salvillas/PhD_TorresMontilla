@@ -1,0 +1,17 @@
+Annotated	Significant	Expected	Term	pval
+GO:0019288	6	2	0.01	isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway	1.42079992742095e-05
+GO:0010199	5	1	0	organ boundary specification between lateral organs and the meristem	0.00493596783251471
+GO:0018401	4	1	0	peptidyl-proline hydroxylation to 4-hydroxy-L-proline	0.00395066984219239
+GO:0009097	35	1	0.03	isoleucine biosynthetic process	0.034058940919183
+GO:0055114	3664	9	3.62	oxidation-reduction process	0.00774902911933234
+GO:0048530	5	1	0	fruit morphogenesis	0.00493596783251471
+GO:0015976	12	1	0.01	carbon utilization	0.0118066143720016
+GO:0006808	3	1	0	regulation of nitrogen utilization	0.00296442494658489
+GO:0006538	9	1	0.01	glutamate catabolic process	0.00886770836124784
+GO:0019509	10	2	0.01	L-methionine salvage from methylthioadenosine	4.25183117380999e-05
+GO:0000162	30	1	0.03	tryptophan biosynthetic process	0.0292632381852501
+GO:0050832	80	2	0.08	defense response to fungus	0.00285905130494187
+GO:0010951	71	7	0.07	negative regulation of endopeptidase activity	6.08754331420827e-13
+GO:0009611	80	4	0.08	response to wounding	1.19577603608887e-06
+GO:0031640	5	2	0	killing of cells of other organism	9.4778809034452e-06
+GO:0016114	102	2	0.1	terpenoid biosynthetic process	0.00459752774958587

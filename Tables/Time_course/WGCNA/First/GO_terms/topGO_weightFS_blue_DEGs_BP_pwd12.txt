@@ -1,0 +1,39 @@
+Annotated	Significant	Expected	Term	pval
+GO:0019760	9	1	0.05	glucosinolate metabolic process	0.0486652336460203
+GO:0009772	94	3	0.52	photosynthetic electron transport in photosystem II	0.0154249196114713
+GO:0009773	18	2	0.1	photosynthetic electron transport in photosystem I	0.0043866631045172
+GO:0017183	9	1	0.05	peptidyl-diphthamide biosynthetic process from peptidyl-histidine	0.0486652336460203
+GO:0032515	47	2	0.26	negative regulation of phosphoprotein phosphatase activity	0.0279172108656686
+GO:1990575	2	1	0.01	mitochondrial L-ornithine transmembrane transport	0.0110241546200348
+GO:0009742	54	2	0.3	brassinosteroid mediated signaling pathway	0.0360427698385479
+GO:0009738	89	3	0.49	abscisic acid-activated signaling pathway	0.0357647129279891
+GO:0006891	33	2	0.18	intra-Golgi vesicle-mediated transport	0.0143390792145605
+GO:0009641	7	1	0.04	shade avoidance	0.0380584877145161
+GO:0033615	4	1	0.02	mitochondrial proton-transporting ATP synthase complex assembly	0.0219274098773453
+GO:0070086	2	1	0.01	ubiquitin-dependent endocytosis	0.0110241546200348
+GO:0070072	5	1	0.03	vacuolar proton-transporting V-type ATPase complex assembly	0.0273341129736563
+GO:0015995	46	3	0.25	chlorophyll biosynthetic process	0.00211839672780932
+GO:0006096	146	4	0.81	glycolytic process	0.00893519318683795
+GO:0051973	4	1	0.02	positive regulation of telomerase activity	0.0219274098773453
+GO:0015986	219	4	1.21	ATP synthesis coupled proton transport	0.0337469549978436
+GO:0015979	598	20	3.31	photosynthesis	3.20345196059981e-07
+GO:0032958	6	1	0.03	inositol phosphate biosynthetic process	0.0327110847087453
+GO:0017004	52	2	0.29	cytochrome complex assembly	0.0336374863126937
+GO:0030388	9	1	0.05	fructose 1,6-bisphosphate metabolic process	0.0486652336460203
+GO:0080186	6	1	0.03	developmental vegetative growth	0.0327110847087453
+GO:0019375	6	1	0.03	galactolipid biosynthetic process	0.0327110847087453
+GO:0000462	45	2	0.25	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	0.0257509401094066
+GO:0019284	6	1	0.03	L-methionine salvage from S-adenosylmethionine	0.0327110847087453
+GO:0006493	7	1	0.04	protein O-linked glycosylation	0.0380584877145161
+GO:0046740	4	1	0.02	transport of virus in host, cell to cell	0.0219274098773453
+GO:0018160	6	1	0.03	peptidyl-pyrromethane cofactor linkage	0.0327110847087453
+GO:1902584	6	1	0.03	positive regulation of response to water deprivation	0.0327110847087453
+GO:0090391	4	1	0.02	granum assembly	0.0219274098773453
+GO:0051224	2	1	0.01	negative regulation of protein transport	0.0110241546200348
+GO:0002230	2	1	0.01	positive regulation of defense response to virus by host	0.0110241546200348
+GO:0033468	4	1	0.02	CMP-keto-3-deoxy-D-manno-octulosonic acid biosynthetic process	0.0219274098773453
+GO:0006412	1733	25	9.58	translation	3.94047633166634e-05
+GO:0006782	30	3	0.17	protoporphyrinogen IX biosynthetic process	0.000604536679896705
+GO:0006432	7	1	0.04	phenylalanyl-tRNA aminoacylation	0.0380584877145161
+GO:0071586	22	2	0.12	CAAX-box protein processing	0.00652766485121191
+GO:0035335	47	2	0.26	peptidyl-tyrosine dephosphorylation	0.0279172108656686

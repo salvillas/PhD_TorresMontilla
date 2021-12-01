@@ -1,0 +1,20 @@
+Annotated	Significant	Expected	Term	pval
+GO:0009751	33	1	0.04	response to salicylic acid	0.0367850777624019
+GO:0031408	27	1	0.03	oxylipin biosynthetic process	0.0301964186126508
+GO:2000068	1	1	0	regulation of defense response to insect	0.00113454545454528
+GO:0010155	1	1	0	regulation of proton transport	0.00113454545454528
+GO:0009157	17	1	0.02	deoxyribonucleoside monophosphate biosynthetic process	0.0191176128370039
+GO:0032436	24	1	0.03	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	0.0268856424309823
+GO:0010731	3	1	0	protein glutathionylation	0.00339987503896821
+GO:0006471	10	2	0.01	protein ADP-ribosylation	5.61169912657091e-05
+GO:0006355	2859	9	3.24	regulation of transcription, DNA-templated	0.00401575201552679
+GO:0010115	4	1	0	regulation of abscisic acid biosynthetic process	0.00453066186759232
+GO:0010236	5	1	0.01	plastoquinone biosynthetic process	0.00566019851730226
+GO:0006203	4	1	0	dGTP catabolic process	0.00453066186759232
+GO:0000028	38	1	0.04	ribosomal small subunit assembly	0.0422422927793668
+GO:0009097	35	1	0.04	isoleucine biosynthetic process	0.0389715897884289
+GO:0042256	4	1	0	mature ribosome assembly	0.00453066186759232
+GO:0002215	3	1	0	defense response to nematode	0.00339987503896821
+GO:0009624	18	1	0.02	response to nematode	0.0202310191208198
+GO:0009625	4	1	0	response to insect	0.00453066186759232
+GO:0034440	39	1	0.04	lipid oxidation	0.0433301149706361

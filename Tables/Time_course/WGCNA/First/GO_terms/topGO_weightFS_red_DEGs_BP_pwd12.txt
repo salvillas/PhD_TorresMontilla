@@ -1,0 +1,32 @@
+Annotated	Significant	Expected	Term	pval
+GO:0071365	208	2	0.57	cellular response to auxin stimulus	0.00272184500117056
+GO:0006435	5	1	0.01	threonyl-tRNA aminoacylation	0.0135989409938816
+GO:0009269	12	1	0.03	response to desiccation	0.0323305814044127
+GO:0006096	146	3	0.4	glycolytic process	0.0075891315213142
+GO:0046835	48	2	0.13	carbohydrate phosphorylation	0.0076900937682746
+GO:0032955	7	1	0.02	regulation of division septum assembly	0.0189871429419911
+GO:0006071	18	1	0.05	glycerol metabolic process	0.048105861577165
+GO:0043457	1	1	0	regulation of cellular respiration	0.00273454545454543
+GO:0031930	5	1	0.01	mitochondria-nucleus signaling pathway	0.0135989409938816
+GO:0006021	9	1	0.02	inositol biosynthetic process	0.0243462233364415
+GO:0042742	81	2	0.22	defense response to bacterium	0.0208399776388048
+GO:0006011	9	1	0.02	UDP-glucose metabolic process	0.0243462233364415
+GO:0045489	44	2	0.12	pectin biosynthetic process	0.00649514182948372
+GO:0015969	13	2	0.04	guanosine tetraphosphate metabolic process	0.000565860507639285
+GO:0006833	8	2	0.02	water transport	0.000204948460375117
+GO:0009972	3	1	0.01	cytidine deamination	0.0081814609546389
+GO:1901703	4	1	0.01	protein localization involved in auxin polar transport	0.0108938705517024
+GO:0055085	2531	13	6.92	transmembrane transport	0.00168731506070214
+GO:0010119	14	1	0.04	regulation of stomatal movement	0.0376175373437895
+GO:0048443	10	1	0.03	stamen development	0.0270148916425106
+GO:0001678	16	1	0.04	cellular glucose homeostasis	0.0428759131193978
+GO:0006000	15	1	0.04	fructose metabolic process	0.0402502881801936
+GO:0009785	9	1	0.02	blue light signaling pathway	0.0243462233364415
+GO:0006597	12	1	0.03	spermine biosynthetic process	0.0323305814044127
+GO:0009641	7	1	0.02	shade avoidance	0.0189871429419911
+GO:0009772	94	2	0.26	photosynthetic electron transport in photosystem II	0.0274806212746605
+GO:0009631	7	1	0.02	cold acclimation	0.0189871429419911
+GO:0009638	5	1	0.01	phototropism	0.0135989409938816
+GO:0000413	117	2	0.32	protein peptidyl-prolyl isomerization	0.0409826983196349
+GO:0008295	18	1	0.05	spermidine biosynthetic process	0.048105861577165
+GO:0006557	10	1	0.03	S-adenosylmethioninamine biosynthetic process	0.0270148916425106

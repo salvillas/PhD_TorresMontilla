@@ -1,0 +1,27 @@
+Annotated	Significant	Expected	Term	pval
+GO:0010387	5	1	0.02	COP9 signalosome assembly	0.0191974423102401
+GO:0009695	12	1	0.05	jasmonic acid biosynthetic process	0.0454608320603188
+GO:0010375	4	1	0.02	stomatal complex patterning	0.0153874434734875
+GO:0071456	35	3	0.14	cellular response to hypoxia	0.000338486630613969
+GO:0048564	8	1	0.03	photosystem I assembly	0.0305398665579437
+GO:0006355	2859	22	11.06	regulation of transcription, DNA-templated	0.000124798602939601
+GO:0009651	117	4	0.45	response to salt stress	0.00702220267936476
+GO:0009873	196	4	0.76	ethylene-activated signaling pathway	0.00721138978779068
+GO:0080113	5	1	0.02	regulation of seed growth	0.0191974423102401
+GO:0045337	7	1	0.03	farnesyl diphosphate biosynthetic process	0.026773598184998
+GO:0033468	4	1	0.02	CMP-keto-3-deoxy-D-manno-octulosonic acid biosynthetic process	0.0153874434734875
+GO:0034721	3	1	0.01	histone H3-K4 demethylation, trimethyl-H3-K4-specific	0.0115627561281203
+GO:0009631	7	1	0.03	cold acclimation	0.026773598184998
+GO:0006527	5	1	0.02	arginine catabolic process	0.0191974423102401
+GO:0006741	7	1	0.03	NADP biosynthetic process	0.026773598184998
+GO:0001732	47	2	0.18	formation of cytoplasmic translation initiation complex	0.0143346987444205
+GO:0007188	4	1	0.02	adenylate cyclase-modulating G protein-coupled receptor signaling pathway	0.0153874434734875
+GO:0000338	12	1	0.05	protein deneddylation	0.0454608320603188
+GO:0006468	2458	23	9.51	protein phosphorylation	0.000246271793306473
+GO:0043434	9	1	0.03	response to peptide hormone	0.0342916690937427
+GO:0009960	10	1	0.04	endosperm development	0.0380290609348216
+GO:0006470	477	6	1.85	protein dephosphorylation	0.0373260786874021
+GO:0019441	7	1	0.03	tryptophan catabolic process to kynurenine	0.026773598184998
+GO:0009737	218	6	0.84	response to abscisic acid	0.000147231301959568
+GO:0019674	10	1	0.04	NAD metabolic process	0.0380290609348216
+GO:0009704	7	1	0.03	de-etiolation	0.026773598184998

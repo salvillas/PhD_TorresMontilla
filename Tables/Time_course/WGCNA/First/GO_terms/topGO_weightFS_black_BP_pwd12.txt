@@ -1,0 +1,57 @@
+Annotated	Significant	Expected	Term	pval
+GO:0010114	17	2	0.14	response to red light	0.00801164862949034
+GO:0006817	467	9	3.74	phosphate ion transport	0.0134768870801842
+GO:0045046	1	1	0.01	protein import into peroxisome membrane	0.00800000000000023
+GO:0045039	14	2	0.11	protein insertion into mitochondrial inner membrane	0.00544606524155216
+GO:0070370	3	2	0.02	cellular heat acclimation	0.000190294438914898
+GO:0050896	4699	56	37.59	response to stimulus	0.00105527509390289
+GO:0071577	28	2	0.22	zinc ion transmembrane transport	0.0210205420731971
+GO:0010100	4	1	0.03	negative regulation of photomorphogenesis	0.0316194071142436
+GO:2000028	34	5	0.27	regulation of photoperiodism, flowering	0.00011914177243604
+GO:0045454	62	4	0.5	cell redox homeostasis	0.00155301257736813
+GO:0048587	2	1	0.02	regulation of short-day photoperiodism, flowering	0.0159362308721706
+GO:0010583	2	2	0.02	response to cyclopentenone	6.37691278291732e-05
+GO:0048575	3	2	0.02	short-day photoperiodism, flowering	0.0079713728798767
+GO:0010587	3	1	0.02	miRNA catabolic process	0.0238091990887989
+GO:0042752	35	3	0.28	regulation of circadian rhythm	0.0268365351401719
+GO:0042753	3	1	0.02	positive regulation of circadian rhythm	0.0238091990887989
+GO:2000032	11	2	0.09	regulation of secondary shoot formation	0.00334407619520455
+GO:0048511	80	9	0.64	rhythmic process	1.76729810307201e-06
+GO:0007229	6	1	0.05	integrin-mediated signaling pathway	0.0470535325987419
+GO:0042450	3	1	0.02	arginine biosynthetic process via ornithine	0.0238091990887989
+GO:0009228	22	2	0.18	thiamine biosynthetic process	0.0132554498055555
+GO:0046838	24	2	0.19	phosphorylated carbohydrate dephosphorylation	0.00797624592454604
+GO:0010218	4	1	0.03	response to far red light	0.0316194071142436
+GO:0070734	3	1	0.02	histone H3-K27 methylation	0.0238091990887989
+GO:0036529	1	1	0.01	protein deglycation, glyoxal removal	0.00800000000000023
+GO:0006225	1	1	0.01	UDP biosynthetic process	0.00800000000000023
+GO:0007623	68	5	0.54	circadian rhythm	0.0280873154697925
+GO:0015768	2	1	0.02	maltose transport	0.0159362308721706
+GO:0033523	2	1	0.02	histone H2B ubiquitination	0.0159362308721706
+GO:0010020	17	3	0.14	chloroplast fission	0.000316927664595072
+GO:0010028	2	2	0.02	xanthophyll cycle	6.37691278291732e-05
+GO:0018107	14	2	0.11	peptidyl-threonine phosphorylation	0.00544606524155216
+GO:0044255	888	12	7.1	cellular lipid metabolic process	0.0454495283366628
+GO:0060149	3	1	0.02	negative regulation of posttranscriptional gene silencing	0.0238091990887989
+GO:0009637	25	2	0.2	response to blue light	0.0169465652020803
+GO:1902983	2	1	0.02	DNA strand elongation involved in mitotic DNA replication	0.0159362308721706
+GO:0000398	272	8	2.18	mRNA splicing, via spliceosome	0.00562688168469317
+GO:0033388	4	1	0.03	putrescine biosynthetic process from arginine	0.0316194071142436
+GO:0005983	5	1	0.04	starch catabolic process	0.039367353436538
+GO:2000142	36	2	0.29	regulation of DNA-templated transcription, initiation	0.0336050576695658
+GO:0010478	2	2	0.02	chlororespiration	6.37691278291732e-05
+GO:0009414	100	3	0.8	response to water deprivation	0.0464773104719269
+GO:0000381	42	2	0.34	regulation of alternative mRNA splicing, via spliceosome	0.0445211190690333
+GO:0106046	1	1	0.01	guanine deglycation, glyoxal removal	0.00800000000000023
+GO:0009443	2	1	0.02	pyridoxal 5'-phosphate salvage	0.0159362308721706
+GO:0015866	24	3	0.19	ADP transport	0.00171884066301503
+GO:0000913	3	1	0.02	preprophase band assembly	0.0238091990887989
+GO:0098869	378	7	3.02	cellular oxidant detoxification	0.0332785435282227
+GO:0009408	109	5	0.87	response to heat	0.0260566959884106
+GO:0006426	8	2	0.06	glycyl-tRNA aminoacylation	0.0017296453038907
+GO:0018206	6	2	0.05	peptidyl-methionine modification	0.000936457625517724
+GO:0010196	6	2	0.05	nonphotochemical quenching	0.000936457625517724
+GO:0019252	62	3	0.5	starch biosynthetic process	0.0135350189996258
+GO:0070544	1	1	0.01	histone H3-K36 demethylation	0.00800000000000023
+GO:0009187	3	1	0.02	cyclic nucleotide metabolic process	0.0238091990887989
+GO:0019365	5	2	0.04	pyridine nucleotide salvage	0.000627621825065486

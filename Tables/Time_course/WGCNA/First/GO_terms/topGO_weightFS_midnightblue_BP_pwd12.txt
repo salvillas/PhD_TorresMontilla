@@ -1,0 +1,42 @@
+Annotated	Significant	Expected	Term	pval
+GO:0000712	9	1	0.02	resolution of meiotic recombination intermediates	0.0246023676726621
+GO:0046901	8	1	0.02	tetrahydrofolylpolyglutamate biosynthetic process	0.0218986219014465
+GO:0000165	68	2	0.19	MAPK cascade	0.0152943677312675
+GO:0031167	40	2	0.11	rRNA methylation	0.0429052637945
+GO:1901259	7	1	0.02	chloroplast rRNA processing	0.019187460610653
+GO:0006283	5	1	0.01	transcription-coupled nucleotide-excision repair	0.0137428109304363
+GO:2000142	36	6	0.1	regulation of DNA-templated transcription, initiation	6.91416628010065e-10
+GO:0010236	5	1	0.01	plastoquinone biosynthetic process	0.0137428109304363
+GO:0015743	36	2	0.1	malate transport	0.0044786945580124
+GO:0016120	4	1	0.01	carotene biosynthetic process	0.0110092821358976
+GO:0016123	5	3	0.01	xanthophyll biosynthetic process	2.03656786680884e-07
+GO:0005986	18	1	0.05	sucrose biosynthetic process	0.0486056747241443
+GO:0010207	17	1	0.05	photosystem II assembly	0.0459677720039738
+GO:0033617	13	1	0.04	mitochondrial cytochrome c oxidase assembly	0.0353435961088441
+GO:0009820	17	2	0.05	alkaloid metabolic process	0.00100039959521822
+GO:0036123	3	1	0.01	histone H3-K9 dimethylation	0.0082682570112631
+GO:0045739	14	1	0.04	positive regulation of DNA repair	0.0380105642239036
+GO:0071816	3	1	0.01	tail-anchored membrane protein insertion into ER membrane	0.0082682570112631
+GO:0015851	4	1	0.01	nucleobase transport	0.0110092821358976
+GO:0046656	8	1	0.02	folic acid biosynthetic process	0.0218986219014465
+GO:0006751	9	1	0.02	glutathione catabolic process	0.0246023676726621
+GO:0009249	12	1	0.03	protein lipoylation	0.032669312276416
+GO:0015996	12	2	0.03	chlorophyll catabolic process	0.000489879436097165
+GO:0007049	904	4	2.5	cell cycle	0.049888550974275
+GO:0034414	7	1	0.02	tRNA 3'-trailer cleavage, endonucleolytic	0.019187460610653
+GO:0015969	13	2	0.04	guanosine tetraphosphate metabolic process	0.000577906287274012
+GO:0030163	689	3	1.9	protein catabolic process	0.0110936263849353
+GO:0044208	12	1	0.03	'de novo' AMP biosynthetic process	0.032669312276416
+GO:0006000	15	1	0.04	fructose metabolic process	0.040670236421998
+GO:0006003	2	1	0.01	fructose 2,6-bisphosphate metabolic process	0.00551971521816152
+GO:0051085	61	2	0.17	chaperone cofactor-dependent protein refolding	0.0124407555107107
+GO:0010106	1	1	0	cellular response to iron ion starvation	0.0027636363636363
+GO:0016560	7	2	0.02	protein import into peroxisome matrix, docking	0.000157282087751781
+GO:0006346	3	1	0.01	DNA methylation-dependent heterochromatin assembly	0.0082682570112631
+GO:0009157	17	1	0.05	deoxyribonucleoside monophosphate biosynthetic process	0.0459677720039738
+GO:0010845	2	1	0.01	positive regulation of reciprocal meiotic recombination	0.00551971521816152
+GO:0044030	6	1	0.02	regulation of DNA methylation	0.0164688636788098
+GO:0015768	2	1	0.01	maltose transport	0.00551971521816152
+GO:0006878	6	1	0.02	cellular copper ion homeostasis	0.0164688636788098
+GO:0042026	58	2	0.16	protein refolding	0.0112977752773391
+GO:0002943	10	1	0.03	tRNA dihydrouridine synthesis	0.0272987179919043
