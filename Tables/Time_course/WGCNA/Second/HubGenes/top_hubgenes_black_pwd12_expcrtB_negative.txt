@@ -1,0 +1,2 @@
+"GeneID"	"Description"	"moduleColor"	"GS.expcrtB"	"p.GS.expcrtB"	"GS.Phytoene"	"p.GS.Phytoene"	"MM.black"	"p.MM.black"
+"Niben261Chr16g0756003.1"	"Non-specific lipid-transfer protein"	"black"	-0.233774089092439	0.109778728339848	-0.250316602090722	0.0861680568157953	0.844707185251983	4.47449944266454e-14
