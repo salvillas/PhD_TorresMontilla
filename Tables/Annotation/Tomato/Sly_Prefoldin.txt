@@ -1,0 +1,10 @@
+GeneID	Name
+Solyc07g042620.4.1	SlPrefoldin1
+Solyc06g053460.3.1	SlPrefoldin2
+Solyc05g053390.4.1	SlPrefoldin3a
+Solyc01g058597.1.1	SlPrefoldin3b
+Solyc01g097300.4.1	SlPrefoldin4
+Solyc01g008270.3.1	SlPrefoldin5
+Solyc08g016420.3.1	SlPrefoldin6
+Solyc07g053860.3.1	SlPrefoldin_L1
+Solyc08g044345.1.1	SlARG

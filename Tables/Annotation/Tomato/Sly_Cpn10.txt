@@ -1,0 +1,7 @@
+GeneID	Name
+Solyc01g088610.4.1	SlCpn10_1
+Solyc12g009250.3.1	SlCpn10_2a
+Solyc12g009245.1.1	SlCpn10_2b
+Solyc07g042250.3.1	SlCpn20_1
+Solyc07g008800.4.1	SlGroES-L1
+Solyc05g056390.2.1	SlGroES-L2
