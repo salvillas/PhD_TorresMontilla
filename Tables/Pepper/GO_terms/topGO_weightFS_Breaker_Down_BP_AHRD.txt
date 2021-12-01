@@ -1,0 +1,78 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0009956	5	2	0,32	2	radial pattern formation	0,0351451460840263
+GO:0010052	5	2	0,32	2	guard cell differentiation	0,0351451460840263
+GO:0010089	5	2	0,32	2	xylem development	0,0351451460840263
+GO:0051252	2080	163	131,52	163	regulation of RNA metabolic process	0,0104917085703787
+GO:1905582	4	2	0,25	2	response to mannose	0,0220033257864734
+GO:0048364	128	17	8,09	17	root development	0,0202960818062932
+GO:0010039	3	2	0,19	2	response to iron ion	0,0114824672356628
+GO:0006869	172	20	10,88	20	lipid transport	0,00296994129539263
+GO:0007010	267	28	16,88	28	cytoskeleton organization	0,0157328849134481
+GO:0006857	31	5	1,96	5	oligopeptide transport	0,0432689125487807
+GO:0007049	604	69	38,19	69	cell cycle	0,0312303618661544
+GO:0006817	288	36	18,21	36	phosphate ion transport	0,000217393728593171
+GO:0043111	3	2	0,19	2	replication fork arrest	0,0114824672356628
+GO:0048478	3	2	0,19	2	replication fork protection	0,0114824672356628
+GO:0031110	5	3	0,32	3	regulation of microtubule polymerization or depolymerization	0,00399154738018792
+GO:0016126	36	8	2,28	8	sterol biosynthetic process	0,00154348732897133
+GO:0030001	353	33	22,32	33	metal ion transport	0,000241902335435155
+GO:0042148	3	3	0,19	3	strand invasion	0,000252347604748081
+GO:0016132	14	4	0,89	4	brassinosteroid biosynthetic process	0,00955059374671277
+GO:0015979	485	48	30,67	48	photosynthesis	0,00673004466841819
+GO:0009768	22	10	1,39	10	photosynthesis, light harvesting in photosystem I	3,17951895435113e-07
+GO:0009750	3	2	0,19	2	response to fructose	0,0114824672356628
+GO:1902975	6	3	0,38	3	mitotic DNA replication initiation	0,00436576052567851
+GO:0016104	13	5	0,82	5	triterpenoid biosynthetic process	0,000841740412454097
+GO:0044209	4	2	0,25	2	AMP salvage	0,0220033257864734
+GO:0000272	190	21	12,01	21	polysaccharide catabolic process	0,00515773308686662
+GO:0009742	30	6	1,9	6	brassinosteroid mediated signaling pathway	0,0184277031018881
+GO:0009744	22	7	1,39	7	response to sucrose	0,000292506003612772
+GO:0009749	19	8	1,2	8	response to glucose	4,39765973135193e-05
+GO:0009734	135	21	8,54	21	auxin-activated signaling pathway	0,000114895651380986
+GO:0019464	6	3	0,38	3	glycine decarboxylation via glycine cleavage system	0,00436576052567851
+GO:0000724	82	16	5,18	16	double-strand break repair via homologous recombination	0,0201520097099547
+GO:0000727	11	5	0,7	5	double-strand break repair via break-induced replication	0,000336212051067721
+GO:0000730	3	2	0,19	2	DNA recombinase assembly	0,0114824672356628
+GO:0010305	24	6	1,52	6	leaf vascular tissue pattern formation	0,0031720187847115
+GO:0006355	2022	156	127,85	156	regulation of transcription, DNA-templated	0,000732664494113641
+GO:0019919	3	2	0,19	2	peptidyl-arginine methylation, to asymmetrical-dimethyl arginine	0,0114824672356628
+GO:0009554	5	2	0,32	2	megasporogenesis	0,0351451460840263
+GO:0006342	34	6	2,15	6	chromatin silencing	0,0341193274097069
+GO:0006334	59	11	3,73	11	nucleosome assembly	0,00104705945948853
+GO:0000070	83	13	5,25	13	mitotic sister chromatid segregation	0,0113963093834754
+GO:0000076	9	4	0,57	4	DNA replication checkpoint	0,00228739509145509
+GO:0000077	20	4	1,26	4	DNA damage checkpoint	0,0283599936382432
+GO:0055085	1685	118	106,54	118	transmembrane transport	0,00951061892440559
+GO:0006468	2244	191	141,89	191	protein phosphorylation	3,37169926211549e-06
+GO:0015860	22	4	1,39	4	purine nucleoside transmembrane transport	0,0467467237422188
+GO:0070192	28	8	1,77	8	chromosome organization involved in meiotic cell cycle	0,0218817697410844
+GO:0002229	25	6	1,58	6	defense response to oomycetes	0,00395346324016387
+GO:2000067	7	3	0,44	3	regulation of root morphogenesis	0,0219813486065237
+GO:0042594	68	9	4,3	9	response to starvation	0,000840435586605873
+GO:0010119	21	5	1,33	5	regulation of stomatal movement	0,0156732663906214
+GO:0007178	28	6	1,77	6	transmembrane receptor protein serine/threonine kinase signaling pathway	0,00715116999004224
+GO:0051382	2	2	0,13	2	kinetochore assembly	0,003995720815053
+GO:0007129	12	3	0,76	3	synapsis	0,0360983442113274
+GO:0007131	49	10	3,1	10	reciprocal meiotic recombination	0,00221751790453984
+GO:0006166	5	2	0,32	2	purine ribonucleoside salvage	0,0351451460840263
+GO:0042549	7	3	0,44	3	photosystem II stabilization	0,00728201919241956
+GO:0080167	21	5	1,33	5	response to karrikin	0,00871576174028173
+GO:0051301	336	32	21,25	32	cell division	0,039832775901771
+GO:0005978	11	3	0,7	3	glycogen biosynthetic process	0,0283806043364444
+GO:0019748	222	16	14,04	16	secondary metabolic process	0,0402507643490097
+GO:0010212	17	5	1,07	5	response to ionizing radiation	0,00245258081579938
+GO:0009311	67	8	4,24	8	oligosaccharide metabolic process	0,0219484948948919
+GO:0046081	3	2	0,19	2	dUTP catabolic process	0,0114824672356628
+GO:0006260	203	43	12,84	43	DNA replication	0,00688866171192121
+GO:0046835	42	6	2,66	6	carbohydrate phosphorylation	0,0471985670418363
+GO:0006261	110	29	6,96	29	DNA-dependent DNA replication	0,0229087755670317
+GO:0006267	7	4	0,44	4	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	0,000477415636690439
+GO:0006268	31	8	1,96	8	DNA unwinding involved in DNA replication	0,000533412823158379
+GO:0006269	3	2	0,19	2	DNA replication, synthesis of RNA primer	0,0114824672356628
+GO:0006281	415	60	26,24	60	DNA repair	0,000136686146961891
+GO:0090610	2	2	0,13	2	bundle sheath cell fate specification	0,003995720815053
+GO:0006270	29	11	1,83	11	DNA replication initiation	0,000207969223861393
+GO:0006271	11	5	0,7	5	DNA strand elongation involved in DNA replication	0,0350342088696912
+GO:0006272	5	2	0,32	2	leading strand elongation	0,0351451460840263
+GO:0006226	3	2	0,19	2	dUMP biosynthetic process	0,0114824672356628
+GO:0009416	228	26	14,42	26	response to light stimulus	8,95008133128099e-06

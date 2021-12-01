@@ -1,0 +1,54 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0103045	5	1	0,02	1	methione N-acyltransferase activity	0,017316170555236
+GO:0051219	9	1	0,03	1	phosphoprotein binding	0,0309545899438127
+GO:0010333	102	4	0,36	4	terpene synthase activity	0,000460827063446611
+GO:0004514	9	2	0,03	2	nicotinate-nucleotide diphosphorylase (carboxylating) activity	0,000427562250331365
+GO:0019825	5	1	0,02	1	oxygen binding	0,017316170555236
+GO:0004612	3	1	0,01	1	phosphoenolpyruvate carboxykinase (ATP) activity	0,0104257015344738
+GO:0010436	6	1	0,02	1	carotenoid dioxygenase activity	0,0207435289593166
+GO:0004615	4	1	0,01	1	phosphomannomutase activity	0,0138769084217264
+GO:0004497	503	6	1,75	6	monooxygenase activity	0,015656050381214
+GO:0004619	13	1	0,05	1	phosphoglycerate mutase activity	0,0444051501650069
+GO:0008061	25	2	0,09	2	chitin binding	0,00343520662821938
+GO:0020037	789	12	2,75	12	heme binding	2,20157764625483e-05
+GO:0004089	31	2	0,11	2	carbonate dehydratase activity	0,00525234016216772
+GO:0005344	3	1	0,01	1	oxygen carrier activity	0,0104257015344738
+GO:0052654	12	1	0,04	1	L-leucine transaminase activity	0,041059980870785
+GO:0052655	12	1	0,04	1	L-valine transaminase activity	0,041059980870785
+GO:0052656	12	1	0,04	1	L-isoleucine transaminase activity	0,041059980870785
+GO:0010309	5	1	0,02	1	acireductone dioxygenase [iron(II)-requiring] activity	0,017316170555236
+GO:0004021	3	2	0,01	2	L-alanine:2-oxoglutarate aminotransferase activity	3,61231176927346e-05
+GO:0004024	4	1	0,01	1	alcohol dehydrogenase activity, zinc-dependent	0,0138769084217264
+GO:0004029	8	1	0,03	1	aldehyde dehydrogenase (NAD) activity	0,0275626979778708
+GO:0004358	2	1	0,01	1	glutamate N-acetyltransferase activity	0,00696250872887993
+GO:0004794	8	1	0,03	1	L-threonine ammonia-lyase activity	0,0275626979778708
+GO:0008194	531	5	1,85	5	UDP-glycosyltransferase activity	0,0486219693189911
+GO:0004014	10	1	0,03	1	adenosylmethionine decarboxylase activity	0,0343347408842046
+GO:0009001	5	1	0,02	1	serine O-acetyltransferase activity	0,017316170555236
+GO:0003756	28	4	0,1	4	protein disulfide isomerase activity	2,71001596833002e-06
+GO:0004042	7	1	0,02	1	acetyl-CoA:L-glutamate N-acetyltransferase activity	0,0241590245184722
+GO:0016705	591	6	2,06	6	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	0,0321733166233517
+GO:0004601	313	6	1,09	6	peroxidase activity	0,0197598675626548
+GO:0000287	396	5	1,38	5	magnesium ion binding	0,0128212245215286
+GO:0004034	8	1	0,03	1	aldose 1-epimerase activity	0,0275626979778708
+GO:0004427	29	2	0,1	2	inorganic diphosphatase activity	0,00460682892823826
+GO:0030170	223	4	0,78	4	pyridoxal phosphate binding	0,00787610356517127
+GO:0005544	32	2	0,11	2	calcium-dependent phospholipid binding	0,00558976942919822
+GO:0004866	70	7	0,24	7	endopeptidase inhibitor activity	0,000309436388888083
+GO:0004867	31	4	0,11	4	serine-type endopeptidase inhibitor activity	4,13099619949237e-06
+GO:0016603	5	1	0,02	1	glutaminyl-peptide cyclotransferase activity	0,017316170555236
+GO:0047987	1	1	0	1	hydroperoxide dehydratase activity	0,00348728869958737
+GO:0045174	2	2	0,01	2	glutathione dehydrogenase (ascorbate) activity	1,20686702946001e-05
+GO:0004568	25	3	0,09	3	chitinase activity	9,01166388803603e-05
+GO:0004556	8	1	0,03	1	alpha-amylase activity	0,0275626979778708
+GO:0004096	15	2	0,05	2	catalase activity	0,00123006665027989
+GO:0004097	8	1	0,03	1	catechol oxidase activity	0,0275626979778708
+GO:0051903	7	1	0,02	1	S-(hydroxymethyl)glutathione dehydrogenase activity	0,0241590245184722
+GO:0103025	8	1	0,03	1	alpha-amylase activity (releasing maltohexaose)	0,0275626979778708
+GO:0032542	2	1	0,01	1	sulfiredoxin activity	0,00696250872887993
+GO:0046423	2	2	0,01	2	allene-oxide cyclase activity	1,20686702946001e-05
+GO:0046429	4	1	0,01	1	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity	0,0138769084217264
+GO:0004719	4	1	0,01	1	protein-L-isoaspartate (D-aspartate) O-methyltransferase activity	0,0138769084217264
+GO:0005506	627	8	2,19	8	iron ion binding	0,0016564036347098
+GO:0005509	479	5	1,67	5	calcium ion binding	0,0266184386369107
+GO:0008886	2	1	0,01	1	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (non-phosphorylating) activity	0,00696250872887993

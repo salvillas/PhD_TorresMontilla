@@ -1,0 +1,58 @@
+nicotinate-nucleotide diphosphorylase (carboxylating) activity
+phosphatidylinositol transfer activity
+protein folding chaperone
+glutathione transferase activity
+hydroperoxide dehydratase activity
+catalase activity
+glutamate N-acetyltransferase activity
+calcium-dependent phospholipid binding
+glutathione dehydrogenase (ascorbate) activity
+RNA polymerase II CTD heptapeptide repeat kinase activity
+ER retention sequence binding
+aspartic-type endopeptidase activity
+endopeptidase inhibitor activity
+serine-type endopeptidase inhibitor activity
+cysteine-type endopeptidase inhibitor activity
+squalene monooxygenase activity
+UDP-glycosyltransferase activity
+iron ion binding
+carbonate dehydratase activity
+calcium ion binding
+glyceraldehyde-3-phosphate dehydrogenase (NADP+) (non-phosphorylating) activity
+cyclin-dependent protein serine/threonine kinase activity
+L-alanine:2-oxoglutarate aminotransferase activity
+alcohol dehydrogenase activity, zinc-dependent
+oxygen carrier activity
+heme binding
+terpene synthase activity
+phosphoprotein binding
+serine-type carboxypeptidase activity
+anthranilate synthase activity
+unfolded protein binding
+acireductone dioxygenase [iron(II)-requiring] activity
+allene-oxide cyclase activity
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity
+oxygen binding
+monooxygenase activity
+protein disulfide isomerase activity
+phosphoenolpyruvate carboxykinase (ATP) activity
+phosphomannomutase activity
+superoxide dismutase activity
+serine O-acetyltransferase activity
+oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor
+L-leucine transaminase activity
+L-valine transaminase activity
+L-isoleucine transaminase activity
+protein-L-isoaspartate (D-aspartate) O-methyltransferase activity
+peroxidase activity
+chitinase activity
+phosphoadenylyl-sulfate reductase (thioredoxin) activity
+sulfiredoxin activity
+inorganic diphosphatase activity
+ribonuclease T2 activity
+misfolded protein binding
+oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+polysaccharide binding
+transferase activity
+methione N-acyltransferase activity
+glutaminyl-peptide cyclotransferase activity

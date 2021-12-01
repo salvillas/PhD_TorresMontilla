@@ -1,0 +1,62 @@
+catalase activity
+ethylene receptor activity
+phosphorelay sensor kinase activity
+polynucleotide 3'-phosphatase activity
+spermidine synthase activity
+sucrose-phosphate synthase activity
+peptidyl-prolyl cis-trans isomerase activity
+Hsp90 protein binding
+phosphoglycerate transmembrane transporter activity
+protein self-association
+SNAP receptor activity
+L-ascorbate peroxidase activity
+imidazoleglycerol-phosphate synthase activity
+transcription corepressor activity
+glutathione transferase activity
+UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase activity
+peroxiredoxin activity
+ATPase activity
+protein C-terminus binding
+glyoxalase III activity
+glutaminase activity
+intramolecular lyase activity
+auxin binding
+DNA-3-methyladenine glycosylase activity
+inositol tetrakisphosphate 1-kinase activity
+ATP binding
+1-phosphatidylinositol-3-phosphate 5-kinase activity
+chromatin DNA binding
+triose-phosphate transmembrane transporter activity
+ubiquinol-cytochrome-c reductase activity
+porin activity
+3-oxo-5-alpha-steroid 4-dehydrogenase activity
+protein homodimerization activity
+poly(A) binding
+mechanosensitive ion channel activity
+metal ion binding
+ATPase activator activity
+polyubiquitin modification-dependent protein binding
+unfolded protein binding
+UDP-3-O-acyl-N-acetylglucosamine deacetylase activity
+chaperone binding
+urate oxidase activity
+inositol-1,3,4-trisphosphate 6-kinase activity
+inositol-1,3,4-trisphosphate 5-kinase activity
+acyl-[acyl-carrier-protein] desaturase activity
+misfolded protein binding
+NADPH:quinone reductase activity
+inositol 3-alpha-galactosyltransferase activity
+NAD(P)H dehydrogenase (quinone) activity
+polyprenol reductase activity
+ethylene binding
+raffinose alpha-galactosidase activity
+S100 protein binding
+deoxyhypusine synthase activity
+transition metal ion binding
+phosphatase inhibitor activity
+pre-mRNA 3'-splice site binding
+polyamine binding
+spermine synthase activity
+heat shock protein binding
+U1 snRNA binding
+sugar transmembrane transporter activity

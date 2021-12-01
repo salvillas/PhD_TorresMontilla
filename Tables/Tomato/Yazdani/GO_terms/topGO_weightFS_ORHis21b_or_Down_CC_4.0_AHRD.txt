@@ -1,0 +1,39 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0032040	35	13	5,35	13	small-subunit processome	0,00129233727167429
+GO:0005971	2	2	0,31	2	ribonucleoside-diphosphate reductase complex	0,0233362691493537
+GO:0009654	24	11	3,67	11	photosystem II oxygen evolving complex	0,00037373264742354
+GO:0033290	23	8	3,51	8	eukaryotic 48S preinitiation complex	0,0168383793689874
+GO:0031969	133	14	20,32	14	chloroplast membrane	0,0160146171774817
+GO:0016282	22	8	3,36	8	eukaryotic 43S preinitiation complex	0,0126398486730943
+GO:0005694	425	95	64,93	95	chromosome	0,0436288039977034
+GO:0055028	15	9	2,29	9	cortical microtubule	0,00506100969434644
+GO:0005853	3	3	0,46	3	eukaryotic translation elongation factor 1 complex	0,00356326878934362
+GO:0005663	6	5	0,92	5	DNA replication factor C complex	0,000434698097100497
+GO:0005886	1469	255	224,44	255	plasma membrane	0,0343539462051712
+GO:0005874	178	58	27,2	58	microtubule	6,14112796027625e-07
+GO:0000176	6	4	0,92	4	nuclear exosome (RNase complex)	0,00629335431237027
+GO:0000177	6	4	0,92	4	cytoplasmic exosome (RNase complex)	0,00629335431237027
+GO:0031298	7	4	1,07	4	replication fork protection complex	0,0129127300127619
+GO:0000776	23	9	3,51	9	kinetochore	0,0494912813972204
+GO:0010287	24	10	3,67	10	plastoglobule	0,00169883735349582
+GO:0005840	644	156	98,39	156	ribosome	0,00091745907471605
+GO:0005618	341	68	52,1	68	cell wall	0,00544255486656357
+GO:0000148	12	5	1,83	5	1,3-beta-D-glucan synthase complex	0,0257152536799801
+GO:0031261	5	3	0,76	3	DNA replication preinitiation complex	0,0233271755136116
+GO:0031262	6	3	0,92	3	Ndc80 complex	0,0496505034283984
+GO:0010005	3	3	0,46	3	cortical microtubule, transverse to long axis	0,00356326878934362
+GO:0005802	93	24	14,21	24	trans-Golgi network	0,00764897012473904
+GO:0034657	2	2	0,31	2	GID complex	0,0233362691493537
+GO:0031428	3	3	0,46	3	box C/D snoRNP complex	0,00356326878934362
+GO:0009522	92	32	14,06	32	photosystem I	0,00176920269705102
+GO:0009523	125	36	19,1	36	photosystem II	0,00830477641511293
+GO:0097550	4	3	0,61	3	transcription preinitiation complex	0,012621321649468
+GO:0071540	3	3	0,46	3	eukaryotic translation initiation factor 3 complex, eIF3e	0,00356326878934362
+GO:0019005	56	14	8,56	14	SCF ubiquitin ligase complex	0,0390814259164464
+GO:0033186	2	2	0,31	2	CAF-1 complex	0,0233362691493537
+GO:0009538	11	9	1,68	9	photosystem I reaction center	1,83793217768481e-06
+GO:0009941	225	37	34,38	37	chloroplast envelope	0,0103493313584003
+GO:0022625	120	44	18,33	44	cytosolic large ribosomal subunit	7,03553111761049e-09
+GO:0022627	61	24	9,32	24	cytosolic small ribosomal subunit	4,36483227524688e-06
+GO:0010598	4	3	0,61	3	NAD(P)H dehydrogenase complex (plastoquinone)	0,012621321649468
+GO:0046658	113	25	17,26	25	anchored component of plasma membrane	0,0333359114618971

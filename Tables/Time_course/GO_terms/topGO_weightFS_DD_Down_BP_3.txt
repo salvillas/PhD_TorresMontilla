@@ -1,0 +1,79 @@
+positive regulation of plant-type cell wall cellulose biosynthetic process
+polyprenol catabolic process
+pre-replicative complex assembly involved in nuclear cell cycle DNA replication
+endoplasmic reticulum tubular network organization
+vesicle fusion with Golgi apparatus
+ER-associated misfolded protein catabolic process
+response to salt stress
+gibberellin biosynthetic process
+sucrose biosynthetic process
+polynucleotide 3' dephosphorylation
+regulation of vesicle targeting, to, from or within Golgi
+glycogen biosynthetic process
+lipid droplet organization
+protein peptidyl-prolyl isomerization
+phosphoglycerate transmembrane transport
+chaperone cofactor-dependent protein refolding
+positive regulation of ATPase activity
+chaperone-mediated protein complex assembly
+positive regulation of transcription, DNA-templated
+negative regulation of phosphatase activity
+cellular response to oxidative stress
+Golgi to vacuole transport
+protein stabilization
+negative regulation of transcription by RNA polymerase II
+urate catabolic process
+mRNA cleavage
+polyamine transport
+response to hydrogen peroxide
+CAAX-box protein processing
+cell volume homeostasis
+protein complex oligomerization
+positive regulation of abscisic acid-activated signaling pathway
+sulfate assimilation
+anion transport
+ion transport
+response to cyclopentenone
+response to unfolded protein
+stress granule assembly
+response to osmotic stress
+anthocyanin-containing compound biosynthetic process
+protein refolding
+trichome branching
+inositol trisphosphate metabolic process
+mitochondrial fission
+positive regulation of superoxide dismutase activity
+positive regulation of systemic acquired resistance
+protein-containing complex assembly
+circadian regulation of gene expression
+de-etiolation
+vegetative phase change
+lactate biosynthetic process
+cellular response to glucose starvation
+protein folding
+peptidyl-lysine modification to peptidyl-hypusine
+response to chlorate
+cellular response to unfolded protein
+regulation of long-day photoperiodism, flowering
+spermidine biosynthetic process
+cytoplasm protein quality control by the ubiquitin-proteasome system
+ethylene-activated signaling pathway
+positive regulation of response to water deprivation
+cellular response to heat
+phosphatidylinositol phosphorylation
+regulation of ethylene-activated signaling pathway
+developmental vegetative growth
+regulation of cell wall pectin metabolic process
+protein import into chloroplast stroma
+trichome papilla formation
+carbohydrate transmembrane transport
+mitochondrial electron transport, ubiquinol to cytochrome c
+ubiquitin-dependent ERAD pathway
+P-body assembly
+mRNA 5'-splice site recognition
+chaperone-mediated protein folding
+snRNA transcription by RNA polymerase II
+snRNA transcription by RNA polymerase III
+response to heat
+spliceosomal snRNP assembly
+triose phosphate transmembrane transport

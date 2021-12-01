@@ -1,0 +1,59 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0004602	11	2	0,18	2	glutathione peroxidase activity	0,0126917706068004
+GO:0016532	2	2	0,03	2	superoxide dismutase copper chaperone activity	0,000253847436104895
+GO:0005524	5240	140	83,56	140	ATP binding	3,07318636842593e-10
+GO:0004364	59	5	0,94	5	glutathione transferase activity	0,00249803244288403
+GO:0031593	32	3	0,51	3	polyubiquitin modification-dependent protein binding	0,0141968753126525
+GO:0004359	7	2	0,11	2	glutaminase activity	0,00505502002400954
+GO:0030628	15	2	0,24	2	pre-mRNA 3'-splice site binding	0,0232329639626452
+GO:0010333	102	7	1,63	7	terpene synthase activity	0,00126691581423025
+GO:0061630	228	9	3,64	9	ubiquitin protein ligase activity	0,0114238951797325
+GO:0003937	2	1	0,03	1	IMP cyclohydrolase activity	0,0316375408242439
+GO:0103117	2	1	0,03	1	UDP-3-O-acyl-N-acetylglucosamine deacetylase activity	0,0316375408242439
+GO:0051753	15	2	0,24	2	mannan synthase activity	0,0232329639626452
+GO:0102698	22	4	0,35	4	5-epi-aristolochene synthase activity	0,000372600485258104
+GO:0017116	3	1	0,05	1	single-stranded DNA-dependent ATP-dependent DNA helicase activity	0,0470795745554762
+GO:0051787	22	4	0,35	4	misfolded protein binding	0,000372600485258104
+GO:0045300	7	2	0,11	2	acyl-[acyl-carrier-protein] desaturase activity	0,00505502002400954
+GO:0004144	19	2	0,3	2	diacylglycerol O-acyltransferase activity	0,0362884084181027
+GO:0008022	2	1	0,03	1	protein C-terminus binding	0,0316375408242439
+GO:0004512	3	1	0,05	1	inositol-3-phosphate synthase activity	0,0470795745554762
+GO:0016887	1055	25	16,82	25	ATPase activity	0,000961840905955189
+GO:0008478	2	1	0,03	1	pyridoxal kinase activity	0,0316375408242439
+GO:0016688	14	2	0,22	2	L-ascorbate peroxidase activity	0,0203473734245423
+GO:0004096	15	3	0,24	3	catalase activity	0,00159103492687297
+GO:0051920	16	2	0,26	2	peroxiredoxin activity	0,0262755137197648
+GO:0015386	3	1	0,05	1	potassium:proton antiporter activity	0,0470795745554762
+GO:0042803	100	7	1,59	7	protein homodimerization activity	0,0011284533446058
+GO:0070678	3	1	0,05	1	preprotein binding	0,0470795745554762
+GO:0000774	21	2	0,33	2	adenyl-nucleotide exchange factor activity	0,0436472985427108
+GO:0046524	8	2	0,13	2	sucrose-phosphate synthase activity	0,0066690855201205
+GO:0047196	2	2	0,03	2	long-chain-alcohol O-fatty-acyltransferase activity	0,000253847436104895
+GO:0044548	3	2	0,05	2	S100 protein binding	0,000753473361779284
+GO:0008832	3	1	0,05	1	dGTPase activity	0,0470795745554762
+GO:0051082	238	48	3,8	48	unfolded protein binding	2,96827867215616e-38
+GO:0031072	104	25	1,66	25	heat shock protein binding	2,10631355097682e-12
+GO:0051087	74	22	1,18	22	chaperone binding	3,30377098932499e-22
+GO:0034485	9	2	0,14	2	phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase activity	0,00848440960233493
+GO:0046914	3752	45	59,83	45	transition metal ion binding	0,0227579758915676
+GO:0004017	20	2	0,32	2	adenylate kinase activity	0,0399029831245815
+GO:0043621	35	7	0,56	7	protein self-association	1,15534659483844e-06
+GO:0004420	5	3	0,08	3	hydroxymethylglutaryl-CoA reductase (NADPH) activity	3,93905861995065e-05
+GO:0000107	2	1	0,03	1	imidazoleglycerol-phosphate synthase activity	0,0316375408242439
+GO:0016768	2	1	0,03	1	spermine synthase activity	0,0316375408242439
+GO:0019212	54	3	0,86	3	phosphatase inhibitor activity	0,00505088691491963
+GO:0009540	2	2	0,03	2	zeaxanthin epoxidase [overall] activity	0,000253847436104895
+GO:0051879	29	10	0,46	10	Hsp90 protein binding	1,5046770400798e-11
+GO:0004439	12	2	0,19	2	phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity	0,0150706857543738
+GO:0001671	18	5	0,29	5	ATPase activator activity	7,31488044208557e-06
+GO:0008381	2	2	0,03	2	mechanosensitive ion channel activity	0,000253847436104895
+GO:0008762	2	1	0,03	1	UDP-N-acetylmuramate dehydrogenase activity	0,0316375408242439
+GO:0003755	117	7	1,87	7	peptidyl-prolyl cis-trans isomerase activity	0,00277616457200367
+GO:0004846	2	1	0,03	1	urate oxidase activity	0,0316375408242439
+GO:0008759	2	1	0,03	1	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase activity	0,0316375408242439
+GO:0004643	2	1	0,03	1	phosphoribosylaminoimidazolecarboxamide formyltransferase activity	0,0316375408242439
+GO:0008121	16	2	0,26	2	ubiquinol-cytochrome-c reductase activity	0,0262755137197648
+GO:0003950	26	3	0,41	3	NAD+ ADP-ribosyltransferase activity	0,00798422054618773
+GO:0052692	8	2	0,13	2	raffinose alpha-galactosidase activity	0,0066690855201205
+GO:0003952	3	1	0,05	1	NAD+ synthase (glutamine-hydrolyzing) activity	0,0470795745554762
+GO:0003714	49	3	0,78	3	transcription corepressor activity	0,0432925451915317

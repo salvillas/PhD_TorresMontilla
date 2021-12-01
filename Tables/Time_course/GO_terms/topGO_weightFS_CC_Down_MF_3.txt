@@ -1,0 +1,41 @@
+inositol-3-phosphate synthase activity
+UDP-3-O-acyl-N-acetylglucosamine deacetylase activity
+ATP binding
+glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity
+heat shock protein binding
+mechanosensitive ion channel activity
+transition metal ion binding
+3-oxo-5-alpha-steroid 4-dehydrogenase activity
+protein self-association
+protein homodimerization activity
+phosphatase inhibitor activity
+pre-mRNA 3'-splice site binding
+protein C-terminus binding
+ATPase activity
+urate oxidase activity
+preprotein binding
+AMP binding
+dGTPase activity
+ubiquitin-specific protease binding
+ubiquinol-cytochrome-c reductase activity
+polyubiquitin modification-dependent protein binding
+unfolded protein binding
+chaperone binding
+raffinose alpha-galactosidase activity
+Hsp90 protein binding
+ATPase activator activity
+IMP cyclohydrolase activity
+peptidyl-prolyl cis-trans isomerase activity
+protein tyrosine/serine/threonine phosphatase activity
+UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase activity
+single-stranded DNA helicase activity
+phosphoribosylaminoimidazolecarboxamide formyltransferase activity
+imidazoleglycerol-phosphate synthase activity
+L-ascorbate peroxidase activity
+polyprenol reductase activity
+S100 protein binding
+spermine synthase activity
+transcription corepressor activity
+ubiquitin protein ligase activity
+tubulin binding
+misfolded protein binding

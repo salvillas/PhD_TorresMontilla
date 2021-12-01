@@ -1,0 +1,114 @@
+Annotated	Significant	Expected	DEG	Term
+GO:0009360	5	3	0,87	3	DNA polymerase III complex
+GO:0005884	15	6	2,62	6	actin filament
+GO:0005886	3146	827	548,89	827	plasma membrane
+GO:0009706	66	40	11,52	40	chloroplast inner membrane
+GO:0009707	57	24	9,95	24	chloroplast outer membrane
+GO:0005871	31	13	5,41	13	kinesin complex
+GO:0005874	184	69	32,1	69	microtubule
+GO:0005875	69	31	12,04	31	microtubule associated complex
+GO:0055035	371	261	64,73	261	plastid thylakoid membrane
+GO:0005829	2790	923	486,78	923	cytosol
+GO:0017177	2	2	0,35	2	glucosidase II complex
+GO:0009654	25	22	4,36	22	photosystem II oxygen evolving complex
+GO:0005813	42	13	7,33	13	centrosome
+GO:0009897	4	3	0,7	3	external side of plasma membrane
+GO:0005840	440	200	76,77	200	ribosome
+GO:0005960	7	4	1,22	4	glycine cleavage complex
+GO:0030286	5	3	0,87	3	dynein complex
+GO:0009328	2	2	0,35	2	phenylalanine-tRNA ligase complex
+GO:0010598	13	12	2,27	12	NAD(P)H dehydrogenase complex (plastoquinone)
+GO:0098807	26	19	4,54	19	chloroplast thylakoid membrane protein complex
+GO:0005951	2	2	0,35	2	carbamoyl-phosphate synthase complex
+GO:0048046	304	141	53,04	141	apoplast
+GO:0022625	151	83	26,35	83	cytosolic large ribosomal subunit
+GO:0009344	2	2	0,35	2	nitrite reductase complex [NAD(P)H]
+GO:0022626	326	163	56,88	163	cytosolic ribosome
+GO:0022627	107	47	18,67	47	cytosolic small ribosomal subunit
+GO:0031357	3	3	0,52	3	integral component of chloroplast inner membrane
+GO:0009330	4	3	0,7	3	DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) complex
+GO:0031359	17	7	2,97	7	integral component of chloroplast outer membrane
+GO:0000138	85	32	14,83	32	Golgi trans cisterna
+GO:0005802	320	90	55,83	90	trans-Golgi network
+GO:0042651	400	281	69,79	281	thylakoid membrane
+GO:0043674	2	2	0,35	2	columella
+GO:0031897	6	4	1,05	4	Tic complex
+GO:0017101	4	3	0,7	3	aminoacyl-tRNA synthetase multienzyme complex
+GO:0000325	810	231	141,32	231	plant-type vacuole
+GO:0000347	14	6	2,44	6	THO complex
+GO:0098572	3	3	0,52	3	stromal side of plastid thylakoid membrane
+GO:0030093	3	3	0,52	3	chloroplast photosystem I
+GO:0042644	49	37	8,55	37	chloroplast nucleoid
+GO:0042646	56	41	9,77	41	plastid nucleoid
+GO:0033281	4	3	0,7	3	TAT protein transport complex
+GO:0009986	15	9	2,62	9	cell surface
+GO:0005794	1195	276	208,5	276	Golgi apparatus
+GO:0005797	60	16	10,47	16	Golgi medial cisterna
+GO:0043253	2	2	0,35	2	chloroplast ribosome
+GO:0009923	2	2	0,35	2	fatty acid elongase complex
+GO:0005576	3197	665	557,79	665	extracellular region
+GO:0061927	3	3	0,52	3	TOC-TIC supercomplex I
+GO:0010168	12	6	2,09	6	ER body
+GO:0046658	174	55	30,36	55	anchored component of plasma membrane
+GO:0016604	103	19	17,97	19	nuclear body
+GO:0009941	625	387	109,05	387	chloroplast envelope
+GO:0031969	135	72	23,55	72	chloroplast membrane
+GO:0005762	35	12	6,11	12	mitochondrial large ribosomal subunit
+GO:0005768	421	96	73,45	96	endosome
+GO:0080085	2	2	0,35	2	signal recognition particle, chloroplast targeting
+GO:0019897	26	9	4,54	9	extrinsic component of plasma membrane
+GO:0019898	88	33	15,35	33	extrinsic component of membrane
+GO:0005783	1109	238	193,49	238	endoplasmic reticulum
+GO:0062091	7	5	1,22	5	Ycf2/FtsHi complex
+GO:0010005	15	8	2,62	8	cortical microtubule, transverse to long axis
+GO:0010007	4	4	0,7	4	magnesium chelatase complex
+GO:0031977	69	61	12,04	61	thylakoid lumen
+GO:0000923	6	4	1,05	4	equatorial microtubule organizing center
+GO:0005773	1112	315	194,01	315	vacuole
+GO:0005777	325	94	56,7	94	peroxisome
+GO:0005721	2	2	0,35	2	pericentric heterochromatin
+GO:0008352	5	3	0,87	3	katanin complex
+GO:0000930	10	7	1,74	7	gamma-tubulin complex
+GO:0005743	252	32	43,97	32	mitochondrial inner membrane
+GO:0009570	733	508	127,89	508	chloroplast stroma
+GO:0000427	11	9	1,92	9	plastid-encoded plastid RNA polymerase complex
+GO:0009574	26	13	4,54	13	preprophase band
+GO:0045298	13	12	2,27	12	tubulin complex
+GO:0009579	560	394	97,71	394	thylakoid
+GO:0005737	15146	3623	2642,58	3623	cytoplasm
+GO:0009522	22	17	3,84	17	photosystem I
+GO:0009523	48	34	8,37	34	photosystem II
+GO:0032432	5	3	0,87	3	actin filament bundle
+GO:0009528	70	43	12,21	43	plastid inner membrane
+GO:0031209	8	5	1,4	5	SCAR complex
+GO:0010318	2	2	0,35	2	pyrophosphate-dependent phosphofructokinase complex, beta-subunit complex
+GO:0010319	38	30	6,63	30	stromule
+GO:0009515	4	4	0,7	4	granal stacked thylakoid
+GO:0009517	7	7	1,22	7	PSII associated light-harvesting complex II
+GO:0015934	211	103	36,81	103	large ribosomal subunit
+GO:0015935	148	56	25,82	56	small ribosomal subunit
+GO:0009543	50	48	8,72	48	chloroplast thylakoid lumen
+GO:0010330	8	5	1,4	5	cellulose synthase complex
+GO:0031436	2	2	0,35	2	BRCA1-BARD1 complex
+GO:0009782	2	2	0,35	2	photosystem I antenna complex
+GO:0009783	2	2	0,35	2	photosystem II antenna complex
+GO:0009533	10	7	1,74	7	chloroplast stromal thylakoid
+GO:0009534	464	328	80,96	328	chloroplast thylakoid
+GO:0009535	365	257	63,68	257	chloroplast thylakoid membrane
+GO:0009536	5614	1988	979,5	1988	plastid
+GO:0009538	11	8	1,92	8	photosystem I reaction center
+GO:0042555	10	7	1,74	7	MCM complex
+GO:0008290	2	2	0,35	2	F-actin capping protein complex
+GO:0009503	9	9	1,57	9	thylakoid light-harvesting complex
+GO:0009505	393	133	68,57	133	plant-type cell wall
+GO:0009506	969	299	169,07	299	plasmodesma
+GO:0009507	5187	1881	905	1881	chloroplast
+GO:0009508	3	3	0,52	3	plastid chromosome
+GO:0009509	3	3	0,52	3	chromoplast
+GO:0005618	586	186	102,24	186	cell wall
+GO:0010287	68	47	11,86	47	plastoglobule
+GO:0099503	175	67	30,53	67	secretory vesicle
+GO:0033186	2	2	0,35	2	CAF-1 complex
+GO:0005853	4	3	0,7	3	eukaryotic translation elongation factor 1 complex
+GO:0005854	7	5	1,22	5	nascent polypeptide-associated complex
+GO:0055028	53	25	9,25	25	cortical microtubule

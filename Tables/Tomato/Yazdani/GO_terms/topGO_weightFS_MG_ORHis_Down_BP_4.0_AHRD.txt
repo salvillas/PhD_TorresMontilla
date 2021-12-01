@@ -1,0 +1,125 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0070212	5	3	0,55	3	protein poly-ADP-ribosylation	0,0114771877685503
+GO:0098656	127	26	14,09	26	anion transmembrane transport	0,00303055711270892
+GO:0016192	439	95	48,71	95	vesicle-mediated transport	0,00165710312893916
+GO:0014706	3	3	0,33	3	striated muscle tissue development	0,0122972201514296
+GO:0007143	8	3	0,89	3	female meiotic nuclear division	0,0497890127217953
+GO:0042351	3	3	0,33	3	'de novo' GDP-L-fucose biosynthetic process	0,00136449964710382
+GO:0045454	36	8	3,99	8	cell redox homeostasis	0,0404128220236062
+GO:0045489	29	10	3,22	10	pectin biosynthetic process	0,00181674802430814
+GO:0010375	3	2	0,33	2	stomatal complex patterning	0,0341924641237457
+GO:0010344	4	3	0,44	3	seed oilbody biogenesis	0,00500433390296442
+GO:0016126	32	8	3,55	8	sterol biosynthetic process	0,0208642169286825
+GO:0034620	21	6	2,33	6	cellular response to unfolded protein	0,0120152542599489
+GO:1902975	4	3	0,44	3	mitotic DNA replication initiation	0,00500433390296442
+GO:0010499	22	6	2,44	6	proteasomal ubiquitin-independent protein catabolic process	0,0289268272361752
+GO:0099402	186	25	20,64	25	plant organ development	0,0496574947921376
+GO:0008610	460	66	51,04	66	lipid biosynthetic process	0,0347578927702868
+GO:0007205	8	3	0,89	3	protein kinase C-activating G protein-coupled receptor signaling pathway	0,0497890127217953
+GO:0010411	43	18	4,77	18	xyloglucan metabolic process	1,00627606865862e-06
+GO:0019722	19	12	2,11	12	calcium-mediated signaling	8,06454576930084e-08
+GO:0030245	30	7	3,33	7	cellulose catabolic process	0,0423022582703455
+GO:0070863	3	2	0,33	2	positive regulation of protein exit from endoplasmic reticulum	0,0341924641237457
+GO:0009414	76	18	8,43	18	response to water deprivation	0,0323428758245927
+GO:0009408	74	15	8,21	15	response to heat	0,0181255569291638
+GO:0018401	7	3	0,78	3	peptidyl-proline hydroxylation to 4-hydroxy-L-proline	0,0338632559789731
+GO:0051085	34	8	3,77	8	chaperone cofactor-dependent protein refolding	0,0295381125668767
+GO:0010143	3	2	0,33	2	cutin biosynthetic process	0,0341924641237457
+GO:0006457	214	40	23,75	40	protein folding	0,0376326943001103
+GO:0006486	151	32	16,75	32	protein glycosylation	0,00131105824447136
+GO:0006487	38	8	4,22	8	protein N-linked glycosylation	0,0357373915968876
+GO:0043547	64	13	7,1	13	positive regulation of GTPase activity	0,012327833319794
+GO:0070588	52	13	5,77	13	calcium ion transmembrane transport	0,0171205223973466
+GO:0010252	23	6	2,55	6	auxin homeostasis	0,0355704856142566
+GO:0097503	3	2	0,33	2	sialylation	0,0341924641237457
+GO:0090481	19	9	2,11	9	pyrimidine nucleotide-sugar transmembrane transport	0,0495127576334466
+GO:0009269	11	4	1,22	4	response to desiccation	0,0262836031062991
+GO:0010200	12	4	1,33	4	response to chitin	0,0360355595711769
+GO:0050826	9	5	1	5	response to freezing	0,00730964308695004
+GO:0071456	29	15	3,22	15	cellular response to hypoxia	1,64759920765177e-06
+GO:0090158	9	4	1	4	endoplasmic reticulum membrane organization	0,0120281334871766
+GO:0006267	7	5	0,78	5	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	0,000289953162875224
+GO:0019673	11	5	1,22	5	GDP-mannose metabolic process	0,0122847858039496
+GO:0071423	2	2	0,22	2	malate transmembrane transport	0,0123071544726511
+GO:0030517	2	2	0,22	2	negative regulation of axon extension	0,0123071544726511
+GO:0006270	17	8	1,89	8	DNA replication initiation	0,0358526959929654
+GO:0006271	12	5	1,33	5	DNA strand elongation involved in DNA replication	0,0210346905263355
+GO:0007021	7	3	0,78	3	tubulin complex assembly	0,0338632559789731
+GO:0007023	6	3	0,67	3	post-chaperonin tubulin folding pathway	0,0210695600017211
+GO:0009742	27	7	3	7	brassinosteroid mediated signaling pathway	0,0247090643488908
+GO:0007017	222	44	24,63	44	microtubule-based process	0,0168140045450655
+GO:0048671	2	2	0,22	2	negative regulation of collateral sprouting	0,0123071544726511
+GO:0009734	123	23	13,65	23	auxin-activated signaling pathway	0,00585727688495238
+GO:0009737	187	30	20,75	30	response to abscisic acid	0,0358349787088323
+GO:0007030	28	8	3,11	8	Golgi organization	0,00918878034222414
+GO:0007035	6	3	0,67	3	vacuolar acidification	0,0210695600017211
+GO:0072583	32	9	3,55	9	clathrin-dependent endocytosis	0,00654484465879121
+GO:0031468	3	2	0,33	2	nuclear envelope reassembly	0,0341924641237457
+GO:0006730	36	11	3,99	11	one-carbon metabolic process	0,001722987921975
+GO:0009835	11	4	1,22	4	fruit ripening	0,0262836031062991
+GO:0015786	4	3	0,44	3	UDP-glucose transmembrane transport	0,00500433390296442
+GO:0006890	29	11	3,22	11	retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum	0,000157638627943226
+GO:0006891	30	15	3,33	15	intra-Golgi vesicle-mediated transport	1,38353455568582e-07
+GO:0006893	19	6	2,11	6	Golgi to plasma membrane transport	0,0262392721210174
+GO:0071289	3	2	0,33	2	cellular response to nickel ion	0,0341924641237457
+GO:0035511	3	2	0,33	2	oxidative DNA demethylation	0,0341924641237457
+GO:0045047	36	9	3,99	9	protein targeting to ER	0,0496215080983876
+GO:0042542	16	6	1,78	6	response to hydrogen peroxide	0,00554088786257247
+GO:0042546	136	36	15,09	36	cell wall biogenesis	2,44957282450657e-06
+GO:0072657	129	21	14,31	21	protein localization to membrane	0,0105155165499672
+GO:0006880	7	3	0,78	3	intracellular sequestering of iron ion	0,0338632559789731
+GO:1902584	3	2	0,33	2	positive regulation of response to water deprivation	0,0341924641237457
+GO:0000226	110	22	12,21	22	microtubule cytoskeleton organization	0,000241845355880091
+GO:0006886	464	82	51,49	82	intracellular protein transport	4,00630059556398e-07
+GO:0006888	81	23	8,99	23	endoplasmic reticulum to Golgi vesicle-mediated transport	0,000192249261215681
+GO:0072684	3	2	0,33	2	mitochondrial tRNA 3'-trailer cleavage, endonucleolytic	0,0341924641237457
+GO:0008295	13	7	1,44	7	spermidine biosynthetic process	0,000191797450458648
+GO:0006873	93	18	10,32	18	cellular ion homeostasis	0,033640658757905
+GO:2000072	3	2	0,33	2	regulation of defense response to fungus, incompatible interaction	0,0341924641237457
+GO:2000022	23	6	2,55	6	regulation of jasmonic acid mediated signaling pathway	0,0355704856142566
+GO:0070973	14	7	1,55	7	protein localization to endoplasmic reticulum exit site	0,000346843967950843
+GO:0042692	2	2	0,22	2	muscle cell differentiation	0,0123071544726511
+GO:0098755	2	2	0,22	2	maintenance of seed dormancy by absisic acid	0,0123071544726511
+GO:0009094	5	3	0,55	3	L-phenylalanine biosynthetic process	0,0114771877685503
+GO:0042026	32	9	3,55	9	protein refolding	0,0172453742090902
+GO:0051156	33	6	3,66	6	glucose 6-phosphate metabolic process	0,0338585362688325
+GO:0006597	8	5	0,89	5	spermine biosynthetic process	0,000702269323167416
+GO:0043457	3	2	0,33	2	regulation of cellular respiration	0,0341924641237457
+GO:0006598	3	2	0,33	2	polyamine catabolic process	0,0341924641237457
+GO:0033387	3	2	0,33	2	putrescine biosynthetic process from ornithine	0,0341924641237457
+GO:0009695	6	3	0,67	3	jasmonic acid biosynthetic process	0,0210695600017211
+GO:0009698	257	26	28,52	26	phenylpropanoid metabolic process	0,0481171004301822
+GO:0006564	5	3	0,55	3	L-serine biosynthetic process	0,0114771877685503
+GO:0034755	8	3	0,89	3	iron ion transmembrane transport	0,0497890127217953
+GO:0009664	82	20	9,1	20	plant-type cell wall organization	0,00251822941103779
+GO:0006556	5	3	0,55	3	S-adenosylmethionine biosynthetic process	0,0114771877685503
+GO:0006557	7	4	0,78	4	S-adenosylmethioninamine biosynthetic process	0,0040112986987184
+GO:0006559	18	5	2	5	L-phenylalanine catabolic process	0,0417767929390169
+GO:0009651	81	16	8,99	16	response to salt stress	0,0149153804623611
+GO:0051131	6	3	0,67	3	chaperone-mediated protein complex assembly	0,0210695600017211
+GO:0000727	11	5	1,22	5	double-strand break repair via break-induced replication	0,00434888624701875
+GO:0019915	15	8	1,66	8	lipid storage	7,1073730588717e-05
+GO:0048367	186	20	20,64	20	shoot system development	0,0115228774078114
+GO:0032509	18	6	2	6	endosome transport via multivesicular body sorting pathway	0,0496796428143011
+GO:0080186	5	3	0,55	3	developmental vegetative growth	0,0114771877685503
+GO:0043403	2	2	0,22	2	skeletal muscle tissue regeneration	0,0123071544726511
+GO:0009631	13	4	1,44	4	cold acclimation	0,0475971473082893
+GO:0033499	8	3	0,89	3	galactose catabolic process via UDP-galactose	0,0497890127217953
+GO:0006090	96	27	10,65	27	pyruvate metabolic process	0,0353098484516208
+GO:0006096	78	21	8,65	21	glycolytic process	1,1502105109014e-05
+GO:0006662	13	4	1,44	4	glycerol ether metabolic process	0,0475971473082893
+GO:0006085	17	8	1,89	8	acetyl-CoA biosynthetic process	0,0122587088183072
+GO:0006086	13	5	1,44	5	acetyl-CoA biosynthetic process from pyruvate	0,0100219871626738
+GO:0006621	11	5	1,22	5	protein retention in ER lumen	0,00434888624701875
+GO:0015698	342	53	37,95	53	inorganic anion transport	0,000345396174912472
+GO:0006631	195	31	21,64	31	fatty acid metabolic process	0,014028671499173
+GO:0006637	134	15	14,87	15	acyl-CoA metabolic process	0,00502045195499805
+GO:0006004	46	13	5,1	13	fucose metabolic process	0,00111638162381633
+GO:0048443	11	4	1,22	4	stamen development	0,0114722712078616
+GO:0015689	5	4	0,55	4	molybdate ion transport	0,000689097992573854
+GO:0015031	744	132	82,55	132	protein transport	0,000736558424652829
+GO:0071555	320	68	35,51	68	cell wall organization	3,36049870161938e-07
+GO:0061817	9	4	1	4	endoplasmic reticulum-plasma membrane tethering	0,0120281334871766
+GO:1900150	11	5	1,22	5	regulation of defense response to fungus	0,0496925984041945
+GO:0072318	6	3	0,67	3	clathrin coat disassembly	0,0210695600017211
+GO:0072334	4	3	0,44	3	UDP-galactose transmembrane transport	0,00500433390296442

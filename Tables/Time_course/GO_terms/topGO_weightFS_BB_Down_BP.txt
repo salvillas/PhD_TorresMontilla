@@ -1,0 +1,96 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0009651	117	13	3,32	13	response to salt stress	5,83556683417046e-05
+GO:0015706	27	3	0,77	3	nitrate transport	0,0402353656757193
+GO:0035494	6	2	0,17	2	SNARE complex disassembly	0,0111959845134015
+GO:0055114	3639	129	103,32	129	oxidation-reduction process	0,00918023276245917
+GO:0071277	1	1	0,03	1	cellular response to calcium ion	0,0283927272727272
+GO:0009626	111	8	3,15	8	plant-type hypersensitive response	0,0139483755565884
+GO:0006295	1	1	0,03	1	nucleotide-excision repair, DNA incision, 3'-to lesion	0,0283927272727272
+GO:0009631	7	2	0,2	2	cold acclimation	0,0153811183220106
+GO:0000460	39	3	1,11	3	maturation of 5.8S rRNA	0,0373557521424268
+GO:0000462	45	5	1,28	5	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	0,0202417815763713
+GO:0050821	29	7	0,82	7	protein stabilization	1,31524294658112e-05
+GO:0009607	307	30	8,72	30	response to biotic stimulus	1,09512558512274e-06
+GO:0006952	893	53	25,35	53	defense response	0,00103519859665353
+GO:0048544	199	11	5,65	11	recognition of pollen	0,0390256931994681
+GO:0016998	19	3	0,54	3	cell wall macromolecule catabolic process	0,0157462166392753
+GO:0006979	398	27	11,3	27	response to oxidative stress	0,00300502967188261
+GO:0000413	117	8	3,32	8	protein peptidyl-prolyl isomerization	0,0186165359454213
+GO:1901671	5	2	0,14	2	positive regulation of superoxide dismutase activity	0,00760665317966686
+GO:0032781	24	5	0,68	5	positive regulation of ATPase activity	0,000495187670653512
+GO:0071712	17	3	0,48	3	ER-associated misfolded protein catabolic process	0,0115238927831227
+GO:0006071	18	3	0,51	3	glycerol metabolic process	0,0135411130841188
+GO:0009408	109	27	3,09	27	response to heat	1,63969212342614e-13
+GO:2000072	4	2	0,11	2	regulation of defense response to fungus, incompatible interaction	0,00465144134734056
+GO:0034389	13	3	0,37	3	lipid droplet organization	0,00527354507854963
+GO:0006012	27	3	0,77	3	galactose metabolic process	0,0402353656757193
+GO:0019432	24	4	0,68	4	triglyceride biosynthetic process	0,00436203518219032
+GO:0046856	48	5	1,36	5	phosphatidylinositol dephosphorylation	0,0114052995948262
+GO:0006032	28	4	0,79	4	chitin catabolic process	0,00768505947612997
+GO:0001731	19	3	0,54	3	formation of translation preinitiation complex	0,0157462166392753
+GO:0006749	60	15	1,7	15	glutathione metabolic process	9,72305498990323e-11
+GO:0010167	27	3	0,77	3	response to nitrate	0,0402353656757193
+GO:0055085	2538	87	72,06	87	transmembrane transport	0,000688919703181431
+GO:0010155	1	1	0,03	1	regulation of proton transport	0,0283927272727272
+GO:0010157	4	2	0,11	2	response to chlorate	0,00465144134734056
+GO:0042254	472	39	13,4	39	ribosome biogenesis	0,00888075861106499
+GO:0042256	4	3	0,11	3	mature ribosome assembly	8,93435890589668e-05
+GO:0098869	378	23	10,73	23	cellular oxidant detoxification	0,00204980629133159
+GO:0034605	25	7	0,71	7	cellular response to heat	4,4729743051893e-06
+GO:0043486	10	3	0,28	3	histone exchange	0,00235803284494199
+GO:1902584	6	3	0,17	3	positive regulation of response to water deprivation	0,000427990512197489
+GO:0006896	17	3	0,48	3	Golgi to vacuole transport	0,0115238927831227
+GO:0015698	590	20	16,75	20	inorganic anion transport	0,0262474728525411
+GO:0042939	1	1	0,03	1	tripeptide transport	0,0283927272727272
+GO:0006869	187	16	5,31	16	lipid transport	0,0279756543052227
+GO:0051131	11	2	0,31	2	chaperone-mediated protein complex assembly	0,037370154028054
+GO:0006884	3	2	0,09	2	cell volume homeostasis	0,00237039246819976
+GO:0042908	135	8	3,83	8	xenobiotic transport	0,0391274287001574
+GO:0009961	6	2	0,17	2	response to 1-aminocyclopropane-1-carboxylic acid	0,0111959845134015
+GO:0042026	58	12	1,65	12	protein refolding	6,88053969092443e-08
+GO:1901141	2	2	0,06	2	regulation of lignin biosynthetic process	0,000805344419936845
+GO:0051259	29	5	0,82	5	protein complex oligomerization	0,00123034332841976
+GO:0080186	6	3	0,17	3	developmental vegetative growth	0,000427990512197489
+GO:0042742	81	8	2,3	8	defense response to bacterium	0,00880769943134268
+GO:0042744	224	13	6,36	13	hydrogen peroxide catabolic process	0,012148286124232
+GO:0032515	47	8	1,33	8	negative regulation of phosphoprotein phosphatase activity	4,83281361781373e-05
+GO:0006564	9	2	0,26	2	L-serine biosynthetic process	0,0253937661586734
+GO:0051924	1	1	0,03	1	regulation of calcium ion transport	0,0283927272727272
+GO:0006515	25	6	0,71	6	protein quality control for misfolded or incompletely synthesized proteins	0,0152764463810807
+GO:0009753	71	6	2,02	6	response to jasmonic acid	0,0021715858430449
+GO:0009789	12	2	0,34	2	positive regulation of abscisic acid-activated signaling pathway	0,0440155063687149
+GO:0010777	4	2	0,11	2	meiotic mismatch repair involved in reciprocal meiotic recombination	0,00465144134734056
+GO:0051085	61	13	1,73	13	chaperone cofactor-dependent protein refolding	1,33967052346331e-08
+GO:0065003	708	32	20,1	32	protein-containing complex assembly	0,017669390424322
+GO:0009738	89	8	2,53	8	abscisic acid-activated signaling pathway	0,00415515504013013
+GO:0071629	1	1	0,03	1	cytoplasm protein quality control by the ubiquitin-proteasome system	0,0283927272727272
+GO:0006364	289	23	8,21	23	rRNA processing	0,00255828002698113
+GO:0006355	2858	94	81,15	94	regulation of transcription, DNA-templated	0,0361361287021686
+GO:0019722	19	3	0,54	3	calcium-mediated signaling	0,0157462166392753
+GO:0009704	7	2	0,2	2	de-etiolation	0,0153811183220106
+GO:0001676	8	2	0,23	2	long-chain fatty acid metabolic process	0,020125398412176
+GO:0045927	34	4	0,97	4	positive regulation of growth	0,0152297153979941
+GO:0071497	2	2	0,06	2	cellular response to freezing	0,000805344419936845
+GO:0097275	1	1	0,03	1	cellular ammonia homeostasis	0,0283927272727272
+GO:0006644	364	15	10,33	15	phospholipid metabolic process	0,0156503922619267
+GO:1900150	24	5	0,68	5	regulation of defense response to fungus	0,018048422926021
+GO:0016311	753	31	21,38	31	dephosphorylation	0,0496098295366107
+GO:0005992	21	4	0,6	4	trehalose biosynthetic process	0,00262823940102998
+GO:0030433	42	6	1,19	6	ubiquitin-dependent ERAD pathway	0,00113034151718612
+GO:0042542	10	5	0,28	5	response to hydrogen peroxide	4,08734930595572e-06
+GO:0036092	12	2	0,34	2	phosphatidylinositol-3-phosphate biosynthetic process	0,0440155063687149
+GO:0005985	86	6	2,44	6	sucrose metabolic process	0,0480605865787667
+GO:0006468	2458	89	69,79	89	protein phosphorylation	0,00724999091029071
+GO:0006457	365	67	10,36	67	protein folding	8,82494975828115e-20
+GO:0033512	4	2	0,11	2	L-lysine catabolic process to acetyl-CoA via saccharopine	0,00465144134734056
+GO:0045037	12	2	0,34	2	protein import into chloroplast stroma	0,0440155063687149
+GO:0022900	617	22	17,52	22	electron transport chain	0,00638738445812775
+GO:0030150	23	3	0,65	3	protein import into mitochondrial matrix	0,0264708914835927
+GO:0006435	5	2	0,14	2	threonyl-tRNA aminoacylation	0,00760665317966686
+GO:0015916	1	1	0,03	1	fatty-acyl-CoA transport	0,0283927272727272
+GO:0015940	5	2	0,14	2	pantothenate biosynthetic process	0,00760665317966686
+GO:0061077	85	16	2,41	16	chaperone-mediated protein folding	0,0287589309367697
+GO:0045899	13	3	0,37	3	positive regulation of RNA polymerase II transcriptional preinitiation complex assembly	0,00527354507854963
+GO:0006177	12	2	0,34	2	GMP biosynthetic process	0,0440155063687149
+GO:0006122	8	2	0,23	2	mitochondrial electron transport, ubiquinol to cytochrome c	0,020125398412176
+GO:0046256	1	1	0,03	1	2,4,6-trinitrotoluene catabolic process	0,0283927272727272

@@ -1,0 +1,93 @@
+DNA-binding transcription factor activity
+inorganic anion exchanger activity
+phosphorelay sensor kinase activity
+microtubule binding
+oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+inositol tetrakisphosphate 1-kinase activity
+transferase activity
+12-oxophytodienoate reductase activity
+N-acetyl-gamma-glutamyl-phosphate reductase activity
+galactinol-sucrose galactosyltransferase activity
+adenosylhomocysteinase activity
+receptor serine/threonine kinase binding
+glutathione dehydrogenase (ascorbate) activity
+UDP-glucose 4,6-dehydratase activity
+acetyl-CoA:L-glutamate N-acetyltransferase activity
+beta-amylase activity
+anthranilate synthase activity
+6-phosphogluconolactonase activity
+dipeptidyl-peptidase activity
+catalytic activity
+beta-1,4-mannosylglycoprotein 4-beta-N-acetylglucosaminyltransferase activity
+1-ethyladenine demethylase activity
+hydrolase activity, hydrolyzing O-glycosyl compounds
+alpha-amylase activity
+dTDP-glucose 4,6-dehydratase activity
+alpha-amylase activity (releasing maltohexaose)
+nicotinate-nucleotide diphosphorylase (carboxylating) activity
+1,4-dihydroxy-2-naphthoyl-CoA thioesterase activity
+cytokinin dehydrogenase activity
+methione N-acyltransferase activity
+UDP-L-rhamnose synthase activity
+ATPase-coupled cation transmembrane transporter activity
+terpene synthase activity
+lipase activity
+CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase activity
+cyclosporin A binding
+L-threonine ammonia-lyase activity
+magnesium ion transmembrane transporter activity
+molybdate ion transmembrane transporter activity
+UDPsulfoquinovose synthase activity
+1,2-diacylglycerol 3-beta-galactosyltransferase activity
+mannose-6-phosphate isomerase activity
+hydroxymethylglutaryl-CoA reductase (NADPH) activity
+phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase activity
+spermidine synthase activity
+acyl-CoA hydrolase activity
+pheophytinase activity
+allene-oxide cyclase activity
+hydroperoxide dehydratase activity
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity
+phosphatidylinositol phospholipase C activity
+quinolinate synthetase A activity
+phospholipase A1 activity
+potassium ion transmembrane transporter activity
+pectate lyase activity
+gibberellin 20-oxidase activity
+copper ion transmembrane transporter activity
+protein kinase activity
+protein phosphatase 1 binding
+oxidoreductase activity
+phospholipase C activity
+channel activity
+ATP transmembrane transporter activity
+water channel activity
+amylopectin maltohydrolase activity
+galacturonate binding
+phosphoprotein binding
+protein heterodimerization activity
+protein dimerization activity
+saccharopine dehydrogenase (NADP+, L-lysine-forming) activity
+saccharopine dehydrogenase (NAD+, L-glutamate-forming) activity
+voltage-gated chloride channel activity
+dCTP diphosphatase activity
+acyl-CoA oxidase activity
+adenine phosphoribosyltransferase activity
+serine-type carboxypeptidase activity
+cellulase activity
+cellulose synthase (UDP-forming) activity
+xyloglucan:xyloglucosyl transferase activity
+inositol-1,3,4-trisphosphate 6-kinase activity
+inositol-1,3,4-trisphosphate 5-kinase activity
+DNA-binding transcription factor activity, RNA polymerase II-specific
+cyclin-dependent protein serine/threonine kinase inhibitor activity
+folic acid binding
+transferase activity, transferring glycosyl groups
+structural constituent of cytoskeleton
+calcium-dependent phospholipid binding
+endopeptidase inhibitor activity
+serine-type endopeptidase inhibitor activity
+cytidine deaminase activity
+hydrolase activity
+hydrolase activity, acting on ester bonds
+RNA polymerase II cis-regulatory region sequence-specific DNA binding

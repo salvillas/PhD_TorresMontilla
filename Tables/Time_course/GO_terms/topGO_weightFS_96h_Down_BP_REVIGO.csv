@@ -1,0 +1,112 @@
+term_ID,description,frequency,plot_X,plot_Y,plot_size,log10 p-value,uniqueness,dispensability,representative,eliminated
+GO:0006952,"defense response",0.568%,-7.091, 1.891,4.863,-13.7153,0.883,0.000,6952,0
+GO:0007018,"microtubule-based movement",0.287%, 6.680,-0.858,4.567,-14.3578,0.815,0.000,7018,0
+GO:0030050,"vesicle transport along actin filament",0.002%,null,null,2.354,-1.4700,0.809,0.546,7018,1
+GO:0000226,"microtubule cytoskeleton organization",0.293%,null,null,4.575,-3.4029,0.755,0.854,7018,1
+GO:2000374,"regulation of oxygen metabolic process",0.000%,-3.535, 2.908,1.778,-1.3645,0.891,0.018,2000374,0
+GO:0042546,"cell wall biogenesis",0.640%,-4.052,-4.884,4.915,-14.3330,0.838,0.030,42546,0
+GO:0071555,"cell wall organization",0.709%,null,null,4.959,-9.2675,0.834,0.923,42546,1
+GO:0009831,"plant-type cell wall modification involved in multidimensional cell growth",0.000%,null,null,1.380,-1.3645,0.821,0.505,42546,1
+GO:0019252,"starch biosynthetic process",0.007%,null,null,2.949,-3.5170,0.789,0.716,42546,1
+GO:0010411,"xyloglucan metabolic process",0.016%,null,null,3.321,-13.7653,0.835,0.670,42546,1
+GO:0030244,"cellulose biosynthetic process",0.025%,null,null,3.511,-5.4583,0.775,0.675,42546,1
+GO:0016998,"cell wall macromolecule catabolic process",0.059%,null,null,3.880,-1.3325,0.862,0.739,42546,1
+GO:0005980,"glycogen catabolic process",0.035%,null,null,3.647,-2.2649,0.763,0.859,42546,1
+GO:0005978,"glycogen biosynthetic process",0.099%,null,null,4.103,-4.2775,0.741,0.841,42546,1
+GO:0006468,"protein phosphorylation",4.137%, 0.221, 4.884,5.725,-6.0744,0.864,0.040,6468,0
+GO:0006796,"phosphate-containing compound metabolic process",13.110%,null,null,6.226,-1.3358,0.901,0.664,6468,1
+GO:0009765,"photosynthesis, light harvesting",0.019%, 2.154,-4.106,3.393,-5.1354,0.918,0.051,9765,0
+GO:0009768,"photosynthesis, light harvesting in photosystem I",0.003%,null,null,2.559,-1.8793,0.923,0.764,9765,1
+GO:0034219,"carbohydrate transmembrane transport",0.245%, 2.311,-6.370,4.497,-5.4418,0.812,0.069,34219,0
+GO:0015770,"sucrose transport",0.004%,null,null,2.738,-3.4353,0.850,0.616,34219,1
+GO:0015721,"bile acid and bile salt transport",0.005%,null,null,2.785,-1.3645,0.820,0.567,34219,1
+GO:0015713,"phosphoglycerate transport",0.000%,null,null,1.544,-4.3141,0.836,0.525,34219,1
+GO:0048731,"system development",1.264%, 1.068,-0.623,5.210,-1.6095,0.854,0.080,48731,0
+GO:0007389,"pattern specification process",0.147%,null,null,4.274,-1.3648,0.869,0.752,48731,1
+GO:0090351,"seedling development",0.010%,null,null,3.104,-1.3579,0.881,0.603,48731,1
+GO:0035264,"multicellular organism growth",0.041%,null,null,3.720,-1.3645,0.866,0.645,48731,1
+GO:0005975,"carbohydrate metabolic process",5.260%,-0.101,-1.940,5.829,-2.1278,0.950,0.094,5975,0
+GO:0032468,"Golgi calcium ion homeostasis",0.001%,-3.247,-1.403,1.934,-2.7293,0.847,0.105,32468,0
+GO:0006270,"DNA replication initiation",0.141%,-1.345, 7.385,4.259,-3.1544,0.890,0.144,6270,0
+GO:0032876,"negative regulation of DNA endoreduplication",0.002%,null,null,2.427,-1.7672,0.740,0.591,6270,1
+GO:0006537,"glutamate biosynthetic process",0.088%, 4.557, 4.644,4.052,-3.1229,0.796,0.145,6537,0
+GO:0006542,"glutamine biosynthetic process",0.081%,null,null,4.018,-1.4587,0.797,0.717,6537,1
+GO:0006536,"glutamate metabolic process",0.201%,null,null,4.412,-1.3598,0.806,0.685,6537,1
+GO:0006562,"proline catabolic process",0.033%,null,null,3.626,-2.7298,0.801,0.585,6537,1
+GO:0006629,"lipid metabolic process",3.522%, 1.118, 6.638,5.655,-1.9984,0.866,0.151,6629,0
+GO:0051301,"cell division",1.230%, 6.491, 0.727,5.198,-8.8548,0.838,0.182,51301,0
+GO:0007017,"microtubule-based process",0.658%, 6.741,-0.050,4.927,-2.0122,0.845,0.198,7017,0
+GO:0038183,"bile acid signaling pathway",0.001%,-7.460, 0.462,1.944,-1.3645,0.824,0.216,38183,0
+GO:0007142,"male meiosis II",0.000%,-2.295,-4.511,0.477,-2.2553,0.814,0.217,7142,0
+GO:0007049,"cell cycle",1.885%, 6.376, 1.340,5.384,-8.4495,0.834,0.223,7049,0
+GO:0045893,"positive regulation of transcription, DNA-templated",0.519%,-2.903, 3.994,4.823,-1.5750,0.802,0.225,45893,0
+GO:0006355,"regulation of transcription, DNA-templated",9.917%,null,null,6.105,-3.6337,0.756,0.548,45893,1
+GO:0046506,"sulfolipid biosynthetic process",0.000%, 4.984, 4.250,1.799,-1.7672,0.848,0.227,46506,0
+GO:0009308,"amine metabolic process",0.521%, 2.494, 7.196,4.825,-1.5282,0.933,0.230,9308,0
+GO:0009873,"ethylene-activated signaling pathway",0.005%,-6.653, 0.977,2.803,-4.8404,0.764,0.245,9873,0
+GO:0009741,"response to brassinosteroid",0.009%,null,null,3.083,-1.9899,0.854,0.592,9873,1
+GO:0009734,"auxin-activated signaling pathway",0.035%,null,null,3.649,-3.2476,0.744,0.709,9873,1
+GO:0009736,"cytokinin-activated signaling pathway",0.004%,null,null,2.676,-2.3136,0.770,0.630,9873,1
+GO:0010200,"response to chitin",0.004%,null,null,2.755,-1.9765,0.862,0.524,9873,1
+GO:1904486,"response to 17alpha-ethynylestradiol",0.011%,null,null,3.147,-1.3645,0.859,0.661,9873,1
+GO:0045471,"response to ethanol",0.016%,null,null,3.312,-1.3645,0.858,0.561,9873,1
+GO:0035872,"nucleotide-binding domain, leucine rich repeat containing receptor signaling pathway",0.003%,-6.167, 0.662,2.526,-1.3645,0.814,0.248,35872,0
+GO:0006116,"NADH oxidation",0.002%, 2.913, 6.281,2.446,-1.3645,0.844,0.254,6116,0
+GO:0009584,"detection of visible light",0.021%,-6.886, 3.299,3.431,-1.9902,0.865,0.271,9584,0
+GO:0009585,"red, far-red light phototransduction",0.004%,null,null,2.703,-1.3934,0.779,0.847,9584,1
+GO:0009648,"photoperiodism",0.012%,null,null,3.196,-1.9777,0.875,0.738,9584,1
+GO:0009590,"detection of gravity",0.001%,null,null,1.954,-1.3645,0.885,0.735,9584,1
+GO:0007205,"protein kinase C-activating G-protein coupled receptor signaling pathway",0.018%,-6.346,-0.062,3.375,-2.4909,0.795,0.274,7205,0
+GO:1905775,"negative regulation of DNA helicase activity",0.002%,-5.127,-3.532,2.316,-2.7293,0.796,0.279,1905775,0
+GO:0050790,"regulation of catalytic activity",1.575%,null,null,5.306,-1.3291,0.863,0.561,1905775,1
+GO:2001271,"negative regulation of cysteine-type endopeptidase activity involved in execution phase of apoptosis",0.001%,null,null,2.013,-1.3645,0.793,0.534,1905775,1
+GO:1904667,"negative regulation of ubiquitin protein ligase activity",0.004%,null,null,2.740,-1.7672,0.824,0.521,1905775,1
+GO:0016121,"carotene catabolic process",0.001%, 5.116, 1.512,1.949,-1.7672,0.852,0.291,16121,0
+GO:0045792,"negative regulation of cell size",0.003%,-3.680,-3.090,2.597,-1.3645,0.797,0.293,45792,0
+GO:0045490,"pectin catabolic process",0.058%, 4.192,-0.676,3.875,-1.7185,0.879,0.304,45490,0
+GO:0080142,"regulation of salicylic acid biosynthetic process",0.000%,-2.014, 5.895,1.462,-2.4909,0.813,0.304,80142,0
+GO:0035436,"triose phosphate transmembrane transport",0.000%, 3.552,-5.947,1.763,-4.3141,0.863,0.311,35436,0
+GO:0015995,"chlorophyll biosynthetic process",0.039%, 3.931, 5.381,3.699,-1.3239,0.821,0.333,15995,0
+GO:0055085,"transmembrane transport",8.916%, 1.417,-6.974,6.058,-5.8535,0.888,0.339,55085,0
+GO:0045053,"protein retention in Golgi apparatus",0.007%,-0.335,-5.358,2.949,-1.5292,0.758,0.341,45053,0
+GO:0005985,"sucrose metabolic process",0.017%, 5.681,-1.581,3.327,-1.4582,0.826,0.346,5985,0
+GO:0019722,"calcium-mediated signaling",0.040%,-6.809,-0.221,3.707,-2.9805,0.784,0.348,19722,0
+GO:0010043,"response to zinc ion",0.009%,-7.098, 2.590,3.058,-1.3645,0.882,0.351,10043,0
+GO:0070588,"calcium ion transmembrane transport",0.157%, 2.541,-6.690,4.305,-4.0422,0.866,0.353,70588,0
+GO:0071577,"zinc II ion transmembrane transport",0.028%,null,null,3.550,-1.5075,0.878,0.766,70588,1
+GO:0032472,"Golgi calcium ion transport",0.001%,null,null,1.959,-2.7293,0.899,0.678,70588,1
+GO:0032006,"regulation of TOR signaling",0.038%,-6.809,-0.369,3.691,-1.6036,0.777,0.394,32006,0
+GO:1902042,"negative regulation of extrinsic apoptotic signaling pathway via death domain receptors",0.005%,null,null,2.826,-1.3645,0.749,0.601,32006,1
+GO:1901797,"negative regulation of signal transduction by p53 class mediator",0.006%,null,null,2.899,-1.3645,0.778,0.590,32006,1
+GO:1904580,"regulation of intracellular mRNA localization",0.002%,-2.198,-6.481,2.301,-1.3645,0.843,0.397,1904580,0
+GO:0017006,"protein-tetrapyrrole linkage",0.024%, 0.863, 2.812,3.483,-1.6885,0.912,0.410,17006,0
+GO:0010555,"response to mannitol",0.000%,-6.446, 2.828,1.544,-1.9765,0.879,0.410,10555,0
+GO:0009247,"glycolipid biosynthetic process",0.287%, 4.955, 3.259,4.566,-1.5111,0.798,0.417,9247,0
+GO:0016126,"sterol biosynthetic process",0.075%,null,null,3.985,-1.4321,0.841,0.578,9247,1
+GO:1903335,"regulation of vacuolar transport",0.001%,-3.010,-6.581,1.929,-1.3645,0.864,0.425,1903335,0
+GO:0044211,"CTP salvage",0.016%, 3.003, 5.255,3.324,-1.3575,0.813,0.438,44211,0
+GO:1904825,"protein localization to microtubule plus-end",0.000%,-0.145,-7.317,1.342,-1.3645,0.915,0.443,1904825,0
+GO:0006887,"exocytosis",0.210%, 4.214,-4.490,4.430,-2.7485,0.758,0.443,6887,0
+GO:0048278,"vesicle docking",0.080%,null,null,4.013,-1.5820,0.794,0.673,6887,1
+GO:0070086,"ubiquitin-dependent endocytosis",0.002%,null,null,2.350,-2.7293,0.840,0.522,6887,1
+GO:0006906,"vesicle fusion",0.064%,null,null,3.915,-1.8622,0.724,0.662,6887,1
+GO:0006817,"phosphate ion transport",0.242%, 1.996,-7.065,4.492,-2.6378,0.865,0.444,6817,0
+GO:0006865,"amino acid transport",0.813%,null,null,5.018,-1.4722,0.777,0.712,6817,1
+GO:1902358,"sulfate transmembrane transport",0.149%,null,null,4.282,-2.0020,0.794,0.750,6817,1
+GO:0015706,"nitrate transport",0.021%,null,null,3.424,-1.5598,0.880,0.648,6817,1
+GO:0007010,"cytoskeleton organization",0.786%,-3.486,-4.341,5.004,-4.7965,0.851,0.454,7010,0
+GO:0090307,"mitotic spindle assembly",0.024%,null,null,3.486,-1.3575,0.730,0.886,7010,1
+GO:0055047,"generative cell mitosis",0.000%,null,null,1.230,-1.9765,0.774,0.531,7010,1
+GO:0051726,"regulation of cell cycle",0.547%,null,null,4.846,-1.4794,0.731,0.592,7010,1
+GO:0060236,"regulation of mitotic spindle organization",0.014%,null,null,3.256,-1.6055,0.693,0.680,7010,1
+GO:0044772,"mitotic cell cycle phase transition",0.201%,null,null,4.411,-2.2653,0.778,0.741,7010,1
+GO:0007076,"mitotic chromosome condensation",0.035%,null,null,3.655,-3.0474,0.738,0.501,7010,1
+GO:0051783,"regulation of nuclear division",0.146%,null,null,4.273,-1.7677,0.770,0.752,7010,1
+GO:0000911,"cytokinesis by cell plate formation",0.003%,null,null,2.597,-1.7823,0.823,0.572,7010,1
+GO:1902749,"regulation of cell cycle G2/M phase transition",0.041%,null,null,3.716,-1.7679,0.751,0.880,7010,1
+GO:0046777,"protein autophosphorylation",0.077%, 0.848, 4.350,3.993,-1.6373,0.895,0.456,46777,0
+GO:0035556,"intracellular signal transduction",4.000%,-5.794, 0.196,5.710,-1.7793,0.717,0.459,35556,0
+GO:0018298,"protein-chromophore linkage",0.095%, 0.532, 3.390,4.084,-1.7765,0.905,0.466,18298,0
+GO:0048446,"petal morphogenesis",0.000%, 1.691,-2.037,1.580,-1.3645,0.883,0.478,48446,0
+GO:0048768,"root hair cell tip growth",0.001%,null,null,1.820,-1.3645,0.804,0.688,48446,1
+GO:0009652,"thigmotropism",0.000%,-6.155, 4.088,1.556,-1.3645,0.896,0.483,9652,0

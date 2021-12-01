@@ -1,0 +1,77 @@
+water transport
+NADH dehydrogenase complex (plastoquinone) assembly
+UDP-glucose transmembrane transport
+negative regulation of cell size
+regulation of phosphorus metabolic process
+photosystem II assembly
+carbohydrate metabolic process
+response to oxidative stress
+sulfate reduction
+dimethylallyl diphosphate biosynthetic process
+cytokinin metabolic process
+ethylene biosynthetic process
+jasmonic acid biosynthetic process
+lipid oxidation
+oxylipin biosynthetic process
+phenylpropanoid metabolic process
+plant-type cell wall organization
+tryptophan transport
+plant organ development
+aspartate transmembrane transport
+pectin catabolic process
+hydrogen peroxide catabolic process
+cellular oxidant detoxification
+thiamine biosynthetic process
+protein glutathionylation
+ubiquitin-dependent ERAD pathway
+response to wounding
+cell redox homeostasis
+phototropism
+glycerol ether metabolic process
+isoprenoid biosynthetic process
+response to biotic stimulus
+chlorophyll catabolic process
+lipid metabolic process
+cell wall macromolecule catabolic process
+UDP-galactose transmembrane transport
+endoplasmic reticulum unfolded protein response
+photosynthesis, light harvesting
+protein refolding
+carbon utilization
+carbon fixation
+photosynthesis
+L-methionine salvage from methylthioadenosine
+xyloglucan metabolic process
+sterol biosynthetic process
+response to zinc ion
+terpenoid biosynthetic process
+diterpenoid biosynthetic process
+defense response to other organism
+isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway
+polysaccharide catabolic process
+killing of cells of other organism
+ion transmembrane transport
+auxin transport
+glutathione metabolic process
+nucleosome assembly
+regulation of proton transport
+protein-chromophore linkage
+negative regulation of endopeptidase activity
+protein transport by the Tat complex
+transmembrane transport
+oxygen transport
+photorespiration
+cell wall biogenesis
+cutin biosynthetic process
+photosystem II stabilization
+cellulose catabolic process
+glycolytic process
+chaperone cofactor-dependent protein refolding
+cell wall organization
+isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway involved in terpenoid biosynthetic process
+ascorbate glutathione cycle
+fruit ripening
+response to cadmium ion
+thiazole biosynthetic process
+chitin catabolic process
+auxin homeostasis

@@ -1,0 +1,32 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0034715	3	2	0,1	2	pICln-Sm protein complex	0,00352067613260665
+GO:0005829	1367	63	47,4	63	cytosol	0,000127077886148597
+GO:0005750	7	2	0,24	2	mitochondrial respiratory chain complex III	0,0224634443135809
+GO:0009501	18	4	0,62	4	amyloplast	0,00298014426993199
+GO:0005759	129	11	4,47	11	mitochondrial matrix	0,0094835357882447
+GO:0005838	39	6	1,35	6	proteasome regulatory particle	0,0163272897681473
+GO:0009360	6	2	0,21	2	DNA polymerase III complex	0,0164196826275227
+GO:0005783	852	50	29,54	50	endoplasmic reticulum	0,0187894579825223
+GO:0005788	53	7	1,84	7	endoplasmic reticulum lumen	0,00226421322145124
+GO:0000221	5	2	0,17	2	vacuolar proton-transporting V-type ATPase, V1 domain	0,0112026397067827
+GO:0034709	3	2	0,1	2	methylosome	0,00352067613260665
+GO:0000243	6	2	0,21	2	commitment complex	0,0164196826275227
+GO:0005744	17	3	0,59	3	TIM23 mitochondrial import inner membrane translocase complex	0,0367300891244339
+GO:0031969	199	9	6,9	9	chloroplast membrane	0,0235091989181759
+GO:0005656	4	2	0,14	2	nuclear pre-replicative complex	0,00687937165696524
+GO:0000159	42	6	1,46	6	protein phosphatase type 2A complex	0,0030904770011592
+GO:0019185	1	1	0,03	1	snRNA-activating protein complex	0,0346766971162458
+GO:0048471	29	10	1,01	10	perinuclear region of cytoplasm	2,6390591802633e-08
+GO:0033181	1	1	0,03	1	plasma membrane proton-transporting V-type ATPase complex	0,0346766971162458
+GO:0005737	10788	397	374,09	397	cytoplasm	2,05898326607544e-06
+GO:0034098	10	4	0,35	4	VCP-NPL4-UFD1 AAA ATPase complex	0,000255253288218259
+GO:1990124	8	2	0,28	2	messenger ribonucleoprotein complex	0,0292704362837475
+GO:0031972	2	2	0,07	2	chloroplast intermembrane space	0,00120127413166904
+GO:0098794	9	2	0,31	2	postsynapse	0,0367805713002875
+GO:0071004	10	2	0,35	2	U2-type prespliceosome	0,0449370042184336
+GO:0089701	11	3	0,38	3	U2AF	0,00556661425571405
+GO:0022624	40	7	1,39	7	proteasome accessory complex	0,0345099727364042
+GO:0030018	2	2	0,07	2	Z disc	0,00120127413166904
+GO:0000421	6	2	0,21	2	autophagosome membrane	0,0164196826275227
+GO:0009986	9	5	0,31	5	cell surface	5,56676579937314e-06
+GO:0005886	1961	84	68	84	plasma membrane	0,0309086175389737

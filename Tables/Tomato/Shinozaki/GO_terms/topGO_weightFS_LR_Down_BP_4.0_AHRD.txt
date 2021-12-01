@@ -1,0 +1,144 @@
+Annotated	Significant	Expected	DEG	Term
+GO:0033500	18	10	3,37	10	carbohydrate homeostasis
+GO:0015995	28	11	5,25	11	chlorophyll biosynthetic process
+GO:0045489	29	12	5,43	12	pectin biosynthetic process
+GO:0019264	7	4	1,31	4	glycine biosynthetic process from serine
+GO:0015977	22	10	4,12	10	carbon fixation
+GO:1901962	3	3	0,56	3	S-adenosyl-L-methionine transmembrane transport
+GO:0019277	2	2	0,37	2	UDP-N-acetylgalactosamine biosynthetic process
+GO:0006865	87	21	16,3	21	amino acid transport
+GO:0006857	47	15	8,81	15	oligopeptide transport
+GO:0034220	621	117	116,36	117	ion transmembrane transport
+GO:0006817	282	77	52,84	77	phosphate ion transport
+GO:0070919	6	4	1,12	4	production of siRNA involved in chromatin silencing by small RNA
+GO:0035066	7	4	1,31	4	positive regulation of histone acetylation
+GO:0010411	43	17	8,06	17	xyloglucan metabolic process
+GO:0005980	4	3	0,75	3	glycogen catabolic process
+GO:0005986	13	6	2,44	6	sucrose biosynthetic process
+GO:0006564	5	3	0,94	3	L-serine biosynthetic process
+GO:0006565	7	4	1,31	4	L-serine catabolic process
+GO:0009263	9	5	1,69	5	deoxyribonucleotide biosynthetic process
+GO:0005975	1113	306	208,54	306	carbohydrate metabolic process
+GO:0005977	19	11	3,56	11	glycogen metabolic process
+GO:0051513	4	3	0,75	3	regulation of monopolar cell growth
+GO:0005978	11	5	2,06	5	glycogen biosynthetic process
+GO:0006556	5	3	0,94	3	S-adenosylmethionine biosynthetic process
+GO:0006541	49	13	9,18	13	glutamine metabolic process
+GO:0006538	9	5	1,69	5	glutamate catabolic process
+GO:0009234	4	4	0,75	4	menaquinone biosynthetic process
+GO:0035999	14	8	2,62	8	tetrahydrofolate interconversion
+GO:0007142	5	4	0,94	4	male meiosis II
+GO:0007131	33	14	6,18	14	reciprocal meiotic recombination
+GO:0120142	2	2	0,37	2	positive regulation of ecdysone receptor-mediated signaling pathway
+GO:0042550	2	2	0,37	2	photosystem I stabilization
+GO:0006694	54	21	10,12	21	steroid biosynthetic process
+GO:0000463	18	8	3,37	8	maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0000466	18	10	3,37	10	maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0000467	5	3	0,94	3	exonucleolytic trimming to generate mature 3'-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0019853	11	6	2,06	6	L-ascorbic acid biosynthetic process
+GO:0000469	23	9	4,31	9	cleavage involved in rRNA processing
+GO:0042546	136	39	25,48	39	cell wall biogenesis
+GO:0009765	36	26	6,75	26	photosynthesis, light harvesting
+GO:0010133	2	2	0,37	2	proline catabolic process to glutamate
+GO:0009768	22	18	4,12	18	photosynthesis, light harvesting in photosystem I
+GO:0019827	8	4	1,5	4	stem cell population maintenance
+GO:0009785	7	4	1,31	4	blue light signaling pathway
+GO:0009773	8	5	1,5	5	photosynthetic electron transport in photosystem I
+GO:0009718	9	6	1,69	6	anthocyanin-containing compound biosynthetic process
+GO:0009734	123	41	23,05	41	auxin-activated signaling pathway
+GO:0009735	40	16	7,49	16	response to cytokinin
+GO:0009736	37	13	6,93	13	cytokinin-activated signaling pathway
+GO:0001678	11	6	2,06	6	cellular glucose homeostasis
+GO:0000160	152	44	28,48	44	phosphorelay signal transduction system
+GO:0000165	28	10	5,25	10	MAPK cascade
+GO:0071555	320	94	59,96	94	cell wall organization
+GO:0010212	19	8	3,56	8	response to ionizing radiation
+GO:0010233	5	4	0,94	4	phloem transport
+GO:0009873	89	26	16,68	26	ethylene-activated signaling pathway
+GO:0008360	28	15	5,25	15	regulation of cell shape
+GO:1904482	7	4	1,31	4	cellular response to tetrahydrofolate
+GO:0009833	14	8	2,62	8	plant-type primary cell wall biogenesis
+GO:0051026	4	3	0,75	3	chiasma assembly
+GO:0045842	5	3	0,94	3	positive regulation of mitotic metaphase/anaphase transition
+GO:0000278	203	70	38,04	70	mitotic cell cycle
+GO:0006075	12	7	2,25	7	(1->3)-beta-D-glucan biosynthetic process
+GO:1900057	2	2	0,37	2	positive regulation of leaf senescence
+GO:0000226	110	41	20,61	41	microtubule cytoskeleton organization
+GO:0006024	5	3	0,94	3	glycosaminoglycan biosynthetic process
+GO:0009584	5	3	0,94	3	detection of visible light
+GO:0006013	7	4	1,31	4	mannose metabolic process
+GO:1902975	4	3	0,75	3	mitotic DNA replication initiation
+GO:0006004	46	19	8,62	19	fucose metabolic process
+GO:0046168	4	3	0,75	3	glycerol-3-phosphate catabolic process
+GO:0030244	67	19	12,55	19	cellulose biosynthetic process
+GO:0030245	30	10	5,62	10	cellulose catabolic process
+GO:0006952	845	175	158,33	175	defense response
+GO:0000727	11	6	2,06	6	double-strand break repair via break-induced replication
+GO:0000712	8	4	1,5	4	resolution of meiotic recombination intermediates
+GO:0035404	2	2	0,37	2	histone-serine phosphorylation
+GO:0015790	6	4	1,12	4	UDP-xylose transmembrane transport
+GO:0009641	2	2	0,37	2	shade avoidance
+GO:0071042	2	2	0,37	2	nuclear polyadenylation-dependent mRNA catabolic process
+GO:0043547	64	20	11,99	20	positive regulation of GTPase activity
+GO:0042908	87	23	16,3	23	xenobiotic transport
+GO:0099402	186	49	34,85	49	plant organ development
+GO:0006355	1951	356	365,55	356	regulation of transcription, DNA-templated
+GO:0034969	5	4	0,94	4	histone arginine methylation
+GO:0046777	121	37	22,67	37	protein autophosphorylation
+GO:0043622	17	9	3,19	9	cortical microtubule organization
+GO:0006379	6	3	1,12	3	mRNA cleavage
+GO:0019919	2	2	0,37	2	peptidyl-arginine methylation, to asymmetrical-dimethyl arginine
+GO:0051301	237	68	44,41	68	cell division
+GO:0006334	75	21	14,05	21	nucleosome assembly
+GO:0070814	2	2	0,37	2	hydrogen sulfide biosynthetic process
+GO:0007094	11	5	2,06	5	mitotic spindle assembly checkpoint
+GO:0016120	5	3	0,94	3	carotene biosynthetic process
+GO:0016123	5	4	0,94	4	xanthophyll biosynthetic process
+GO:0006468	1515	402	283,86	402	protein phosphorylation
+GO:0016126	32	15	6	15	sterol biosynthetic process
+GO:0072657	129	21	24,17	21	protein localization to membrane
+GO:0007059	106	37	19,86	37	chromosome segregation
+GO:0007076	8	4	1,5	4	mitotic chromosome condensation
+GO:0070588	52	18	9,74	18	calcium ion transmembrane transport
+GO:0046835	35	15	6,56	15	carbohydrate phosphorylation
+GO:0007020	6	3	1,12	3	microtubule nucleation
+GO:0007021	7	5	1,31	5	tubulin complex assembly
+GO:0007023	6	5	1,12	5	post-chaperonin tubulin folding pathway
+GO:0016104	12	6	2,25	6	triterpenoid biosynthetic process
+GO:0007010	227	77	42,53	77	cytoskeleton organization
+GO:0007017	222	94	41,6	94	microtubule-based process
+GO:0007018	79	40	14,8	40	microtubule-based movement
+GO:0007049	487	155	91,25	155	cell cycle
+GO:0010088	10	5	1,87	5	phloem development
+GO:0015689	5	4	0,94	4	molybdate ion transport
+GO:0010078	2	2	0,37	2	maintenance of root meristem identity
+GO:0051156	33	9	6,18	9	glucose 6-phosphate metabolic process
+GO:0090481	19	9	3,56	9	pyrimidine nucleotide-sugar transmembrane transport
+GO:0045910	14	7	2,62	7	negative regulation of DNA recombination
+GO:0019318	128	47	23,98	47	hexose metabolic process
+GO:0006116	4	3	0,75	3	NADH oxidation
+GO:0019464	5	3	0,94	3	glycine decarboxylation via glycine cleavage system
+GO:0071456	29	11	5,43	11	cellular response to hypoxia
+GO:0000070	61	18	11,43	18	mitotic sister chromatid segregation
+GO:0031408	20	8	3,75	8	oxylipin biosynthetic process
+GO:0006269	3	3	0,56	3	DNA replication, synthesis of RNA primer
+GO:0000079	62	18	11,62	18	regulation of cyclin-dependent protein serine/threonine kinase activity
+GO:0051211	3	3	0,56	3	anisotropic cell growth
+GO:0042138	10	6	1,87	6	meiotic DNA double-strand break formation
+GO:0034473	2	2	0,37	2	U1 snRNA 3'-end processing
+GO:0034475	5	3	0,94	3	U4 snRNA 3'-end processing
+GO:0034476	2	2	0,37	2	U5 snRNA 3'-end processing
+GO:0046621	5	5	0,94	5	negative regulation of organ growth
+GO:0006270	17	11	3,19	11	DNA replication initiation
+GO:0006271	12	9	2,25	9	DNA strand elongation involved in DNA replication
+GO:0006272	4	4	0,75	4	leading strand elongation
+GO:0090116	4	4	0,75	4	C-5 methylation of cytosine
+GO:0042254	313	80	58,65	80	ribosome biogenesis
+GO:0032956	39	9	7,31	9	regulation of actin cytoskeleton organization
+GO:0031145	11	5	2,06	5	anaphase-promoting complex-dependent catabolic process
+GO:0055085	1498	312	280,68	312	transmembrane transport
+GO:0048366	62	15	11,62	15	leaf development
+GO:0048367	186	37	34,85	37	shoot system development
+GO:0048354	2	2	0,37	2	mucilage biosynthetic process involved in seed coat development
+GO:0030001	312	74	58,46	74	metal ion transport
+GO:0009416	213	64	39,91	64	response to light stimulus

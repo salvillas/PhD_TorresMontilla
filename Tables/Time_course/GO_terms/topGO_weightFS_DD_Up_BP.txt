@@ -1,0 +1,59 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0016998	19	4	0,25	4	cell wall macromolecule catabolic process	0,000105480345097066
+GO:0050860	1	1	0,01	1	negative regulation of T cell receptor signaling pathway	0,0134109090909088
+GO:0031640	5	2	0,07	2	killing of cells of other organism	0,00174722256040946
+GO:0019752	1494	33	20,04	33	carboxylic acid metabolic process	0,0482307379061361
+GO:0098542	163	9	2,19	9	defense response to other organism	0,00892226389126509
+GO:0015995	46	3	0,62	3	chlorophyll biosynthetic process	0,0237653753767671
+GO:0055129	8	2	0,11	2	L-proline biosynthetic process	0,00476329320145911
+GO:0010258	2	1	0,03	1	NADH dehydrogenase complex (plastoquinone) assembly	0,0266423506138357
+GO:0055114	3639	94	48,8	94	oxidation-reduction process	1,83771517545542e-10
+GO:0042742	81	4	1,09	4	defense response to bacterium	0,0236530084028179
+GO:0010273	3	1	0,04	1	detoxification of copper ion	0,0396967210897042
+GO:0052837	2	1	0,03	1	thiazole biosynthetic process	0,0266423506138357
+GO:0015976	12	2	0,16	2	carbon utilization	0,0108364916082955
+GO:0015977	39	3	0,52	3	carbon fixation	0,0153211703812666
+GO:0015979	598	56	8,02	56	photosynthesis	1,11585363942743e-27
+GO:0006540	2	1	0,03	1	glutamate decarboxylation to succinate	0,0266423506138357
+GO:0030187	3	1	0,04	1	melatonin biosynthetic process	0,0396967210897042
+GO:0010951	71	9	0,95	9	negative regulation of endopeptidase activity	4,63233617758099e-07
+GO:0009695	12	2	0,16	2	jasmonic acid biosynthetic process	0,0108364916082955
+GO:0019432	24	2	0,32	2	triglyceride biosynthetic process	0,0407813519595692
+GO:0010205	3	2	0,04	2	photoinhibition	0,000533609662099409
+GO:0015671	3	2	0,04	2	oxygen transport	0,000533609662099409
+GO:0009058	8924	99	119,68	99	biosynthetic process	0,0131225199783126
+GO:0010207	17	5	0,23	5	photosystem II assembly	2,29969911386117e-06
+GO:0090160	2	1	0,03	1	Golgi to lysosome transport	0,0266423506138357
+GO:0006979	398	11	5,34	11	response to oxidative stress	0,00901208414922835
+GO:0009611	80	6	1,07	6	response to wounding	0,000732634646266342
+GO:0009765	62	8	0,83	8	photosynthesis, light harvesting	5,31199849337415e-05
+GO:0009768	12	2	0,16	2	photosynthesis, light harvesting in photosystem I	0,0108364916082955
+GO:0006662	21	2	0,28	2	glycerol ether metabolic process	0,0318537216179562
+GO:0009773	18	3	0,24	3	photosynthetic electron transport in photosystem I	0,00168323076675005
+GO:0010492	2	1	0,03	1	maintenance of shoot apical meristem identity	0,0266423506138357
+GO:0046256	1	1	0,01	1	2,4,6-trinitrotoluene catabolic process	0,0134109090909088
+GO:0018298	275	8	3,69	8	protein-chromophore linkage	0,0330577547983475
+GO:0042183	3	2	0,04	2	formate catabolic process	0,000533609662099409
+GO:0009607	307	12	4,12	12	response to biotic stimulus	0,0491752064202943
+GO:0006621	15	4	0,2	4	protein retention in ER lumen	3,87611931175264e-05
+GO:0006629	1330	33	17,84	33	lipid metabolic process	0,00104977701450289
+GO:0009450	2	1	0,03	1	gamma-aminobutyric acid catabolic process	0,0266423506138357
+GO:0006032	28	4	0,38	4	chitin catabolic process	0,000506476753381569
+GO:0005986	18	2	0,24	2	sucrose biosynthetic process	0,0238265196706437
+GO:0006636	7	2	0,09	2	unsaturated fatty acid biosynthetic process	0,00360437997626929
+GO:0005975	1975	35	26,49	35	carbohydrate metabolic process	0,0266701444720578
+GO:0002229	15	2	0,2	2	defense response to oomycetes	0,0167890648927644
+GO:0006749	60	3	0,8	3	glutathione metabolic process	0,0467709265497434
+GO:0016121	5	2	0,07	2	carotene catabolic process	0,00174722256040946
+GO:0098869	378	12	5,07	12	cellular oxidant detoxification	0,00699488226163007
+GO:0009862	3	1	0,04	1	systemic acquired resistance, salicylic acid mediated signaling pathway	0,0396967210897042
+GO:0019264	21	2	0,28	2	glycine biosynthetic process from serine	0,0318537216179562
+GO:0042549	11	6	0,15	6	photosystem II stabilization	2,45822926496768e-09
+GO:0051096	3	1	0,04	1	positive regulation of helicase activity	0,0396967210897042
+GO:0007178	19	2	0,25	2	transmembrane receptor protein serine/threonine kinase signaling pathway	0,0263968091647419
+GO:0090378	3	1	0,04	1	seed trichome elongation	0,0396967210897042
+GO:0046777	96	4	1,29	4	protein autophosphorylation	0,0404854315815032
+GO:0008299	153	7	2,05	7	isoprenoid biosynthetic process	0,03060500579092
+GO:0010155	1	1	0,01	1	regulation of proton transport	0,0134109090909088
+GO:0019509	10	2	0,13	2	L-methionine salvage from methylthioadenosine	0,0075205713069656
+GO:0030001	534	13	7,16	13	metal ion transport	0,0418725634184498

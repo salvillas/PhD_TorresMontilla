@@ -1,0 +1,150 @@
+glutamate-1-semialdehyde 2,1-aminomutase activity
+3-phosphoshikimate 1-carboxyvinyltransferase activity
+[ribulose-bisphosphate carboxylase]-lysine N-methyltransferase activity
+asparagine synthase (glutamine-hydrolyzing) activity
+lactoylglutathione lyase activity
+argininosuccinate lyase activity
+CTP synthase activity
+uroporphyrinogen decarboxylase activity
+pseudouridine synthase activity
+protein self-association
+aspartate-semialdehyde dehydrogenase activity
+zeinoxanthin epsilon hydroxylase activity
+oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+hypoxanthine phosphoribosyltransferase activity
+indole-3-glycerol-phosphate synthase activity
+leucine-tRNA ligase activity
+lysine-tRNA ligase activity
+methionine-tRNA ligase activity
+serine-tRNA ligase activity
+threonine-tRNA ligase activity
+homoserine dehydrogenase activity
+N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming) activity
+hydroxyacylglutathione hydrolase activity
+hydroxymethylbilane synthase activity
+heat shock protein binding
+aminoacyl-tRNA hydrolase activity
+pyruvate transmembrane transporter activity
+gamma-glutamylcyclotransferase activity
+uracil phosphoribosyltransferase activity
+tryptophan synthase activity
+peroxiredoxin activity
+GTP binding
+triglyceride lipase activity
+triose-phosphate isomerase activity
+oxidoreductase activity
+endoribonuclease activity, producing 5'-phosphomonoesters
+iron-sulfur cluster binding
+2 iron, 2 sulfur cluster binding
+tRNA binding
+rRNA binding
+RNA methyltransferase activity
+tRNA (guanine-N7-)-methyltransferase activity
+P-P-bond-hydrolysis-driven protein transmembrane transporter activity
+chloroplast protein-transporting ATPase activity
+4-alpha-hydroxytetrahydrobiopterin dehydratase activity
+chlorophyllase activity
+3'-tRNA processing endoribonuclease activity
+magnesium chelatase activity
+glutaminyl-tRNA synthase (glutamine-hydrolyzing) activity
+NADH dehydrogenase activity
+ATPase activity
+dihydroorotate dehydrogenase activity
+tRNA (adenine-N1-)-methyltransferase activity
+protein disulfide oxidoreductase activity
+GMP synthase (glutamine-hydrolyzing) activity
+ATP-dependent peptidase activity
+hydrolase activity, acting on acid anhydrides
+(S)-2-(5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido)succinate AMP-lyase (fumarate-forming) activity
+endoribonuclease activity
+ribonuclease III activity
+DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity
+ribonuclease P activity
+tRNA-uridine aminocarboxypropyltransferase activity
+rRNA (guanine) methyltransferase activity
+1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase activity
+dihydrolipoyl dehydrogenase activity
+GTP cyclohydrolase II activity
+guanine phosphoribosyltransferase activity
+CoA-ligase activity
+ribonuclease MRP activity
+2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase activity
+deoxyribodipyrimidine photo-lyase activity
+metal ion binding
+2-phytyl-1,4-naphthoquinone methyltransferase activity
+violaxanthin de-epoxidase activity
+coproporphyrinogen oxidase activity
+sequence-specific mRNA binding
+chalcone isomerase activity
+single-stranded DNA binding
+pheophytinase b activity
+U3 snoRNA binding
+3,4-dihydroxy-2-butanone-4-phosphate synthase activity
+protein methyltransferase activity
+deoxynucleoside kinase activity
+phytoene dehydrogenase activity
+flavin adenine dinucleotide binding
+sucrose synthase activity
+chlorophyll synthetase activity
+sigma factor activity
+serine-type endopeptidase activity
+DNA replication origin binding
+ribonucleoprotein complex binding
+ribosome binding
+ribosomal large subunit binding
+ribosomal small subunit binding
+polyribonucleotide nucleotidyltransferase activity
+protein-arginine omega-N symmetric methyltransferase activity
+snoRNA binding
+metalloendopeptidase activity
+translation release factor activity, codon specific
+protein homodimerization activity
+phosphoribosylamine-glycine ligase activity
+antiporter activity
+glutathione peroxidase activity
+ATP transmembrane transporter activity
+phenylalanine ammonia-lyase activity
+transition metal ion binding
+thioredoxin peroxidase activity
+thymidine kinase activity
+porin activity
+peptide deformylase activity
+peptidyl-prolyl cis-trans isomerase activity
+glutathione transferase activity
+pyridoxal 5'-phosphate synthase (glutamine hydrolysing) activity
+glycerol-3-phosphate dehydrogenase [NAD+] activity
+shikimate kinase activity
+glutamate-5-semialdehyde dehydrogenase activity
+L-ascorbate peroxidase activity
+glutamate-cysteine ligase activity
+protein-arginine N-methyltransferase activity
+glutaminase activity
+oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor
+protein folding chaperone
+protein-lysine N-methyltransferase activity
+helicase activity
+xenobiotic transmembrane transporter activity
+superoxide dismutase activity
+voltage-gated cation channel activity
+RNA binding
+oxidoreductase activity, acting on the CH-CH group of donors
+mRNA binding
+voltage-gated anion channel activity
+enoyl-[acyl-carrier-protein] reductase (NADH) activity
+unfolded protein binding
+structural constituent of ribosome
+chaperone binding
+glutamate 5-kinase activity
+ribose phosphate diphosphokinase activity
+5S rRNA binding
+Hsp90 protein binding
+4-coumarate-CoA ligase activity
+antioxidant activity
+metalloaminopeptidase activity
+serine O-acetyltransferase activity
+adenyl-nucleotide exchange factor activity
+tRNA 2'-O-methyltransferase activity
+cyclic pyranopterin monophosphate synthase activity
+formyltetrahydrofolate deformylase activity
+peptide-methionine (R)-S-oxide reductase activity
+DNA-directed 5'-3' RNA polymerase activity

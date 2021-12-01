@@ -1,0 +1,93 @@
+catalase activity
+nitrate reductase (NADH) activity
+magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase activity
+phospholipase A1 activity
+tetrapyrrole binding
+ornithine-oxo-acid transaminase activity
+chlorophyll binding
+oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+oxygen evolving activity
+1-deoxy-D-xylulose-5-phosphate reductoisomerase activity
+kinase binding
+protein domain specific binding
+sucrose synthase activity
+geranylgeranyl reductase activity
+serine-type peptidase activity
+serine-pyruvate transaminase activity
+nicotinate-nucleotide diphosphorylase (carboxylating) activity
+sucrose-phosphate synthase activity
+protein disulfide oxidoreductase activity
+carbonate dehydratase activity
+L-alanine:2-oxoglutarate aminotransferase activity
+galacturonate binding
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+succinate-semialdehyde dehydrogenase (NAD+) activity
+carbohydrate binding
+carotenoid dioxygenase activity
+fructose 1,6-bisphosphate 1-phosphatase activity
+voltage-gated chloride channel activity
+aldose 1-epimerase activity
+undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase activity
+UDPsulfoquinovose synthase activity
+chitin binding
+serine-type carboxypeptidase activity
+magnesium chelatase activity
+glutathione transferase activity
+phosphoprotein binding
+UDP-glycosyltransferase activity
+glutamate-5-semialdehyde dehydrogenase activity
+glutamate N-acetyltransferase activity
+glutathione dehydrogenase (ascorbate) activity
+ornithine(lysine) transaminase activity
+16:0 monogalactosyldiacylglycerol desaturase activity
+geranylgeranyl diphosphate reductase activity
+gamma-glutamylaminecyclotransferase activity
+transmembrane receptor protein serine/threonine kinase activity
+choline-phosphate cytidylyltransferase activity
+medium-chain fatty acid-CoA ligase activity
+cytokinin dehydrogenase activity
+channel activity
+calcium-dependent phospholipid binding
+glutamate 5-kinase activity
+endopeptidase inhibitor activity
+serine-type endopeptidase inhibitor activity
+fructose-bisphosphate aldolase activity
+ribulose-bisphosphate carboxylase activity
+heme binding
+structural constituent of cell wall
+4-hydroxyphenylpyruvate dioxygenase activity
+quercetin 3-O-glucosyltransferase activity
+quercetin 7-O-glucosyltransferase activity
+GDP-D-glucose phosphorylase activity
+molybdenum ion binding
+iron ion binding
+acid phosphatase activity
+pyridoxal phosphate binding
+2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase activity
+monooxygenase activity
+2 iron, 2 sulfur cluster binding
+hydroperoxide dehydratase activity
+formate dehydrogenase (NAD+) activity
+terpene synthase activity
+glyceraldehyde-3-phosphate dehydrogenase (NADP+) (non-phosphorylating) activity
+succinate-semialdehyde dehydrogenase [NAD(P)+] activity
+L-ornithine transmembrane transporter activity
+alpha-(1->6)-fucosyltransferase activity
+ER retention sequence binding
+UDP-N-acetylglucosamine diphosphorylase activity
+sulfiredoxin activity
+acireductone dioxygenase [iron(II)-requiring] activity
+molybdopterin cofactor binding
+cellulase activity
+xyloglucan:xyloglucosyl transferase activity
+phosphoenolpyruvate carboxylase activity
+allene-oxide cyclase activity
+inositol-1,4,5-trisphosphate 5-phosphatase activity
+inositol-1,3,4,5-tetrakisphosphate 5-phosphatase activity
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity
+nitrate reductase (NADPH) activity
+inositol-polyphosphate 5-phosphatase activity
+beta-galactosidase activity
+secondary active sulfate transmembrane transporter activity
+chitinase activity
+chlorophyllide a oxygenase [overall] activity

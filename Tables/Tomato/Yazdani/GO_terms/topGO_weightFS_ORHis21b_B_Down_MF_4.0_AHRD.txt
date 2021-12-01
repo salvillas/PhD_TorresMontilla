@@ -1,0 +1,55 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0045735	79	8	3,96	8	nutrient reservoir activity	0,0440023815966323
+GO:0046906	719	50	36,04	50	tetrapyrrole binding	0,0494977786362759
+GO:0003984	4	2	0,2	2	acetolactate synthase activity	0,0140763018073483
+GO:0004066	6	2	0,3	2	asparagine synthase (glutamine-hydrolyzing) activity	0,0329065271988126
+GO:0004818	2	2	0,1	2	glutamate-tRNA ligase activity	0,00251039506304351
+GO:0016671	25	5	1,25	5	oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor	0,0429907085519313
+GO:0016730	7	4	0,35	4	oxidoreductase activity, acting on iron-sulfur proteins as donors	0,000482481274019934
+GO:0070905	7	2	0,35	2	serine binding	0,0445589253320441
+GO:0043024	5	2	0,25	2	ribosomal small subunit binding	0,0226846229979977
+GO:0016984	13	3	0,65	3	ribulose-bisphosphate carboxylase activity	0,0246279025668702
+GO:0016987	8	5	0,4	5	sigma factor activity	1,5466196370312e-05
+GO:0004365	12	5	0,6	5	glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity	0,000184733500489382
+GO:0030976	13	3	0,65	3	thiamine pyrophosphate binding	0,0246279025668702
+GO:0016630	3	3	0,15	3	protochlorophyllide reductase activity	0,00012561349456603
+GO:0004015	5	2	0,25	2	adenosylmethionine-8-amino-7-oxononanoate transaminase activity	0,0226846229979977
+GO:0004805	8	3	0,4	3	trehalose-phosphatase activity	0,00581670081834069
+GO:0042132	7	3	0,35	3	fructose 1,6-bisphosphate 1-phosphatase activity	0,00377553186573391
+GO:0016168	116	21	5,81	21	chlorophyll binding	2,82377515588677e-07
+GO:0004372	7	2	0,35	2	glycine hydroxymethyltransferase activity	0,0445589253320441
+GO:0033926	11	4	0,55	4	glycopeptide alpha-N-acetylgalactosaminidase activity	0,00156006123649852
+GO:0030170	144	13	7,22	13	pyridoxal phosphate binding	0,0290679539107413
+GO:0004332	11	4	0,55	4	fructose-bisphosphate aldolase activity	0,00156006123649852
+GO:0016851	3	3	0,15	3	magnesium chelatase activity	0,00012561349456603
+GO:0004222	60	9	3,01	9	metalloendopeptidase activity	0,00285165602070064
+GO:0042803	65	7	3,26	7	protein homodimerization activity	0,043523183240967
+GO:0009881	29	9	1,45	9	photoreceptor activity	0,000167293239453679
+GO:0009882	4	2	0,2	2	blue light photoreceptor activity	0,0140763018073483
+GO:0046554	2	2	0,1	2	malate dehydrogenase (NADP+) activity	0,00251039506304351
+GO:0030060	11	3	0,55	3	L-malate dehydrogenase activity	0,0153101282143864
+GO:0004575	13	4	0,65	4	sucrose alpha-glucosidase activity	0,00311879597593829
+GO:0010277	10	3	0,5	3	chlorophyllide a oxygenase [overall] activity	0,0115601099476897
+GO:0051879	12	3	0,6	3	Hsp90 protein binding	0,0196642625843475
+GO:0071949	92	9	4,61	9	FAD binding	0,0409655600409293
+GO:0010242	6	2	0,3	2	oxygen evolving activity	0,0329065271988126
+GO:0008716	3	2	0,15	2	D-alanine-D-alanine ligase activity	0,00727995819999845
+GO:0051082	135	12	6,77	12	unfolded protein binding	0,0388073850694115
+GO:0051087	42	6	2,11	6	chaperone binding	0,017520874075663
+GO:0050660	176	18	8,82	18	flavin adenine dinucleotide binding	0,0240390158701725
+GO:0050661	73	10	3,66	10	NADP binding	0,00337770583476097
+GO:0016279	61	4	3,06	4	protein-lysine N-methyltransferase activity	0,0364898557743574
+GO:0050664	10	3	0,5	3	oxidoreductase activity, acting on NAD(P)H, oxygen as acceptor	0,0115601099476897
+GO:0004657	2	2	0,1	2	proline dehydrogenase activity	0,00251039506304351
+GO:0051287	108	10	5,41	10	NAD binding	0,0445238265202232
+GO:0015267	233	10	11,68	10	channel activity	0,0387504394462532
+GO:0003755	72	9	3,61	9	peptidyl-prolyl cis-trans isomerase activity	0,00964176886301245
+GO:0047134	9	3	0,45	3	protein-disulfide reductase activity	0,00840216878476706
+GO:0003727	23	4	1,15	4	single-stranded RNA binding	0,0259512116589476
+GO:0003729	341	35	17,09	35	mRNA binding	6,9672706519673e-05
+GO:0004176	39	5	1,95	5	ATP-dependent peptidase activity	0,0440020720923462
+GO:0031072	58	8	2,91	8	heat shock protein binding	0,0437004068111884
+GO:0003746	47	7	2,36	7	translation elongation factor activity	0,00848170791373133
+GO:0051537	55	9	2,76	9	2 iron, 2 sulfur cluster binding	0,00153306109385555
+GO:0030785	3	2	0,15	2	[ribulose-bisphosphate carboxylase]-lysine N-methyltransferase activity	0,00727995819999845
+GO:0004853	2	2	0,1	2	uroporphyrinogen decarboxylase activity	0,00251039506304351

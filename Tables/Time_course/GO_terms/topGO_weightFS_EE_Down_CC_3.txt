@@ -1,0 +1,22 @@
+pICln-Sm protein complex
+SCF ubiquitin ligase complex
+cytosol
+mitochondrial respiratory chain complex III
+amyloplast
+DNA polymerase III complex
+endoplasmic reticulum lumen
+methylosome
+commitment complex
+nuclear pre-replicative complex
+perinuclear region of cytoplasm
+cytoplasm
+root hair
+nucleotide-activated protein kinase complex
+starch grain
+U2-type prespliceosome
+U2AF complex
+Z disc
+extrinsic component of stromal side of plastid thylakoid membrane
+cell surface
+cytoskeleton
+plasma membrane

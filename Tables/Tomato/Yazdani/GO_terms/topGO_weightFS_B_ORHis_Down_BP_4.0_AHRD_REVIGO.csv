@@ -1,0 +1,143 @@
+term_ID,description,frequency,plot_X,plot_Y,plot_size,log10 p-value,uniqueness,dispensability,representative,eliminated
+GO:0006886,"intracellular protein transport",1.199%,-4.807, 0.976,5.187,-3.9089,0.857,0.000,6886,0
+GO:0015031,"protein transport",2.251%,null,null,5.461,-1.6207,0.881,0.885,6886,1
+GO:0006888,"ER to Golgi vesicle-mediated transport",0.125%,null,null,4.204,-1.9831,0.869,0.737,6886,1
+GO:0009835,"fruit ripening",0.000%,-2.720,-2.049,1.505,-3.8318,0.890,0.000,9835,0
+GO:0016226,"iron-sulfur cluster assembly",0.219%, 0.642, 7.123,4.450,-5.3717,0.754,0.000,16226,0
+GO:0044571,"[2Fe-2S] cluster assembly",0.019%,null,null,3.385,-1.3158,0.785,0.831,16226,1
+GO:0050896,"response to stimulus",12.210%,-0.945, 0.591,6.195,-1.8562,0.988,0.000,50896,0
+GO:0006807,"nitrogen compound metabolic process",38.744%,-0.838,-0.265,6.696,-2.6707,0.972,0.020,6807,0
+GO:0034605,"cellular response to heat",0.041%,-2.210,-4.895,3.726,-4.2185,0.873,0.023,34605,0
+GO:0009408,"response to heat",0.166%,null,null,4.328,-3.6027,0.897,0.865,34605,1
+GO:0042026,"protein refolding",0.069%,-1.241,-1.328,3.949,-3.9363,0.948,0.024,42026,0
+GO:0006914,"autophagy",0.230%, 0.090,-0.050,4.470,-2.5629,0.953,0.027,6914,0
+GO:0006792,"regulation of sulfur utilization",0.000%,-2.339, 2.776,0.778,-1.3158,0.925,0.029,6792,0
+GO:0006457,"protein folding",0.903%,-0.012,-0.310,5.064,-2.1775,0.950,0.030,6457,0
+GO:0046854,"phosphatidylinositol phosphorylation",0.173%, 5.489, 1.924,4.347,-3.3306,0.747,0.048,46854,0
+GO:0046488,"phosphatidylinositol metabolic process",0.339%,null,null,4.638,-1.4700,0.736,0.861,46854,1
+GO:0000398,"mRNA splicing, via spliceosome",0.315%, 2.773,-0.637,4.607,-1.7204,0.874,0.050,398,0
+GO:0000395,"mRNA 5'-splice site recognition",0.007%,null,null,2.942,-1.7526,0.822,0.747,398,1
+GO:1901135,"carbohydrate derivative metabolic process",6.319%,-0.022, 0.110,5.909,-1.7581,0.944,0.053,1901135,0
+GO:0009058,"biosynthetic process",31.611%,-0.400,-0.462,6.608,-1.5322,0.972,0.066,9058,0
+GO:0009693,"ethylene biosynthetic process",0.001%, 0.685,-0.017,2.286,-4.6881,0.928,0.098,9693,0
+GO:0006099,"tricarboxylic acid cycle",0.469%, 7.747, 1.522,4.780,-3.0792,0.757,0.159,6099,0
+GO:0006102,"isocitrate metabolic process",0.022%,null,null,3.446,-1.7200,0.810,0.765,6099,1
+GO:0045454,"cell redox homeostasis",0.861%, 2.897, 2.891,5.043,-2.7711,0.792,0.185,45454,0
+GO:0006879,"cellular iron ion homeostasis",0.110%,null,null,4.148,-1.8554,0.816,0.748,45454,1
+GO:0046951,"ketone body biosynthetic process",0.002%, 7.297, 1.374,2.348,-1.3158,0.825,0.196,46951,0
+GO:0055114,"oxidation-reduction process",15.060%, 6.320, 0.531,6.286,-1.3052,0.855,0.216,55114,0
+GO:0042351,"'de novo' GDP-L-fucose biosynthetic process",0.012%, 4.952, 0.956,3.184,-1.3158,0.849,0.225,42351,0
+GO:0005997,"xylulose metabolic process",0.014%, 6.559,-0.428,3.263,-1.7526,0.836,0.225,5997,0
+GO:0043666,"regulation of phosphoprotein phosphatase activity",0.016%, 1.363,-3.657,3.317,-2.1689,0.783,0.234,43666,0
+GO:0006368,"transcription elongation from RNA polymerase II promoter",0.082%, 3.455, 2.170,4.021,-1.4733,0.868,0.240,6368,0
+GO:0006275,"regulation of DNA replication",0.116%, 1.100, 5.010,4.172,-1.3159,0.831,0.245,6275,0
+GO:0045116,"protein neddylation",0.019%,-2.266,-6.831,3.377,-1.8543,0.871,0.273,45116,0
+GO:0010020,"chloroplast fission",0.003%,-2.692, 6.702,2.516,-1.8362,0.901,0.292,10020,0
+GO:0006572,"tyrosine catabolic process",0.006%, 7.286,-2.826,2.863,-2.0727,0.766,0.292,6572,0
+GO:0010136,"ureide catabolic process",0.001%, 3.077,-5.851,2.000,-1.7526,0.880,0.307,10136,0
+GO:0048194,"Golgi vesicle budding",0.004%,-3.630, 6.031,2.725,-1.7206,0.838,0.310,48194,0
+GO:0070676,"intralumenal vesicle formation",0.005%,null,null,2.769,-1.3158,0.839,0.807,48194,1
+GO:0030308,"negative regulation of cell growth",0.030%,-1.094, 6.240,3.591,-1.7532,0.751,0.343,30308,0
+GO:0030517,"negative regulation of axon extension",0.006%,null,null,2.854,-1.7526,0.707,0.845,30308,1
+GO:0035265,"organ growth",0.034%,null,null,3.641,-1.3157,0.855,0.713,30308,1
+GO:0048671,"negative regulation of collateral sprouting",0.002%,null,null,2.314,-1.7526,0.723,0.896,30308,1
+GO:0006108,"malate metabolic process",0.088%, 8.018, 0.892,4.051,-2.5607,0.789,0.357,6108,0
+GO:0007030,"Golgi organization",0.039%,-3.028, 6.999,3.701,-1.5905,0.883,0.357,7030,0
+GO:0046710,"GDP metabolic process",0.043%, 7.057, 0.223,3.741,-2.6292,0.743,0.371,46710,0
+GO:0006096,"glycolytic process",0.545%,null,null,4.844,-2.4669,0.596,0.785,46710,1
+GO:0009142,"nucleoside triphosphate biosynthetic process",0.651%,null,null,4.922,-1.3133,0.694,0.794,46710,1
+GO:0046037,"GMP metabolic process",0.123%,null,null,4.198,-1.4638,0.729,0.804,46710,1
+GO:0055059,"asymmetric neuroblast division",0.003%,-1.827, 1.674,2.628,-2.0727,0.821,0.371,55059,0
+GO:0033528,"S-methylmethionine cycle",0.000%, 3.333, 3.861,0.845,-1.7526,0.889,0.380,33528,0
+GO:0060776,"simple leaf morphogenesis",0.000%,-2.862,-2.219,1.732,-1.7526,0.889,0.380,60776,0
+GO:0016310,"phosphorylation",7.764%, 4.856,-0.121,5.998,-3.1168,0.834,0.396,16310,0
+GO:0042594,"response to starvation",0.109%,-2.761,-5.462,4.147,-1.4066,0.908,0.403,42594,0
+GO:0006210,"thymine catabolic process",0.001%, 6.240,-3.341,1.875,-1.7526,0.784,0.403,6210,0
+GO:0006145,"purine nucleobase catabolic process",0.039%,null,null,3.697,-1.7526,0.731,0.762,6210,1
+GO:0014706,"striated muscle tissue development",0.077%,-2.356,-1.886,3.995,-1.3158,0.914,0.409,14706,0
+GO:1902000,"homogentisate catabolic process",0.000%, 7.067,-3.635,1.623,-1.7526,0.793,0.412,1902000,0
+GO:0045175,"basal protein localization",0.000%,-3.315, 0.561,1.681,-2.6292,0.925,0.418,45175,0
+GO:0044262,"cellular carbohydrate metabolic process",1.257%, 1.918,-0.233,5.208,-1.3155,0.898,0.422,44262,0
+GO:0006850,"mitochondrial pyruvate transport",0.015%,-4.964, 0.921,3.282,-2.4270,0.874,0.431,6850,0
+GO:0009187,"cyclic nucleotide metabolic process",0.196%, 6.613, 0.691,4.400,-1.7529,0.739,0.435,9187,0
+GO:0033615,"mitochondrial proton-transporting ATP synthase complex assembly",0.003%,-3.267, 7.303,2.601,-1.7526,0.879,0.437,33615,0
+GO:0031408,"oxylipin biosynthetic process",0.007%, 7.418, 1.485,2.941,-1.3908,0.764,0.440,31408,0
+GO:0030433,"ER-associated ubiquitin-dependent protein catabolic process",0.049%, 1.598,-5.962,3.794,-4.1283,0.697,0.443,30433,0
+GO:0030968,"endoplasmic reticulum unfolded protein response",0.027%,null,null,3.548,-1.8362,0.819,0.872,30433,1
+GO:0031146,"SCF-dependent proteasomal ubiquitin-dependent protein catabolic process",0.022%,null,null,3.447,-1.4446,0.835,0.757,30433,1
+GO:0010121,"arginine catabolic process to proline via ornithine",0.001%, 6.880,-3.401,1.826,-1.7526,0.784,0.468,10121,0
+GO:0019544,"arginine catabolic process to glutamate",0.009%,null,null,3.057,-1.7526,0.748,0.704,10121,1
+GO:1902476,"chloride transmembrane transport",0.047%,-3.691, 0.919,3.780,-1.4724,0.932,0.468,1902476,0
+GO:0019243,"methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione",0.021%, 7.220,-2.364,3.421,-1.7200,0.753,0.472,19243,0
+GO:0010387,"COP9 signalosome assembly",0.002%,-3.157, 7.192,2.502,-1.7526,0.885,0.473,10387,0
+GO:0000256,"allantoin catabolic process",0.025%, 5.066,-5.362,3.501,-1.7526,0.835,0.487,256,0
+GO:0009398,"FMN biosynthetic process",0.032%, 6.666, 1.753,3.613,-2.6292,0.716,0.493,9398,0
+GO:0009231,"riboflavin biosynthetic process",0.223%,null,null,4.456,-2.3890,0.758,0.860,9398,1
+GO:0002238,"response to molecule of fungal origin",0.001%,-2.896,-5.582,2.196,-2.0206,0.923,0.493,2238,0
+GO:0034599,"cellular response to oxidative stress",0.224%,-2.267,-5.015,4.458,-3.0834,0.867,0.497,34599,0
+GO:0042542,"response to hydrogen peroxide",0.029%,null,null,3.571,-1.8735,0.908,0.720,34599,1
+GO:0000302,"response to reactive oxygen species",0.181%,null,null,4.367,-2.1141,0.901,0.826,34599,1
+GO:0032955,"regulation of barrier septum assembly",0.025%,-1.182, 6.456,3.507,-1.7526,0.759,0.500,32955,0
+GO:0051782,"negative regulation of cell division",0.013%,null,null,3.222,-1.7526,0.823,0.823,32955,1
+GO:0000045,"autophagosome assembly",0.035%,-3.176, 7.367,3.647,-1.3910,0.877,0.511,45,0
+GO:0030242,"pexophagy",0.009%,null,null,3.084,-1.3158,0.950,0.703,45,1
+GO:1990592,"protein K69-linked ufmylation",0.002%,-1.035,-5.358,2.371,-1.3158,0.884,0.520,1990592,0
+GO:0034553,"mitochondrial respiratory chain complex II assembly",0.004%,-2.951, 7.027,2.688,-1.3158,0.878,0.531,34553,0
+GO:0070973,"protein localization to endoplasmic reticulum exit site",0.002%,-5.744, 0.541,2.360,-2.1973,0.892,0.534,70973,0
+GO:0015936,"coenzyme A metabolic process",0.173%, 6.577, 1.595,4.347,-1.3166,0.708,0.544,15936,0
+GO:0030437,"ascospore formation",0.023%, 1.392, 1.655,3.463,-2.0731,0.808,0.544,30437,0
+GO:0032780,"negative regulation of ATPase activity",0.020%,-4.104, 3.276,3.403,-1.3158,0.924,0.547,32780,0
+GO:0000338,"protein deneddylation",0.017%,-1.289,-6.355,3.335,-1.4638,0.865,0.551,338,0
+GO:0010390,"histone monoubiquitination",0.006%,-5.562, 2.937,2.904,-1.7200,0.816,0.555,10390,0
+GO:0032418,"lysosome localization",0.010%,-4.031, 0.798,3.114,-1.7526,0.907,0.560,32418,0
+GO:0033353,"S-adenosylmethionine cycle",0.039%, 7.321, 1.973,3.694,-1.4638,0.716,0.562,33353,0
+GO:1901352,"negative regulation of phosphatidylglycerol biosynthetic process",0.001%, 4.805, 3.128,1.869,-2.0727,0.752,0.563,1901352,0
+GO:2001246,"negative regulation of phosphatidylcholine biosynthetic process",0.000%,null,null,1.785,-2.0727,0.747,0.839,1901352,1
+GO:0019419,"sulfate reduction",0.041%, 3.949, 4.108,3.722,-2.6292,0.814,0.565,19419,0
+GO:0051085,"chaperone mediated protein folding requiring cofactor",0.010%,-0.376,-1.077,3.117,-1.9684,0.952,0.567,51085,0
+GO:0006086,"acetyl-CoA biosynthetic process from pyruvate",0.043%, 7.169, 2.213,3.746,-1.6748,0.713,0.567,6086,0
+GO:0019287,"isopentenyl diphosphate biosynthetic process, mevalonate pathway",0.014%,null,null,3.258,-1.4638,0.721,0.765,6086,1
+GO:1901006,"ubiquinone-6 biosynthetic process",0.002%, 7.889, 3.202,2.483,-1.3158,0.792,0.569,1901006,0
+GO:0070534,"protein K63-linked ubiquitination",0.010%,-1.074,-5.543,3.097,-1.7200,0.874,0.569,70534,0
+GO:0009585,"red, far-red light phototransduction",0.004%,-4.308,-3.566,2.703,-2.2339,0.828,0.573,9585,0
+GO:0009640,"photomorphogenesis",0.004%,null,null,2.751,-1.3246,0.826,0.891,9585,1
+GO:0009704,"de-etiolation",0.001%,null,null,1.978,-1.3158,0.839,0.819,9585,1
+GO:0042692,"muscle cell differentiation",0.089%, 2.044, 0.826,4.058,-1.7526,0.809,0.575,42692,0
+GO:0051259,"protein oligomerization",0.188%,-3.132, 7.255,4.382,-2.2337,0.860,0.581,51259,0
+GO:0015914,"phospholipid transport",0.076%,-4.229, 0.867,3.987,-2.0294,0.850,0.584,15914,0
+GO:0045053,"protein retention in Golgi apparatus",0.007%,-2.787, 2.784,2.949,-3.1621,0.758,0.586,45053,0
+GO:0006621,"protein retention in ER lumen",0.017%,null,null,3.334,-2.0206,0.744,0.816,45053,1
+GO:0045047,"protein targeting to ER",0.164%,null,null,4.323,-1.8556,0.860,0.830,45053,1
+GO:0010629,"negative regulation of gene expression",0.784%,-2.403, 3.734,5.002,-1.3082,0.848,0.593,10629,0
+GO:0000103,"sulfate assimilation",0.084%, 2.123, 4.027,4.033,-1.8362,0.893,0.596,103,0
+GO:0008299,"isoprenoid biosynthetic process",0.442%, 6.342, 4.567,4.754,-2.7578,0.762,0.596,8299,0
+GO:0006633,"fatty acid biosynthetic process",0.617%,null,null,4.899,-1.6361,0.695,0.718,8299,1
+GO:0009107,"lipoate biosynthetic process",0.066%,null,null,3.926,-1.3158,0.690,0.756,8299,1
+GO:1900027,"regulation of ruffle assembly",0.005%,-1.903, 6.640,2.793,-1.7526,0.788,0.602,1900027,0
+GO:0010193,"response to ozone",0.002%,-3.348,-5.814,2.427,-1.8362,0.917,0.607,10193,0
+GO:0051443,"positive regulation of ubiquitin-protein transferase activity",0.028%,-2.653,-3.718,3.550,-1.7200,0.809,0.608,51443,0
+GO:0043547,"positive regulation of GTPase activity",0.470%,null,null,4.780,-1.4126,0.911,0.703,51443,1
+GO:0050992,"dimethylallyl diphosphate biosynthetic process",0.036%, 6.573, 3.525,3.661,-1.3158,0.754,0.610,50992,0
+GO:0006106,"fumarate metabolic process",0.049%, 8.063, 0.654,3.801,-2.0727,0.796,0.620,6106,0
+GO:0007035,"vacuolar acidification",0.011%, 0.749, 3.555,3.162,-1.4638,0.837,0.625,7035,0
+GO:0043403,"skeletal muscle tissue regeneration",0.005%,-3.882,-3.787,2.804,-1.7526,0.821,0.637,43403,0
+GO:0006515,"misfolded or incompletely synthesized protein catabolic process",0.056%, 1.593,-6.501,3.860,-1.8744,0.831,0.641,6515,0
+GO:0010438,"cellular response to sulfur starvation",0.000%,-3.318,-5.633,1.342,-1.3158,0.906,0.644,10438,0
+GO:0006094,"gluconeogenesis",0.262%, 7.898, 1.555,4.527,-1.7357,0.768,0.644,6094,0
+GO:0006006,"glucose metabolic process",0.430%,null,null,4.741,-1.3180,0.800,0.881,6094,1
+GO:0009911,"positive regulation of flower development",0.002%,-2.753,-0.254,2.394,-1.7200,0.838,0.648,9911,0
+GO:0055129,"L-proline biosynthetic process",0.085%, 7.878, 1.749,4.039,-1.7200,0.751,0.652,55129,0
+GO:0071596,"ubiquitin-dependent protein catabolic process via the N-end rule pathway",0.002%, 1.071,-7.411,2.425,-1.7526,0.852,0.660,71596,0
+GO:0006623,"protein targeting to vacuole",0.039%,-4.777, 0.786,3.702,-2.7439,0.862,0.669,6623,0
+GO:0006893,"Golgi to plasma membrane transport",0.027%,null,null,3.545,-1.3242,0.913,0.879,6623,1
+GO:0006896,"Golgi to vacuole transport",0.012%,null,null,3.200,-1.5322,0.869,0.786,6623,1
+GO:0043328,"protein targeting to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway",0.010%,null,null,3.115,-1.7200,0.738,0.918,6623,1
+GO:0008333,"endosome to lysosome transport",0.009%,null,null,3.057,-1.3158,0.893,0.770,6623,1
+GO:0000209,"protein polyubiquitination",0.066%,-1.022,-5.724,3.929,-1.5154,0.862,0.674,209,0
+GO:0009423,"chorismate biosynthetic process",0.191%, 7.236, 2.302,4.389,-1.6748,0.748,0.683,9423,0
+GO:0006654,"phosphatidic acid biosynthetic process",0.016%, 6.097, 2.645,3.299,-1.3158,0.759,0.686,6654,0
+GO:0006122,"mitochondrial electron transport, ubiquinol to cytochrome c",0.035%, 7.684, 0.293,3.652,-2.4848,0.737,0.687,6122,0
+GO:0006120,"mitochondrial electron transport, NADH to ubiquinone",0.019%,null,null,3.386,-2.1073,0.745,0.880,6122,1
+GO:0019346,"transsulfuration",0.004%, 6.594, 1.435,2.673,-1.3232,0.784,0.688,19346,0
+GO:0035335,"peptidyl-tyrosine dephosphorylation",0.255%, 2.344,-4.644,4.514,-2.0658,0.814,0.695,35335,0
+GO:0006470,"protein dephosphorylation",0.585%,null,null,4.875,-1.4514,0.806,0.779,35335,1

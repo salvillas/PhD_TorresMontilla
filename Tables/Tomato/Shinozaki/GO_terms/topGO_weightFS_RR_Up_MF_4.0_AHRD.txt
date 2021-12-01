@@ -1,0 +1,113 @@
+Annotated	Significant	Expected	DEG	Term
+GO:0030151	6	3	0,84	3	molybdenum ion binding
+GO:0016531	3	3	0,42	3	copper chaperone activity
+GO:0030170	144	30	20,12	30	pyridoxal phosphate binding
+GO:0004615	6	3	0,84	3	phosphomannomutase activity
+GO:0003727	23	6	3,21	6	single-stranded RNA binding
+GO:0003712	136	20	19	20	transcription coregulator activity
+GO:0004107	2	2	0,28	2	chorismate synthase activity
+GO:0000978	53	13	7,4	13	RNA polymerase II cis-regulatory region sequence-specific DNA binding
+GO:0003747	14	7	1,96	7	translation release factor activity
+GO:0030627	2	2	0,28	2	pre-mRNA 5'-splice site binding
+GO:0016161	8	4	1,12	4	beta-amylase activity
+GO:0016151	4	3	0,56	3	nickel cation binding
+GO:0004298	28	10	3,91	10	threonine-type endopeptidase activity
+GO:0008898	2	2	0,28	2	S-adenosylmethionine-homocysteine S-methyltransferase activity
+GO:0004602	9	4	1,26	4	glutathione peroxidase activity
+GO:0019900	53	14	7,4	14	kinase binding
+GO:0070122	19	7	2,65	7	isopeptidase activity
+GO:0019905	9	4	1,26	4	syntaxin binding
+GO:0008379	6	3	0,84	3	thioredoxin peroxidase activity
+GO:0016656	6	3	0,84	3	monodehydroascorbate reductase (NADH) activity
+GO:0070006	14	6	1,96	6	metalloaminopeptidase activity
+GO:0004252	168	32	23,47	32	serine-type endopeptidase activity
+GO:0016149	8	4	1,12	4	translation release factor activity, codon specific
+GO:0051536	222	52	31,01	52	iron-sulfur cluster binding
+GO:0016671	25	16	3,49	16	oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor
+GO:0051537	55	16	7,68	16	2 iron, 2 sulfur cluster binding
+GO:0004222	60	19	8,38	19	metalloendopeptidase activity
+GO:0003868	2	2	0,28	2	4-hydroxyphenylpyruvate dioxygenase activity
+GO:0051082	135	40	18,86	40	unfolded protein binding
+GO:0051087	42	18	5,87	18	chaperone binding
+GO:0003857	9	4	1,26	4	3-hydroxyacyl-CoA dehydrogenase activity
+GO:0003883	8	4	1,12	4	CTP synthase activity
+GO:0034338	4	3	0,56	3	short-chain carboxylesterase activity
+GO:0036456	4	3	0,56	3	L-methionine-(S)-S-oxide reductase activity
+GO:1990381	2	2	0,28	2	ubiquitin-specific protease binding
+GO:0044183	21	7	2,93	7	protein folding chaperone
+GO:0005483	4	3	0,56	3	soluble NSF attachment protein activity
+GO:0102229	8	4	1,12	4	amylopectin maltohydrolase activity
+GO:0005471	12	5	1,68	5	ATP:ADP antiporter activity
+GO:0042802	92	30	12,85	30	identical protein binding
+GO:0042803	65	20	9,08	20	protein homodimerization activity
+GO:0003978	7	4	0,98	4	UDP-glucose 4-epimerase activity
+GO:0051117	19	9	2,65	9	ATPase binding
+GO:0003935	3	3	0,42	3	GTP cyclohydrolase II activity
+GO:0008441	6	3	0,84	3	3'(2'),5'-bisphosphate nucleotidase activity
+GO:0000049	45	12	6,29	12	tRNA binding
+GO:0000175	26	9	3,63	9	3'-5'-exoribonuclease activity
+GO:0048365	8	4	1,12	4	Rac GTPase binding
+GO:0004721	242	44	33,81	44	phosphoprotein phosphatase activity
+GO:0004729	2	2	0,28	2	oxygen-dependent protoporphyrinogen oxidase activity
+GO:0004737	4	3	0,56	3	pyruvate decarboxylase activity
+GO:0004739	12	5	1,68	5	pyruvate dehydrogenase (acetyl-transferring) activity
+GO:0045300	9	4	1,26	4	acyl-[acyl-carrier-protein] desaturase activity
+GO:0004398	4	3	0,56	3	histidine decarboxylase activity
+GO:0008198	13	5	1,82	5	ferrous iron binding
+GO:0017172	6	4	0,84	4	cysteine dioxygenase activity
+GO:0008199	7	4	0,98	4	ferric iron binding
+GO:0031071	2	2	0,28	2	cysteine desulfurase activity
+GO:0031072	58	24	8,1	24	heat shock protein binding
+GO:0004362	5	4	0,7	4	glutathione-disulfide reductase activity
+GO:0004364	54	16	7,54	16	glutathione transferase activity
+GO:0008692	6	4	0,84	4	3-hydroxybutyryl-CoA epimerase activity
+GO:0016787	4082	589	570,21	589	hydrolase activity
+GO:0004385	3	3	0,42	3	guanylate kinase activity
+GO:0016779	350	40	48,89	40	nucleotidyltransferase activity
+GO:0047134	9	6	1,26	6	protein-disulfide reductase activity
+GO:0042030	2	2	0,28	2	ATPase inhibitor activity
+GO:0032977	11	5	1,54	5	membrane insertase activity
+GO:0008113	5	4	0,7	4	peptide-methionine (S)-S-oxide reductase activity
+GO:0008686	3	3	0,42	3	3,4-dihydroxy-2-butanone-4-phosphate synthase activity
+GO:0004813	2	2	0,28	2	alanine-tRNA ligase activity
+GO:0052654	6	3	0,84	3	L-leucine transaminase activity
+GO:0052655	6	3	0,84	3	L-valine transaminase activity
+GO:0010181	48	13	6,71	13	FMN binding
+GO:0052656	6	3	0,84	3	L-isoleucine transaminase activity
+GO:0009881	29	9	4,05	9	photoreceptor activity
+GO:0051787	15	7	2,1	7	misfolded protein binding
+GO:0030976	13	5	1,82	5	thiamine pyrophosphate binding
+GO:0047274	2	2	0,28	2	galactinol-sucrose galactosyltransferase activity
+GO:0043424	15	5	2,1	5	protein histidine kinase binding
+GO:0050155	2	2	0,28	2	ornithine(lysine) transaminase activity
+GO:0050660	176	33	24,59	33	flavin adenine dinucleotide binding
+GO:0050661	73	17	10,2	17	NADP binding
+GO:0045159	9	5	1,26	5	myosin II binding
+GO:0016829	438	90	61,18	90	lyase activity
+GO:0046872	4174	621	583,07	621	metal ion binding
+GO:0015035	76	17	10,62	17	protein disulfide oxidoreductase activity
+GO:0004550	15	5	2,1	5	nucleoside diphosphate kinase activity
+GO:0004587	2	2	0,28	2	ornithine-oxo-acid transaminase activity
+GO:0004449	4	4	0,56	4	isocitrate dehydrogenase (NAD+) activity
+GO:0000774	10	4	1,4	4	adenyl-nucleotide exchange factor activity
+GO:0008237	104	33	14,53	33	metallopeptidase activity
+GO:0102483	4	3	0,56	3	scopolin beta-glucosidase activity
+GO:0004516	2	2	0,28	2	nicotinate phosphoribosyltransferase activity
+GO:0004518	357	48	49,87	48	nuclease activity
+GO:0004096	13	5	1,82	5	catalase activity
+GO:0032182	49	17	6,84	17	ubiquitin-like protein binding
+GO:0032041	9	4	1,26	4	NAD-dependent histone deacetylase activity (H3-K14 specific)
+GO:0043022	42	11	5,87	11	ribosome binding
+GO:0043023	13	5	1,82	5	ribosomal large subunit binding
+GO:0004069	6	4	0,84	4	L-aspartate:2-oxoglutarate aminotransferase activity
+GO:0030544	9	5	1,26	5	Hsp70 protein binding
+GO:0051879	12	7	1,68	7	Hsp90 protein binding
+GO:2001066	2	2	0,28	2	amylopectin binding
+GO:0004165	8	4	1,12	4	dodecenoyl-CoA delta-isomerase activity
+GO:0047710	2	2	0,28	2	bis(5'-adenosyl)-triphosphatase activity
+GO:0001671	10	4	1,4	4	ATPase activator activity
+GO:2001070	6	4	0,84	4	starch binding
+GO:0043130	43	14	6,01	14	ubiquitin binding
+GO:0042781	5	3	0,7	3	3'-tRNA processing endoribonuclease activity
+GO:0004176	39	17	5,45	17	ATP-dependent peptidase activity
+GO:0043621	31	14	4,33	14	protein self-association

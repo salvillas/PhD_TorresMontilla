@@ -1,0 +1,135 @@
+regulation of cell wall pectin metabolic process
+response to salt stress
+sterol biosynthetic process
+terpenoid biosynthetic process
+hyaluronan metabolic process
+SNARE complex disassembly
+cellular response to calcium ion
+plant-type hypersensitive response
+nucleotide-excision repair, DNA incision, 3'-to lesion
+circadian regulation of gene expression
+photosynthetic acclimation
+galactolipid biosynthetic process
+cold acclimation
+leaf vascular tissue pattern formation
+ATP transport
+protein stabilization
+response to biotic stimulus
+defense response
+positive regulation of GTPase activity
+recognition of pollen
+cell wall macromolecule catabolic process
+response to oxidative stress
+negative regulation of phosphatidylglycerol biosynthetic process
+protein autophosphorylation
+positive regulation of superoxide dismutase activity
+positive regulation of ATPase activity
+positive regulation of systemic acquired resistance
+tricarboxylic acid cycle
+root development
+ER-associated misfolded protein catabolic process
+acetyl-CoA metabolic process
+response to heat
+(1->3)-beta-D-glucan biosynthetic process
+late endosome to vacuole transport
+sulfate reduction
+tryptophan catabolic process to kynurenine
+lipid droplet organization
+galactose metabolic process
+triglyceride biosynthetic process
+farnesyl diphosphate biosynthetic process
+phosphatidylinositol dephosphorylation
+chitin catabolic process
+formation of translation preinitiation complex
+NADP biosynthetic process
+glutathione metabolic process
+transmembrane transport
+regulation of proton transport
+response to chlorate
+ribosome biogenesis
+mature ribosome assembly
+N-acylethanolamine metabolic process
+activation of GTPase activity
+lipid catabolic process
+ribosomal large subunit biogenesis
+cellular oxidant detoxification
+phospholipid biosynthetic process
+farnesyl diphosphate biosynthetic process, mevalonate pathway
+cellular response to heat
+positive regulation of response to water deprivation
+Golgi to vacuole transport
+tripeptide transport
+regulation of ethylene-activated signaling pathway
+chaperone-mediated protein complex assembly
+intermembrane lipid transfer
+response to peptide hormone
+cell volume homeostasis
+xenobiotic transport
+anion transport
+protein refolding
+positive regulation of peptidase activity
+response to molecule of fungal origin
+regulation of lignin biosynthetic process
+protein complex oligomerization
+developmental vegetative growth
+negative regulation of phosphatase activity
+defense response to bacterium
+hydrogen peroxide catabolic process
+negative regulation of phosphoprotein phosphatase activity
+isopentenyl diphosphate biosynthetic process, mevalonate pathway
+protein kinase C-activating G protein-coupled receptor signaling pathway
+L-serine biosynthetic process
+regulation of calcium ion transport
+trichome branching
+maltose metabolic process
+protein quality control for misfolded or incompletely synthesized proteins
+protein ubiquitination
+intracellular cholesterol transport
+response to jasmonic acid
+positive regulation of abscisic acid-activated signaling pathway
+phosphatidylglycerol acyl-chain remodeling
+meiotic mismatch repair involved in reciprocal meiotic recombination
+sesquiterpene biosynthetic process
+chaperone cofactor-dependent protein refolding
+protein-containing complex assembly
+abscisic acid-activated signaling pathway
+cytoplasm protein quality control by the ubiquitin-proteasome system
+rRNA processing
+calcium-mediated signaling
+de-etiolation
+mRNA cleavage
+glucosylceramide catabolic process
+long-chain fatty acid metabolic process
+positive regulation of growth
+phosphatidylinositol metabolic process
+ion transmembrane transport
+cellular response to freezing
+isoprenoid biosynthetic process
+cellular ammonium homeostasis
+phospholipid metabolic process
+regulation of defense response to fungus
+trehalose biosynthetic process
+lipid translocation
+ubiquitin-dependent ERAD pathway
+ascospore formation
+regulation of chromatin silencing at telomere
+response to hydrogen peroxide
+protein phosphorylation
+protein folding
+detection of mechanical stimulus
+lignin biosynthetic process
+L-lysine catabolic process to acetyl-CoA via saccharopine
+Golgi to plasma membrane protein transport
+negative regulation of phosphatidylcholine biosynthetic process
+threonyl-tRNA aminoacylation
+melatonin biosynthetic process
+phospholipid transport
+fatty-acyl-CoA transport
+coenzyme A metabolic process
+flavonol biosynthetic process
+trichome papilla formation
+formaldehyde catabolic process
+mitotic DNA replication preinitiation complex assembly
+positive regulation of plant-type cell wall cellulose biosynthetic process
+spliceosomal snRNP assembly
+mitochondrial electron transport, ubiquinol to cytochrome c

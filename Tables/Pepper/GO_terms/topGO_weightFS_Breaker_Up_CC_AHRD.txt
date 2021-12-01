@@ -1,0 +1,14 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0016021	7476	351	324,18	351	integral component of membrane	0,0487565000570339
+GO:0030176	64	7	2,78	7	integral component of endoplasmic reticulum membrane	0,0389552257614726
+GO:0033185	3	2	0,13	2	dolichol-phosphate-mannose synthase complex	0,00547214879578531
+GO:0031514	3	2	0,13	2	motile cilium	0,0433170152796322
+GO:0030140	14	2	0,61	2	trans-Golgi network transport vesicle	0,0433405897486642
+GO:0009507	1668	90	72,33	90	chloroplast	0,0143022476596861
+GO:0043231	9969	427	432,28	427	intracellular membrane-bounded organelle	0,0379024601167289
+GO:0030133	51	3	2,21	3	transport vesicle	0,0433705080545227
+GO:0005788	21	4	0,91	4	endoplasmic reticulum lumen	0,0116504867698435
+GO:0031969	113	9	4,9	9	chloroplast membrane	0,0231731230482145
+GO:0005773	432	30	18,73	30	vacuole	0,00660948056788982
+GO:0031972	1	1	0,04	1	chloroplast intermembrane space	0,0433621755253399
+GO:0009570	285	23	12,36	23	chloroplast stroma	0,00711643770127417

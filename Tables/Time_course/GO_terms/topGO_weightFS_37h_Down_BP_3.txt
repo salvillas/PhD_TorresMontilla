@@ -1,0 +1,59 @@
+response to reactive oxygen species
+autophagosome maturation
+protein stabilization
+histone H3-K36 demethylation
+positive regulation of response to water deprivation
+response to unfolded protein
+protein peptidyl-prolyl isomerization
+chaperone-mediated protein complex assembly
+cellular response to amino acid stimulus
+protein monoubiquitination
+chaperone-mediated protein folding
+protein-containing complex assembly
+response to salt stress
+detection of mechanical stimulus
+gibberellin biosynthetic process
+cellular oxidant detoxification
+ubiquitin-dependent ERAD pathway
+protein complex oligomerization
+entrainment of circadian clock
+regulation of protein kinase activity
+positive regulation of superoxide dismutase activity
+mitotic spindle disassembly
+phosphatidylserine biosynthetic process
+developmental vegetative growth
+ER-associated misfolded protein catabolic process
+copal-8-ol diphosphate(3-) catabolic process
+protein import into chloroplast stroma
+cis-abienol biosynthetic process
+vegetative phase change
+protein import into peroxisome matrix
+protein refolding
+retrograde protein transport, ER to cytosol
+dGTP catabolic process
+positive regulation of abscisic acid-activated signaling pathway
+phospholipid transport
+anthocyanin-containing compound biosynthetic process
+de-etiolation
+positive regulation of growth
+ion transmembrane transport
+urate catabolic process
+response to chlorate
+floral meristem determinacy
+response to cyclopentenone
+protein polyubiquitination
+lipid translocation
+cellular response to heat
+response to hydrogen peroxide
+cellular response to glucose starvation
+mRNA 5'-splice site recognition
+chaperone cofactor-dependent protein refolding
+positive regulation of ATPase activity
+NAD biosynthetic process
+protein folding
+spliceosomal snRNP assembly
+cell volume homeostasis
+lipid droplet organization
+response to heat
+anion transport
+chloride transport

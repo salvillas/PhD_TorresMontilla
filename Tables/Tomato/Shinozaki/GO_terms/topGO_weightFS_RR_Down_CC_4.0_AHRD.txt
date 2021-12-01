@@ -1,0 +1,44 @@
+Annotated	Significant	Expected	DEG	Term
+GO:0009897	2	2	0,42	2	external side of plasma membrane
+GO:0000220	4	3	0,84	3	vacuolar proton-transporting V-type ATPase, V0 domain
+GO:0005971	2	2	0,42	2	ribonucleoside-diphosphate reductase complex
+GO:1990712	2	2	0,42	2	HFE-transferrin receptor complex
+GO:0009654	24	12	5,03	12	photosystem II oxygen evolving complex
+GO:0016020	8148	1889	1709,1	1889	membrane
+GO:0016021	6645	1520	1393,84	1520	integral component of membrane
+GO:0031969	133	22	27,9	22	chloroplast membrane
+GO:0000794	21	11	4,4	11	condensed nuclear chromosome
+GO:0055028	15	9	3,15	9	cortical microtubule
+GO:0005664	5	5	1,05	5	nuclear origin of replication recognition complex
+GO:0012505	1363	325	285,9	325	endomembrane system
+GO:0005881	18	12	3,78	12	cytoplasmic microtubule
+GO:0005886	1469	413	308,13	413	plasma membrane
+GO:0005887	39	13	8,18	13	integral component of plasma membrane
+GO:0005658	4	4	0,84	4	alpha DNA polymerase:primase complex
+GO:0005874	178	97	37,34	97	microtubule
+GO:0031298	7	5	1,47	5	replication fork protection complex
+GO:0005819	50	17	10,49	17	spindle
+GO:0010287	24	12	5,03	12	plastoglobule
+GO:0048046	192	51	40,27	51	apoplast
+GO:0005618	341	100	71,53	100	cell wall
+GO:0000148	12	6	2,52	6	1,3-beta-D-glucan synthase complex
+GO:0031261	5	4	1,05	4	DNA replication preinitiation complex
+GO:0000139	296	77	62,09	77	Golgi membrane
+GO:0032133	2	2	0,42	2	chromosome passenger complex
+GO:0043240	4	3	0,84	3	Fanconi anaemia nuclear complex
+GO:0000307	54	18	11,33	18	cyclin-dependent protein kinase holoenzyme complex
+GO:0010005	3	3	0,63	3	cortical microtubule, transverse to long axis
+GO:0005802	93	39	19,51	39	trans-Golgi network
+GO:0031428	3	3	0,63	3	box C/D snoRNP complex
+GO:0009522	92	38	19,3	38	photosystem I
+GO:0009523	125	43	26,22	43	photosystem II
+GO:0005794	683	196	143,26	196	Golgi apparatus
+GO:0033186	2	2	0,42	2	CAF-1 complex
+GO:0009538	11	9	2,31	9	photosystem I reaction center
+GO:0005768	213	55	44,68	55	endosome
+GO:0051233	2	2	0,42	2	spindle midzone
+GO:0009505	111	33	23,28	33	plant-type cell wall
+GO:0009506	212	63	44,47	63	plasmodesma
+GO:0000015	6	4	1,26	4	phosphopyruvate hydratase complex
+GO:0010598	4	3	0,84	3	NAD(P)H dehydrogenase complex (plastoquinone)
+GO:0046658	113	35	23,7	35	anchored component of plasma membrane

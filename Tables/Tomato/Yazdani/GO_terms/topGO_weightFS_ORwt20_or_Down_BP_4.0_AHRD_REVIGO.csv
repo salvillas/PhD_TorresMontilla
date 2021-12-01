@@ -1,0 +1,95 @@
+term_ID,description,frequency,plot_X,plot_Y,plot_size,log10 p-value,uniqueness,dispensability,representative,eliminated
+GO:0006817,"phosphate ion transport",0.242%,-6.817, 1.565,4.492,-5.4870,0.870,0.000,6817,0
+GO:0015689,"molybdate ion transport",0.068%,null,null,3.938,-2.5678,0.879,0.706,6817,1
+GO:0006865,"amino acid transport",0.813%,null,null,5.018,-1.6859,0.783,0.712,6817,1
+GO:0009416,"response to light stimulus",0.157%,-2.329,-5.742,4.304,-6.8664,0.857,0.000,9416,0
+GO:0009639,"response to red or far red light",0.012%,null,null,3.201,-1.3991,0.871,0.807,9416,1
+GO:0032922,"circadian regulation of gene expression",0.012%,null,null,3.190,-1.5148,0.841,0.784,9416,1
+GO:0006970,"response to osmotic stress",0.082%,null,null,4.022,-1.5340,0.864,0.757,9416,1
+GO:0043153,"entrainment of circadian clock by photoperiod",0.004%,null,null,2.747,-1.6039,0.836,0.756,9416,1
+GO:0009785,"blue light signaling pathway",0.010%,null,null,3.129,-2.8104,0.790,0.799,9416,1
+GO:0009768,"photosynthesis, light harvesting in photosystem I",0.003%, 1.695,-2.204,2.559,-9.5758,0.896,0.000,9768,0
+GO:0009773,"photosynthetic electron transport in photosystem I",0.003%,null,null,2.597,-2.4450,0.832,0.768,9768,1
+GO:0009765,"photosynthesis, light harvesting",0.019%,null,null,3.393,-2.7527,0.889,0.764,9768,1
+GO:0050896,"response to stimulus",12.210%,-2.716,-1.815,6.195,-1.6298,0.981,0.000,50896,0
+GO:0005986,"sucrose biosynthetic process",0.003%, 6.627, 1.368,2.640,-3.6348,0.787,0.029,5986,0
+GO:0005985,"sucrose metabolic process",0.017%,null,null,3.327,-1.9157,0.800,0.707,5986,1
+GO:0006468,"protein phosphorylation",4.137%, 2.691,-4.928,5.725,-2.5654,0.843,0.044,6468,0
+GO:0015979,"photosynthesis",0.183%,-0.034,-0.273,4.370,-2.0537,0.935,0.063,15979,0
+GO:0015977,"carbon fixation",0.036%, 1.893, 0.190,3.664,-3.3539,0.895,0.086,15977,0
+GO:0005975,"carbohydrate metabolic process",5.260%,-0.919,-1.655,5.829,-5.2405,0.939,0.094,5975,0
+GO:0007017,"microtubule-based process",0.658%, 3.267, 7.106,4.927,-3.0359,0.852,0.122,7017,0
+GO:0006107,"oxaloacetate metabolic process",0.015%, 4.959, 5.672,3.287,-2.5678,0.829,0.135,6107,0
+GO:0009698,"phenylpropanoid metabolic process",0.021%, 2.122, 4.654,3.431,-2.0442,0.862,0.139,9698,0
+GO:1901962,"S-adenosyl-L-methionine transmembrane transport",0.002%,-6.006, 1.737,2.326,-2.4060,0.867,0.168,1901962,0
+GO:0007018,"microtubule-based movement",0.287%, 3.012, 6.987,4.567,-2.1581,0.847,0.172,7018,0
+GO:0007020,"microtubule nucleation",0.044%,null,null,3.754,-1.6040,0.763,0.735,7018,1
+GO:0008360,"regulation of cell shape",0.640%,-1.298, 5.020,4.914,-2.7841,0.688,0.186,8360,0
+GO:1900087,"positive regulation of G1/S transition of mitotic cell cycle",0.009%,-0.191, 5.791,3.061,-1.6039,0.814,0.189,1900087,0
+GO:0015995,"chlorophyll biosynthetic process",0.039%, 6.762, 2.046,3.699,-3.2278,0.790,0.218,15995,0
+GO:0006953,"acute-phase response",0.006%,-3.400,-5.155,2.854,-1.6039,0.912,0.227,6953,0
+GO:0009734,"auxin-activated signaling pathway",0.035%,-4.019,-4.168,3.649,-4.6494,0.779,0.256,9734,0
+GO:0009867,"jasmonic acid mediated signaling pathway",0.006%,null,null,2.889,-1.3978,0.795,0.717,9734,1
+GO:0009873,"ethylene-activated signaling pathway",0.005%,null,null,2.803,-2.0803,0.798,0.709,9734,1
+GO:0016126,"sterol biosynthetic process",0.075%, 7.522, 0.118,3.985,-2.1168,0.836,0.263,16126,0
+GO:0015770,"sucrose transport",0.004%,-6.301, 2.011,2.738,-1.6041,0.864,0.270,15770,0
+GO:0010275,"NAD(P)H dehydrogenase complex assembly",0.000%,-3.706, 6.766,1.699,-1.6041,0.877,0.278,10275,0
+GO:0030388,"fructose 1,6-bisphosphate metabolic process",0.014%, 4.481,-5.113,3.249,-2.2220,0.907,0.292,30388,0
+GO:0006541,"glutamine metabolic process",0.472%, 4.656, 5.153,4.782,-1.5711,0.790,0.313,6541,0
+GO:0034058,"endosomal vesicle fusion",0.006%,-3.309, 5.804,2.877,-1.8586,0.763,0.329,34058,0
+GO:0033572,"transferrin transport",0.002%,-5.965, 0.896,2.449,-1.6039,0.880,0.331,33572,0
+GO:0006002,"fructose 6-phosphate metabolic process",0.060%, 4.223,-4.995,3.885,-1.6736,0.901,0.333,6002,0
+GO:0055085,"transmembrane transport",8.916%,-6.791, 1.948,6.058,-3.7428,0.884,0.339,55085,0
+GO:0006734,"NADH metabolic process",0.007%, 5.016,-1.319,2.929,-1.5149,0.805,0.354,6734,0
+GO:0007142,"male meiosis II",0.000%,-2.801, 7.496,0.477,-1.5148,0.833,0.361,7142,0
+GO:0006207,"'de novo' pyrimidine nucleobase biosynthetic process",0.192%, 5.152, 2.847,4.392,-1.3967,0.787,0.361,6207,0
+GO:0090116,"C-5 methylation of cytosine",0.025%, 1.291,-5.637,3.510,-1.8586,0.881,0.366,90116,0
+GO:0000725,"recombinational repair",0.152%,-0.803,-6.084,4.291,-1.5151,0.824,0.368,725,0
+GO:0010344,"seed oilbody biogenesis",0.000%,-3.914, 5.855,1.602,-1.8586,0.826,0.403,10344,0
+GO:0006024,"glycosaminoglycan biosynthetic process",0.559%, 5.974,-2.809,4.856,-1.5148,0.878,0.410,6024,0
+GO:1903319,"positive regulation of protein maturation",0.005%,-4.834,-2.140,2.832,-1.6039,0.872,0.415,1903319,0
+GO:0010158,"abaxial cell fate specification",0.000%,-2.793, 2.004,1.491,-1.6039,0.870,0.432,10158,0
+GO:0061157,"mRNA destabilization",0.005%, 0.806,-1.605,2.821,-1.8586,0.831,0.438,61157,0
+GO:0016104,"triterpenoid biosynthetic process",0.005%, 6.061, 1.535,2.771,-1.5337,0.830,0.439,16104,0
+GO:0031408,"oxylipin biosynthetic process",0.007%, 6.582, 3.424,2.941,-1.5485,0.805,0.449,31408,0
+GO:0046777,"protein autophosphorylation",0.077%, 2.397,-5.071,3.993,-2.7514,0.875,0.456,46777,0
+GO:0019919,"peptidyl-arginine methylation, to asymmetrical-dimethyl arginine",0.003%, 0.049,-4.475,2.595,-1.6039,0.890,0.463,19919,0
+GO:0034969,"histone arginine methylation",0.003%,null,null,2.649,-1.5148,0.811,0.845,19919,1
+GO:0018298,"protein-chromophore linkage",0.095%, 0.168,-4.709,4.084,-2.0452,0.892,0.466,18298,0
+GO:0090277,"positive regulation of peptide hormone secretion",0.013%,-2.817, 3.002,3.226,-1.6039,0.736,0.467,90277,0
+GO:0045807,"positive regulation of endocytosis",0.025%,null,null,3.505,-1.6039,0.759,0.728,90277,1
+GO:0006857,"oligopeptide transport",0.057%,null,null,3.864,-1.5723,0.886,0.707,90277,1
+GO:0019318,"hexose metabolic process",0.641%, 6.303, 2.073,4.915,-2.4552,0.784,0.471,19318,0
+GO:0006004,"fucose metabolic process",0.026%,null,null,3.518,-1.6473,0.818,0.716,19318,1
+GO:0009234,"menaquinone biosynthetic process",0.107%, 5.963, 3.422,4.136,-3.2083,0.784,0.475,9234,0
+GO:0007010,"cytoskeleton organization",0.786%,-4.005, 6.932,5.004,-2.7715,0.834,0.492,7010,0
+GO:0042254,"ribosome biogenesis",1.422%,-3.970, 6.731,5.261,-1.5228,0.857,0.494,42254,0
+GO:0071555,"cell wall organization",0.709%,-3.962, 6.920,4.959,-2.6765,0.830,0.497,71555,0
+GO:0019915,"lipid storage",0.032%,-6.073, 0.871,3.611,-1.8337,0.858,0.499,19915,0
+GO:0071281,"cellular response to iron ion",0.005%,-3.202,-5.775,2.794,-1.6039,0.872,0.509,71281,0
+GO:0051017,"actin filament bundle assembly",0.045%,-1.347, 7.310,3.762,-1.5337,0.779,0.511,51017,0
+GO:0048366,"leaf development",0.019%,-3.485, 2.254,3.379,-1.6724,0.882,0.525,48366,0
+GO:0046835,"carbohydrate phosphorylation",0.230%, 5.078,-3.145,4.470,-2.3593,0.825,0.528,46835,0
+GO:0006556,"S-adenosylmethionine biosynthetic process",0.050%, 4.985,-1.687,3.810,-1.5148,0.892,0.532,6556,0
+GO:0048229,"gametophyte development",0.024%,-3.309, 2.125,3.494,-2.4058,0.881,0.535,48229,0
+GO:0051321,"meiotic cell cycle",0.176%, 1.420, 7.487,4.353,-1.5826,0.831,0.549,51321,0
+GO:0016123,"xanthophyll biosynthetic process",0.001%, 7.779, 0.629,2.045,-1.5148,0.829,0.554,16123,0
+GO:0009718,"anthocyanin-containing compound biosynthetic process",0.001%, 7.464,-0.251,2.188,-3.0772,0.866,0.561,9718,0
+GO:0009749,"response to glucose",0.029%,-2.312,-6.170,3.570,-1.4013,0.877,0.579,9749,0
+GO:0006075,"(1-&gt;3)-beta-D-glucan biosynthetic process",0.015%, 6.097, 1.587,3.271,-2.2220,0.764,0.580,6075,0
+GO:0009833,"plant-type primary cell wall biogenesis",0.002%,-2.069, 7.421,2.396,-2.5271,0.791,0.584,9833,0
+GO:0009664,"plant-type cell wall organization",0.028%,null,null,3.559,-1.3075,0.849,0.829,9833,1
+GO:0034220,"ion transmembrane transport",3.528%,-6.176, 1.370,5.656,-2.6444,0.854,0.592,34220,0
+GO:0030001,"metal ion transport",1.677%,null,null,5.333,-2.0127,0.860,0.746,34220,1
+GO:0050826,"response to freezing",0.002%,-3.162,-5.019,2.380,-1.3967,0.883,0.592,50826,0
+GO:0019853,"L-ascorbic acid biosynthetic process",0.002%, 6.506, 2.553,2.356,-2.1535,0.787,0.596,19853,0
+GO:0009423,"chorismate biosynthetic process",0.191%, 5.559, 4.080,4.389,-1.3818,0.774,0.603,9423,0
+GO:0071805,"potassium ion transmembrane transport",0.331%, 0.393, 5.282,4.628,-1.3156,0.757,0.612,71805,0
+GO:0006097,"glyoxylate cycle",0.037%, 5.162, 4.155,3.671,-1.8586,0.774,0.618,6097,0
+GO:0042550,"photosystem I stabilization",0.000%,-1.881,-0.732,1.462,-1.6039,0.870,0.619,42550,0
+GO:0051513,"regulation of monopolar cell growth",0.003%,-3.363, 5.102,2.509,-1.8586,0.776,0.629,51513,0
+GO:0006538,"glutamate catabolic process",0.021%, 5.343, 5.280,3.433,-1.3967,0.805,0.638,6538,0
+GO:0072657,"protein localization to membrane",0.387%,-1.982, 5.510,4.696,-1.8077,0.695,0.648,72657,0
+GO:0009723,"response to ethylene",0.010%,-2.745,-6.046,3.128,-1.4066,0.874,0.663,9723,0
+GO:0009735,"response to cytokinin",0.012%,-2.717,-6.070,3.194,-2.4069,0.873,0.669,9735,0
+GO:0005980,"glycogen catabolic process",0.035%, 3.915, 2.445,3.647,-1.8586,0.751,0.683,5980,0

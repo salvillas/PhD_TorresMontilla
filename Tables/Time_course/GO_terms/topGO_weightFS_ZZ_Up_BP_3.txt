@@ -1,0 +1,52 @@
+cell wall macromolecule catabolic process
+cysteine biosynthetic process
+protein refolding
+regulation of jasmonic acid mediated signaling pathway
+killing of cells of other organism
+negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway
+chlorophyll catabolic process
+inflorescence morphogenesis
+defense response to fungus
+hydrogen peroxide catabolic process
+detoxification of copper ion
+negative regulation of endopeptidase activity
+jasmonic acid biosynthetic process
+sulfate reduction
+phospholipid transport
+removal of superoxide radicals
+triglyceride biosynthetic process
+response to chitin
+oxygen transport
+biosynthetic process
+oxylipin biosynthetic process
+branched-chain amino acid biosynthetic process
+defense response
+response to oxidative stress
+response to wounding
+peptidyl-pyroglutamic acid biosynthetic process, using glutaminyl-peptide cyclotransferase
+response to biotic stimulus
+ascorbate glutathione cycle
+protein retention in ER lumen
+lipid metabolic process
+phosphorylation of RNA polymerase II C-terminal domain
+chitin catabolic process
+protein glutathionylation
+endoplasmic reticulum unfolded protein response
+NAD biosynthetic process
+protein folding
+glutathione metabolic process
+carotene catabolic process
+cellular oxidant detoxification
+positive regulation of transcription elongation from RNA polymerase II promoter
+systemic acquired resistance, salicylic acid mediated signaling pathway
+lipid oxidation
+ribosomal small subunit assembly
+intermembrane lipid transfer
+seed trichome elongation
+protein autophosphorylation
+isoprenoid biosynthetic process
+pollen maturation
+regulation of proton transport
+L-methionine salvage from methylthioadenosine
+negative regulation of cell size
+chaperone cofactor-dependent protein refolding

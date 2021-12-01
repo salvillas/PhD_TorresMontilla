@@ -1,0 +1,27 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0012505	2216	96	62,32	96	endomembrane system	0,0130660696512431
+GO:0016021	10862	332	305,45	332	integral component of membrane	0,0394009041193051
+GO:0030173	30	4	0,84	4	integral component of Golgi membrane	0,00951040269051512
+GO:0031305	26	3	0,73	3	integral component of mitochondrial inner membrane	0,0356246526745244
+GO:0048471	29	5	0,82	5	perinuclear region of cytoplasm	0,00117690098052544
+GO:0005886	1961	84	55,15	84	plasma membrane	0,000418148671034723
+GO:0009986	9	4	0,25	4	cell surface	6,98551304754772e-05
+GO:0019773	28	3	0,79	3	proteasome core complex, alpha-subunit complex	0,0430847854284482
+GO:0005750	7	2	0,2	2	mitochondrial respiratory chain complex III	0,0150989890469236
+GO:0005758	22	4	0,62	4	mitochondrial intermembrane space	0,00303092265905354
+GO:0005783	852	55	23,96	55	endoplasmic reticulum	0,00223631415603904
+GO:0005788	53	8	1,49	8	endoplasmic reticulum lumen	0,000109222608991793
+GO:0005789	506	30	14,23	30	endoplasmic reticulum membrane	0,00366836423827013
+GO:0005829	1367	50	38,44	50	cytosol	0,00324303447302378
+GO:0030687	23	3	0,65	3	preribosome, large subunit precursor	0,0258107250047507
+GO:0005773	494	26	13,89	26	vacuole	0,0106414665911307
+GO:0005811	48	5	1,35	5	lipid droplet	0,0109602104881829
+GO:0005844	9	2	0,25	2	polysome	0,0249373400550157
+GO:0008540	26	3	0,73	3	proteasome regulatory particle, base subcomplex	0,0356246526745244
+GO:0000815	11	2	0,31	2	ESCRT III complex	0,0367120903629137
+GO:0005834	7	3	0,2	3	heterotrimeric G-protein complex	0,000712420881780358
+GO:0043073	8	2	0,22	2	germ cell nucleus	0,0197599663232065
+GO:0045252	7	7	0,2	7	oxoglutarate dehydrogenase complex	1,35487940571839e-11
+GO:0031201	46	5	1,29	5	SNARE complex	0,00918428439778716
+GO:0005737	10788	355	303,37	355	cytoplasm	1,70401540653376e-08
+GO:0034098	10	4	0,28	4	VCP-NPL4-UFD1 AAA ATPase complex	0,000113831158883493

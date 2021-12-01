@@ -1,0 +1,63 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0004435	15	4	0,4	4	phosphatidylinositol phospholipase C activity	0,000536849282718108
+GO:0004553	753	42	20,03	42	hydrolase activity, hydrolyzing O-glycosyl compounds	0,0169061611862473
+GO:0004556	8	2	0,21	2	alpha-amylase activity	0,0177844675924432
+GO:0046906	998	43	26,54	43	tetrapyrrole binding	0,0261704222270837
+GO:0016168	209	16	5,56	16	chlorophyll binding	0,000164656383565838
+GO:0010242	4	2	0,11	2	oxygen evolving activity	0,00409074562115376
+GO:0045550	2	2	0,05	2	geranylgeranyl reductase activity	0,000706546589609919
+GO:0045551	8	2	0,21	2	cinnamyl-alcohol dehydrogenase activity	0,0177844675924432
+GO:0008239	5	2	0,13	2	dipeptidyl-peptidase activity	0,00669780788836195
+GO:0004514	9	2	0,24	2	nicotinate-nucleotide diphosphorylase (carboxylating) activity	0,0224666083246264
+GO:0008422	104	7	2,77	7	beta-glucosidase activity	0,0178460054231398
+GO:0048032	6	3	0,16	3	galacturonate binding	0,000353158149548513
+GO:0033612	22	7	0,59	7	receptor serine/threonine kinase binding	4,89355673144603e-06
+GO:0005216	228	10	6,06	10	ion channel activity	0,0339891211768769
+GO:0010436	6	2	0,16	2	carotenoid dioxygenase activity	0,00987013275776867
+GO:0009881	63	7	1,68	7	photoreceptor activity	0,00397181675793585
+GO:0045544	1	1	0,03	1	gibberellin 20-oxidase activity	0,0265939038999068
+GO:0004049	4	2	0,11	2	anthranilate synthase activity	0,00409074562115376
+GO:0005247	18	3	0,48	3	voltage-gated chloride channel activity	0,0113543934714839
+GO:0070204	2	2	0,05	2	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase activity	0,000706546589609919
+GO:0046507	1	1	0,03	1	UDPsulfoquinovose synthase activity	0,0265939038999068
+GO:0004185	69	5	1,83	5	serine-type carboxypeptidase activity	0,036651421226314
+GO:0016614	293	11	7,79	11	oxidoreductase activity, acting on CH-OH group of donors	0,00438580922265619
+GO:0051219	9	2	0,24	2	phosphoprotein binding	0,0224666083246264
+GO:0008194	531	25	14,12	25	UDP-glycosyltransferase activity	0,0323553009527016
+GO:0016630	6	2	0,16	2	protochlorophyllide reductase activity	0,00987013275776867
+GO:0004148	9	2	0,24	2	dihydrolipoyl dehydrogenase activity	0,0224666083246264
+GO:0030570	47	5	1,25	5	pectate lyase activity	0,00802229151445127
+GO:0102067	2	2	0,05	2	geranylgeranyl diphosphate reductase activity	0,000706546589609919
+GO:0042300	10	2	0,27	2	beta-amyrin synthase activity	0,0275941826378218
+GO:0008017	262	18	6,97	18	microtubule binding	0,000256392976473848
+GO:0009924	7	3	0,19	3	octadecanal decarbonylase activity	0,000605785314393037
+GO:0000250	10	2	0,27	2	lanosterol synthase activity	0,0275941826378218
+GO:0000254	11	3	0,29	3	C-4 methylsterol oxidase activity	0,00263693836385037
+GO:0034237	1	1	0,03	1	protein kinase A regulatory subunit binding	0,0265939038999068
+GO:0103025	8	2	0,21	2	alpha-amylase activity (releasing maltohexaose)	0,0177844675924432
+GO:0004672	2256	87	60	87	protein kinase activity	0,000686549008028487
+GO:0015267	326	21	8,67	21	channel activity	0,000494818683707345
+GO:0004861	12	2	0,32	2	cyclin-dependent protein serine/threonine kinase inhibitor activity	0,0390789336528382
+GO:0005544	32	5	0,85	5	calcium-dependent phospholipid binding	0,00146019115568441
+GO:0004867	31	4	0,82	4	serine-type endopeptidase inhibitor activity	0,00883623888051521
+GO:0015250	8	2	0,21	2	water channel activity	0,0177844675924432
+GO:0050660	230	16	6,12	16	flavin adenine dinucleotide binding	0,00423817079252541
+GO:0071949	112	7	2,98	7	FAD binding	0,0302314560018357
+GO:0071933	1	1	0,03	1	Arp2/3 complex binding	0,0265939038999068
+GO:0008661	11	2	0,29	2	1-deoxy-D-xylulose-5-phosphate synthase activity	0,0331402369209266
+GO:0005509	479	22	12,74	22	calcium ion binding	0,00998713290652928
+GO:0003999	6	2	0,16	2	adenine phosphoribosyltransferase activity	0,00987013275776867
+GO:0047274	8	3	0,21	3	galactinol-sucrose galactosyltransferase activity	0,000950084163145998
+GO:0080124	4	3	0,11	3	pheophytinase activity	7,35210634491782e-05
+GO:0047987	1	1	0,03	1	hydroperoxide dehydratase activity	0,0265939038999068
+GO:0003831	2	2	0,05	2	beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase activity	0,000706546589609919
+GO:0046983	883	42	23,48	42	protein dimerization activity	3,01443683877163e-05
+GO:1990465	7	3	0,19	3	aldehyde oxygenase (deformylating) activity	0,000605785314393037
+GO:0015098	8	2	0,21	2	molybdate ion transmembrane transporter activity	0,0177844675924432
+GO:0008810	44	5	1,17	5	cellulase activity	0,00606145288547256
+GO:0016762	66	8	1,76	8	xyloglucan:xyloglucosyl transferase activity	0,000357178828654298
+GO:0046593	1	1	0,03	1	mandelonitrile lyase activity	0,0265939038999068
+GO:0046423	2	2	0,05	2	allene-oxide cyclase activity	0,000706546589609919
+GO:0046429	4	2	0,11	2	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity	0,00409074562115376
+GO:0001228	21	3	0,56	3	DNA-binding transcription activator activity, RNA polymerase II-specific	0,0174476303088719
+GO:0016788	3247	65	86,35	65	hydrolase activity, acting on ester bonds	0,000433424518989803

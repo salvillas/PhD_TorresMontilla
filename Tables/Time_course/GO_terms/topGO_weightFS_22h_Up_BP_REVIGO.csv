@@ -1,0 +1,48 @@
+term_ID,description,frequency,plot_X,plot_Y,plot_size,log10 p-value,uniqueness,dispensability,representative,eliminated
+GO:0015979,"photosynthesis",0.183%, 0.569,-4.282,4.370,-8.1709,0.908,0.000,15979,0
+GO:0071365,"cellular response to auxin stimulus",0.035%,-0.128, 7.152,3.655,-2.2712,0.895,0.023,71365,0
+GO:0042550,"photosystem I stabilization",0.000%, 6.610, 2.388,1.462,-4.5358,0.885,0.031,42550,0
+GO:0010411,"xyloglucan metabolic process",0.016%,-1.752,-6.232,3.321,-5.3339,0.790,0.040,10411,0
+GO:0042546,"cell wall biogenesis",0.640%,null,null,4.915,-3.2977,0.773,0.923,10411,1
+GO:0042545,"cell wall modification",0.045%,null,null,3.759,-1.9918,0.800,0.758,10411,1
+GO:0071555,"cell wall organization",0.709%,null,null,4.959,-4.9893,0.774,0.675,10411,1
+GO:0045490,"pectin catabolic process",0.058%,null,null,3.875,-3.2001,0.812,0.577,10411,1
+GO:0009234,"menaquinone biosynthetic process",0.107%,-5.642,-0.137,4.136,-3.7607,0.725,0.045,9234,0
+GO:0042372,"phylloquinone biosynthetic process",0.006%,null,null,2.915,-3.0979,0.756,0.724,9234,1
+GO:0015808,"L-alanine transport",0.002%, 3.672,-5.426,2.346,-1.9669,0.800,0.046,15808,0
+GO:0015813,"L-glutamate transport",0.023%,null,null,3.466,-1.4944,0.783,0.783,15808,1
+GO:0010143,"cutin biosynthetic process",0.002%,-1.745,-7.795,2.336,-2.2667,0.891,0.093,10143,0
+GO:0006048,"UDP-N-acetylglucosamine biosynthetic process",0.025%,-5.187,-5.234,3.502,-1.3718,0.814,0.111,6048,0
+GO:2000601,"positive regulation of Arp2/3 complex-mediated actin nucleation",0.004%, 3.507, 1.974,2.707,-2.2667,0.721,0.117,2000601,0
+GO:0010847,"regulation of chromatin assembly",0.004%,null,null,2.727,-1.9669,0.807,0.543,2000601,1
+GO:0007267,"cell-cell signaling",0.407%,-3.028, 4.350,4.718,-3.5936,0.798,0.151,7267,0
+GO:0043086,"negative regulation of catalytic activity",0.400%, 5.065, 4.154,4.710,-2.1718,0.884,0.161,43086,0
+GO:0032515,"negative regulation of phosphoprotein phosphatase activity",0.004%,null,null,2.735,-1.5712,0.803,0.686,43086,1
+GO:0055114,"oxidation-reduction process",15.060%,-6.895, 2.405,6.286,-2.3773,0.821,0.180,55114,0
+GO:0009663,"plasmodesma organization",0.000%, 1.700, 1.708,1.724,-1.9669,0.810,0.216,9663,0
+GO:0009809,"lignin biosynthetic process",0.002%,-6.624,-2.958,2.423,-1.9689,0.798,0.224,9809,0
+GO:1901962,"S-adenosyl-L-methionine transmembrane transport",0.002%, 4.921,-4.131,2.326,-1.4944,0.852,0.259,1901962,0
+GO:0006168,"adenine salvage",0.032%,-5.941,-1.396,3.613,-2.9903,0.699,0.266,6168,0
+GO:0006166,"purine ribonucleoside salvage",0.108%,null,null,4.140,-2.5953,0.675,0.895,6168,1
+GO:0044209,"AMP salvage",0.035%,null,null,3.649,-2.8950,0.685,0.827,6168,1
+GO:0009063,"cellular amino acid catabolic process",0.648%,-5.262, 1.751,4.920,-3.3727,0.665,0.270,9063,0
+GO:0046294,"formaldehyde catabolic process",0.021%,null,null,3.430,-1.4944,0.732,0.638,9063,1
+GO:0006567,"threonine catabolic process",0.038%,null,null,3.684,-1.4944,0.706,0.715,9063,1
+GO:0006562,"proline catabolic process",0.033%,null,null,3.626,-1.6682,0.704,0.707,9063,1
+GO:1901703,"protein localization involved in auxin polar transport",0.000%, 5.185,-2.083,1.491,-1.6682,0.818,0.283,1901703,0
+GO:0010019,"chloroplast-nucleus signaling pathway",0.001%,-0.020, 5.757,1.881,-1.7919,0.834,0.286,10019,0
+GO:0015949,"nucleobase-containing small molecule interconversion",0.001%,-7.495,-0.051,2.037,-1.5724,0.795,0.290,15949,0
+GO:0070899,"mitochondrial tRNA wobble uridine modification",0.002%, 1.352, 0.295,2.346,-1.9669,0.779,0.304,70899,0
+GO:0070143,"mitochondrial alanyl-tRNA aminoacylation",0.005%,null,null,2.830,-1.6682,0.675,0.768,70899,1
+GO:0032774,"RNA biosynthetic process",10.925%,-5.022,-3.447,6.147,-1.9472,0.769,0.321,32774,0
+GO:0048255,"mRNA stabilization",0.007%, 5.534, 1.111,2.974,-1.7919,0.853,0.333,48255,0
+GO:0010044,"response to aluminum ion",0.001%,-0.349, 7.557,2.246,-1.3218,0.926,0.353,10044,0
+GO:0043448,"alkane catabolic process",0.000%,-5.987, 5.275,1.431,-2.2667,0.807,0.395,43448,0
+GO:0052746,"inositol phosphorylation",0.000%,-2.999,-4.031,1.591,-1.5724,0.775,0.403,52746,0
+GO:0071158,"positive regulation of cell cycle arrest",0.008%, 3.299, 4.300,3.000,-1.4944,0.795,0.416,71158,0
+GO:0009432,"SOS response",0.290%,-1.830, 6.569,4.570,-1.9669,0.878,0.430,9432,0
+GO:0006633,"fatty acid biosynthetic process",0.617%,-5.081,-0.078,4.899,-1.6468,0.689,0.454,6633,0
+GO:0016126,"sterol biosynthetic process",0.075%,null,null,3.985,-1.6432,0.760,0.614,6633,1
+GO:0015812,"gamma-aminobutyric acid transport",0.005%, 4.281,-4.870,2.847,-1.9669,0.815,0.459,15812,0
+GO:1903826,"arginine transmembrane transport",0.007%, 3.970,-5.075,2.948,-1.9669,0.797,0.492,1903826,0
+GO:1903401,"L-lysine transmembrane transport",0.005%,null,null,2.776,-1.4944,0.778,0.909,1903826,1

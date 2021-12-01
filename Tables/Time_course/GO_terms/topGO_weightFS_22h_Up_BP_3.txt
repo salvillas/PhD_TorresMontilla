@@ -1,0 +1,47 @@
+phylloquinone biosynthetic process
+RNA biosynthetic process
+purine ribonucleoside salvage
+adenine salvage
+cutin biosynthetic process
+cell wall organization
+pectin catabolic process
+protein localization involved in auxin polar transport
+cell-cell signaling
+alkane catabolic process
+mRNA stabilization
+proline catabolic process
+threonine catabolic process
+cellular response to auxin stimulus
+positive regulation of Arp2/3 complex-mediated actin nucleation
+photosynthesis
+menaquinone biosynthetic process
+nucleobase-containing small molecule interconversion
+cellular amino acid catabolic process
+plasmodesma organization
+mitochondrial tRNA wobble uridine modification
+formaldehyde catabolic process
+chloroplast-nucleus signaling pathway
+response to aluminum ion
+UDP-N-acetylglucosamine biosynthetic process
+positive regulation of anaphase-promoting complex-dependent catabolic process
+fatty acid biosynthetic process
+negative regulation of phosphoprotein phosphatase activity
+AMP salvage
+S-adenosyl-L-methionine transmembrane transport
+xyloglucan metabolic process
+mitochondrial alanyl-tRNA aminoacylation
+SOS response
+sterol biosynthetic process
+photosystem I stabilization
+L-lysine transmembrane transport
+gamma-aminobutyric acid transport
+L-glutamate transmembrane transport
+positive regulation of cell cycle arrest
+cell wall modification
+cell wall biogenesis
+negative regulation of catalytic activity
+arginine transmembrane transport
+regulation of chromatin assembly
+L-alanine transport
+inositol phosphorylation
+lignin biosynthetic process

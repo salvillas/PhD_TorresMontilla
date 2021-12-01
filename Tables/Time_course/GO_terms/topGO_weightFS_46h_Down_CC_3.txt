@@ -1,0 +1,31 @@
+pICln-Sm protein complex
+cytosol
+mitochondrial respiratory chain complex III
+amyloplast
+mitochondrial matrix
+proteasome regulatory particle
+DNA polymerase III complex
+endoplasmic reticulum
+endoplasmic reticulum lumen
+vacuolar proton-transporting V-type ATPase, V1 domain
+methylosome
+commitment complex
+TIM23 mitochondrial import inner membrane translocase complex
+chloroplast membrane
+nuclear pre-replicative complex
+protein phosphatase type 2A complex
+snRNA-activating protein complex
+perinuclear region of cytoplasm
+plasma membrane proton-transporting V-type ATPase complex
+cytoplasm
+VCP-NPL4-UFD1 AAA ATPase complex
+messenger ribonucleoprotein complex
+chloroplast intermembrane space
+postsynapse
+U2-type prespliceosome
+U2AF complex
+proteasome accessory complex
+Z disc
+autophagosome membrane
+cell surface
+plasma membrane

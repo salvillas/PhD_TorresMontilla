@@ -1,0 +1,103 @@
+anthocyanin-containing compound metabolic process
+regulation of cell wall pectin metabolic process
+response to salt stress
+inositol trisphosphate metabolic process
+regulation of bile acid secretion
+kinetochore assembly
+circadian regulation of gene expression
+photomorphogenesis
+shade avoidance
+regulation of long-day photoperiodism, flowering
+pre-replicative complex assembly involved in nuclear cell cycle DNA replication
+photoperiodism, flowering
+protein stabilization
+positive regulation of GTPase activity
+protein peptidyl-prolyl isomerization
+ion homeostasis
+positive regulation of superoxide dismutase activity
+positive regulation of ATPase activity
+positive regulation of systemic acquired resistance
+root development
+cellular response to glucose starvation
+regulation of phosphoprotein phosphatase activity
+metal ion transport
+positive regulation of myoblast differentiation
+bile acid signaling pathway
+positive regulation of skeletal muscle fiber differentiation
+response to heat
+negative regulation of cytoplasmic translation
+UDP-glucose metabolic process
+galactose metabolic process
+phosphatidylinositol phosphorylation
+negative regulation of transcription by RNA polymerase II
+response to 17alpha-ethynylestradiol
+transmembrane transport
+response to chlorate
+fucose metabolic process
+positive regulation of stem cell differentiation
+sulfate assimilation
+glucose 6-phosphate metabolic process
+cellular response to heat
+positive regulation of response to water deprivation
+lipid biosynthetic process
+response to ethanol
+regulation of ethylene-activated signaling pathway
+carbohydrate transport
+chaperone-mediated protein complex assembly
+cell volume homeostasis
+phosphate ion transport
+protein refolding
+regulation of protein serine/threonine phosphatase activity
+response to karrikin
+protein polyubiquitination
+protein complex oligomerization
+developmental vegetative growth
+negative regulation of phosphatase activity
+starch biosynthetic process
+negative regulation of phosphoprotein phosphatase activity
+trichome branching
+polynucleotide 3' dephosphorylation
+positive regulation of 3'-UTR-mediated mRNA stabilization
+cytoskeleton organization
+microtubule-based movement
+response to jasmonic acid
+SCF-dependent proteasomal ubiquitin-dependent protein catabolic process
+positive regulation of abscisic acid-activated signaling pathway
+3'-UTR-mediated mRNA destabilization
+chaperone cofactor-dependent protein refolding
+anthocyanin-containing compound biosynthetic process
+actin filament bundle assembly
+protein-containing complex assembly
+auxin-activated signaling pathway
+mitochondrial ATP transmembrane transport
+abscisic acid-activated signaling pathway
+cytoplasm protein quality control by the ubiquitin-proteasome system
+de-etiolation
+mRNA cleavage
+carbohydrate transmembrane transport
+peptidyl-histidine phosphorylation
+lipid translocation
+positive regulation of Arp2/3 complex-mediated actin nucleation
+root hair cell tip growth
+response to hydrogen peroxide
+phosphatidylinositol-3-phosphate biosynthetic process
+starch catabolic process
+protein phosphorylation
+chlorophyll biosynthetic process
+glycogen metabolic process
+glycogen biosynthetic process
+protein folding
+protein import into chloroplast stroma
+phospholipid transport
+mitochondrial ADP transmembrane transport
+chaperone-mediated protein folding
+positive regulation of transcription, DNA-templated
+site-specific DNA replication termination at RTS1 barrier
+mRNA 5'-splice site recognition
+trichome papilla formation
+mitotic DNA replication termination
+regulation of monopolar cell growth
+positive regulation of plant-type cell wall cellulose biosynthetic process
+spliceosomal snRNP assembly
+mitochondrial electron transport, ubiquinol to cytochrome c
+bile acid and bile salt transport

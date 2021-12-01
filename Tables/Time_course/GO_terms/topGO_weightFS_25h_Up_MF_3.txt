@@ -1,0 +1,62 @@
+phosphatidylinositol phospholipase C activity
+hydrolase activity, hydrolyzing O-glycosyl compounds
+alpha-amylase activity
+tetrapyrrole binding
+chlorophyll binding
+oxygen evolving activity
+geranylgeranyl reductase activity
+cinnamyl-alcohol dehydrogenase activity
+dipeptidyl-peptidase activity
+nicotinate-nucleotide diphosphorylase (carboxylating) activity
+beta-glucosidase activity
+galacturonate binding
+receptor serine/threonine kinase binding
+ion channel activity
+carotenoid dioxygenase activity
+photoreceptor activity
+gibberellin 20-oxidase activity
+anthranilate synthase activity
+voltage-gated chloride channel activity
+2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase activity
+UDPsulfoquinovose synthase activity
+serine-type carboxypeptidase activity
+oxidoreductase activity, acting on CH-OH group of donors
+phosphoprotein binding
+UDP-glycosyltransferase activity
+protochlorophyllide reductase activity
+dihydrolipoyl dehydrogenase activity
+pectate lyase activity
+geranylgeranyl diphosphate reductase activity
+beta-amyrin synthase activity
+microtubule binding
+octadecanal decarbonylase activity
+lanosterol synthase activity
+C-4 methylsterol oxidase activity
+protein kinase A regulatory subunit binding
+alpha-amylase activity (releasing maltohexaose)
+protein kinase activity
+channel activity
+cyclin-dependent protein serine/threonine kinase inhibitor activity
+calcium-dependent phospholipid binding
+serine-type endopeptidase inhibitor activity
+water channel activity
+flavin adenine dinucleotide binding
+FAD binding
+Arp2/3 complex binding
+1-deoxy-D-xylulose-5-phosphate synthase activity
+calcium ion binding
+adenine phosphoribosyltransferase activity
+galactinol-sucrose galactosyltransferase activity
+pheophytinase activity
+hydroperoxide dehydratase activity
+beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase activity
+protein dimerization activity
+aldehyde oxygenase (deformylating) activity
+molybdate ion transmembrane transporter activity
+cellulase activity
+xyloglucan:xyloglucosyl transferase activity
+mandelonitrile lyase activity
+allene-oxide cyclase activity
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity
+DNA-binding transcription activator activity, RNA polymerase II-specific
+hydrolase activity, acting on ester bonds

@@ -1,0 +1,11 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0005783	852	23	7,54	23	endoplasmic reticulum	0,0107667249901788
+GO:0016442	3	1	0,03	1	RISC complex	0,0263116186438138
+GO:0005788	53	10	0,47	10	endoplasmic reticulum lumen	3,42377815093635e-11
+GO:0005773	494	10	4,37	10	vacuole	0,0253381987453027
+GO:0005775	5	2	0,04	2	vacuolar lumen	0,000766181318400787
+GO:0034663	10	4	0,09	4	endoplasmic reticulum chaperone complex	1,20489569518401e-06
+GO:0009538	21	3	0,19	3	photosystem I reaction center	0,000808991820132233
+GO:0071942	2	1	0,02	1	XPC complex	0,0176186008532051
+GO:0000111	2	1	0,02	1	nucleotide-excision repair factor 2 complex	0,0176186008532051
+GO:0005576	1227	29	10,86	29	extracellular region	1,61910282914953e-06

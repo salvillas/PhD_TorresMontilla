@@ -1,0 +1,136 @@
+1,4-alpha-glucan branching enzyme activity (using a glucosylated glycogenin as primer for glycogen synthesis)
+lipid binding
+SHG alpha-glucan phosphorylase activity
+carbohydrate phosphatase activity
+ATPase activator activity
+pre-mRNA intronic binding
+bile acid:sodium symporter activity
+heat shock protein binding
+transmembrane transporter activity
+misfolded protein binding
+4-alpha-glucanotransferase activity
+diphosphoinositol-pentakisphosphate kinase activity
+sigma factor activity
+polynucleotide 3'-phosphatase activity
+channel activity
+1,4-alpha-glucan branching enzyme activity
+carotene beta-ring hydroxylase activity
+ethylene binding
+alpha-L-fucosidase activity
+4-coumarate-CoA ligase activity
+beta-galactosidase activity
+magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase activity
+alpha-amylase activity
+saccharopine dehydrogenase (NADP+, L-lysine-forming) activity
+saccharopine dehydrogenase (NAD+, L-glutamate-forming) activity
+metal ion binding
+ligand-gated ion channel activity
+zeaxanthin epoxidase [overall] activity
+inositol monophosphate 1-phosphatase activity
+L-ascorbate peroxidase activity
+inositol-1,3,4,5,6-pentakisphosphate kinase activity
+inositol heptakisphosphate kinase activity
+microtubule binding
+inositol-3-phosphate synthase activity
+sterol transporter activity
+cellulose synthase (UDP-forming) activity
+signaling receptor activity
+oxidoreductase activity, acting on CH-OH group of donors
+anaphase-promoting complex binding
+phosphorelay sensor kinase activity
+molybdate ion transmembrane transporter activity
+sequence-specific double-stranded DNA binding
+inositol hexakisphosphate 5-kinase activity
+protochlorophyllide reductase activity
+inositol monophosphate 3-phosphatase activity
+inositol monophosphate 4-phosphatase activity
+molybdenum ion binding
+hydrolase activity, acting on ester bonds
+starch binding
+zeinoxanthin epsilon hydroxylase activity
+FAD binding
+Arp2/3 complex binding
+octadecanal decarbonylase activity
+transferase activity
+mandelonitrile lyase activity
+sulfite oxidase activity
+catalase activity
+glycogen (starch) synthase activity
+Hsp90 protein binding
+tryptamine:oxygen oxidoreductase (deaminating) activity
+aminoacetone:oxygen oxidoreductase(deaminating) activity
+aliphatic-amine oxidase activity
+phenethylamine:oxygen oxidoreductase (deaminating) activity
+beta-glucosidase activity
+protein kinase A regulatory subunit binding
+(1->3)-beta-D-glucan binding
+3-oxoacyl-[acyl-carrier-protein] synthase activity
+inositol 3-alpha-galactosyltransferase activity
+ATP binding
+fructose-bisphosphate aldolase activity
+adenine phosphoribosyltransferase activity
+folic acid binding
+long-chain-alcohol oxidase activity
+S100 protein binding
+protein kinase activity
+sucrose-phosphate synthase activity
+phospholipase A2 activity
+sugar transmembrane transporter activity
+phospholipase C activity
+pectate lyase activity
+NADPH-hemoprotein reductase activity
+C-4 methylsterol oxidase activity
+maltose transmembrane transporter activity
+iron ion binding
+magnesium chelatase activity
+allantoinase activity
+glutamyl-tRNA reductase activity
+monooxygenase activity
+glycerate kinase activity
+ATPase activity
+GTPase activator activity
+glucose-1-phosphate adenylyltransferase activity
+ethylene receptor activity
+cellulase activity
+fructose 1,6-bisphosphate 1-phosphatase activity
+structural constituent of cytoskeleton
+protein phosphatase 1 binding
+dGTPase activity
+linear malto-oligosaccharide phosphorylase activity
+glycogen phosphorylase activity
+ADP-ribose diphosphatase activity
+mRNA 3'-UTR AU-rich region binding
+1-ethyladenine demethylase activity
+raffinose alpha-galactosidase activity
+flavin adenine dinucleotide binding
+NADP binding
+heme binding
+gibberellin 20-oxidase activity
+fatty-acyl-CoA binding
+L-ornithine transmembrane transporter activity
+transition metal ion binding
+MAP kinase activity
+peptidyl-prolyl cis-trans isomerase activity
+beta-maltose 4-alpha-glucanotransferase activity
+alpha-amylase activity (releasing maltohexaose)
+primary amine oxidase activity
+protein tyrosine/serine/threonine phosphatase activity
+microtubule motor activity
+5-diphosphoinositol pentakisphosphate 3-kinase activity
+tetrapyrrole binding
+protein-macromolecule adaptor activity
+ubiquitin ligase activator activity
+sterol binding
+inorganic anion exchanger activity
+U1 snRNA binding
+fatty acid alpha-hydroxylase activity
+SNAP receptor activity
+peroxiredoxin activity
+phosphatase inhibitor activity
+mRNA CDS binding
+aldehyde oxygenase (deformylating) activity
+protein self-association
+inositol hexakisphosphate 1-kinase activity
+inositol hexakisphosphate 3-kinase activity
+unfolded protein binding
+chaperone binding

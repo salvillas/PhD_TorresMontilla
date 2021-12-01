@@ -1,0 +1,57 @@
+cell wall macromolecule catabolic process
+negative regulation of T cell receptor signaling pathway
+killing of cells of other organism
+carboxylic acid metabolic process
+defense response to other organism
+chlorophyll biosynthetic process
+L-proline biosynthetic process
+NADH dehydrogenase complex (plastoquinone) assembly
+defense response to bacterium
+detoxification of copper ion
+thiazole biosynthetic process
+carbon utilization
+carbon fixation
+photosynthesis
+glutamate decarboxylation to succinate
+melatonin biosynthetic process
+negative regulation of endopeptidase activity
+jasmonic acid biosynthetic process
+triglyceride biosynthetic process
+photoinhibition
+oxygen transport
+biosynthetic process
+photosystem II assembly
+Golgi to lysosome transport
+response to oxidative stress
+response to wounding
+photosynthesis, light harvesting
+photosynthesis, light harvesting in photosystem I
+glycerol ether metabolic process
+photosynthetic electron transport in photosystem I
+maintenance of shoot apical meristem identity
+2,4,6-trinitrotoluene catabolic process
+protein-chromophore linkage
+formate catabolic process
+response to biotic stimulus
+protein retention in ER lumen
+lipid metabolic process
+gamma-aminobutyric acid catabolic process
+chitin catabolic process
+sucrose biosynthetic process
+unsaturated fatty acid biosynthetic process
+carbohydrate metabolic process
+defense response to oomycetes
+glutathione metabolic process
+carotene catabolic process
+cellular oxidant detoxification
+systemic acquired resistance, salicylic acid mediated signaling pathway
+glycine biosynthetic process from serine
+photosystem II stabilization
+positive regulation of helicase activity
+transmembrane receptor protein serine/threonine kinase signaling pathway
+seed trichome elongation
+protein autophosphorylation
+isoprenoid biosynthetic process
+regulation of proton transport
+L-methionine salvage from methylthioadenosine
+metal ion transport

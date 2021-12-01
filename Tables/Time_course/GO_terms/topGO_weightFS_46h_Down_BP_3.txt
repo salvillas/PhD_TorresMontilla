@@ -1,0 +1,119 @@
+anthocyanin-containing compound metabolic process
+phosphoglycerate transmembrane transport
+regulation of cell wall pectin metabolic process
+response to salt stress
+retrograde protein transport, ER to cytosol
+inositol trisphosphate metabolic process
+kinetochore assembly
+circadian regulation of gene expression
+photomorphogenesis
+shade avoidance
+entrainment of circadian clock
+cold acclimation
+ammonium transmembrane transport
+regulation of long-day photoperiodism, flowering
+pre-replicative complex assembly involved in nuclear cell cycle DNA replication
+photoperiodism, flowering
+protein stabilization
+adenine transport
+guanine transport
+triose phosphate transmembrane transport
+protein peptidyl-prolyl isomerization
+iron-sulfur cluster assembly
+positive regulation of superoxide dismutase activity
+positive regulation of ATPase activity
+positive regulation of systemic acquired resistance
+regulation of intracellular pH
+tricarboxylic acid cycle
+root development
+leaf development
+regulation of phosphoprotein phosphatase activity
+ER-associated misfolded protein catabolic process
+sodium ion import across plasma membrane
+seedling development
+response to heat
+inositol biosynthetic process
+regulation of jasmonic acid mediated signaling pathway
+autophagosome maturation
+phosphatidylinositol phosphorylation
+inositol phosphate dephosphorylation
+phosphatidylinositol dephosphorylation
+negative regulation of transcription by RNA polymerase II
+reversible differentiation
+cellular response to unfolded protein
+transmembrane transport
+response to chlorate
+proton export across plasma membrane
+cellular response to heat
+positive regulation of response to water deprivation
+lipid biosynthetic process
+regulation of ethylene-activated signaling pathway
+chaperone-mediated protein complex assembly
+oligopeptide transport
+cell volume homeostasis
+snRNA transcription by RNA polymerase II
+snRNA transcription by RNA polymerase III
+anion transport
+ion transport
+phosphate ion transport
+myo-inositol hexakisphosphate biosynthetic process
+protein refolding
+nitric oxide biosynthetic process
+regulation of lignin biosynthetic process
+protein complex oligomerization
+CAAX-box protein processing
+developmental vegetative growth
+negative regulation of phosphatase activity
+starch biosynthetic process
+plastoquinone biosynthetic process
+mitotic spindle disassembly
+proline catabolic process
+threonine catabolic process
+regulation of calcium ion transport
+trichome branching
+L-phenylalanine catabolic process
+regulation of photomorphogenesis
+maltose metabolic process
+polynucleotide 3' dephosphorylation
+tetrahydrofolate biosynthetic process
+folic acid biosynthetic process
+protein ubiquitination
+protein deubiquitination
+chaperone cofactor-dependent protein refolding
+pyridoxal phosphate biosynthetic process
+protein-containing complex assembly
+gametophyte development
+de-etiolation
+Golgi vesicle prefusion complex stabilization
+mRNA cleavage
+phosphatidylserine biosynthetic process
+response to starvation
+protein targeting to vacuole
+cellular response to freezing
+carbohydrate transmembrane transport
+cellular ammonium homeostasis
+peptidyl-histidine phosphorylation
+lipid translocation
+ubiquitin-dependent ERAD pathway
+response to hydrogen peroxide
+ubiquinone-6 biosynthetic process
+sucrose biosynthetic process
+stress granule assembly
+glycogen biosynthetic process
+protein folding
+detection of mechanical stimulus
+protein dephosphorylation
+histone H3-K36 demethylation
+protein import into mitochondrial matrix
+carbon fixation
+phospholipid transport
+response to cyclopentenone
+regulation of phosphorylation
+chaperone-mediated protein folding
+positive regulation of transcription, DNA-templated
+mRNA 5'-splice site recognition
+trichome papilla formation
+positive regulation of plant-type cell wall cellulose biosynthetic process
+spliceosomal snRNP assembly
+fluoride transmembrane transport
+mitochondrial electron transport, ubiquinol to cytochrome c

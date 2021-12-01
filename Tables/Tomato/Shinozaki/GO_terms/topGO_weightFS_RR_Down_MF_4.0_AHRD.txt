@@ -1,0 +1,98 @@
+Annotated	Significant	Expected	DEG	Term
+GO:0004657	2	2	0,4	2	proline dehydrogenase activity
+GO:0003755	72	23	14,57	23	peptidyl-prolyl cis-trans isomerase activity
+GO:0030170	144	42	29,13	42	pyridoxal phosphate binding
+GO:0004672	1386	405	280,42	405	protein kinase activity
+GO:0004674	730	200	147,7	200	protein serine/threonine kinase activity
+GO:0004629	9	4	1,82	4	phospholipase C activity
+GO:0003777	75	38	15,17	38	microtubule motor activity
+GO:0005388	26	12	5,26	12	calcium transmembrane transporter activity, phosphorylative mechanism
+GO:0004634	6	4	1,21	4	phosphopyruvate hydratase activity
+GO:0008353	20	8	4,05	8	RNA polymerase II CTD heptapeptide repeat kinase activity
+GO:0019901	40	12	8,09	12	protein kinase binding
+GO:0035174	2	2	0,4	2	histone serine kinase activity
+GO:0009678	65	14	13,15	14	pyrophosphate hydrolysis-driven proton transmembrane transporter activity
+GO:0003700	959	222	194,03	222	DNA-binding transcription factor activity
+GO:0008865	9	6	1,82	6	fructokinase activity
+GO:0003896	2	2	0,4	2	DNA primase activity
+GO:0016629	2	2	0,4	2	12-oxophytodienoate reductase activity
+GO:0008964	6	4	1,21	4	phosphoenolpyruvate carboxylase activity
+GO:0039706	2	2	0,4	2	co-receptor binding
+GO:0102250	4	3	0,81	3	linear malto-oligosaccharide phosphorylase activity
+GO:0003885	3	3	0,61	3	D-arabinono-1,4-lactone oxidase activity
+GO:0003886	4	4	0,81	4	DNA (cytosine-5-)-methyltransferase activity
+GO:0042300	10	5	2,02	5	beta-amyrin synthase activity
+GO:0005464	6	4	1,21	4	UDP-xylose transmembrane transporter activity
+GO:0042973	39	16	7,89	16	glucan endo-1,3-beta-D-glucosidase activity
+GO:0003878	5	4	1,01	4	ATP citrate synthase activity
+GO:0003824	12151	2553	2458,44	2553	catalytic activity
+GO:0000095	3	3	0,61	3	S-adenosyl-L-methionine transmembrane transporter activity
+GO:0030246	456	105	92,26	105	carbohydrate binding
+GO:0003983	2	2	0,4	2	UTP:glucose-1-phosphate uridylyltransferase activity
+GO:0003843	12	6	2,43	6	1,3-beta-D-glucan synthase activity
+GO:0003979	6	4	1,21	4	UDP-glucose 6-dehydrogenase activity
+GO:0000062	5	4	1,01	4	fatty-acyl-CoA binding
+GO:0003839	3	3	0,61	3	gamma-glutamylcyclotransferase activity
+GO:0004795	2	2	0,4	2	threonine synthase activity
+GO:0033612	17	10	3,44	10	receptor serine/threonine kinase binding
+GO:0003913	3	3	0,61	3	DNA photolyase activity
+GO:0019158	6	5	1,21	5	mannokinase activity
+GO:0005524	3093	685	625,79	685	ATP binding
+GO:0000166	4190	944	847,74	944	nucleotide binding
+GO:0005516	135	41	27,31	41	calmodulin binding
+GO:0005096	62	22	12,54	22	GTPase activator activity
+GO:0035242	2	2	0,4	2	protein-arginine omega-N asymmetric methyltransferase activity
+GO:0005536	6	5	1,21	5	glucose binding
+GO:0008447	4	3	0,81	3	L-ascorbate oxidase activity
+GO:0008525	4	3	0,81	3	phosphatidylcholine transporter activity
+GO:0008526	11	6	2,23	6	phosphatidylinositol transfer activity
+GO:0070204	3	3	0,61	3	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase activity
+GO:0070205	2	2	0,4	2	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase activity
+GO:0005509	277	78	56,04	78	calcium ion binding
+GO:0004748	4	3	0,81	3	ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor
+GO:0102756	31	12	6,27	12	very-long-chain 3-ketoacyl-CoA synthase activity
+GO:0008194	380	116	76,88	116	UDP-glycosyltransferase activity
+GO:0051287	108	38	21,85	38	NAD binding
+GO:0042054	50	12	10,12	12	histone methyltransferase activity
+GO:0005179	7	4	1,42	4	hormone activity
+GO:0016760	37	13	7,49	13	cellulose synthase (UDP-forming) activity
+GO:0016762	40	16	8,09	16	xyloglucan:xyloglucosyl transferase activity
+GO:0004367	4	3	0,81	3	glycerol-3-phosphate dehydrogenase [NAD+] activity
+GO:0016757	703	220	142,23	220	transferase activity, transferring glycosyl groups
+GO:0008017	150	75	30,35	75	microtubule binding
+GO:0016787	4082	795	825,89	795	hydrolase activity
+GO:0008184	4	3	0,81	3	glycogen phosphorylase activity
+GO:0000250	10	5	2,02	5	lanosterol synthase activity
+GO:0004998	2	2	0,4	2	transferrin receptor activity
+GO:0016740	4852	1150	981,68	1150	transferase activity
+GO:0004340	6	5	1,21	5	glucokinase activity
+GO:0052692	4	4	0,81	4	raffinose alpha-galactosidase activity
+GO:0004817	2	2	0,4	2	cysteine-tRNA ligase activity
+GO:0015098	5	4	1,01	4	molybdate ion transmembrane transporter activity
+GO:0003688	21	9	4,25	9	DNA replication origin binding
+GO:0047262	20	10	4,05	10	polygalacturonate 4-alpha-galacturonosyltransferase activity
+GO:0102336	31	12	6,27	12	3-oxo-arachidoyl-CoA synthase activity
+GO:0102337	31	12	6,27	12	3-oxo-cerotoyl-CoA synthase activity
+GO:0102338	31	12	6,27	12	3-oxo-lignoceronyl-CoA synthase activity
+GO:0004930	2	2	0,4	2	G protein-coupled receptor activity
+GO:0101005	82	11	16,59	11	ubiquitinyl hydrolase activity
+GO:0004459	2	2	0,4	2	L-lactate dehydrogenase activity
+GO:0004489	2	2	0,4	2	methylenetetrahydrofolate reductase (NAD(P)H) activity
+GO:0004471	10	5	2,02	5	malate dehydrogenase (decarboxylating) (NAD+) activity
+GO:0004473	4	3	0,81	3	malate dehydrogenase (decarboxylating) (NADP+) activity
+GO:0102499	4	3	0,81	3	SHG alpha-glucan phosphorylase activity
+GO:0031210	3	3	0,61	3	phosphatidylcholine binding
+GO:0004427	14	8	2,83	8	inorganic diphosphatase activity
+GO:0004553	420	125	84,98	125	hydrolase activity, hydrolyzing O-glycosyl compounds
+GO:0005200	25	13	5,06	13	structural constituent of cytoskeleton
+GO:0004559	8	4	1,62	4	alpha-mannosidase activity
+GO:0022857	1391	326	281,43	326	transmembrane transporter activity
+GO:0050105	2	2	0,4	2	L-gulonolactone oxidase activity
+GO:0030570	25	9	5,06	9	pectate lyase activity
+GO:0015297	198	54	40,06	54	antiporter activity
+GO:0008760	2	2	0,4	2	UDP-N-acetylglucosamine 1-carboxyvinyltransferase activity
+GO:0004693	21	8	4,25	8	cyclin-dependent protein serine/threonine kinase activity
+GO:0015267	233	54	47,14	54	channel activity
+GO:0004048	2	2	0,4	2	anthranilate phosphoribosyltransferase activity
+GO:0043138	16	7	3,24	7	3'-5' DNA helicase activity
+GO:0015276	15	9	3,03	9	ligand-gated ion channel activity

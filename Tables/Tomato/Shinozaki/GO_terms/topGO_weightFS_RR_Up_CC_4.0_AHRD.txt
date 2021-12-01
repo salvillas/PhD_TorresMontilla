@@ -1,0 +1,48 @@
+Annotated	Significant	Expected	DEG	Term
+GO:0000427	5	3	0,72	3	plastid-encoded plastid RNA polymerase complex
+GO:1990316	3	3	0,43	3	Atg1/ULK1 kinase complex
+GO:0005741	41	11	5,92	11	mitochondrial outer membrane
+GO:0008541	6	3	0,87	3	proteasome regulatory particle, lid subcomplex
+GO:0005737	7170	1303	1034,41	1303	cytoplasm
+GO:0005739	1111	228	160,28	228	mitochondrion
+GO:0000243	10	5	1,44	5	commitment complex
+GO:0000813	8	5	1,15	5	ESCRT I complex
+GO:0000839	2	2	0,29	2	Hrd1p ubiquitin ligase ERAD-L complex
+GO:0000407	15	8	2,16	8	phagophore assembly site
+GO:0031314	6	3	0,87	3	extrinsic component of mitochondrial inner membrane
+GO:0019773	16	7	2,31	7	proteasome core complex, alpha-subunit complex
+GO:0071819	2	2	0,29	2	DUBm complex
+GO:0031969	133	30	19,19	30	chloroplast membrane
+GO:0070461	12	4	1,73	4	SAGA-type complex
+GO:0031977	21	5	3,03	5	thylakoid lumen
+GO:0000151	173	38	24,96	38	ubiquitin ligase complex
+GO:0042644	23	11	3,32	11	chloroplast nucleoid
+GO:0005681	128	31	18,47	31	spliceosomal complex
+GO:0009368	13	8	1,88	8	endopeptidase Clp complex
+GO:0005688	7	4	1,01	4	U6 snRNP
+GO:0005829	1242	226	179,18	226	cytosol
+GO:0010287	24	7	3,46	7	plastoglobule
+GO:0070847	6	3	0,87	3	core mediator complex
+GO:0031901	3	3	0,43	3	early endosome membrane
+GO:0031902	11	5	1,59	5	late endosome membrane
+GO:0046540	29	9	4,18	9	U4/U6 x U5 tri-snRNP complex
+GO:0005637	4	4	0,58	4	nuclear inner membrane
+GO:0034045	7	4	1,01	4	phagophore assembly site membrane
+GO:0009570	281	80	40,54	80	chloroplast stroma
+GO:0016592	61	16	8,8	16	mediator complex
+GO:0080008	34	10	4,91	10	Cul4-RING E3 ubiquitin ligase complex
+GO:0000502	80	25	11,54	25	proteasome complex
+GO:0009534	420	51	60,59	51	chloroplast thylakoid
+GO:0009536	1641	367	236,75	367	plastid
+GO:0008180	10	6	1,44	6	COP9 signalosome
+GO:0009941	225	69	32,46	69	chloroplast envelope
+GO:0005782	2	2	0,29	2	peroxisomal matrix
+GO:0005783	472	93	68,1	93	endoplasmic reticulum
+GO:0001405	8	6	1,15	6	PAM complex, Tim23 associated import motor
+GO:0009507	1541	345	222,32	345	chloroplast
+GO:0005771	10	4	1,44	4	multivesicular body
+GO:0005774	181	34	26,11	34	vacuolar membrane
+GO:0022626	193	10	27,84	10	cytosolic ribosome
+GO:0005777	112	38	16,16	38	peroxisome
+GO:0005778	25	10	3,61	10	peroxisomal membrane
+GO:0030289	4	3	0,58	3	protein phosphatase 4 complex

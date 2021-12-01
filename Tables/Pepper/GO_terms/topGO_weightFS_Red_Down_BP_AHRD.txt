@@ -1,0 +1,103 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0015995	34	15	4,79	15	chlorophyll biosynthetic process	2,42216596346958e-05
+GO:0019252	37	11	5,21	11	starch biosynthetic process	0,011930270199589
+GO:2000067	7	5	0,99	5	regulation of root morphogenesis	0,00999199884786078
+GO:0015938	2	2	0,28	2	coenzyme A catabolic process	0,0198548756866496
+GO:0034220	808	116	113,87	116	ion transmembrane transport	0,00932199368275309
+GO:0010305	24	7	3,38	7	leaf vascular tissue pattern formation	0,0427124007241535
+GO:0006820	680	126	95,83	126	anion transport	0,0195201865743109
+GO:0006817	288	71	40,59	71	phosphate ion transport	8,67587214194042e-07
+GO:1990918	2	2	0,28	2	double-strand break repair involved in meiotic recombination	0,0198548756866496
+GO:0009102	7	4	0,99	4	biotin biosynthetic process	0,00965082193951831
+GO:0006808	2	2	0,28	2	regulation of nitrogen utilization	0,0198548756866496
+GO:0005992	21	7	2,96	7	trehalose biosynthetic process	0,0209352142372024
+GO:0019760	11	6	1,55	6	glucosinolate metabolic process	0,00963629822320642
+GO:0006597	10	4	1,41	4	spermine biosynthetic process	0,0407989976550414
+GO:0009266	173	24	24,38	24	response to temperature stimulus	0,0198791079468946
+GO:0045132	31	11	4,37	11	meiotic chromosome segregation	0,00463719541691781
+GO:0006557	9	4	1,27	4	S-adenosylmethioninamine biosynthetic process	0,0274898528233836
+GO:0019748	222	43	31,29	43	secondary metabolic process	0,0206964491761707
+GO:0009228	9	4	1,27	4	thiamine biosynthetic process	0,0274898528233836
+GO:0042594	68	16	9,58	16	response to starvation	0,00547428994898173
+GO:0007131	49	15	6,91	15	reciprocal meiotic recombination	0,0194309002138746
+GO:0002181	91	16	12,82	16	cytoplasmic translation	0,0128193934108601
+GO:0000463	15	6	2,11	6	maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	0,0124664776286365
+GO:0000470	36	15	5,07	15	maturation of LSU-rRNA	0,00126740343635647
+GO:0009768	22	16	3,1	16	photosynthesis, light harvesting in photosystem I	7,49792838501295e-10
+GO:0000413	75	24	10,57	24	protein peptidyl-prolyl isomerization	6,04020017364828e-05
+GO:0009788	25	8	3,52	8	negative regulation of abscisic acid-activated signaling pathway	0,0179267816424055
+GO:0009773	14	5	1,97	5	photosynthetic electron transport in photosystem I	0,0368102851441159
+GO:0009718	8	5	1,13	5	anthocyanin-containing compound biosynthetic process	0,00213872613430377
+GO:0009744	22	10	3,1	10	response to sucrose	0,000387647882819426
+GO:0009749	19	9	2,68	9	response to glucose	0,00113807536725179
+GO:0006633	166	35	23,39	35	fatty acid biosynthetic process	0,041741218676619
+GO:0030490	53	10	7,47	10	maturation of SSU-rRNA	0,00849522393791402
+GO:0009734	135	35	19,02	35	auxin-activated signaling pathway	8,91511549162786e-05
+GO:0009738	87	25	12,26	25	abscisic acid-activated signaling pathway	0,0033279106246618
+GO:0010289	2	2	0,28	2	homogalacturonan biosynthetic process	0,0198548756866496
+GO:0010270	2	2	0,28	2	photosystem II oxygen evolving complex assembly	0,0198548756866496
+GO:0034599	46	12	6,48	12	cellular response to oxidative stress	0,00565266230674312
+GO:0010275	4	3	0,56	3	NAD(P)H dehydrogenase complex assembly	0,0198466298215463
+GO:0010212	17	6	2,4	6	response to ionizing radiation	0,00752600384700546
+GO:0016042	143	25	20,15	25	lipid catabolic process	0,00437069379383694
+GO:0090610	2	2	0,28	2	bundle sheath cell fate specification	0,0198548756866496
+GO:0010207	13	7	1,83	7	photosystem II assembly	0,0121859981061282
+GO:0000103	11	8	1,55	8	sulfate assimilation	1,70878632779932e-05
+GO:0070192	28	11	3,95	11	chromosome organization involved in meiotic cell cycle	0,0099666461534495
+GO:0000272	190	25	26,78	25	polysaccharide catabolic process	0,018650379246755
+GO:0009554	5	3	0,7	3	megasporogenesis	0,0223918507505191
+GO:1902975	6	3	0,85	3	mitotic DNA replication initiation	0,0401289646095505
+GO:0006000	10	4	1,41	4	fructose metabolic process	0,0407989976550414
+GO:0006006	46	11	6,48	11	glucose metabolic process	0,0105225297117579
+GO:1903508	343	51	48,34	51	positive regulation of nucleic acid-templated transcription	0,0368248103603591
+GO:0000724	82	25	11,56	25	double-strand break repair via homologous recombination	0,0170202049980116
+GO:0000727	11	6	1,55	6	double-strand break repair via break-induced replication	0,00190358468206645
+GO:0050801	124	25	17,47	25	ion homeostasis	0,0399629844086059
+GO:0042939	3	3	0,42	3	tripeptide transport	0,0027966550645295
+GO:0015860	22	7	3,1	7	purine nucleoside transmembrane transport	0,0270612427545288
+GO:0051382	2	2	0,28	2	kinetochore assembly	0,0198548756866496
+GO:0032515	39	12	5,5	12	negative regulation of phosphoprotein phosphatase activity	0,005846118249755
+GO:0006353	43	12	6,06	12	DNA-templated transcription, termination	0,0400267232999933
+GO:0051315	5	4	0,7	4	attachment of mitotic spindle microtubules to kinetochore	0,00174734429535725
+GO:0006355	2022	301	284,95	301	regulation of transcription, DNA-templated	0,0431382112392437
+GO:0006334	59	18	8,31	18	nucleosome assembly	0,000918932314644883
+GO:0070814	3	3	0,42	3	hydrogen sulfide biosynthetic process	0,0027966550645295
+GO:0007094	9	4	1,27	4	mitotic spindle assembly checkpoint	0,0274898528233836
+GO:0046855	13	6	1,83	6	inositol phosphate dephosphorylation	0,00549241694953637
+GO:0006468	2244	342	316,24	342	protein phosphorylation	0,0267915476179971
+GO:0007062	42	13	5,92	13	sister chromatid cohesion	0,000978497560589688
+GO:0006471	6	3	0,85	3	protein ADP-ribosylation	0,0401289646095505
+GO:0016132	14	6	1,97	6	brassinosteroid biosynthetic process	0,00847712852020238
+GO:0007059	127	39	17,9	39	chromosome segregation	0,0119491493901874
+GO:0009956	5	3	0,7	3	radial pattern formation	0,0223918507505191
+GO:0006412	989	164	139,37	164	translation	4,33115305957115e-09
+GO:0046835	42	10	5,92	10	carbohydrate phosphorylation	0,0236173140328622
+GO:0016104	13	5	1,83	5	triterpenoid biosynthetic process	0,0266913006355754
+GO:0007010	267	48	37,63	48	cytoskeleton organization	0,0344982277389407
+GO:0015698	378	91	53,27	91	inorganic anion transport	0,0151352398227195
+GO:0007017	343	56	48,34	56	microtubule-based process	0,03808502340364
+GO:0048017	15	6	2,11	6	inositol lipid-mediated signaling	0,00999305430867079
+GO:0045910	13	6	1,83	6	negative regulation of DNA recombination	0,0185190265524147
+GO:0019318	141	30	19,87	30	hexose metabolic process	0,0365183072409836
+GO:0045903	10	4	1,41	4	positive regulation of translational fidelity	0,0407989976550414
+GO:0006139	5132	684	723,23	684	nucleobase-containing compound metabolic process	0,0204523361162462
+GO:0046506	3	3	0,42	3	sulfolipid biosynthetic process	0,0027966550645295
+GO:0019464	6	4	0,85	4	glycine decarboxylation via glycine cleavage system	0,00465473689148762
+GO:0006298	20	6	2,82	6	mismatch repair	0,0368039451272744
+GO:0042148	3	3	0,42	3	strand invasion	0,0027966550645295
+GO:0006267	7	4	0,99	4	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	0,00965082193951831
+GO:0000076	9	4	1,27	4	DNA replication checkpoint	0,0223840343364297
+GO:0006284	42	12	5,92	12	base-excision repair	0,0425169703302002
+GO:0006270	29	13	4,09	13	DNA replication initiation	0,00127012746666164
+GO:0006272	5	3	0,7	3	leading strand elongation	0,0223918507505191
+GO:0090116	8	4	1,13	4	C-5 methylation of cytosine	0,0171629177447329
+GO:0031122	26	8	3,66	8	cytoplasmic microtubule organization	0,0400617928778648
+GO:0006207	13	5	1,83	5	'de novo' pyrimidine nucleobase biosynthetic process	0,0266913006355754
+GO:0051754	2	2	0,28	2	meiotic sister chromatid cohesion, centromeric	0,0198548756866496
+GO:0006761	2	2	0,28	2	dihydrofolate biosynthetic process	0,0198548756866496
+GO:0030042	15	5	2,11	5	actin filament depolymerization	0,040787621076826
+GO:0055085	1685	291	237,46	291	transmembrane transport	9,64549728311702e-09
+GO:0080167	21	9	2,96	9	response to karrikin	0,00127786255179726
+GO:0048366	74	17	10,43	17	leaf development	8,48380400686011e-05
+GO:0030001	353	63	49,75	63	metal ion transport	0,0115012218569376
+GO:0009416	228	52	32,13	52	response to light stimulus	1,247626514005e-08

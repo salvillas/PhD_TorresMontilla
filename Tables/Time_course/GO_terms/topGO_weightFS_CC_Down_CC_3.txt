@@ -1,0 +1,22 @@
+VCP-NPL4-UFD1 AAA ATPase complex
+pICln-Sm protein complex
+mitochondrial respiratory chain complex III
+mitochondrial matrix
+perinuclear region of cytoplasm
+endoplasmic reticulum lumen
+plasma membrane
+nuclear origin of replication recognition complex
+RNA polymerase II, core complex
+nuclear pre-replicative complex
+Z disc
+nucleotide-activated protein kinase complex
+methylosome
+cytosol
+cytoplasm
+t-UTP complex
+U2AF complex
+Swr1 complex
+cell surface
+starch grain
+BAT3 complex
+Hrd1p ubiquitin ligase ERAD-L complex

@@ -1,0 +1,97 @@
+term_ID,description,frequency,plot_X,plot_Y,plot_size,log10 p-value,uniqueness,dispensability,representative,eliminated
+GO:0008299,"isoprenoid biosynthetic process",0.442%,-6.360,-1.232,4.754,-5.7529,0.773,0.000,8299,0
+GO:0016042,"lipid catabolic process",0.401%,null,null,4.712,-3.3544,0.793,0.590,8299,1
+GO:0010115,"regulation of abscisic acid biosynthetic process",0.000%,null,null,1.771,-2.1047,0.765,0.603,8299,1
+GO:0034440,"lipid oxidation",0.087%,null,null,4.045,-1.3813,0.835,0.563,8299,1
+GO:0031408,"oxylipin biosynthetic process",0.007%,null,null,2.941,-3.4075,0.795,0.502,8299,1
+GO:0009611,"response to wounding",0.127%, 2.669, 6.390,4.212,-6.2300,0.873,0.000,9611,0
+GO:0015689,"molybdate ion transport",0.068%, 4.331,-4.972,3.938,-3.9305,0.880,0.000,15689,0
+GO:0006817,"phosphate ion transport",0.242%,null,null,4.492,-2.5533,0.872,0.706,15689,1
+GO:1902476,"chloride transmembrane transport",0.047%,null,null,3.780,-2.0214,0.876,0.628,15689,1
+GO:0034220,"ion transmembrane transport",3.528%,null,null,5.656,-1.7083,0.866,0.521,15689,1
+GO:0032502,"developmental process",2.812%, 4.334, 0.221,5.557,-1.6157,0.980,0.000,32502,0
+GO:0051083,"'de novo' cotranslational protein folding",0.004%, 0.728,-7.291,2.701,-1.4304,0.958,0.021,51083,0
+GO:0043335,"protein unfolding",0.019%, 1.247,-1.874,3.394,-1.4304,0.956,0.023,43335,0
+GO:0071555,"cell wall organization",0.709%, 6.397, 1.947,4.959,-4.0043,0.873,0.031,71555,0
+GO:0042546,"cell wall biogenesis",0.640%,null,null,4.915,-3.3579,0.874,0.923,71555,1
+GO:0000032,"cell wall mannoprotein biosynthetic process",0.007%,null,null,2.945,-2.3949,0.830,0.635,71555,1
+GO:0009831,"plant-type cell wall modification involved in multidimensional cell growth",0.000%,null,null,1.380,-1.4304,0.860,0.528,71555,1
+GO:0010951,"negative regulation of endopeptidase activity",0.157%,-2.268, 6.433,4.304,-2.9118,0.838,0.050,10951,0
+GO:0007050,"cell cycle arrest",0.040%,null,null,3.714,-1.3848,0.824,0.687,10951,1
+GO:0045736,"negative regulation of cyclin-dependent protein serine/threonine kinase activity",0.007%,null,null,2.926,-2.0590,0.792,0.684,10951,1
+GO:0048443,"stamen development",0.004%, 3.432, 2.412,2.762,-2.1052,0.876,0.053,48443,0
+GO:0010071,"root meristem specification",0.000%,null,null,1.176,-1.4304,0.891,0.632,48443,1
+GO:0048829,"root cap development",0.001%,null,null,2.243,-1.8936,0.883,0.707,48443,1
+GO:0048446,"petal morphogenesis",0.000%,null,null,1.580,-1.4304,0.885,0.823,48443,1
+GO:0005975,"carbohydrate metabolic process",5.260%, 0.259, 0.533,5.829,-3.1773,0.933,0.069,5975,0
+GO:0010253,"UDP-rhamnose biosynthetic process",0.000%,-5.375, 1.054,1.079,-2.7969,0.866,0.087,10253,0
+GO:0009298,"GDP-mannose biosynthetic process",0.028%,null,null,3.552,-1.3801,0.847,0.591,10253,1
+GO:0006004,"fucose metabolic process",0.026%,-3.569,-5.570,3.518,-4.4045,0.820,0.115,6004,0
+GO:0033355,"ascorbate glutathione cycle",0.083%,null,null,4.025,-2.8611,0.714,0.621,6004,1
+GO:0006270,"DNA replication initiation",0.141%,-6.468, 3.209,4.259,-1.7208,0.862,0.140,6270,0
+GO:0009690,"cytokinin metabolic process",0.040%,-5.275, 4.499,3.710,-2.5172,0.796,0.176,9690,0
+GO:0008295,"spermidine biosynthetic process",0.055%,null,null,3.846,-2.4190,0.846,0.682,9690,1
+GO:0000162,"tryptophan biosynthetic process",0.191%,null,null,4.389,-1.6194,0.745,0.835,9690,1
+GO:0006833,"water transport",0.014%, 5.986,-2.441,3.256,-2.6049,0.876,0.177,6833,0
+GO:0007017,"microtubule-based process",0.658%,-2.028,-6.979,4.927,-1.7388,0.863,0.179,7017,0
+GO:0006629,"lipid metabolic process",3.522%,-2.672,-4.502,5.655,-4.5068,0.854,0.179,6629,0
+GO:0010731,"protein glutathionylation",0.002%, 5.170, 4.270,2.446,-2.3949,0.918,0.194,10731,0
+GO:0016554,"cytidine to uridine editing",0.003%,-0.072, 3.638,2.534,-2.2137,0.894,0.197,16554,0
+GO:1903830,"magnesium ion transmembrane transport",0.088%, 4.941,-2.971,4.053,-3.1674,0.914,0.200,1903830,0
+GO:2000022,"regulation of jasmonic acid mediated signaling pathway",0.002%, 0.577, 6.740,2.391,-6.1769,0.775,0.211,2000022,0
+GO:0010193,"response to ozone",0.002%,null,null,2.427,-1.8643,0.853,0.618,2000022,1
+GO:0010315,"auxin efflux",0.002%,null,null,2.452,-2.6049,0.715,0.851,2000022,1
+GO:0009744,"response to sucrose",0.007%,null,null,2.952,-2.0214,0.858,0.515,2000022,1
+GO:0009873,"ethylene-activated signaling pathway",0.005%,null,null,2.803,-1.4977,0.783,0.709,2000022,1
+GO:0009734,"auxin-activated signaling pathway",0.035%,null,null,3.649,-5.6443,0.760,0.673,2000022,1
+GO:0031347,"regulation of defense response",0.132%,null,null,4.229,-3.8787,0.827,0.508,2000022,1
+GO:0009414,"response to water deprivation",0.022%,null,null,3.453,-1.3452,0.838,0.696,2000022,1
+GO:0051176,"positive regulation of sulfur metabolic process",0.004%,-3.045, 5.339,2.665,-2.3949,0.869,0.227,51176,0
+GO:0009695,"jasmonic acid biosynthetic process",0.001%,-5.513,-5.183,2.217,-3.1329,0.825,0.237,9695,0
+GO:0042372,"phylloquinone biosynthetic process",0.006%,-6.143,-3.661,2.915,-1.4786,0.796,0.262,42372,0
+GO:0044209,"AMP salvage",0.035%,-5.719,-1.322,3.649,-3.4794,0.740,0.296,44209,0
+GO:0006166,"purine ribonucleoside salvage",0.108%,null,null,4.140,-2.8529,0.738,0.895,44209,1
+GO:0006168,"adenine salvage",0.032%,null,null,3.613,-2.4409,0.752,0.827,44209,1
+GO:0032957,"inositol trisphosphate metabolic process",0.007%,-4.611,-5.230,2.968,-2.0590,0.821,0.299,32957,0
+GO:0055114,"oxidation-reduction process",15.060%,-3.661,-3.563,6.286,-2.0288,0.854,0.300,55114,0
+GO:0055085,"transmembrane transport",8.916%, 5.753,-3.156,6.058,-4.6776,0.899,0.303,55085,0
+GO:0006811,"ion transport",5.344%,null,null,5.836,-2.9642,0.902,0.535,55085,1
+GO:0043953,"protein transport by the Tat complex",0.073%, 5.407,-3.958,3.974,-1.3801,0.904,0.309,43953,0
+GO:0043622,"cortical microtubule organization",0.002%, 1.001,-4.071,2.446,-2.1556,0.866,0.310,43622,0
+GO:0019805,"quinolinate biosynthetic process",0.049%,-6.001,-2.433,3.798,-2.8611,0.765,0.323,19805,0
+GO:0009435,"NAD biosynthetic process",0.246%,null,null,4.499,-2.7829,0.714,0.767,19805,1
+GO:0010043,"response to zinc ion",0.009%, 3.370, 6.086,3.058,-1.4304,0.869,0.334,10043,0
+GO:0006357,"regulation of transcription from RNA polymerase II promoter",1.273%,-4.221, 3.809,5.213,-1.6503,0.770,0.351,6357,0
+GO:0030245,"cellulose catabolic process",0.060%,-1.618,-1.787,3.890,-4.3821,0.820,0.356,30245,0
+GO:0030244,"cellulose biosynthetic process",0.025%,null,null,3.511,-3.1704,0.757,0.899,30245,1
+GO:0009251,"glucan catabolic process",0.099%,null,null,4.106,-1.7834,0.837,0.814,30245,1
+GO:0045490,"pectin catabolic process",0.058%,null,null,3.875,-2.6693,0.846,0.785,30245,1
+GO:0010411,"xyloglucan metabolic process",0.016%,null,null,3.321,-2.5846,0.823,0.712,30245,1
+GO:0000160,"phosphorelay signal transduction system",2.570%,-0.521, 6.263,5.518,-5.7800,0.747,0.357,160,0
+GO:0035556,"intracellular signal transduction",4.000%,null,null,5.710,-2.4594,0.741,0.737,160,1
+GO:0023014,"signal transduction by protein phosphorylation",1.506%,null,null,5.286,-1.8097,0.667,0.645,160,1
+GO:0035434,"copper ion transmembrane transport",0.038%, 4.266,-4.458,3.683,-2.2981,0.894,0.365,35434,0
+GO:0000727,"double-strand break repair via break-induced replication",0.013%, 1.261, 6.056,3.225,-3.3166,0.806,0.377,727,0
+GO:0015996,"chlorophyll catabolic process",0.008%,-7.099,-0.142,3.037,-3.1329,0.771,0.394,15996,0
+GO:0009972,"cytidine deamination",0.027%,null,null,3.538,-2.3949,0.746,0.513,15996,1
+GO:0051555,"flavonol biosynthetic process",0.001%,null,null,2.158,-2.1047,0.838,0.510,15996,1
+GO:0006253,"dCTP catabolic process",0.000%,null,null,1.477,-1.4786,0.787,0.745,15996,1
+GO:0031640,"killing of cells of other organism",0.019%,-4.066, 6.381,3.389,-1.8936,0.904,0.399,31640,0
+GO:0015827,"tryptophan transport",0.001%, 4.305,-5.240,2.037,-1.4304,0.858,0.406,15827,0
+GO:0042594,"response to starvation",0.109%, 2.418, 6.328,4.147,-2.0977,0.858,0.436,42594,0
+GO:0042262,"DNA protection",0.003%,null,null,2.619,-1.4786,0.799,0.621,42594,1
+GO:0009620,"response to fungus",0.035%,null,null,3.655,-1.8987,0.878,0.573,42594,1
+GO:0002238,"response to molecule of fungal origin",0.001%,null,null,2.196,-1.3801,0.858,0.601,42594,1
+GO:0070814,"hydrogen sulfide biosynthetic process",0.058%,-3.870, 3.152,3.875,-1.4786,0.881,0.445,70814,0
+GO:0006637,"acyl-CoA metabolic process",0.254%,null,null,4.512,-1.3859,0.838,0.586,70814,1
+GO:0048229,"gametophyte development",0.024%, 3.016, 2.222,3.494,-1.4307,0.890,0.447,48229,0
+GO:0007389,"pattern specification process",0.147%,null,null,4.274,-1.4305,0.881,0.552,48229,1
+GO:0006526,"arginine biosynthetic process",0.308%,-5.406,-3.132,4.597,-2.0214,0.766,0.455,6526,0
+GO:0006116,"NADH oxidation",0.002%,-6.709,-2.574,2.446,-1.4304,0.793,0.463,6116,0
+GO:0015810,"aspartate transport",0.010%, 4.873,-4.334,3.112,-1.4304,0.842,0.467,15810,0
+GO:0009051,"pentose-phosphate shunt, oxidative branch",0.003%,-6.263,-2.109,2.569,-1.3801,0.785,0.470,9051,0
+GO:0015867,"ATP transport",0.019%, 4.908,-4.579,3.381,-1.3668,0.838,0.492,15867,0
+GO:0050801,"ion homeostasis",0.434%,-3.447, 6.485,4.746,-1.5932,0.882,0.493,50801,0
+GO:0006878,"cellular copper ion homeostasis",0.020%,null,null,3.405,-1.7283,0.826,0.743,50801,1
+GO:0007010,"cytoskeleton organization",0.786%, 6.561, 1.895,5.004,-3.6621,0.902,0.497,7010,0
+GO:0006334,"nucleosome assembly",0.089%,null,null,4.057,-1.8553,0.908,0.540,7010,1

@@ -1,0 +1,27 @@
+commitment complex
+ER to Golgi transport vesicle membrane
+cytoplasmic stress granule
+U2AF complex
+late endosome membrane
+perinuclear region of cytoplasm
+U1 snRNP
+messenger ribonucleoprotein complex
+plasma membrane
+cell surface
+mitochondrial respiratory chain complex III
+mitochondrial matrix
+endoplasmic reticulum lumen
+endoplasmic reticulum membrane
+SCF ubiquitin ligase complex
+pICln-Sm protein complex
+cytosol
+snRNA-activating protein complex
+Swr1 complex
+pore complex
+Z disc
+SNARE complex
+cytoplasm
+VCP-NPL4-UFD1 AAA ATPase complex
+U2-type prespliceosome
+methylosome
+collagen-containing extracellular matrix

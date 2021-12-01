@@ -1,0 +1,93 @@
+response to salt stress
+nitrate transport
+SNARE complex disassembly
+cellular response to calcium ion
+plant-type hypersensitive response
+nucleotide-excision repair, DNA incision, 3'-to lesion
+cold acclimation
+maturation of 5.8S rRNA
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+protein stabilization
+response to biotic stimulus
+defense response
+recognition of pollen
+cell wall macromolecule catabolic process
+response to oxidative stress
+protein peptidyl-prolyl isomerization
+positive regulation of superoxide dismutase activity
+positive regulation of ATPase activity
+ER-associated misfolded protein catabolic process
+glycerol metabolic process
+response to heat
+lipid droplet organization
+galactose metabolic process
+triglyceride biosynthetic process
+phosphatidylinositol dephosphorylation
+chitin catabolic process
+formation of translation preinitiation complex
+glutathione metabolic process
+response to nitrate
+transmembrane transport
+regulation of proton transport
+response to chlorate
+ribosome biogenesis
+mature ribosome assembly
+cellular oxidant detoxification
+cellular response to heat
+histone exchange
+positive regulation of response to water deprivation
+Golgi to vacuole transport
+inorganic anion transport
+tripeptide transport
+lipid transport
+chaperone-mediated protein complex assembly
+cell volume homeostasis
+xenobiotic transport
+response to 1-aminocyclopropane-1-carboxylic acid
+protein refolding
+regulation of lignin biosynthetic process
+protein complex oligomerization
+developmental vegetative growth
+defense response to bacterium
+hydrogen peroxide catabolic process
+negative regulation of phosphoprotein phosphatase activity
+L-serine biosynthetic process
+regulation of calcium ion transport
+protein quality control for misfolded or incompletely synthesized proteins
+response to jasmonic acid
+positive regulation of abscisic acid-activated signaling pathway
+meiotic mismatch repair involved in reciprocal meiotic recombination
+chaperone cofactor-dependent protein refolding
+protein-containing complex assembly
+abscisic acid-activated signaling pathway
+cytoplasm protein quality control by the ubiquitin-proteasome system
+rRNA processing
+regulation of transcription, DNA-templated
+calcium-mediated signaling
+de-etiolation
+long-chain fatty acid metabolic process
+positive regulation of growth
+cellular response to freezing
+cellular ammonium homeostasis
+phospholipid metabolic process
+regulation of defense response to fungus
+dephosphorylation
+trehalose biosynthetic process
+ubiquitin-dependent ERAD pathway
+response to hydrogen peroxide
+phosphatidylinositol-3-phosphate biosynthetic process
+sucrose metabolic process
+protein phosphorylation
+protein folding
+L-lysine catabolic process to acetyl-CoA via saccharopine
+protein import into chloroplast stroma
+electron transport chain
+protein import into mitochondrial matrix
+threonyl-tRNA aminoacylation
+fatty-acyl-CoA transport
+pantothenate biosynthetic process
+chaperone-mediated protein folding
+positive regulation of RNA polymerase II transcription preinitiation complex assembly
+GMP biosynthetic process
+mitochondrial electron transport, ubiquinol to cytochrome c
+2,4,6-trinitrotoluene catabolic process

@@ -1,0 +1,106 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0045454	36	10	3,39	10	cell redox homeostasis	0,00138833432732937
+GO:0071051	4	2	0,38	2	polyadenylation-dependent snoRNA 3'-end processing	0,046809317935525
+GO:0000055	12	4	1,13	4	ribosomal large subunit export from nucleus	0,0209840487857701
+GO:0000056	9	4	0,85	4	ribosomal small subunit export from nucleus	0,00671969987770569
+GO:0035335	33	7	3,11	7	peptidyl-tyrosine dephosphorylation	0,0314263619602598
+GO:0016117	17	7	1,6	7	carotenoid biosynthetic process	0,00669067205249645
+GO:0071035	4	3	0,38	3	nuclear polyadenylation-dependent rRNA catabolic process	0,0031068496807743
+GO:0071038	4	3	0,38	3	nuclear polyadenylation-dependent tRNA catabolic process	0,0031068496807743
+GO:0046835	35	10	3,3	10	carbohydrate phosphorylation	0,000406262446878572
+GO:0034605	18	6	1,7	6	cellular response to heat	0,0133015450313201
+GO:0006396	818	120	77,09	120	RNA processing	0,00330605813117753
+GO:0006397	318	45	29,97	45	mRNA processing	0,0180762703830854
+GO:0006355	1951	199	183,86	199	regulation of transcription, DNA-templated	0,0479192802447874
+GO:0006370	7	3	0,66	3	7-methylguanosine mRNA capping	0,0218763355322195
+GO:0061615	14	4	1,32	4	glycolytic process through fructose-6-phosphate	0,0364682533260757
+GO:0010196	3	2	0,28	2	nonphotochemical quenching	0,0249580838081496
+GO:0051096	3	2	0,28	2	positive regulation of helicase activity	0,0249580838081496
+GO:0051083	3	2	0,28	2	'de novo' cotranslational protein folding	0,0249580838081496
+GO:0043562	11	4	1,04	4	cellular response to nitrogen levels	0,0249259372399793
+GO:0015979	343	53	32,32	53	photosynthesis	0,000490594896265114
+GO:0006424	2	2	0,19	2	glutamyl-tRNA aminoacylation	0,00887648930021474
+GO:0006415	23	7	2,17	7	translational termination	0,00475742910018813
+GO:0006402	83	13	7,82	13	mRNA catabolic process	0,00669337136382302
+GO:0010258	2	2	0,19	2	NADH dehydrogenase complex (plastoquinone) assembly	0,00887648930021474
+GO:0018106	6	3	0,57	3	peptidyl-histidine phosphorylation	0,013434382911666
+GO:0010275	4	4	0,38	4	NAD(P)H dehydrogenase complex assembly	0,00885930222470522
+GO:0010224	27	9	2,54	9	response to UV-B	0,00113110685809284
+GO:0050896	3200	295	301,56	295	response to stimulus	0,0330593908961099
+GO:0010239	5	3	0,47	3	chloroplast mRNA processing	0,00722170676732991
+GO:0045736	6	3	0,57	3	negative regulation of cyclin-dependent protein serine/threonine kinase activity	0,013434382911666
+GO:0048564	3	3	0,28	3	photosystem I assembly	0,000835692046247299
+GO:0010206	4	2	0,38	2	photosystem II repair	0,046809317935525
+GO:0010207	13	7	1,23	7	photosystem II assembly	0,000388105380847896
+GO:0009228	8	3	0,75	3	thiamine biosynthetic process	0,032582689773712
+GO:0042793	9	4	0,85	4	plastid transcription	0,00671969987770569
+GO:0008380	226	35	21,3	35	RNA splicing	0,0073360667868275
+GO:0009234	4	2	0,38	2	menaquinone biosynthetic process	0,046809317935525
+GO:0048511	57	18	5,37	18	rhythmic process	4,43869900758176e-05
+GO:1903003	4	3	0,38	3	positive regulation of protein deubiquitination	0,0031068496807743
+GO:0016558	9	3	0,85	3	protein import into peroxisome matrix	0,0455141847217152
+GO:0009793	79	13	7,44	13	embryo development ending in seed dormancy	0,0327034850248201
+GO:0000467	5	3	0,47	3	exonucleolytic trimming to generate mature 3'-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	0,00722170676732991
+GO:0000481	3	2	0,28	2	maturation of 5S rRNA	0,0249580838081496
+GO:0006287	3	2	0,28	2	base-excision repair, gap-filling	0,0249580838081496
+GO:0007050	12	6	1,13	6	cell cycle arrest	0,0217964915208081
+GO:0006272	4	2	0,38	2	leading strand elongation	0,046809317935525
+GO:0000413	72	13	6,79	13	protein peptidyl-prolyl isomerization	0,0161596950222734
+GO:0090116	4	2	0,38	2	C-5 methylation of cytosine	0,046809317935525
+GO:0009773	8	5	0,75	5	photosynthetic electron transport in photosystem I	0,000324480372124284
+GO:0006225	4	2	0,38	2	UDP biosynthetic process	0,046809317935525
+GO:0032790	5	3	0,47	3	ribosome disassembly	0,00722170676732991
+GO:1904143	3	2	0,28	2	positive regulation of carotenoid biosynthetic process	0,0249580838081496
+GO:0072598	14	5	1,32	5	protein localization to chloroplast	0,00885874473051588
+GO:0000160	152	25	14,32	25	phosphorelay signal transduction system	0,0133500313435626
+GO:0071158	5	3	0,47	3	positive regulation of cell cycle arrest	0,00722170676732991
+GO:0046951	3	2	0,28	2	ketone body biosynthetic process	0,0249580838081496
+GO:0005983	5	3	0,47	3	starch catabolic process	0,00722170676732991
+GO:0005986	13	4	1,23	4	sucrose biosynthetic process	0,0280944864508862
+GO:0044255	608	79	57,3	79	cellular lipid metabolic process	0,00686143210293253
+GO:0006782	14	6	1,32	6	protoporphyrinogen IX biosynthetic process	0,00107145463668278
+GO:0044210	9	3	0,85	3	'de novo' CTP biosynthetic process	0,0455141847217152
+GO:0009846	9	3	0,85	3	pollen germination	0,0455141847217152
+GO:0010581	7	3	0,66	3	regulation of starch biosynthetic process	0,0218763355322195
+GO:0001510	65	14	6,13	14	RNA methylation	0,00493818798253762
+GO:0031408	20	5	1,88	5	oxylipin biosynthetic process	0,034511951352863
+GO:0046475	2	2	0,19	2	glycerophospholipid catabolic process	0,00887648930021474
+GO:0042549	11	4	1,04	4	photosystem II stabilization	0,0150973184317548
+GO:0000272	185	18	17,43	18	polysaccharide catabolic process	0,0281488863238584
+GO:0043335	3	2	0,28	2	protein unfolding	0,0249580838081496
+GO:0002943	6	4	0,57	4	tRNA dihydrouridine synthesis	0,0010090306229938
+GO:0045004	3	2	0,28	2	DNA replication proofreading	0,0249580838081496
+GO:2000028	20	9	1,88	9	regulation of photoperiodism, flowering	0,000386579897210118
+GO:0070981	3	3	0,28	3	L-asparagine biosynthetic process	0,000835692046247299
+GO:1905037	29	6	2,73	6	autophagosome organization	0,00310371272673168
+GO:0006808	3	2	0,28	2	regulation of nitrogen utilization	0,0249580838081496
+GO:0031146	81	16	7,63	16	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	0,0033145859557742
+GO:0009097	13	4	1,23	4	isoleucine biosynthetic process	0,0280944864508862
+GO:0009099	7	4	0,66	4	valine biosynthetic process	0,00217844608426142
+GO:0010027	11	4	1,04	4	thylakoid membrane organization	0,0150973184317548
+GO:0032526	4	4	0,38	4	response to retinoic acid	7,86395014049647e-05
+GO:0055088	19	5	1,79	5	lipid homeostasis	0,00403269728698551
+GO:0055070	14	3	1,32	3	copper ion homeostasis	0,00887772944591998
+GO:0006552	4	3	0,38	3	leucine catabolic process	0,0031068496807743
+GO:0009657	111	30	10,46	30	plastid organization	0,024497829699615
+GO:0009658	92	23	8,67	23	chloroplast organization	1,96193669682829e-05
+GO:0000710	6	3	0,57	3	meiotic mismatch repair	0,013434382911666
+GO:0006572	4	2	0,38	2	tyrosine catabolic process	0,046809317935525
+GO:1990481	4	2	0,38	2	mRNA pseudouridine synthesis	0,046809317935525
+GO:0018026	8	4	0,75	4	peptidyl-lysine monomethylation	0,00403241179639855
+GO:0006515	30	6	2,83	6	protein quality control for misfolded or incompletely synthesized proteins	0,0133344930706154
+GO:0006541	49	8	4,62	8	glutamine metabolic process	0,0314671024465211
+GO:0009644	9	3	0,85	3	response to high light intensity	0,0455141847217152
+GO:0006535	14	4	1,32	4	cysteine biosynthetic process from serine	0,0364682533260757
+GO:0006094	20	6	1,88	6	gluconeogenesis	0,0174139135364343
+GO:0030388	12	6	1,13	6	fructose 1,6-bisphosphate metabolic process	0,00038913794510037
+GO:0016310	2112	196	199,03	196	phosphorylation	0,00977624535656702
+GO:0006071	12	5	1,13	5	glycerol metabolic process	0,0103555610296436
+GO:0006000	10	6	0,94	6	fructose metabolic process	0,000104461916102436
+GO:0006002	19	7	1,79	7	fructose 6-phosphate metabolic process	0,00118661509252107
+GO:0034599	44	8	4,15	8	cellular response to oxidative stress	0,0418222226230513
+GO:0071586	11	4	1,04	4	CAAX-box protein processing	0,0150973184317548
+GO:0045910	14	5	1,32	5	negative regulation of DNA recombination	0,00716006926291244
+GO:0098507	4	2	0,38	2	polynucleotide 5' dephosphorylation	0,046809317935525
+GO:0033147	4	2	0,38	2	negative regulation of intracellular estrogen receptor signaling pathway	0,046809317935525
+GO:2000327	4	2	0,38	2	positive regulation of nuclear receptor transcription coactivator activity	0,046809317935525

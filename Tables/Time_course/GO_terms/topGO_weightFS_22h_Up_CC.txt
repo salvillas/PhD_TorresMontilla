@@ -1,0 +1,10 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0009360	6	1	0,04	1	DNA polymerase III complex	0,0386980663674422
+GO:0009535	602	9	3,95	9	chloroplast thylakoid membrane	0,018224444065725
+GO:0005618	488	19	3,2	19	cell wall	9,87748012606474e-10
+GO:0048046	253	9	1,66	9	apoplast	4,73048102718168e-05
+GO:0009654	45	7	0,3	7	photosystem II oxygen evolving complex	1,70538465235826e-08
+GO:0009507	2246	26	14,72	26	chloroplast	0,0208915370902991
+GO:0009522	141	4	0,92	4	photosystem I	0,0140707827141303
+GO:0019898	95	7	0,62	7	extrinsic component of membrane	3,15223386948497e-06
+GO:0005576	1227	23	8,04	23	extracellular region	0,00352528551887181

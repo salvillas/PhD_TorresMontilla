@@ -1,0 +1,146 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0006734	9	6	1,7	6	NADH metabolic process	0,0497746529239171
+GO:0015995	28	15	5,29	15	chlorophyll biosynthetic process	2,09083022352887e-05
+GO:0048316	115	29	21,74	29	seed development	0,03392430883389
+GO:0019264	7	4	1,32	4	glycine biosynthetic process from serine	0,0274371002352418
+GO:0006891	30	10	5,67	10	intra-Golgi vesicle-mediated transport	0,0436505066554371
+GO:0015977	22	8	4,16	8	carbon fixation	0,00877397074017171
+GO:0010315	9	5	1,7	5	auxin efflux	0,0154096347240737
+GO:0071289	3	3	0,57	3	cellular response to nickel ion	0,00675549591574601
+GO:0010344	4	3	0,76	3	seed oilbody biogenesis	0,023192474039293
+GO:0006865	87	22	16,45	22	amino acid transport	0,0444973923566236
+GO:0034220	621	103	117,42	103	ion transmembrane transport	0,00484885973157576
+GO:2000072	3	3	0,57	3	regulation of defense response to fungus, incompatible interaction	0,00675549591574601
+GO:2000022	23	11	4,35	11	regulation of jasmonic acid mediated signaling pathway	0,00154484704548354
+GO:0048478	4	3	0,76	3	replication fork protection	0,023192474039293
+GO:0006839	98	19	18,53	19	mitochondrial transport	0,0232236445593153
+GO:0070919	6	4	1,13	4	production of siRNA involved in chromatin silencing by small RNA	0,0138153563149758
+GO:0048443	11	6	2,08	6	stamen development	0,00541312630797123
+GO:0010411	43	19	8,13	19	xyloglucan metabolic process	0,000237241263692133
+GO:0005980	4	3	0,76	3	glycogen catabolic process	0,023192474039293
+GO:0005986	13	7	2,46	7	sucrose biosynthetic process	0,00504370824297415
+GO:0006564	5	4	0,95	4	L-serine biosynthetic process	0,00541790404359304
+GO:0006565	7	4	1,32	4	L-serine catabolic process	0,0274371002352418
+GO:0009263	9	5	1,7	5	deoxyribonucleotide biosynthetic process	0,0231739961246489
+GO:0019722	19	9	3,59	9	calcium-mediated signaling	0,00449138908419226
+GO:0009269	11	6	2,08	6	response to desiccation	0,0260537394610573
+GO:0005975	1113	287	210,45	287	carbohydrate metabolic process	0,00153727939612687
+GO:0051513	4	3	0,76	3	regulation of monopolar cell growth	0,023192474039293
+GO:0005978	11	5	2,08	5	glycogen biosynthetic process	0,0404965782988857
+GO:0006556	5	4	0,95	4	S-adenosylmethionine biosynthetic process	0,00541790404359304
+GO:0009228	8	4	1,51	4	thiamine biosynthetic process	0,0467710610755659
+GO:0009229	2	2	0,38	2	thiamine diphosphate biosynthetic process	0,0357436313751038
+GO:0006541	49	14	9,26	14	glutamine metabolic process	0,0140543610052563
+GO:0006538	9	5	1,7	5	glutamate catabolic process	0,0154096347240737
+GO:0009234	4	3	0,76	3	menaquinone biosynthetic process	0,023192474039293
+GO:0035999	14	6	2,65	6	tetrahydrofolate interconversion	0,0340850776752962
+GO:0120142	2	2	0,38	2	positive regulation of ecdysone receptor-mediated signaling pathway	0,0357436313751038
+GO:0030388	12	6	2,27	6	fructose 1,6-bisphosphate metabolic process	0,0147666643395076
+GO:0001522	24	9	4,54	9	pseudouridine synthesis	0,0404313664204169
+GO:0000463	18	10	3,4	10	maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	0,00169886149140568
+GO:0019853	11	6	2,08	6	L-ascorbic acid biosynthetic process	0,015398737044798
+GO:0010112	7	5	1,32	5	regulation of systemic acquired resistance	0,00541447253977038
+GO:0019877	4	4	0,76	4	diaminopimelate biosynthetic process	0,00127650320789699
+GO:0042546	136	39	25,71	39	cell wall biogenesis	0,000103426991916
+GO:0009765	36	22	6,81	22	photosynthesis, light harvesting	0,0257343640770128
+GO:0009768	22	15	4,16	15	photosynthesis, light harvesting in photosystem I	6,05666544904471e-07
+GO:0019827	8	4	1,51	4	stem cell population maintenance	0,035727141735445
+GO:0043137	2	2	0,38	2	DNA replication, removal of RNA primer	0,0357436313751038
+GO:0009773	8	6	1,51	6	photosynthetic electron transport in photosystem I	0,000896593762691487
+GO:0010105	2	2	0,38	2	negative regulation of ethylene-activated signaling pathway	0,0357436313751038
+GO:0009718	9	6	1,7	6	anthocyanin-containing compound biosynthetic process	0,00225794313159283
+GO:0098755	2	2	0,38	2	maintenance of seed dormancy by absisic acid	0,0357436313751038
+GO:0009734	123	36	23,26	36	auxin-activated signaling pathway	0,0118203793377923
+GO:0048229	83	13	15,69	13	gametophyte development	0,00678331136549528
+GO:0010252	23	9	4,35	9	auxin homeostasis	0,0192972890952077
+GO:0070301	2	2	0,38	2	cellular response to hydrogen peroxide	0,0357436313751038
+GO:0001678	11	6	2,08	6	cellular glucose homeostasis	0,00121909189694713
+GO:0000165	28	10	5,29	10	MAPK cascade	0,0258033546260435
+GO:0071555	320	83	60,51	83	cell wall organization	5,70616923985893e-05
+GO:0008360	28	10	5,29	10	regulation of cell shape	0,0273170908276178
+GO:1904482	7	4	1,32	4	cellular response to tetrahydrofolate	0,0274371002352418
+GO:0009833	14	7	2,65	7	plant-type primary cell wall biogenesis	0,00845469208485636
+GO:0006096	78	20	14,75	20	glycolytic process	0,0470912533442585
+GO:0006065	6	4	1,13	4	UDP-glucuronate biosynthetic process	0,0138153563149758
+GO:0000278	203	65	38,38	65	mitotic cell cycle	0,000290038921851314
+GO:0000226	110	37	20,8	37	microtubule cytoskeleton organization	0,00653657000398555
+GO:0006024	5	4	0,95	4	glycosaminoglycan biosynthetic process	0,00541790404359304
+GO:1902975	4	4	0,76	4	mitotic DNA replication initiation	0,00127650320789699
+GO:0006004	46	21	8,7	21	fucose metabolic process	3,12408815095205e-05
+GO:0006006	48	17	9,08	17	glucose metabolic process	0,0209258226644947
+GO:0030259	5	3	0,95	3	lipid glycosylation	0,049854329032843
+GO:0046168	4	3	0,76	3	glycerol-3-phosphate catabolic process	0,023192474039293
+GO:0033314	7	4	1,32	4	mitotic DNA replication checkpoint	0,0274371002352418
+GO:0030245	30	11	5,67	11	cellulose catabolic process	0,0171670588984562
+GO:0006952	845	188	159,77	188	defense response	0,0481047315452973
+GO:0000727	11	9	2,08	9	double-strand break repair via break-induced replication	1,16225249362761e-05
+GO:0050826	9	5	1,7	5	response to freezing	0,0467376445317711
+GO:0006913	105	27	19,85	27	nucleocytoplasmic transport	0,00169696311471167
+GO:0070212	5	4	0,95	4	protein poly-ADP-ribosylation	0,00541790404359304
+GO:0009641	2	2	0,38	2	shade avoidance	0,0357436313751038
+GO:2000280	19	9	3,59	9	regulation of root development	0,0466507248052087
+GO:0006398	2	2	0,38	2	mRNA 3'-end processing by stem-loop binding and cleavage	0,0357436313751038
+GO:0006364	192	60	36,3	60	rRNA processing	0,0219865960227071
+GO:0034969	5	4	0,95	4	histone arginine methylation	0,00675213771201391
+GO:0046777	121	33	22,88	33	protein autophosphorylation	0,0153166721312167
+GO:0043622	17	7	3,21	7	cortical microtubule organization	0,0283370790085005
+GO:0009088	9	5	1,7	5	threonine biosynthetic process	0,0154096347240737
+GO:0009089	11	7	2,08	7	lysine biosynthetic process via diaminopimelate	0,00138368829135569
+GO:0006379	6	3	1,13	3	mRNA cleavage	0,0357389880499535
+GO:0019915	15	7	2,84	7	lipid storage	0,0132965612982116
+GO:0019918	2	2	0,38	2	peptidyl-arginine methylation, to symmetrical-dimethyl arginine	0,0357436313751038
+GO:0019919	2	2	0,38	2	peptidyl-arginine methylation, to asymmetrical-dimethyl arginine	0,0357436313751038
+GO:0032508	70	27	13,24	27	DNA duplex unwinding	0,00509826699361534
+GO:0051301	237	54	44,81	54	cell division	0,0169923762982688
+GO:0006334	75	22	14,18	22	nucleosome assembly	0,0167963666106517
+GO:0044205	5	4	0,95	4	'de novo' UMP biosynthetic process	0,00541790404359304
+GO:0007094	11	6	2,08	6	mitotic spindle assembly checkpoint	0,00877303643881739
+GO:0016123	5	3	0,95	3	xanthophyll biosynthetic process	0,049854329032843
+GO:0006468	1515	357	286,46	357	protein phosphorylation	3,69687597251913e-06
+GO:0016126	32	13	6,05	13	sterol biosynthetic process	0,00363707235210944
+GO:0072657	129	25	24,39	25	protein localization to membrane	0,00286290278335192
+GO:0006423	2	2	0,38	2	cysteinyl-tRNA aminoacylation	0,0357436313751038
+GO:0045004	3	3	0,57	3	DNA replication proofreading	0,00675549591574601
+GO:0006412	930	184	175,84	184	translation	0,0292437944641879
+GO:0006414	65	22	12,29	22	translational elongation	0,000826057340583804
+GO:0007076	8	4	1,51	4	mitotic chromosome condensation	0,0467710610755659
+GO:0070588	52	16	9,83	16	calcium ion transmembrane transport	0,0231404259400652
+GO:0007020	6	3	1,13	3	microtubule nucleation	0,0357389880499535
+GO:0009926	22	9	4,16	9	auxin polar transport	0,0084484790784228
+GO:0007010	227	69	42,92	69	cytoskeleton organization	0,00248375902632663
+GO:0007017	222	82	41,98	82	microtubule-based process	0,00171649810359369
+GO:0007018	79	31	14,94	31	microtubule-based movement	3,25235662362177e-05
+GO:0007049	487	131	92,08	131	cell cycle	0,0467806452982284
+GO:0010050	2	2	0,38	2	vegetative phase change	0,0357436313751038
+GO:0031347	91	29	17,21	29	regulation of defense response	0,00961696794507943
+GO:0015689	5	5	0,95	5	molybdate ion transport	0,000241152998972984
+GO:0051156	33	12	6,24	12	glucose 6-phosphate metabolic process	0,000266780059017981
+GO:0010043	5	3	0,95	3	response to zinc ion	0,049854329032843
+GO:0019318	128	53	24,2	53	hexose metabolic process	0,000864237231167162
+GO:0006116	4	3	0,76	3	NADH oxidation	0,023192474039293
+GO:0006107	5	3	0,95	3	oxaloacetate metabolic process	0,049854329032843
+GO:0006297	6	5	1,13	5	nucleotide-excision repair, DNA gap filling	0,00121917790790166
+GO:0006298	45	17	8,51	17	mismatch repair	0,00115179788948477
+GO:0071456	29	13	5,48	13	cellular response to hypoxia	0,00124827707411505
+GO:0006260	161	69	30,44	69	DNA replication	0,000411110045184302
+GO:0000070	61	19	11,53	19	mitotic sister chromatid segregation	0,0496617280644571
+GO:0006267	7	6	1,32	6	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	0,000267229721151795
+GO:0006268	22	10	4,16	10	DNA unwinding involved in DNA replication	0,00401124199374411
+GO:0000076	11	7	2,08	7	DNA replication checkpoint	0,0231455962098473
+GO:0071423	2	2	0,38	2	malate transmembrane transport	0,0357436313751038
+GO:0006281	353	112	66,75	112	DNA repair	0,00292808619956927
+GO:0034475	5	3	0,95	3	U4 snRNA 3'-end processing	0,049854329032843
+GO:0006287	3	3	0,57	3	base-excision repair, gap-filling	0,00675549591574601
+GO:0006270	17	15	3,21	15	DNA replication initiation	2,59411566459825e-06
+GO:0006271	12	10	2,27	10	DNA strand elongation involved in DNA replication	0,0137501145922734
+GO:0006272	4	4	0,76	4	leading strand elongation	0,00127650320789699
+GO:0006273	3	3	0,57	3	lagging strand elongation	0,0357281875096487
+GO:0090116	4	3	0,76	3	C-5 methylation of cytosine	0,023192474039293
+GO:0006207	9	6	1,7	6	'de novo' pyrimidine nucleobase biosynthetic process	0,00225794313159283
+GO:0042254	313	99	59,18	99	ribosome biogenesis	0,000290476224930821
+GO:0006796	3063	626	579,15	626	phosphate-containing compound metabolic process	0,0446353443929825
+GO:0031297	5	4	0,95	4	replication fork processing	0,023178269534768
+GO:0080156	18	8	3,4	8	mitochondrial mRNA modification	0,0116035279161896
+GO:0009414	76	28	14,37	28	response to water deprivation	0,00344849695221341
+GO:0009416	213	63	40,27	63	response to light stimulus	0,000175576566720091
+GO:1901002	6	4	1,13	4	positive regulation of response to salt stress	0,0138153563149758

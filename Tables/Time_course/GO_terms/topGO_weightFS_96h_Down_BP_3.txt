@@ -1,0 +1,112 @@
+NADH oxidation
+CTP salvage
+phosphoglycerate transmembrane transport
+pattern specification process
+regulation of intracellular mRNA localization
+carotene catabolic process
+sterol biosynthetic process
+thigmotropism
+nitrate transport
+cellulose biosynthetic process
+regulation of bile acid secretion
+negative regulation of extrinsic apoptotic signaling pathway via death domain receptors
+photoperiodism
+amine metabolic process
+regulation of cell cycle G2/M phase transition
+DNA replication initiation
+defense response
+cell division
+mitotic cell cycle phase transition
+regulation of mitotic spindle organization
+vesicle transport along actin filament
+cell wall macromolecule catabolic process
+triose phosphate transmembrane transport
+negative regulation of ubiquitin protein ligase activity
+protein autophosphorylation
+xyloglucan metabolic process
+vesicle fusion
+phosphate-containing compound metabolic process
+bile acid signaling pathway
+regulation of TOR signaling
+seedling development
+response to 17alpha-ethynylestradiol
+transmembrane transport
+mitotic spindle assembly
+pectin catabolic process
+male meiosis II
+negative regulation of DNA endoreduplication
+generative cell mitosis
+multicellular organism growth
+response to ethanol
+amino acid transport
+petal morphogenesis
+exocytosis
+negative regulation of DNA helicase activity
+microtubule cytoskeleton organization
+phosphate ion transport
+cytokinesis by cell plate formation
+sulfate transmembrane transport
+cell wall organization
+ubiquitin-dependent endocytosis
+glycolipid biosynthetic process
+zinc ion transmembrane transport
+starch biosynthetic process
+sulfolipid biosynthetic process
+protein kinase C-activating G protein-coupled receptor signaling pathway
+proline catabolic process
+response to chitin
+regulation of salicylic acid biosynthetic process
+mitotic chromosome condensation
+glutamine biosynthetic process
+photosynthesis, light harvesting
+photosynthesis, light harvesting in photosystem I
+cytoskeleton organization
+glutamate metabolic process
+glutamate biosynthetic process
+microtubule-based process
+microtubule-based movement
+cell cycle
+response to zinc ion
+regulation of nuclear division
+response to brassinosteroid
+auxin-activated signaling pathway
+cytokinin-activated signaling pathway
+regulation of cell cycle
+regulation of transcription, DNA-templated
+vesicle docking
+calcium-mediated signaling
+nucleotide-binding domain, leucine rich repeat containing receptor signaling pathway
+protein-tetrapyrrole linkage
+regulation of oxygen metabolic process
+negative regulation of signal transduction by p53 class mediator
+lipid metabolic process
+carbohydrate transmembrane transport
+Golgi calcium ion homeostasis
+Golgi calcium ion transport
+ethylene-activated signaling pathway
+negative regulation of cell size
+protein-chromophore linkage
+protein retention in Golgi apparatus
+root hair cell tip growth
+cell wall biogenesis
+plant-type cell wall modification involved in multidimensional cell growth
+glycogen catabolic process
+calcium ion transmembrane transport
+sucrose metabolic process
+protein phosphorylation
+chlorophyll biosynthetic process
+carbohydrate metabolic process
+glycogen biosynthetic process
+negative regulation of cysteine-type endopeptidase activity involved in execution phase of apoptosis
+intracellular signal transduction
+system development
+detection of gravity
+regulation of vacuolar transport
+response to mannitol
+protein localization to microtubule plus-end
+detection of visible light
+red, far-red light phototransduction
+regulation of catalytic activity
+positive regulation of transcription, DNA-templated
+sucrose transport
+bile acid and bile salt transport

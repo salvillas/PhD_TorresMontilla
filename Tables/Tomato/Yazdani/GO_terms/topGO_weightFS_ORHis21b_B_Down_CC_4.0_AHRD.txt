@@ -1,0 +1,25 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0009507	1541	245	78,73	245	chloroplast	2,51436278049234e-26
+GO:0009941	225	43	11,5	43	chloroplast envelope	7,03339304912173e-20
+GO:0042644	23	4	1,18	4	chloroplast nucleoid	0,0275912598545008
+GO:0005960	4	3	0,2	3	glycine cleavage complex	0,00051156928265931
+GO:0009654	24	12	1,23	12	photosystem II oxygen evolving complex	4,51597547477076e-10
+GO:0009570	281	50	14,36	50	chloroplast stroma	7,01200311223107e-07
+GO:0031969	133	10	6,8	10	chloroplast membrane	0,00919960523995331
+GO:0019898	47	12	2,4	12	extrinsic component of membrane	4,74195916776518e-05
+GO:0000778	4	2	0,2	2	condensed nuclear chromosome kinetochore	0,0146037029447563
+GO:0009579	500	110	25,55	110	thylakoid	0,0100945030582737
+GO:0009522	92	34	4,7	34	photosystem I	1,0337212805574e-13
+GO:0009523	125	40	6,39	40	photosystem II	6,66033640194092e-14
+GO:0031977	21	6	1,07	6	thylakoid lumen	0,0145088000648459
+GO:0009543	17	4	0,87	4	chloroplast thylakoid lumen	0,00944701274926432
+GO:0010598	4	3	0,2	3	NAD(P)H dehydrogenase complex (plastoquinone)	0,00051156928265931
+GO:0098807	3	2	0,15	2	chloroplast thylakoid membrane protein complex	0,00755763611370779
+GO:0019005	56	9	2,86	9	SCF ubiquitin ligase complex	0,00198540606579599
+GO:0009534	420	95	21,46	95	chloroplast thylakoid	0,00249227769837894
+GO:0009535	392	89	20,03	89	chloroplast thylakoid membrane	1,26167193037329e-32
+GO:0009536	1641	253	83,84	253	plastid	0,0266409505774432
+GO:0009538	11	9	0,56	9	photosystem I reaction center	1,14587792161022e-10
+GO:0031380	5	2	0,26	2	nuclear RNA-directed RNA polymerase complex	0,0235193767676824
+GO:0010287	24	14	1,23	14	plastoglobule	9,12363238688293e-13
+GO:0005948	3	2	0,15	2	acetolactate synthase complex	0,00755763611370779

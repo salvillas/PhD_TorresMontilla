@@ -1,0 +1,100 @@
+auxin efflux
+anther dehiscence
+cellulose biosynthetic process
+cellulose catabolic process
+stamen development
+petal morphogenesis
+peptidyl-histidine phosphorylation
+ethylene-activated signaling pathway
+ion transport
+phosphate ion transport
+purine nucleoside transmembrane transport
+water transport
+plant-type cell wall modification involved in multidimensional cell growth
+plant-type primary cell wall biogenesis
+sucrose catabolic process
+tryptophan transport
+carbohydrate metabolic process
+aspartate transmembrane transport
+dTDP-rhamnose biosynthetic process
+killing of cells of other organism
+oxylipin biosynthetic process
+spermine biosynthetic process
+L-methionine salvage from methylthioadenosine
+xyloglucan metabolic process
+S-adenosylmethionine biosynthetic process
+S-adenosylmethioninamine biosynthetic process
+response to calcium ion
+spermidine biosynthetic process
+isoprenoid biosynthetic process
+arginine biosynthetic process
+flavonol biosynthetic process
+response to ozone
+chloride transmembrane transport
+protein dephosphorylation
+cytokinin metabolic process
+jasmonic acid biosynthetic process
+regulation of abscisic acid biosynthetic process
+gametophyte development
+response to water deprivation
+sterol biosynthetic process
+isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway involved in terpenoid biosynthetic process
+lipid metabolic process
+inositol trisphosphate metabolic process
+NAD biosynthetic process
+phylloquinone biosynthetic process
+response to wounding
+fatty acid beta-oxidation
+phosphorelay signal transduction system
+cortical microtubule organization
+tryptophan biosynthetic process
+response to cadmium ion
+molybdate ion transport
+triterpenoid biosynthetic process
+ascorbate glutathione cycle
+cytoskeleton organization
+putrescine biosynthetic process from arginine
+lipid oxidation
+dimethylallyl diphosphate biosynthetic process
+purine ribonucleoside salvage
+UDP-rhamnose biosynthetic process
+adenine salvage
+response to zinc ion
+cell wall biogenesis
+transmembrane transport
+lipid catabolic process
+NADH oxidation
+pectin catabolic process
+isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway
+pollen wall assembly
+pectin biosynthetic process
+response to stimulus
+AMP salvage
+regulation of root morphogenesis
+pentose-phosphate shunt, oxidative branch
+cell wall mannoprotein biosynthetic process
+potassium ion transmembrane transport
+GDP-mannose biosynthetic process
+protein localization to cortical microtubule cytoskeleton
+regulation of jasmonic acid mediated signaling pathway
+dCTP catabolic process
+regulation of auxin polar transport
+glucan catabolic process
+negative regulation of endopeptidase activity
+fucose metabolic process
+cell wall organization
+protein glutathionylation
+intracellular signal transduction
+formate catabolic process
+anisotropic cell growth
+ion transmembrane transport
+1-deoxy-D-xylulose 5-phosphate biosynthetic process
+blue light signaling pathway
+DNA protection
+one-carbon metabolic process
+chlorophyll catabolic process
+copper ion transmembrane transport
+regulation of defense response
+response to molecule of fungal origin
+auxin-activated signaling pathway
+protein transport by the Tat complex

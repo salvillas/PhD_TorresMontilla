@@ -1,0 +1,102 @@
+histone H3-K4 demethylation, trimethyl-H3-K4-specific
+phospholipid transport
+pantothenate biosynthetic process
+coenzyme A metabolic process
+coenzyme A biosynthetic process
+pollen tube growth
+phosphorylation
+peroxisome fission
+ethylene-activated signaling pathway
+positive regulation of plant-type cell wall cellulose biosynthetic process
+peptidyl-proline hydroxylation
+lignin biosynthetic process
+hydrogen peroxide catabolic process
+positive regulation of response to water deprivation
+multicellular organism growth
+positive regulation of growth
+retrograde protein transport, ER to cytosol
+glycolytic process through fructose-6-phosphate
+isoprenoid biosynthetic process
+cellular response to calcium ion
+arginine catabolic process
+xenobiotic transport
+tryptophan catabolic process to kynurenine
+flavonol biosynthetic process
+removal of superoxide radicals
+lipid droplet organization
+maturation of 5.8S rRNA
+trichome papilla formation
+ceramide biosynthetic process
+G protein-coupled receptor signaling pathway
+protein phosphorylation
+protein folding
+steroid biosynthetic process
+cellular oxidant detoxification
+developmental vegetative growth
+ethylene biosynthetic process
+positive regulation of ATPase activity
+response to water
+threonyl-tRNA aminoacylation
+response to salt stress
+sterol biosynthetic process
+trichome branching
+terpenoid biosynthetic process
+gibberellin biosynthetic process
+regulation of ethylene-activated signaling pathway
+ER-associated misfolded protein catabolic process
+phospholipid metabolic process
+isovaleryl-CoA(4-) catabolic process
+3-methylbut-2-enoyl-CoA(4-) metabolic process
+circadian regulation of gene expression
+response to heat
+response to cadmium ion
+photosynthetic acclimation
+putrescine biosynthetic process from ornithine
+response to vitamin B1
+farnesyl diphosphate biosynthetic process
+dimethylallyl diphosphate biosynthetic process
+posttranslational protein targeting to membrane, translocation
+response to biotic stimulus
+response to hydrogen peroxide
+mitochondrial electron transport, ubiquinol to cytochrome c
+L-lysine catabolic process to acetyl-CoA via saccharopine
+isopentenyl diphosphate biosynthetic process, mevalonate pathway
+protein kinase C-activating G protein-coupled receptor signaling pathway
+positive regulation of systemic acquired resistance
+cellular response to heat
+pentose-phosphate shunt
+tricarboxylic acid cycle
+regulation of cell wall pectin metabolic process
+citrate metabolic process
+chaperone-mediated protein complex assembly
+acetyl-CoA metabolic process
+regulation of jasmonic acid mediated signaling pathway
+ubiquitin-dependent ERAD pathway
+autophagosome maturation
+protein stabilization
+chitin catabolic process
+meiotic mismatch repair involved in reciprocal meiotic recombination
+chaperone cofactor-dependent protein refolding
+cell wall macromolecule catabolic process
+stress granule assembly
+fructose 6-phosphate metabolic process
+mitochondrial cytochrome c oxidase assembly
+protein complex oligomerization
+2,4,6-trinitrotoluene catabolic process
+protein transport
+electron transport chain
+mitotic spindle disassembly
+long-chain fatty acid metabolic process
+melatonin biosynthetic process
+developmental process
+SNARE complex disassembly
+regulation of long-day photoperiodism, flowering
+seed trichome elongation
+lipid translocation
+defense response
+sesquiterpene biosynthetic process
+protein refolding
+glutathione metabolic process
+chlorophyll biosynthetic process
+mature ribosome assembly
+response to oxidative stress

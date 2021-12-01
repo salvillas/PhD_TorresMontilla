@@ -1,0 +1,111 @@
+catalase activity
+NADPH-hemoprotein reductase activity
+transmembrane transporter activity
+phosphatidylinositol-3,5-bisphosphate 5-phosphatase activity
+inorganic anion exchanger activity
+phosphorelay sensor kinase activity
+microtubule binding
+mechanosensitive ion channel activity
+metal ion binding
+iron ion binding
+inositol tetrakisphosphate 1-kinase activity
+protein-macromolecule adaptor activity
+L-ascorbate peroxidase activity
+polyubiquitin modification-dependent protein binding
+4-amino-4-deoxychorismate synthase activity
+ATP:ADP antiporter activity
+1,4-alpha-glucan branching enzyme activity (using a glucosylated glycogenin as primer for glycogen synthesis)
+thiol-dependent ubiquitin-specific protease activity
+misfolded protein binding
+U1 snRNA binding
+maltose alpha-glucosidase activity
+glutathione transferase activity
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+inositol 3-alpha-galactosyltransferase activity
+glutaminase activity
+nitrate reductase (NADH) activity
+inositol-1,3,4,5,6-pentakisphosphate kinase activity
+ethylene binding
+3-beta-hydroxy-delta5-steroid dehydrogenase activity
+inositol heptakisphosphate kinase activity
+proton-exporting ATPase activity, phosphorylative mechanism
+S100 protein binding
+beta-amylase activity
+glycogen (starch) synthase activity
+allantoinase activity
+ferroxidase activity
+inositol hexakisphosphate 5-kinase activity
+sequence-specific DNA binding
+ammonium transmembrane transporter activity
+1,4-alpha-glucan branching enzyme activity
+ATPase activity
+alpha-1,4-glucosidase activity
+carotene beta-ring hydroxylase activity
+protein homodimerization activity
+diphosphoinositol-pentakisphosphate kinase activity
+ATPase activator activity
+kinase binding
+molybdopterin cofactor binding
+protein phosphatase regulator activity
+long-chain-alcohol oxidase activity
+1-phosphatidylinositol-3-phosphate 5-kinase activity
+sucrose-phosphate synthase activity
+monooxygenase activity
+sugar transmembrane transporter activity
+5-diphosphoinositol pentakisphosphate 3-kinase activity
+nitrate reductase (NADPH) activity
+triose-phosphate transmembrane transporter activity
+Hsp90 protein binding
+phosphoglycerate transmembrane transporter activity
+G-protein beta/gamma-subunit complex binding
+acetylpyruvate hydrolase activity
+unfolded protein binding
+chaperone binding
+spermidine synthase activity
+acyl-[acyl-carrier-protein] desaturase activity
+GTPase binding
+phosphoenolpyruvate carboxylase activity
+pyridoxal 5'-phosphate synthase (glutamine hydrolysing) activity
+ferric iron binding
+protein serine/threonine phosphatase activity
+guanyl nucleotide binding
+procollagen-proline 4-dioxygenase activity
+proline dehydrogenase activity
+non-membrane spanning protein tyrosine kinase activity
+1-phosphatidylinositol-4-phosphate 5-kinase activity
+antiporter activity
+linear malto-oligosaccharide phosphorylase activity
+protein self-association
+phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase activity
+sodium:proton antiporter activity
+potassium:proton antiporter activity
+phosphatase inhibitor activity
+polynucleotide 3'-phosphatase activity
+oxidoreductase activity
+glycogen phosphorylase activity
+amylopectin maltohydrolase activity
+centromeric DNA binding
+succinate dehydrogenase (ubiquinone) activity
+fluoride transmembrane transporter activity
+calcium activated cation channel activity
+peptidyl-prolyl cis-trans isomerase activity
+saccharopine dehydrogenase (NADP+, L-lysine-forming) activity
+saccharopine dehydrogenase (NAD+, L-glutamate-forming) activity
+ethylene receptor activity
+raffinose alpha-galactosidase activity
+ubiquitin protein ligase activity
+glucose-1-phosphate adenylyltransferase activity
+glutathione peroxidase activity
+transition metal ion binding
+chalcone isomerase activity
+ATP binding
+SHG alpha-glucan phosphorylase activity
+spermine synthase activity
+chromatin binding
+inositol hexakisphosphate 1-kinase activity
+inositol hexakisphosphate 3-kinase activity
+inositol-1,3,4-trisphosphate 6-kinase activity
+inositol-1,3,4-trisphosphate 5-kinase activity
+DNA-binding transcription factor activity, RNA polymerase II-specific
+heat shock protein binding
+heme binding

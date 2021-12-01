@@ -1,0 +1,78 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:1902093	1	1	0,04	1	positive regulation of flagellated sperm motility	0,0410266856793645
+GO:0015742	1	1	0,04	1	alpha-ketoglutarate transport	0,0410266856793645
+GO:0030968	12	3	0,49	3	endoplasmic reticulum unfolded protein response	0,011471538297399
+GO:0016120	7	3	0,29	3	carotene biosynthetic process	0,00212844615891257
+GO:0060296	1	1	0,04	1	regulation of cilium beat frequency involved in ciliary motility	0,0410266856793645
+GO:0016117	29	6	1,19	6	carotenoid biosynthetic process	0,00801935739710554
+GO:0032957	9	2	0,37	2	inositol trisphosphate metabolic process	0,0499775884559232
+GO:0055114	3113	183	127,72	183	oxidation-reduction process	1,95971472208513e-08
+GO:0009611	64	7	2,63	7	response to wounding	0,0156034983800701
+GO:0044794	1	1	0,04	1	positive regulation by host of viral process	0,0410266856793645
+GO:0009644	15	3	0,62	3	response to high light intensity	0,0216517809497825
+GO:0009306	8	2	0,33	2	protein secretion	0,0399386782781063
+GO:0019674	8	2	0,33	2	NAD metabolic process	0,0399386782781063
+GO:0015867	83	7	3,41	7	ATP transport	0,0362098497541842
+GO:0019348	5	2	0,21	2	dolichol metabolic process	0,0154804837551129
+GO:0009607	427	18	17,52	18	response to biotic stimulus	0,00470092404121638
+GO:0006210	4	3	0,16	3	thymine catabolic process	0,000266983063959043
+GO:0006970	141	12	5,78	12	response to osmotic stress	0,0214343453635976
+GO:0009451	289	17	11,86	17	RNA modification	0,0016426218639604
+GO:0010478	1	1	0,04	1	chlororespiration	0,0410266856793645
+GO:0009423	18	4	0,74	4	chorismate biosynthetic process	0,00543593581722152
+GO:0009415	108	11	4,43	11	response to water	0,0153394187779768
+GO:0010449	9	2	0,37	2	root meristem growth	0,0499775884559232
+GO:0010193	12	3	0,49	3	response to ozone	0,011471538297399
+GO:0006778	89	9	3,65	9	porphyrin-containing compound metabolic process	0,0408472012102876
+GO:0010197	12	3	0,49	3	polar nucleus fusion	0,011471538297399
+GO:0006032	25	4	1,03	4	chitin catabolic process	0,0179115470706006
+GO:0090677	1	1	0,04	1	reversible differentiation	0,0410266856793645
+GO:0006741	4	2	0,16	2	NADP biosynthetic process	0,00954709873888198
+GO:0006744	21	4	0,86	4	ubiquinone biosynthetic process	0,0303905940335147
+GO:0055085	1685	89	69,13	89	transmembrane transport	0,0121788595055173
+GO:0016042	143	13	5,87	13	lipid catabolic process	0,0189100795068948
+GO:0006865	110	10	4,51	10	amino acid transport	0,0496285305972357
+GO:0001881	1	1	0,04	1	receptor recycling	0,0410266856793645
+GO:0007291	1	1	0,04	1	sperm individualization	0,0410266856793645
+GO:0034440	46	8	1,89	8	lipid oxidation	0,0495752899612983
+GO:0007288	1	1	0,04	1	sperm axoneme assembly	0,0410266856793645
+GO:0060586	1	1	0,04	1	multicellular organismal iron ion homeostasis	0,0410266856793645
+GO:0051973	19	3	0,78	3	positive regulation of telomerase activity	0,0408584982967037
+GO:0006557	9	2	0,37	2	S-adenosylmethioninamine biosynthetic process	0,0499775884559232
+GO:0044375	3	2	0,12	2	regulation of peroxisome size	0,00490704090142051
+GO:0000025	1	1	0,04	1	maltose catabolic process	0,0410266856793645
+GO:0006574	14	3	0,57	3	valine catabolic process	0,0178563217546547
+GO:0006520	491	35	20,14	35	cellular amino acid metabolic process	0,0292114139735305
+GO:1901997	1	1	0,04	1	negative regulation of indoleacetic acid biosynthetic process via tryptophan	0,0410266856793645
+GO:0009061	1	1	0,04	1	anaerobic respiration	0,0410266856793645
+GO:0009058	5659	238	232,17	238	biosynthetic process	0,00479375909371332
+GO:0010020	19	3	0,78	3	chloroplast fission	0,0408584982967037
+GO:0042882	1	1	0,04	1	L-arabinose transmembrane transport	0,0410266856793645
+GO:0009786	5	2	0,21	2	regulation of asymmetric cell division	0,0154804837551129
+GO:0007039	1	1	0,04	1	protein catabolic process in the vacuole	0,0410266856793645
+GO:0061157	4	2	0,16	2	mRNA destabilization	0,00954709873888198
+GO:0009723	61	4	2,5	4	response to ethylene	0,0179001791612678
+GO:0018160	1	1	0,04	1	peptidyl-pyrromethane cofactor linkage	0,0410266856793645
+GO:0009737	180	13	7,38	13	response to abscisic acid	0,00446543053495856
+GO:0043971	1	1	0,04	1	histone H3-K18 acetylation	0,0410266856793645
+GO:0006654	8	2	0,33	2	phosphatidic acid biosynthetic process	0,0399386782781063
+GO:0071497	1	1	0,04	1	cellular response to freezing	0,0410266856793645
+GO:0034213	1	1	0,04	1	quinolinate catabolic process	0,0410266856793645
+GO:2000640	1	1	0,04	1	positive regulation of SREBP signaling pathway	0,0410266856793645
+GO:0006635	35	6	1,44	6	fatty acid beta-oxidation	0,00274916522003467
+GO:0071423	3	2	0,12	2	malate transmembrane transport	0,00490704090142051
+GO:0005985	28	4	1,15	4	sucrose metabolic process	0,0398527699305777
+GO:0015996	8	2	0,33	2	chlorophyll catabolic process	0,0399386782781063
+GO:0033587	1	1	0,04	1	shikimate biosynthetic process	0,0410266856793645
+GO:0005975	1245	70	51,08	70	carbohydrate metabolic process	0,0026426954635699
+GO:0006486	174	14	7,14	14	protein glycosylation	0,00719032710835926
+GO:0006470	328	19	13,46	19	protein dephosphorylation	0,0243770102058019
+GO:0009809	27	5	1,11	5	lignin biosynthetic process	0,0133365564393389
+GO:0033512	5	3	0,21	3	L-lysine catabolic process to acetyl-CoA via saccharopine	0,000647021214535528
+GO:0006430	6	2	0,25	2	lysyl-tRNA aminoacylation	0,0225934735858482
+GO:0010555	2	2	0,08	2	response to mannitol	0,00168158595964149
+GO:0018094	1	1	0,04	1	protein polyglycylation	0,0410266856793645
+GO:0050790	707	27	29,01	27	regulation of catalytic activity	0,0252820595480646
+GO:0035351	1	1	0,04	1	heme transmembrane transport	0,0410266856793645
+GO:0006152	1	1	0,04	1	purine nucleoside catabolic process	0,0410266856793645
+GO:0033617	9	2	0,37	2	mitochondrial cytochrome c oxidase assembly	0,0499775884559232

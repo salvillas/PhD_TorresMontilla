@@ -1,0 +1,64 @@
+term_ID,description,frequency,plot_X,plot_Y,plot_size,log10 p-value,uniqueness,dispensability,representative,eliminated
+GO:0006267,"pre-replicative complex assembly involved in nuclear cell cycle DNA replication",0.009%, 4.687, 2.311,3.061,-6.4290,0.726,0.000,6267,0
+GO:1902975,"mitotic DNA replication initiation",0.007%,null,null,2.947,-4.8323,0.773,0.838,6267,1
+GO:0006817,"phosphate ion transport",0.242%, 0.318, 7.340,4.492,-2.6561,0.889,0.000,6817,0
+GO:0006865,"amino acid transport",0.813%,null,null,5.018,-1.6733,0.827,0.712,6817,1
+GO:0006044,"N-acetylglucosamine metabolic process",0.055%,-2.809, 6.169,3.850,-1.9567,0.943,0.027,6044,0
+GO:0009835,"fruit ripening",0.000%, 1.706, 3.906,1.505,-1.5694,0.931,0.037,9835,0
+GO:0009873,"ethylene-activated signaling pathway",0.005%,-6.874,-1.671,2.803,-4.5445,0.747,0.042,9873,0
+GO:0015976,"carbon utilization",0.040%, 0.772, 2.212,3.715,-3.7003,0.930,0.048,15976,0
+GO:0006012,"galactose metabolic process",0.109%, 4.873,-4.455,4.145,-2.9458,0.857,0.056,6012,0
+GO:0009693,"ethylene biosynthetic process",0.001%,-0.251, 1.070,2.286,-1.4645,0.918,0.082,9693,0
+GO:0008295,"spermidine biosynthetic process",0.055%,-1.841,-7.021,3.846,-2.1745,0.886,0.100,8295,0
+GO:0006468,"protein phosphorylation",4.137%, 4.382,-2.456,5.725,-3.8070,0.835,0.113,6468,0
+GO:0016125,"sterol metabolic process",0.106%, 0.748,-1.828,4.135,-1.7370,0.872,0.115,16125,0
+GO:0010268,"brassinosteroid homeostasis",0.003%,-3.078,-4.186,2.640,-1.5694,0.927,0.125,10268,0
+GO:0045927,"positive regulation of growth",0.060%,-4.536,-4.363,3.889,-1.8338,0.880,0.153,45927,0
+GO:0010117,"photoprotection",0.000%,-6.139, 3.204,1.672,-1.9567,0.822,0.164,10117,0
+GO:0032509,"endosome transport via multivesicular body sorting pathway",0.022%,-0.721, 7.260,3.443,-1.9784,0.920,0.198,32509,0
+GO:0050790,"regulation of catalytic activity",1.575%,-5.070,-5.567,5.306,-1.4673,0.908,0.218,50790,0
+GO:0009607,"response to biotic stimulus",0.342%,-7.150, 2.054,4.643,-1.9207,0.827,0.237,9607,0
+GO:0006099,"tricarboxylic acid cycle",0.469%, 3.047,-5.210,4.780,-2.9303,0.828,0.263,6099,0
+GO:0006102,"isocitrate metabolic process",0.022%,null,null,3.446,-1.4701,0.849,0.765,6099,1
+GO:0009695,"jasmonic acid biosynthetic process",0.001%, 1.794,-5.535,2.217,-2.3844,0.861,0.266,9695,0
+GO:0007205,"protein kinase C-activating G-protein coupled receptor signaling pathway",0.018%,-6.334,-2.222,3.375,-1.9781,0.777,0.274,7205,0
+GO:0030150,"protein import into mitochondrial matrix",0.036%, 2.969, 5.666,3.668,-1.8424,0.797,0.283,30150,0
+GO:0072657,"protein localization to membrane",0.387%,null,null,4.696,-1.6506,0.761,0.734,30150,1
+GO:0010499,"proteasomal ubiquitin-independent protein catabolic process",0.020%, 0.986,-6.988,3.406,-2.7519,0.838,0.285,10499,0
+GO:0043161,"proteasome-mediated ubiquitin-dependent protein catabolic process",0.226%,null,null,4.462,-1.4756,0.820,0.809,10499,1
+GO:0000727,"double-strand break repair via break-induced replication",0.013%,-4.976, 0.018,3.225,-4.7036,0.703,0.298,727,0
+GO:0031120,"snRNA pseudouridine synthesis",0.004%, 5.235,-1.482,2.749,-1.9567,0.853,0.317,31120,0
+GO:0006833,"water transport",0.014%, 0.824, 6.606,3.256,-1.3120,0.875,0.322,6833,0
+GO:0018401,"peptidyl-proline hydroxylation to 4-hydroxy-L-proline",0.001%, 3.688,-4.599,2.196,-2.1618,0.823,0.326,18401,0
+GO:0055085,"transmembrane transport",8.916%, 0.875, 7.243,6.058,-2.5162,0.898,0.339,55085,0
+GO:0019722,"calcium-mediated signaling",0.040%,-6.041,-1.717,3.707,-4.0454,0.767,0.348,19722,0
+GO:0072318,"clathrin coat disassembly",0.001%, 3.992, 4.885,2.279,-1.3120,0.834,0.357,72318,0
+GO:0006572,"tyrosine catabolic process",0.006%, 1.504,-6.627,2.863,-1.6739,0.804,0.362,6572,0
+GO:0006355,"regulation of transcription, DNA-templated",9.917%,-1.927,-3.933,6.105,-2.9545,0.750,0.390,6355,0
+GO:0042546,"cell wall biogenesis",0.640%, 5.210, 3.240,4.915,-5.1491,0.814,0.417,42546,0
+GO:0071555,"cell wall organization",0.709%,null,null,4.959,-3.3520,0.814,0.923,42546,1
+GO:0006952,"defense response",0.568%,-7.157, 0.517,4.863,-3.1348,0.780,0.417,6952,0
+GO:0046777,"protein autophosphorylation",0.077%, 4.982,-2.379,3.993,-2.8918,0.865,0.456,46777,0
+GO:0043928,"exonucleolytic nuclear-transcribed mRNA catabolic process involved in deadenylation-dependent decay",0.006%, 0.380,-6.910,2.895,-1.5694,0.833,0.473,43928,0
+GO:0042742,"defense response to bacterium",0.097%,-6.785, 0.541,4.097,-2.6780,0.766,0.486,42742,0
+GO:0002238,"response to molecule of fungal origin",0.001%,null,null,2.196,-1.5694,0.795,0.815,42742,1
+GO:0050832,"defense response to fungus",0.028%,null,null,3.557,-2.6169,0.772,0.808,42742,1
+GO:0034976,"response to endoplasmic reticulum stress",0.100%,-7.395, 0.273,4.106,-1.9373,0.771,0.487,34976,0
+GO:0071423,"malate transmembrane transport",0.007%, 1.085, 6.932,2.970,-2.4155,0.861,0.496,71423,0
+GO:0071456,"cellular response to hypoxia",0.022%,-6.924, 1.060,3.457,-3.5473,0.724,0.497,71456,0
+GO:1901002,"positive regulation of response to salt stress",0.001%,-6.492,-0.152,2.137,-1.3120,0.761,0.517,1901002,0
+GO:0010200,"response to chitin",0.004%,-6.638, 1.877,2.755,-2.3126,0.804,0.524,10200,0
+GO:0030968,"endoplasmic reticulum unfolded protein response",0.027%,-6.687,-0.857,3.548,-1.4645,0.705,0.552,30968,0
+GO:0009646,"response to absence of light",0.002%,-6.448, 2.963,2.474,-1.3120,0.810,0.556,9646,0
+GO:0031118,"rRNA pseudouridine synthesis",0.005%, 5.329, 0.259,2.838,-1.4701,0.803,0.567,31118,0
+GO:0006567,"threonine catabolic process",0.038%, 1.904,-6.443,3.684,-1.4701,0.800,0.582,6567,0
+GO:0006271,"DNA strand elongation involved in DNA replication",0.040%, 2.478,-0.704,3.705,-3.7025,0.781,0.598,6271,0
+GO:0006270,"DNA replication initiation",0.141%,null,null,4.259,-2.1792,0.777,0.712,6271,1
+GO:0006273,"lagging strand elongation",0.024%,null,null,3.495,-1.9567,0.781,0.964,6271,1
+GO:0006268,"DNA unwinding involved in DNA replication",0.058%,null,null,3.873,-1.3568,0.736,0.732,6271,1
+GO:0080186,"developmental vegetative growth",0.001%,-0.298, 3.906,2.182,-1.4701,0.910,0.612,80186,0
+GO:0009415,"response to water",0.026%,-6.784, 1.760,3.526,-2.4200,0.764,0.617,9415,0
+GO:0009414,"response to water deprivation",0.022%,null,null,3.453,-1.4733,0.742,0.802,9415,1
+GO:0010411,"xyloglucan metabolic process",0.016%, 5.014, 1.268,3.321,-4.9036,0.835,0.670,10411,0
+GO:0009969,"xyloglucan biosynthetic process",0.002%,null,null,2.310,-1.4701,0.799,0.738,10411,1
+GO:0002758,"innate immune response-activating signal transduction",0.032%,-6.134,-1.066,3.610,-2.4155,0.710,0.686,2758,0

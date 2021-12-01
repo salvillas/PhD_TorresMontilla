@@ -1,0 +1,104 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0004791	12	3	0,31	3	thioredoxin-disulfide reductase activity	0,00305280291832226
+GO:0004586	1	1	0,03	1	ornithine decarboxylase activity	0,025475841874085
+GO:0004061	6	2	0,15	2	arylformamidase activity	0,00908459735315733
+GO:0019905	8	2	0,2	2	syntaxin binding	0,0163934013588037
+GO:0046577	6	2	0,15	2	long-chain-alcohol oxidase activity	0,00908459735315733
+GO:0004764	10	2	0,25	2	shikimate 3-dehydrogenase (NADP+) activity	0,0254733005716197
+GO:0008470	1	1	0,03	1	isovaleryl-CoA dehydrogenase activity	0,025475841874085
+GO:0030955	27	3	0,69	3	potassium ion binding	0,0306044366238999
+GO:0047780	6	2	0,15	2	citrate dehydratase activity	0,00908459735315733
+GO:0033897	13	2	0,33	2	ribonuclease T2 activity	0,0419887267118575
+GO:0047196	2	2	0,05	2	long-chain-alcohol O-fatty-acyltransferase activity	0,000648357598541827
+GO:0030983	27	3	0,69	3	mismatched DNA binding	0,0306044366238999
+GO:0030976	24	5	0,61	5	thiamine pyrophosphate binding	0,000301622819041432
+GO:0016705	591	30	15,06	30	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	0,00250690029975861
+GO:0034647	3	2	0,08	2	histone demethylase activity (H3-trimethyl-K4 specific)	0,00191210516755491
+GO:0035539	1	1	0,03	1	8-oxo-7,8-dihydrodeoxyguanosine triphosphate pyrophosphatase activity	0,025475841874085
+GO:0004775	8	2	0,2	2	succinate-CoA ligase (ADP-forming) activity	0,0163934013588037
+GO:0051879	29	7	0,74	7	Hsp90 protein binding	6,51445146450738e-06
+GO:0031386	13	2	0,33	2	protein tag	0,0419887267118575
+GO:0004161	5	3	0,13	3	dimethylallyltranstransferase activity	0,000158622032589374
+GO:0004163	3	2	0,08	2	diphosphomevalonate decarboxylase activity	0,00191210516755491
+GO:0031682	3	2	0,08	2	G-protein gamma-subunit binding	0,00191210516755491
+GO:0031683	11	2	0,28	2	G-protein beta/gamma-subunit complex binding	0,0306154576364383
+GO:0008792	3	2	0,08	2	arginine decarboxylase activity	0,00191210516755491
+GO:0043621	35	6	0,89	6	protein self-association	0,000232233057942334
+GO:0005483	3	2	0,08	2	soluble NSF attachment protein activity	0,00191210516755491
+GO:0004743	27	3	0,69	3	pyruvate kinase activity	0,0306044366238999
+GO:0016688	14	4	0,36	4	L-ascorbate peroxidase activity	0,000341647117110744
+GO:0008061	25	6	0,64	6	chitin binding	3,14795428487582e-05
+GO:0016620	90	9	2,29	9	oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor	0,0401981025951125
+GO:0009815	7	3	0,18	3	1-aminocyclopropane-1-carboxylate oxidase activity	0,000534294255032304
+GO:0004364	59	15	1,5	15	glutathione transferase activity	1,55636386650978e-11
+GO:0008195	14	2	0,36	2	phosphatidate phosphatase activity	0,0481763923362391
+GO:0008198	10	2	0,25	2	ferrous iron binding	0,0254733005716197
+GO:0016887	1055	31	26,88	31	ATPase activity	0,0146581370549489
+GO:0004143	15	4	0,38	4	diacylglycerol kinase activity	0,000456507331204312
+GO:0004148	9	3	0,23	3	dihydrolipoyl dehydrogenase activity	0,00123419624490873
+GO:0004149	3	3	0,08	3	dihydrolipoyllysine-residue succinyltransferase activity	1,64838140352859e-05
+GO:0019001	627	22	15,97	22	guanyl nucleotide binding	0,0303566375709002
+GO:0003700	1205	40	30,7	40	DNA-binding transcription factor activity	0,0105014609282733
+GO:0004656	11	3	0,28	3	procollagen-proline 4-dioxygenase activity	0,00233359377993594
+GO:0015297	333	15	8,48	15	antiporter activity	0,0117500066705863
+GO:0045140	2	2	0,05	2	inositol phosphoceramide synthase activity	0,000648357598541827
+GO:0005524	5240	193	133,49	193	ATP binding	5,6272550664914e-08
+GO:0000287	396	23	10,09	23	magnesium ion binding	0,000247106814525227
+GO:0010181	51	6	1,3	6	FMN binding	0,00182503642757493
+GO:0005516	226	11	5,76	11	calmodulin binding	0,0310804826484063
+GO:0004108	2	2	0,05	2	citrate (Si)-synthase activity	0,000648357598541827
+GO:0009931	29	3	0,74	3	calcium-dependent protein serine/threonine kinase activity	0,036836271519967
+GO:0004345	8	2	0,2	2	glucose-6-phosphate dehydrogenase activity	0,0163934013588037
+GO:0005544	32	3	0,82	3	calcium-dependent phospholipid binding	0,0472989217820439
+GO:0005548	27	3	0,69	3	phospholipid transporter activity	0,048115812864626
+GO:0050660	230	12	5,86	12	flavin adenine dinucleotide binding	0,00328674265660409
+GO:0050661	111	9	2,83	9	NADP binding	0,0021743358206903
+GO:0020037	789	56	20,1	56	heme binding	8,21001135037664e-12
+GO:0004337	5	3	0,13	3	geranyltranstransferase activity	0,000158622032589374
+GO:0004632	1	1	0,03	1	phosphopantothenate--cysteine ligase activity	0,025475841874085
+GO:0003864	3	2	0,08	2	3-methyl-2-oxobutanoate hydroxymethyltransferase activity	0,00191210516755491
+GO:0015276	38	4	0,97	4	ligand-gated ion channel activity	0,0155475690953509
+GO:0003855	10	2	0,25	2	3-dehydroquinate dehydratase activity	0,0254733005716197
+GO:0042910	134	10	3,41	10	xenobiotic transmembrane transporter activity	0,00234397772109797
+GO:0030744	2	2	0,05	2	luteolin O-methyltransferase activity	0,000648357598541827
+GO:0005506	627	34	15,97	34	iron ion binding	0,000137615848449046
+GO:0001671	18	4	0,46	4	ATPase activator activity	0,000962938335138301
+GO:0004829	5	2	0,13	2	threonine-tRNA ligase activity	0,00616013705681014
+GO:0005509	479	23	12,2	23	calcium ion binding	0,00308351413006214
+GO:0031593	32	4	0,82	4	polyubiquitin modification-dependent protein binding	0,008536711952008
+GO:0004601	313	23	7,97	23	peroxidase activity	0,00175644224512763
+GO:0102170	5	3	0,13	3	5-epi-aristolochene-1,3-dihydroxylase activity	0,000158622032589374
+GO:0003872	24	3	0,61	3	6-phosphofructokinase activity	0,0223967354278104
+GO:0051082	238	40	6,06	40	unfolded protein binding	2,88588174032282e-21
+GO:0003994	7	2	0,18	2	aconitate hydratase activity	0,0125047185924074
+GO:0003878	11	6	0,28	6	ATP citrate synthase activity	1,1147117092339e-07
+GO:0051087	74	13	1,89	13	chaperone binding	4,37574482552238e-08
+GO:0008686	5	2	0,13	2	3,4-dihydroxy-2-butanone-4-phosphate synthase activity	0,00616013705681014
+GO:0102698	22	9	0,56	9	5-epi-aristolochene synthase activity	1,60818976570456e-09
+GO:0047493	2	2	0,05	2	ceramide cholinephosphotransferase activity	0,000648357598541827
+GO:0004496	2	2	0,05	2	mevalonate kinase activity	0,000648357598541827
+GO:0004497	503	26	12,81	26	monooxygenase activity	0,00186179658093143
+GO:0031418	229	12	5,83	12	L-ascorbic acid binding	0,0150362385979047
+GO:0017096	3	2	0,08	2	acetylserotonin O-methyltransferase activity	0,00191210516755491
+GO:0019825	5	2	0,13	2	oxygen binding	0,00616013705681014
+GO:0010333	102	12	2,6	12	terpene synthase activity	1,15251251514918e-05
+GO:0003955	18	5	0,46	5	NAD(P)H dehydrogenase (quinone) activity	6,90250437066384e-05
+GO:0004467	6	2	0,15	2	long-chain fatty acid-CoA ligase activity	0,00908459735315733
+GO:0052692	8	2	0,2	2	raffinose alpha-galactosidase activity	0,0163934013588037
+GO:0004452	4	3	0,1	3	isopentenyl-diphosphate delta-isomerase activity	6,46792879879838e-05
+GO:0004471	16	3	0,41	3	malate dehydrogenase (decarboxylating) (NAD+) activity	0,00720302413792295
+GO:0004591	5	4	0,13	4	oxoglutarate dehydrogenase (succinyl-transferring) activity	2,05079158705688e-06
+GO:0004594	9	2	0,23	2	pantothenate kinase activity	0,0207246028199165
+GO:0004420	5	2	0,13	2	hydroxymethylglutaryl-CoA reductase (NADPH) activity	0,00616013705681014
+GO:0004421	6	2	0,15	2	hydroxymethylglutaryl-CoA synthase activity	0,00908459735315733
+GO:0043022	52	5	1,32	5	ribosome binding	0,0102731454965803
+GO:0043023	13	2	0,33	2	ribosomal large subunit binding	0,0419887267118575
+GO:0031072	104	16	2,65	16	heat shock protein binding	0,000115607166354875
+GO:0051117	8	2	0,2	2	ATPase binding	0,0163934013588037
+GO:0000774	21	3	0,53	3	adenyl-nucleotide exchange factor activity	0,0155684986277748
+GO:0003935	5	2	0,13	2	GTP cyclohydrolase II activity	0,00616013705681014
+GO:0016532	2	2	0,05	2	superoxide dismutase copper chaperone activity	0,000648357598541827
+GO:0016787	9594	162	244,42	162	hydrolase activity	0,0306785069506312
+GO:0033188	2	2	0,05	2	sphingomyelin synthase activity	0,000648357598541827
+GO:0004568	25	5	0,64	5	chitinase activity	0,000369158638089601
+GO:0016772	4379	116	111,56	116	transferase activity, transferring phosphorus-containing groups	0,0253713803597795

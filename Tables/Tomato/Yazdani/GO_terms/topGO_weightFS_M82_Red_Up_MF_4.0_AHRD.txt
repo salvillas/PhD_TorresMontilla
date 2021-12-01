@@ -1,0 +1,116 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0008686	3	3	0,43	3	3,4-dihydroxy-2-butanone-4-phosphate synthase activity	0,00289346261520516
+GO:0001102	2	2	0,29	2	RNA polymerase II activating transcription factor binding	0,0203111215819644
+GO:0004587	2	2	0,29	2	ornithine-oxo-acid transaminase activity	0,0203111215819644
+GO:0050660	176	29	25,09	29	flavin adenine dinucleotide binding	0,0258731187391664
+GO:0050661	73	17	10,41	17	NADP binding	0,0350746783753457
+GO:0003868	2	2	0,29	2	4-hydroxyphenylpyruvate dioxygenase activity	0,0203111215819644
+GO:0003857	9	4	1,28	4	3-hydroxyacyl-CoA dehydrogenase activity	0,0285630863873555
+GO:0004516	2	2	0,29	2	nicotinate phosphoribosyltransferase activity	0,0203111215819644
+GO:0004518	357	53	50,89	53	nuclease activity	0,000477687908383004
+GO:0003872	14	5	2	5	6-phosphofructokinase activity	0,0384485315243249
+GO:0008198	13	5	1,85	5	ferrous iron binding	0,0279178917333864
+GO:0008199	7	4	1	4	ferric iron binding	0,0100552241326431
+GO:2001066	2	2	0,29	2	amylopectin binding	0,0203111215819644
+GO:0009881	29	11	4,13	11	photoreceptor activity	0,00139878576037358
+GO:0002953	2	2	0,29	2	5'-deoxynucleotidase activity	0,0203111215819644
+GO:2001070	6	4	0,86	4	starch binding	0,00485659353593513
+GO:0016301	1799	267	256,42	267	kinase activity	0,0380180502519825
+GO:0046872	4174	608	594,95	608	metal ion binding	0,000792576878897504
+GO:0051879	12	5	1,71	5	Hsp90 protein binding	0,0194170066044958
+GO:0016531	3	3	0,43	3	copper chaperone activity	0,0202997151255356
+GO:0050155	2	2	0,29	2	ornithine(lysine) transaminase activity	0,0203111215819644
+GO:0102552	3	3	0,43	3	lipoyl synthase activity (acting on glycine-cleavage complex H protein	0,00289346261520516
+GO:0102553	3	3	0,43	3	lipoyl synthase activity (acting on pyruvate dehydrogenase E2 protein)	0,00289346261520516
+GO:0008113	5	4	0,71	4	peptide-methionine (S)-S-oxide reductase activity	0,00182570982930787
+GO:0031405	2	2	0,29	2	lipoic acid binding	0,0203111215819644
+GO:0004412	4	3	0,57	3	homoserine dehydrogenase activity	0,0103376154182508
+GO:0004419	3	3	0,43	3	hydroxymethylglutaryl-CoA lyase activity	0,00289346261520516
+GO:0017150	6	4	0,86	4	tRNA dihydrouridine synthase activity	0,00485659353593513
+GO:0004659	27	10	3,85	10	prenyltransferase activity	0,0202520670053413
+GO:0008138	24	9	3,42	9	protein tyrosine/serine/threonine phosphatase activity	0,00413118700703203
+GO:0017172	6	3	0,86	3	cysteine dioxygenase activity	0,0413543540673954
+GO:0032041	9	4	1,28	4	NAD-dependent histone deacetylase activity (H3-K14 specific)	0,0285630863873555
+GO:0004602	9	5	1,28	5	glutathione peroxidase activity	0,00447519480551204
+GO:0016671	25	14	3,56	14	oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor	0,00263617786128656
+GO:0004165	8	4	1,14	4	dodecenoyl-CoA delta-isomerase activity	0,0178573567954251
+GO:0050080	3	3	0,43	3	malonyl-CoA decarboxylase activity	0,00289346261520516
+GO:0102483	4	3	0,57	3	scopolin beta-glucosidase activity	0,0103376154182508
+GO:0017069	11	5	1,57	5	snRNA binding	0,0202882716921153
+GO:0008276	83	15	11,83	15	protein methyltransferase activity	0,0230869121302983
+GO:0004176	39	21	5,56	21	ATP-dependent peptidase activity	7,39337752740455e-09
+GO:0051536	222	53	31,64	53	iron-sulfur cluster binding	6,72567062590401e-05
+GO:0051537	55	16	7,84	16	2 iron, 2 sulfur cluster binding	0,00334243241881114
+GO:0008233	992	158	141,4	158	peptidase activity	0,014151720015674
+GO:0008236	249	49	35,49	49	serine-type peptidase activity	0,00878119339047785
+GO:0016161	8	4	1,14	4	beta-amylase activity	0,0178573567954251
+GO:0016151	4	3	0,57	3	nickel cation binding	0,0103376154182508
+GO:0031071	2	2	0,29	2	cysteine desulfurase activity	0,0203111215819644
+GO:0031072	58	20	8,27	20	heat shock protein binding	0,0172644963441472
+GO:0042803	65	20	9,26	20	protein homodimerization activity	0,000501151802151883
+GO:0004107	2	2	0,29	2	chorismate synthase activity	0,0203111215819644
+GO:0004109	2	2	0,29	2	coproporphyrinogen oxidase activity	0,0203111215819644
+GO:0004069	6	4	0,86	4	L-aspartate:2-oxoglutarate aminotransferase activity	0,00485659353593513
+GO:0004298	28	11	3,99	11	threonine-type endopeptidase activity	0,000995228673515044
+GO:0016149	8	5	1,14	5	translation release factor activity, codon specific	0,0022530914698612
+GO:0047130	4	3	0,57	3	saccharopine dehydrogenase (NADP+, L-lysine-forming) activity	0,0103376154182508
+GO:0047131	4	3	0,57	3	saccharopine dehydrogenase (NAD+, L-glutamate-forming) activity	0,0103376154182508
+GO:0047134	9	4	1,28	4	protein-disulfide reductase activity	0,0285630863873555
+GO:0004020	6	3	0,86	3	adenylylsulfate kinase activity	0,0413543540673954
+GO:0032977	11	5	1,57	5	membrane insertase activity	0,0128088587090402
+GO:0005525	336	61	47,89	61	GTP binding	0,0264265058044621
+GO:0043621	31	12	4,42	12	protein self-association	0,000691108901448575
+GO:0004017	12	5	1,71	5	adenylate kinase activity	0,0194170066044958
+GO:0004252	168	36	23,95	36	serine-type endopeptidase activity	0,00729678839865765
+GO:0008728	6	4	0,86	4	GTP diphosphokinase activity	0,00485659353593513
+GO:0004222	60	21	8,55	21	metalloendopeptidase activity	4,62079790126682e-05
+GO:0070628	6	3	0,86	3	proteasome binding	0,0413543540673954
+GO:0030544	9	5	1,28	5	Hsp70 protein binding	0,00447519480551204
+GO:0008898	2	2	0,29	2	S-adenosylmethionine-homocysteine S-methyltransferase activity	0,0203111215819644
+GO:0015171	18	6	2,57	6	amino acid transmembrane transporter activity	0,033487747663151
+GO:0043130	43	12	6,13	12	ubiquitin binding	0,0145961202629539
+GO:0051117	19	10	2,71	10	ATPase binding	9,15088368237421e-05
+GO:0070122	19	6	2,71	6	isopeptidase activity	0,0432092837139464
+GO:0004781	3	3	0,43	3	sulfate adenylyltransferase (ATP) activity	0,00289346261520516
+GO:1990381	2	2	0,29	2	ubiquitin-specific protease binding	0,0203111215819644
+GO:0102229	8	4	1,14	4	amylopectin maltohydrolase activity	0,0178573567954251
+GO:0036456	4	3	0,57	3	L-methionine-(S)-S-oxide reductase activity	0,0103376154182508
+GO:0004721	242	49	34,49	49	phosphoprotein phosphatase activity	0,01220085654562
+GO:0004724	25	8	3,56	8	magnesium-dependent protein serine/threonine phosphatase activity	0,0191092485824037
+GO:0004725	33	10	4,7	10	protein tyrosine phosphatase activity	0,013830977577051
+GO:0004729	2	2	0,29	2	oxygen-dependent protoporphyrinogen oxidase activity	0,0203111215819644
+GO:0005198	675	60	96,21	60	structural molecule activity	0,0401024016194273
+GO:0030627	2	2	0,29	2	pre-mRNA 5'-splice site binding	0,0203111215819644
+GO:0051082	135	34	19,24	34	unfolded protein binding	0,00053397810322495
+GO:0051087	42	15	5,99	15	chaperone binding	0,000427664660407778
+GO:0016992	3	3	0,43	3	lipoate synthase activity	0,00289346261520516
+GO:0016787	4082	623	581,84	623	hydrolase activity	0,043659219582989
+GO:0016779	350	45	49,89	45	nucleotidyltransferase activity	0,00524655522555866
+GO:0009001	4	3	0,57	3	serine O-acetyltransferase activity	0,0103376154182508
+GO:0016740	4852	722	691,59	722	transferase activity	0,0194265475034725
+GO:0008379	6	4	0,86	4	thioredoxin peroxidase activity	0,00485659353593513
+GO:0045159	9	4	1,28	4	myosin II binding	0,0285630863873555
+GO:0001671	10	4	1,43	4	ATPase activator activity	0,0423347725769469
+GO:0030151	6	3	0,86	3	molybdenum ion binding	0,0413543540673954
+GO:0030170	144	34	20,53	34	pyridoxal phosphate binding	0,0017805071443302
+GO:0000995	2	2	0,29	2	RNA polymerase III general transcription initiation factor activity	0,0203111215819644
+GO:0070006	14	5	2	5	metalloaminopeptidase activity	0,0384485315243249
+GO:0000774	10	5	1,43	5	adenyl-nucleotide exchange factor activity	0,00790555710296838
+GO:0004813	2	2	0,29	2	alanine-tRNA ligase activity	0,0203111215819644
+GO:0004843	75	17	10,69	17	thiol-dependent ubiquitin-specific protease activity	0,0328784247826936
+GO:0003729	341	78	48,61	78	mRNA binding	3,54478900696552e-05
+GO:0032422	2	2	0,29	2	purine-rich negative regulatory element binding	0,0203111215819644
+GO:0003712	136	23	19,39	23	transcription coregulator activity	0,024051915388732
+GO:0019900	53	11	7,55	11	kinase binding	0,0279069886044351
+GO:0019905	9	5	1,28	5	syntaxin binding	0,00447519480551204
+GO:0003954	145	5	20,67	5	NADH dehydrogenase activity	0,00294596811556574
+GO:0003955	13	5	1,85	5	NAD(P)H dehydrogenase (quinone) activity	0,0279178917333864
+GO:0004398	4	3	0,57	3	histidine decarboxylase activity	0,0103376154182508
+GO:0003747	14	10	2	10	translation release factor activity	0,000308362545668568
+GO:0016874	361	80	51,46	80	ligase activity	0,00369476369912507
+GO:0004362	5	4	0,71	4	glutathione-disulfide reductase activity	0,00182570982930787
+GO:0004364	54	17	7,7	17	glutathione transferase activity	0,000968482541672949
+GO:0008692	6	4	0,86	4	3-hydroxybutyryl-CoA epimerase activity	0,00485659353593513
+GO:0051787	15	6	2,14	6	misfolded protein binding	0,013161422064825
+GO:0042030	2	2	0,29	2	ATPase inhibitor activity	0,0203111215819644
+GO:0003935	3	3	0,43	3	GTP cyclohydrolase II activity	0,00289346261520516

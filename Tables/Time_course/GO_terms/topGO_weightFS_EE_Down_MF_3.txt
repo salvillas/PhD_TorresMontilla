@@ -1,0 +1,89 @@
+NADPH-hemoprotein reductase activity
+transmembrane transporter activity
+UTP:glucose-1-phosphate uridylyltransferase activity
+phosphatidylinositol-3,5-bisphosphate 5-phosphatase activity
+inorganic anion exchanger activity
+phosphorelay sensor kinase activity
+microtubule binding
+metal ion binding
+iron ion binding
+inositol tetrakisphosphate 1-kinase activity
+L-ascorbate peroxidase activity
+ATP:ADP antiporter activity
+1,4-alpha-glucan branching enzyme activity (using a glucosylated glycogenin as primer for glycogen synthesis)
+NADH pyrophosphatase activity
+misfolded protein binding
+galactinol-sucrose galactosyltransferase activity
+U1 snRNA binding
+lipid binding
+adenylylsulfate kinase activity
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+inositol 3-alpha-galactosyltransferase activity
+inositol-1,3,4,5,6-pentakisphosphate kinase activity
+ethylene binding
+inositol heptakisphosphate kinase activity
+S100 protein binding
+beta-amylase activity
+glycogen (starch) synthase activity
+alditol:NADP+ 1-oxidoreductase activity
+inositol hexakisphosphate 5-kinase activity
+1,4-alpha-glucan branching enzyme activity
+peroxiredoxin activity
+beta-galactosidase activity
+1-ethyladenine demethylase activity
+carotene beta-ring hydroxylase activity
+diphosphoinositol-pentakisphosphate kinase activity
+ATPase activator activity
+mRNA CDS binding
+bile acid:sodium symporter activity
+protein phosphatase regulator activity
+1-phosphatidylinositol-3-phosphate 5-kinase activity
+sucrose-phosphate synthase activity
+monooxygenase activity
+sugar transmembrane transporter activity
+5-diphosphoinositol pentakisphosphate 3-kinase activity
+Hsp90 protein binding
+GTPase activator activity
+Arp2/3 complex binding
+L-threonine ammonia-lyase activity
+mRNA 3'-UTR AU-rich region binding
+pre-mRNA intronic binding
+protein kinase A regulatory subunit binding
+unfolded protein binding
+chaperone binding
+signaling receptor binding
+actin filament binding
+ADP-ribose diphosphatase activity
+linear malto-oligosaccharide phosphorylase activity
+protein self-association
+phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase activity
+protein kinase activity
+phosphatase inhibitor activity
+protein phosphatase 1 binding
+polynucleotide 3'-phosphatase activity
+glycogen phosphorylase activity
+AMP binding
+amylopectin maltohydrolase activity
+centromeric DNA binding
+peptidyl-prolyl cis-trans isomerase activity
+cation binding
+saccharopine dehydrogenase (NADP+, L-lysine-forming) activity
+saccharopine dehydrogenase (NAD+, L-glutamate-forming) activity
+ethylene receptor activity
+raffinose alpha-galactosidase activity
+ubiquitin protein ligase activity
+microtubule motor activity
+glucose-1-phosphate adenylyltransferase activity
+protein tyrosine/serine/threonine phosphatase activity
+transition metal ion binding
+ATP binding
+SHG alpha-glucan phosphorylase activity
+transcription corepressor activity
+chromatin binding
+inositol hexakisphosphate 1-kinase activity
+inositol hexakisphosphate 3-kinase activity
+inositol-1,3,4-trisphosphate 6-kinase activity
+inositol-1,3,4-trisphosphate 5-kinase activity
+heat shock protein binding
+protein phosphatase inhibitor activity
+heme binding

@@ -1,0 +1,76 @@
+biosynthetic process
+intein-mediated protein splicing
+defense response to bacterium
+hydrogen peroxide catabolic process
+cytokinin metabolic process
+jasmonic acid biosynthetic process
+isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway involved in terpenoid biosynthetic process
+plant-type cell wall organization
+defense response to other organism
+negative regulation of cell size
+carotene catabolic process
+protein glutathionylation
+response to wounding
+sucrose biosynthetic process
+response to high light intensity
+response to low light intensity stimulus
+carbohydrate metabolic process
+GDP-mannose biosynthetic process
+arginine catabolic process to glutamate
+cellulose catabolic process
+L-methionine salvage from methylthioadenosine
+glutathione metabolic process
+thiazole biosynthetic process
+negative regulation of endopeptidase activity
+response to starvation
+2,4,6-trinitrotoluene catabolic process
+chlorophyll biosynthetic process
+chlorophyll catabolic process
+maintenance of shoot apical meristem identity
+regulation of defense response to insect
+tryptophan transport
+aspartate transmembrane transport
+N-glycan fucosylation
+sulfate transmembrane transport
+cell wall biogenesis
+photosystem II stabilization
+carbon utilization
+carbon fixation
+photosynthesis, light harvesting
+photosynthesis
+photosynthesis, light harvesting in photosystem I
+regulation of jasmonic acid mediated signaling pathway
+xyloglucan metabolic process
+photosynthetic electron transport in photosystem I
+potassium ion transport
+mitochondrial L-ornithine transmembrane transport
+response to oxidative stress
+formate catabolic process
+cell redox homeostasis
+syncytium formation
+nitric oxide biosynthetic process
+nitrate assimilation
+seedling development
+killing of cells of other organism
+plant organ development
+photorespiration
+arginine catabolic process to proline via ornithine
+isoprenoid biosynthetic process
+glutamate decarboxylation to succinate
+cell wall macromolecule catabolic process
+alkane catabolic process
+ascorbate glutathione cycle
+cellular oxidant detoxification
+gamma-aminobutyric acid catabolic process
+chitin catabolic process
+NADH dehydrogenase complex (plastoquinone) assembly
+L-proline biosynthetic process
+response to light stimulus
+protein retention in ER lumen
+lipid metabolic process
+fatty acid metabolic process
+unsaturated fatty acid biosynthetic process
+response to cold
+protein-chromophore linkage
+photoinhibition
+photosystem II assembly

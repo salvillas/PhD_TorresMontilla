@@ -1,0 +1,50 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0010115	4	1	0,03	1	regulation of abscisic acid biosynthetic process	0,0274094339410101
+GO:0019344	27	2	0,19	2	cysteine biosynthetic process	0,0340240732186035
+GO:0042026	58	4	0,4	4	protein refolding	0,000709063984719841
+GO:2000022	29	2	0,2	2	regulation of jasmonic acid mediated signaling pathway	0,0171385435751747
+GO:0030433	42	2	0,29	2	ubiquitin-dependent ERAD pathway	0,0342792384959785
+GO:0051603	629	7	4,35	7	proteolysis involved in cellular protein catabolic process	0,0181734275312043
+GO:0031640	5	2	0,03	2	killing of cells of other organism	0,000470845628532732
+GO:1903298	4	2	0,03	2	negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway	0,000283804981961655
+GO:0072334	8	2	0,06	2	UDP-galactose transmembrane transport	0,00130038680297317
+GO:0048281	4	1	0,03	1	inflorescence morphogenesis	0,0274094339410101
+GO:0055114	3639	46	25,2	46	oxidation-reduction process	0,000459938412172166
+GO:0050832	80	4	0,55	4	defense response to fungus	0,00234787399756549
+GO:0006527	5	1	0,03	1	arginine catabolic process	0,0341440810191296
+GO:0010951	71	6	0,49	6	negative regulation of endopeptidase activity	1,01700781611979e-05
+GO:0009695	12	2	0,08	2	jasmonic acid biosynthetic process	0,00300969147457603
+GO:0019419	7	5	0,05	5	sulfate reduction	3,16761676548079e-10
+GO:0010200	4	1	0,03	1	response to chitin	0,0274094339410101
+GO:0015671	3	2	0,02	2	oxygen transport	0,000142554636349502
+GO:0031408	27	2	0,19	2	oxylipin biosynthetic process	0,0149514329213992
+GO:0015786	7	2	0,05	2	UDP-glucose transmembrane transport	0,00097976227894765
+GO:0009611	80	5	0,55	5	response to wounding	0,000240332614789254
+GO:0010043	1	1	0,01	1	response to zinc ion	0,00692363636363658
+GO:0009638	5	1	0,03	1	phototropism	0,0341440810191296
+GO:0090110	3	1	0,02	1	cargo loading into COPII-coated vesicle	0,0206280267012481
+GO:0006792	6	1	0,04	1	regulation of sulfur utilization	0,0408322890120725
+GO:0033355	2	2	0,01	2	ascorbate glutathione cycle	4,77367143242515e-05
+GO:0006013	7	1	0,05	1	mannose metabolic process	0,0474743768009264
+GO:0006629	1330	25	9,21	25	lipid metabolic process	0,000847986081626914
+GO:0009741	65	3	0,45	3	response to brassinosteroid	0,0104423172053328
+GO:0033387	1	1	0,01	1	putrescine biosynthetic process from ornithine	0,00692363636363658
+GO:0010731	3	2	0,02	2	protein glutathionylation	0,000142554636349502
+GO:0002221	3	1	0,02	1	pattern recognition receptor signaling pathway	0,0206280267012481
+GO:0055072	20	2	0,14	2	iron ion homeostasis	0,0273080403037084
+GO:0030968	13	2	0,09	2	endoplasmic reticulum unfolded protein response	0,00354071776064665
+GO:0006457	365	14	2,53	14	protein folding	1,09793325261585e-05
+GO:0016121	5	1	0,03	1	carotene catabolic process	0,0341440810191296
+GO:0016126	43	2	0,3	2	sterol biosynthetic process	0,0357905521616876
+GO:0010438	6	1	0,04	1	cellular response to sulfur starvation	0,0408322890120725
+GO:0010439	6	1	0,04	1	regulation of glucosinolate biosynthetic process	0,0408322890120725
+GO:0098869	378	7	2,62	7	cellular oxidant detoxification	0,0167444942089824
+GO:0009862	3	1	0,02	1	systemic acquired resistance, salicylic acid mediated signaling pathway	0,0206280267012481
+GO:2000582	6	1	0,04	1	positive regulation of ATP-dependent microtubule motor activity, plus-end-directed	0,0408322890120725
+GO:0070588	99	3	0,69	3	calcium ion transmembrane transport	0,0316301365019633
+GO:0120009	22	2	0,15	2	intermembrane lipid transfer	0,0100653068617754
+GO:1901031	7	1	0,05	1	regulation of response to reactive oxygen species	0,0474743768009264
+GO:0090378	3	1	0,02	1	seed trichome elongation	0,0206280267012481
+GO:0008299	153	6	1,06	6	isoprenoid biosynthetic process	0,00520118824410999
+GO:0045792	1	1	0,01	1	negative regulation of cell size	0,00692363636363658
+GO:0051085	61	3	0,42	3	chaperone cofactor-dependent protein refolding	0,00877908708454558

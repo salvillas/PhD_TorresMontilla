@@ -1,0 +1,59 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0008017	262	5	1,57	5	microtubule binding	0,0212027244900083
+GO:0102756	34	2	0,2	2	very-long-chain 3-ketoacyl-CoA synthase activity	0,0176659777567652
+GO:0005509	479	8	2,87	8	calcium ion binding	0,00862877282131016
+GO:0030599	144	4	0,86	4	pectinesterase activity	0,0112164191237978
+GO:0051903	7	1	0,04	1	S-(hydroxymethyl)glutathione dehydrogenase activity	0,0411846461134386
+GO:0045551	8	2	0,05	2	cinnamyl-alcohol dehydrogenase activity	0,000976589710772578
+GO:0046983	883	10	5,29	10	protein dimerization activity	0,0360728370232151
+GO:0016614	293	10	1,75	10	oxidoreductase activity, acting on CH-OH group of donors	0,00252111602706988
+GO:0004318	4	1	0,02	1	enoyl-[acyl-carrier-protein] reductase (NADH) activity	0,0237450167262118
+GO:0071933	1	1	0,01	1	Arp2/3 complex binding	0,00598961799547426
+GO:0050660	230	6	1,38	6	flavin adenine dinucleotide binding	0,000740039788836962
+GO:0046577	6	1	0,04	1	long-chain-alcohol oxidase activity	0,0354061746229879
+GO:0004345	8	1	0,05	1	glucose-6-phosphate dehydrogenase activity	0,0469286541709625
+GO:0004657	4	1	0,02	1	proline dehydrogenase activity	0,0237450167262118
+GO:0016630	6	1	0,04	1	protochlorophyllide reductase activity	0,0354061746229879
+GO:0015180	2	1	0,01	1	L-alanine transmembrane transporter activity	0,0119435189631835
+GO:0015181	2	1	0,01	1	arginine transmembrane transporter activity	0,0119435189631835
+GO:0015185	2	1	0,01	1	gamma-aminobutyric acid transmembrane transporter activity	0,0119435189631835
+GO:0003999	6	2	0,04	2	adenine phosphoribosyltransferase activity	0,000527329993044092
+GO:0015189	6	1	0,04	1	L-lysine transmembrane transporter activity	0,0354061746229879
+GO:0102336	34	2	0,2	2	3-oxo-arachidoyl-CoA synthase activity	0,0176659777567652
+GO:0102337	34	2	0,2	2	3-oxo-cerotoyl-CoA synthase activity	0,0176659777567652
+GO:0005313	6	1	0,04	1	L-glutamate transmembrane transporter activity	0,0354061746229879
+GO:0030570	47	2	0,28	2	pectate lyase activity	0,0323611875852596
+GO:0102338	34	2	0,2	2	3-oxo-lignoceronyl-CoA synthase activity	0,0176659777567652
+GO:0008732	3	1	0,02	1	L-allo-threonine aldolase activity	0,0178619149441561
+GO:0030976	24	2	0,14	2	thiamine pyrophosphate binding	0,0090382823543593
+GO:0034237	1	1	0,01	1	protein kinase A regulatory subunit binding	0,00598961799547426
+GO:0010427	21	2	0,13	2	abscisic acid binding	0,00695845945764518
+GO:0004563	6	1	0,04	1	beta-N-acetylhexosaminidase activity	0,0354061746229879
+GO:0050614	2	1	0,01	1	delta24-sterol reductase activity	0,0119435189631835
+GO:0000095	6	1	0,04	1	S-adenosyl-L-methionine transmembrane transporter activity	0,0354061746229879
+GO:0008962	4	1	0,02	1	phosphatidylglycerophosphatase activity	0,0237450167262118
+GO:1990465	7	1	0,04	1	aldehyde oxygenase (deformylating) activity	0,0411846461134386
+GO:0046906	998	6	5,98	6	tetrapyrrole binding	0,00601618901772027
+GO:0003977	2	1	0,01	1	UDP-N-acetylglucosamine diphosphorylase activity	0,0119435189631835
+GO:0048032	6	3	0,04	3	galacturonate binding	4,18469111649494e-06
+GO:0004864	47	2	0,28	2	protein phosphatase inhibitor activity	0,0323611875852596
+GO:0070300	4	1	0,02	1	phosphatidic acid binding	0,0237450167262118
+GO:0045437	5	1	0,03	1	uridine nucleosidase activity	0,0295930338513306
+GO:0016762	66	6	0,4	6	xyloglucan:xyloglucosyl transferase activity	2,90741347826946e-06
+GO:0004857	288	7	1,73	7	enzyme inhibitor activity	0,0372818774347273
+GO:0102148	6	1	0,04	1	N-acetyl-beta-D-galactosaminidase activity	0,0354061746229879
+GO:0016788	3247	20	19,45	20	hydrolase activity, acting on ester bonds	0,000261476433003887
+GO:0004089	31	2	0,19	2	carbonate dehydratase activity	0,0148156095841057
+GO:0030785	3	1	0,02	1	[ribulose-bisphosphate carboxylase]-lysine N-methyltransferase activity	0,0178619149441561
+GO:1990757	5	1	0,03	1	ubiquitin ligase activator activity	0,0295930338513306
+GO:0009924	7	1	0,04	1	octadecanal decarbonylase activity	0,0411846461134386
+GO:0004024	4	1	0,02	1	alcohol dehydrogenase activity, zinc-dependent	0,0237450167262118
+GO:0004506	5	1	0,03	1	squalene monooxygenase activity	0,0295930338513306
+GO:0004813	4	1	0,02	1	alanine-tRNA ligase activity	0,0237450167262118
+GO:0045330	142	4	0,85	4	aspartyl esterase activity	0,0106976463086259
+GO:0080030	24	2	0,14	2	methyl indole-3-acetate esterase activity	0,0090382823543593
+GO:0046593	1	1	0,01	1	mandelonitrile lyase activity	0,00598961799547426
+GO:0070204	2	2	0,01	2	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase activity	3,57170277655811e-05
+GO:0015267	326	5	1,95	5	channel activity	0,00215495734970345
+GO:0004048	6	1	0,04	1	anthranilate phosphoribosyltransferase activity	0,0354061746229879
+GO:0008909	2	1	0,01	1	isochorismate synthase activity	0,0119435189631835

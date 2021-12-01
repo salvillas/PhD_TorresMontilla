@@ -1,0 +1,53 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0035145	3	3	0,37	3	exon-exon junction complex	0,00183425505382058
+GO:0015030	6	4	0,73	4	Cajal body	0,00274051607141514
+GO:0032040	35	9	4,29	9	small-subunit processome	0,0221499355471854
+GO:1990124	3	2	0,37	2	messenger ribonucleoprotein complex	0,0413024490026434
+GO:0005742	7	3	0,86	3	mitochondrial outer membrane translocase complex	0,0438693506317885
+GO:0005743	280	59	34,29	59	mitochondrial inner membrane	0,036082934195704
+GO:0005744	17	9	2,08	9	TIM23 mitochondrial import inner membrane translocase complex	0,0168740875060047
+GO:0048188	8	5	0,98	5	Set1C/COMPASS complex	0,00111418195316827
+GO:0008541	6	3	0,73	3	proteasome regulatory particle, lid subcomplex	0,0275430836774454
+GO:0005730	239	64	29,27	64	nucleolus	2,71857878904653e-06
+GO:0005736	10	5	1,22	5	RNA polymerase I complex	0,00405509008680521
+GO:0005739	1111	205	136,05	205	mitochondrion	5,07730926475432e-05
+GO:0000813	8	5	0,98	5	ESCRT I complex	0,00111418195316827
+GO:0033290	23	7	2,82	7	eukaryotic 48S preinitiation complex	0,0169532387940135
+GO:0000408	3	2	0,37	2	EKC/KEOPS complex	0,0413024490026434
+GO:0031314	6	3	0,73	3	extrinsic component of mitochondrial inner membrane	0,0275430836774454
+GO:0019773	16	5	1,96	5	proteasome core complex, alpha-subunit complex	0,0375504282560037
+GO:0016282	22	6	2,69	6	eukaryotic 43S preinitiation complex	0,0442254743329383
+GO:0005851	3	2	0,37	2	eukaryotic translation initiation factor 2B complex	0,0413024490026434
+GO:0005666	19	9	2,33	9	RNA polymerase III complex	0,000177470195830673
+GO:0005667	85	26	10,41	26	transcription regulator complex	0,00166102076655829
+GO:0042644	23	7	2,82	7	chloroplast nucleoid	0,0169532387940135
+GO:0005669	11	5	1,35	5	transcription factor TFIID complex	0,00668980319496813
+GO:0042645	4	3	0,49	3	mitochondrial nucleoid	0,00666395272534255
+GO:0035658	3	2	0,37	2	Mon1-Ccz1 complex	0,0413024490026434
+GO:0009368	13	6	1,59	6	endopeptidase Clp complex	0,00266845865602985
+GO:0000126	3	3	0,37	3	transcription factor TFIIIB complex	0,00183425505382058
+GO:0000110	2	2	0,24	2	nucleotide-excision repair factor 1 complex	0,0149903197034282
+GO:0045252	4	3	0,49	3	oxoglutarate dehydrogenase complex	0,00666395272534255
+GO:0032587	3	2	0,37	2	ruffle membrane	0,0413024490026434
+GO:0031901	3	2	0,37	2	early endosome membrane	0,0413024490026434
+GO:0031902	11	4	1,35	4	late endosome membrane	0,0364010780699866
+GO:0034456	3	3	0,37	3	UTP-C complex	0,00183425505382058
+GO:0005832	11	5	1,35	5	chaperonin-containing T-complex	0,00668980319496813
+GO:0030134	34	6	4,16	6	COPII-coated ER to Golgi transport vesicle	0,015152466530229
+GO:0009328	3	2	0,37	2	phenylalanine-tRNA ligase complex	0,0413024490026434
+GO:0005634	5059	725	619,52	725	nucleus	0,0013541993071507
+GO:0005637	4	3	0,49	3	nuclear inner membrane	0,00666395272534255
+GO:0009331	5	3	0,61	3	glycerol-3-phosphate dehydrogenase complex	0,0151417998744303
+GO:0016593	8	4	0,98	4	Cdc73/Paf1 complex	0,0104352735234742
+GO:0032545	3	3	0,37	3	CURI complex	0,00183425505382058
+GO:0043614	3	2	0,37	2	multi-eIF complex	0,0413024490026434
+GO:0031428	3	2	0,37	2	box C/D snoRNP complex	0,0413024490026434
+GO:0042555	11	6	1,35	6	MCM complex	0,000893434357009702
+GO:0005794	683	95	83,64	95	Golgi apparatus	0,0460250793682942
+GO:0009941	225	45	27,55	45	chloroplast envelope	6,93098953198837e-08
+GO:0030692	2	2	0,24	2	Noc4p-Nop14p complex	0,0149903197034282
+GO:0005759	83	22	10,16	22	mitochondrial matrix	0,0236027521807766
+GO:0005783	472	83	57,8	83	endoplasmic reticulum	0,00342858851434676
+GO:0001405	8	5	0,98	5	PAM complex, Tim23 associated import motor	0,00111418195316827
+GO:0005771	10	5	1,22	5	multivesicular body	0,00405509008680521
+GO:0022626	193	27	23,63	27	cytosolic ribosome	0,0493798928556371

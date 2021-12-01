@@ -1,0 +1,78 @@
+photosynthesis
+cellulose catabolic process
+plastid transcription
+cytidine to uridine editing
+ion transport
+leaf vascular tissue pattern formation
+alkaloid metabolic process
+protein-chromophore linkage
+water transport
+plant-type cell wall modification involved in multidimensional cell growth
+carbohydrate metabolic process
+negative regulation of cyclin-dependent protein serine/threonine kinase activity
+xyloglucan metabolic process
+isoprenoid biosynthetic process
+protein unfolding
+protein phosphorylation
+chloride transmembrane transport
+response to karrikin
+jasmonic acid biosynthetic process
+regulation of abscisic acid biosynthetic process
+cutin biosynthetic process
+etioplast organization
+carotene catabolic process
+sterol biosynthetic process
+trichome morphogenesis
+terpenoid biosynthetic process
+positive regulation of red or far-red light signaling pathway
+NAD biosynthetic process
+phylloquinone biosynthetic process
+alkane catabolic process
+response to wounding
+photosystem I stabilization
+guard cell differentiation
+phosphorelay signal transduction system
+cortical microtubule organization
+tryptophan biosynthetic process
+response to light intensity
+molybdate ion transport
+triterpenoid biosynthetic process
+cell-cell signaling
+cytoskeleton organization
+root meristem specification
+positive regulation of Arp2/3 complex-mediated actin nucleation
+thylakoid membrane organization
+adenine salvage
+response to zinc ion
+cell wall biogenesis
+photosystem II stabilization
+lipid catabolic process
+pectin catabolic process
+localization
+cell redox homeostasis
+photosystem II assembly
+response to stimulus
+AMP salvage
+cellular amino acid catabolic process
+regulation of jasmonic acid mediated signaling pathway
+cellular response to auxin stimulus
+regulation of auxin polar transport
+glucan catabolic process
+DNA replication initiation
+'de novo' cotranslational protein folding
+UDP biosynthetic process
+negative regulation of endopeptidase activity
+cell wall organization
+thiamine biosynthetic process
+intracellular signal transduction
+menaquinone biosynthetic process
+developmental process
+photosynthesis, light harvesting
+photosynthesis, light harvesting in photosystem I
+1-deoxy-D-xylulose 5-phosphate biosynthetic process
+photosynthetic electron transport in photosystem I
+rhythmic process
+transcription antitermination
+chlorophyll biosynthetic process
+chlorophyll catabolic process
+auxin-activated signaling pathway

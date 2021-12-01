@@ -1,0 +1,79 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0006833	8	3	0,14	3	water transport	0,000269478539202097
+GO:0010258	2	1	0,03	1	NADH dehydrogenase complex (plastoquinone) assembly	0,0342618956187816
+GO:0015786	7	2	0,12	2	UDP-glucose transmembrane transport	0,00590994100010165
+GO:0045792	1	1	0,02	1	negative regulation of cell size	0,0172800000000001
+GO:0055114	3639	120	62,88	120	oxidation-reduction process	2,04681562938957e-14
+GO:0051174	333	2	5,75	2	regulation of phosphorus metabolic process	0,0174191463737039
+GO:0010207	17	2	0,29	2	photosystem II assembly	0,0341540435845591
+GO:0005975	1975	67	34,13	67	carbohydrate metabolic process	0,0405401502921756
+GO:0006979	398	15	6,88	15	response to oxidative stress	0,00748226161528517
+GO:0019419	7	5	0,12	5	sulfate reduction	3,09202691960448e-08
+GO:0050992	6	2	0,1	2	dimethylallyl diphosphate biosynthetic process	0,00427013408854826
+GO:0009690	56	4	0,97	4	cytokinin metabolic process	0,0340143866702568
+GO:0009693	20	3	0,35	3	ethylene biosynthetic process	0,00470125313292834
+GO:0009695	12	3	0,21	3	jasmonic acid biosynthetic process	0,0010053961445334
+GO:0034440	39	3	0,67	3	lipid oxidation	0,00988638812121219
+GO:0031408	27	3	0,47	3	oxylipin biosynthetic process	0,0110323822629196
+GO:0009698	212	9	3,66	9	phenylpropanoid metabolic process	0,0284436717227567
+GO:0009664	126	7	2,18	7	plant-type cell wall organization	0,00641507252080186
+GO:0015827	1	1	0,02	1	tryptophan transport	0,0172800000000001
+GO:0099402	248	6	4,29	6	plant organ development	0,0269747759234242
+GO:0015810	1	1	0,02	1	aspartate transmembrane transport	0,0172800000000001
+GO:0045490	191	8	3,3	8	pectin catabolic process	0,0184864958017444
+GO:0042744	224	10	3,87	10	hydrogen peroxide catabolic process	0,0393646610079758
+GO:0098869	378	19	6,53	19	cellular oxidant detoxification	0,000112184827669748
+GO:0009228	22	3	0,38	3	thiamine biosynthetic process	0,00619053575311595
+GO:0010731	3	3	0,05	3	protein glutathionylation	5,13419816953047e-06
+GO:0030433	42	3	0,73	3	ubiquitin-dependent ERAD pathway	0,0358321537062946
+GO:0009611	80	5	1,38	5	response to wounding	0,012597518980827
+GO:0045454	62	5	1,07	5	cell redox homeostasis	0,00436076246622606
+GO:0009638	5	2	0,09	2	phototropism	0,00287967796596044
+GO:0006662	21	3	0,36	3	glycerol ether metabolic process	0,00541510971556184
+GO:0008299	153	16	2,64	16	isoprenoid biosynthetic process	6,47224077312179e-05
+GO:0009607	307	12	5,3	12	response to biotic stimulus	0,0219261252736111
+GO:0015996	12	2	0,21	2	chlorophyll catabolic process	0,0175422528843696
+GO:0006629	1330	42	22,98	42	lipid metabolic process	0,000632516887723773
+GO:0016998	19	3	0,33	3	cell wall macromolecule catabolic process	0,00404753649370502
+GO:0072334	8	2	0,14	2	UDP-galactose transmembrane transport	0,00779009515373485
+GO:0030968	13	3	0,22	3	endoplasmic reticulum unfolded protein response	0,00129029033857883
+GO:0009765	62	10	1,07	10	photosynthesis, light harvesting	1,70505653652389e-07
+GO:0042026	58	5	1	5	protein refolding	0,00326635094462688
+GO:0015976	12	2	0,21	2	carbon utilization	0,0175422528843696
+GO:0015977	39	6	0,67	6	carbon fixation	5,21554171986318e-05
+GO:0015979	598	43	10,33	43	photosynthesis	9,8236493937294e-16
+GO:0019509	10	2	0,17	2	L-methionine salvage from methylthioadenosine	0,0122366045644091
+GO:0010411	79	7	1,37	7	xyloglucan metabolic process	0,000439464328002352
+GO:0016126	43	4	0,74	4	sterol biosynthetic process	0,00639133378257354
+GO:0010043	1	1	0,02	1	response to zinc ion	0,0172800000000001
+GO:0016114	102	8	1,76	8	terpenoid biosynthetic process	0,0370537201122479
+GO:0016102	16	2	0,28	2	diterpenoid biosynthetic process	0,034218532740387
+GO:0098542	163	7	2,82	7	defense response to other organism	0,0146735789761663
+GO:0019288	6	4	0,1	4	isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway	4,97807395586507e-05
+GO:0000272	335	20	5,79	20	polysaccharide catabolic process	0,0325395475080158
+GO:0031640	5	2	0,09	2	killing of cells of other organism	0,00287967796596044
+GO:0034220	1128	20	19,49	20	ion transmembrane transport	0,00938311892470535
+GO:0060918	30	3	0,52	3	auxin transport	0,0341751335369543
+GO:0006749	60	6	1,04	6	glutathione metabolic process	0,017765495170507
+GO:0006334	69	4	1,19	4	nucleosome assembly	0,0316050165086208
+GO:0010155	1	1	0,02	1	regulation of proton transport	0,0172800000000001
+GO:0018298	275	13	4,75	13	protein-chromophore linkage	0,00109594407676637
+GO:0010951	71	8	1,23	8	negative regulation of endopeptidase activity	3,10090918809871e-05
+GO:0043953	9	2	0,16	2	protein transport by the Tat complex	0,009901828803173
+GO:0055085	2538	70	43,86	70	transmembrane transport	6,04124447250136e-07
+GO:0015671	3	2	0,05	2	oxygen transport	0,000884044747316027
+GO:0009853	54	6	0,93	6	photorespiration	0,000937367739172983
+GO:0042546	183	8	3,16	8	cell wall biogenesis	0,000906567736635635
+GO:0010143	1	1	0,02	1	cutin biosynthetic process	0,0172800000000001
+GO:0042549	11	3	0,19	3	photosystem II stabilization	0,000763829679464136
+GO:0030245	46	7	0,79	7	cellulose catabolic process	1,32515548650048e-05
+GO:0006096	146	6	2,52	6	glycolytic process	0,0417407386348554
+GO:0051085	61	4	1,05	4	chaperone cofactor-dependent protein refolding	0,021222383011035
+GO:0071555	535	21	9,24	21	cell wall organization	0,034066074252423
+GO:0051484	1	1	0,02	1	isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway involved in terpenoid biosynthetic process	0,0172800000000001
+GO:0033355	2	2	0,03	2	ascorbate glutathione cycle	0,000298104381218363
+GO:0009835	10	2	0,17	2	fruit ripening	0,0122366045644091
+GO:0046686	26	3	0,45	3	response to cadmium ion	0,00993206047260405
+GO:0052837	2	1	0,03	1	thiazole biosynthetic process	0,0342618956187816
+GO:0006032	28	3	0,48	3	chitin catabolic process	0,0122002828012257
+GO:0010252	12	2	0,21	2	auxin homeostasis	0,0175422528843696

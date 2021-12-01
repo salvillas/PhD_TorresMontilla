@@ -1,0 +1,91 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0004657	2	2	0,37	2	proline dehydrogenase activity	0,0336880229594879
+GO:0004001	2	2	0,37	2	adenosine kinase activity	0,0336880229594879
+GO:0030170	144	39	26,43	39	pyridoxal phosphate binding	0,00620765480312407
+GO:0004672	1386	325	254,42	325	protein kinase activity	2,52600665619106e-08
+GO:0004629	9	4	1,65	4	phospholipase C activity	0,033675766466503
+GO:0003777	75	36	13,77	36	microtubule motor activity	5,13743553905528e-09
+GO:0005388	26	10	4,77	10	calcium transmembrane transporter activity, phosphorylative mechanism	0,0129588171927629
+GO:0003746	47	15	8,63	15	translation elongation factor activity	0,0178431706744469
+GO:0003735	568	175	104,26	175	structural constituent of ribosome	2,50228273190499e-13
+GO:0016018	10	5	1,84	5	cyclosporin A binding	0,0230918872223194
+GO:0019901	40	12	7,34	12	protein kinase binding	0,0460960515931712
+GO:0009678	65	15	11,93	15	pyrophosphate hydrolysis-driven proton transmembrane transporter activity	0,0123970639795898
+GO:0008865	9	7	1,65	7	fructokinase activity	0,000177540813686728
+GO:0051060	2	2	0,37	2	pullulanase activity	0,0336880229594879
+GO:0016629	2	2	0,37	2	12-oxophytodienoate reductase activity	0,0336880229594879
+GO:0008964	6	4	1,1	4	phosphoenolpyruvate carboxylase activity	0,0123990622267272
+GO:0008810	29	11	5,32	11	cellulase activity	0,0104777899002486
+GO:0047918	2	2	0,37	2	GDP-mannose 3,5-epimerase activity	0,0336880229594879
+GO:0102250	4	3	0,73	3	linear malto-oligosaccharide phosphorylase activity	0,0213232752282207
+GO:0002151	2	2	0,37	2	G-quadruplex RNA binding	0,0336880229594879
+GO:0003885	3	3	0,55	3	D-arabinono-1,4-lactone oxidase activity	0,00618127419033547
+GO:0003886	4	4	0,73	4	DNA (cytosine-5-)-methyltransferase activity	0,0011339405110404
+GO:0008839	2	2	0,37	2	4-hydroxy-tetrahydrodipicolinate reductase	0,0336880229594879
+GO:0005464	6	4	1,1	4	UDP-xylose transmembrane transporter activity	0,0123990622267272
+GO:0042973	39	13	7,16	13	glucan endo-1,3-beta-D-glucosidase activity	0,01835694460318
+GO:0003878	5	4	0,92	4	ATP citrate synthase activity	0,00483780034852142
+GO:0000095	3	3	0,55	3	S-adenosyl-L-methionine transmembrane transporter activity	0,00618127419033547
+GO:0010329	9	6	1,65	6	auxin efflux transmembrane transporter activity	0,0019223347447933
+GO:0030246	456	79	83,7	79	carbohydrate binding	0,00917159839627953
+GO:0003924	215	54	39,47	54	GTPase activity	0,00809794882856675
+GO:0004795	2	2	0,37	2	threonine synthase activity	0,0336880229594879
+GO:0033612	17	11	3,12	11	receptor serine/threonine kinase binding	0,000191161014130854
+GO:0019158	6	5	1,1	5	mannokinase activity	0,00105716940941855
+GO:0016274	14	10	2,57	10	protein-arginine N-methyltransferase activity	0,0422180832751107
+GO:0005524	3093	628	567,76	628	ATP binding	0,00148300973956997
+GO:0005525	336	81	61,68	81	GTP binding	0,00471437331549539
+GO:0050378	6	4	1,1	4	UDP-glucuronate 4-epimerase activity	0,0123990622267272
+GO:0005516	135	35	24,78	35	calmodulin binding	0,0180328781272214
+GO:0035241	3	3	0,55	3	protein-arginine omega-N monomethyltransferase activity	0,00618127419033547
+GO:0035242	2	2	0,37	2	protein-arginine omega-N asymmetric methyltransferase activity	0,0336880229594879
+GO:0035243	2	2	0,37	2	protein-arginine omega-N symmetric methyltransferase activity	0,0336880229594879
+GO:0005536	6	5	1,1	5	glucose binding	0,00105716940941855
+GO:0043734	2	2	0,37	2	DNA-N1-methyladenine dioxygenase activity	0,0336880229594879
+GO:0005509	277	66	50,85	66	calcium ion binding	0,0128808401241268
+GO:0005080	2	2	0,37	2	protein kinase C binding	0,0336880229594879
+GO:0004748	4	3	0,73	3	ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor	0,0213232752282207
+GO:0008536	18	7	3,3	7	Ran GTPase binding	0,0336706439584744
+GO:0051287	108	27	19,82	27	NAD binding	0,0323670153277277
+GO:0042054	50	12	9,18	12	histone methyltransferase activity	0,0336675929255509
+GO:0016762	40	15	7,34	15	xyloglucan:xyloglucosyl transferase activity	0,00341413951885107
+GO:0016757	703	198	129,04	198	transferase activity, transferring glycosyl groups	7,41184404923831e-06
+GO:0008017	150	72	27,53	72	microtubule binding	4,64159434165194e-16
+GO:0016787	4082	754	749,3	754	hydrolase activity	0,0445377405226687
+GO:0008184	4	3	0,73	3	glycogen phosphorylase activity	0,0213232752282207
+GO:1990404	5	4	0,92	4	protein ADP-ribosylase activity	0,00483780034852142
+GO:0016740	4852	996	890,64	996	transferase activity	0,0150564101669262
+GO:0004340	6	5	1,1	5	glucokinase activity	0,00105716940941855
+GO:0003697	56	22	10,28	22	single-stranded DNA binding	0,00020856289757644
+GO:0015098	5	4	0,92	4	molybdate ion transmembrane transporter activity	0,00483780034852142
+GO:0003688	21	14	3,85	14	DNA replication origin binding	1,52223247563966e-06
+GO:0003678	57	20	10,46	20	DNA helicase activity	0,0419259085991209
+GO:0047262	20	9	3,67	9	polygalacturonate 4-alpha-galacturonosyltransferase activity	0,00556164090232168
+GO:0035312	5	3	0,92	3	5'-3' exodeoxyribonuclease activity	0,0460514875477696
+GO:0015165	19	11	3,49	11	pyrimidine nucleotide-sugar transmembrane transporter activity	0,0458808061268854
+GO:0051747	2	2	0,37	2	cytosine C-5 DNA demethylase activity	0,0336880229594879
+GO:0004459	2	2	0,37	2	L-lactate dehydrogenase activity	0,0336880229594879
+GO:0005247	8	4	1,47	4	voltage-gated chloride channel activity	0,0423937861029269
+GO:0004489	2	2	0,37	2	methylenetetrahydrofolate reductase (NAD(P)H) activity	0,0336880229594879
+GO:0016874	361	72	66,27	72	ligase activity	0,0327746671685608
+GO:0102499	4	3	0,73	3	SHG alpha-glucan phosphorylase activity	0,0213232752282207
+GO:0004478	5	4	0,92	4	methionine adenosyltransferase activity	0,00483780034852142
+GO:0004565	21	8	3,85	8	beta-galactosidase activity	0,0269194242296434
+GO:0004421	4	3	0,73	3	hydroxymethylglutaryl-CoA synthase activity	0,0213232752282207
+GO:0004427	14	9	2,57	9	inorganic diphosphatase activity	0,00019172781814987
+GO:0004553	420	115	77,1	115	hydrolase activity, hydrolyzing O-glycosyl compounds	0,0062512791781065
+GO:0005200	25	11	4,59	11	structural constituent of cytoskeleton	0,00275733852805196
+GO:0015140	2	2	0,37	2	malate transmembrane transporter activity	0,0336880229594879
+GO:0004575	13	6	2,39	6	sucrose alpha-glucosidase activity	0,0200928647673318
+GO:0004579	2	2	0,37	2	dolichyl-diphosphooligosaccharide-protein glycotransferase activity	0,0336880229594879
+GO:0022857	1391	295	255,33	295	transmembrane transporter activity	0,0254606774936935
+GO:0050614	2	2	0,37	2	delta24-sterol reductase activity	0,0336880229594879
+GO:0050105	2	2	0,37	2	L-gulonolactone oxidase activity	0,0336880229594879
+GO:0043015	5	3	0,92	3	gamma-tubulin binding	0,0460514875477696
+GO:0015297	198	52	36,35	52	antiporter activity	0,000348557242370573
+GO:0016428	2	2	0,37	2	tRNA (cytosine-5-)-methyltransferase activity	0,0336880229594879
+GO:0033926	11	6	2,02	6	glycopeptide alpha-N-acetylgalactosaminidase activity	0,00755042580640656
+GO:0015267	233	51	42,77	51	channel activity	0,000416759880714791
+GO:0004015	5	3	0,92	3	adenosylmethionine-8-amino-7-oxononanoate transaminase activity	0,0460514875477696
+GO:0043138	16	7	2,94	7	3'-5' DNA helicase activity	0,0169575247165424
+GO:0015276	15	7	2,75	7	ligand-gated ion channel activity	0,0113027980597785

@@ -1,0 +1,80 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0015979	598	59	16,11	59	photosynthesis	3,68104173673491e-11
+GO:0030245	46	5	1,24	5	cellulose catabolic process	0,00771868012887368
+GO:0042793	17	6	0,46	6	plastid transcription	3,60833735543318e-06
+GO:0016554	32	6	0,86	6	cytidine to uridine editing	0,000187098330993146
+GO:0006811	2106	65	56,73	65	ion transport	0,00688167610509681
+GO:0010305	18	3	0,48	3	leaf vascular tissue pattern formation	0,0117536761731659
+GO:0009820	17	3	0,46	3	alkaloid metabolic process	0,00999205795488974
+GO:0018298	275	23	7,41	23	protein-chromophore linkage	1,90652674665378e-06
+GO:0006833	8	2	0,22	2	water transport	0,0182215908521279
+GO:0009831	1	1	0,03	1	plant-type cell wall modification involved in multidimensional cell growth	0,0269381818181818
+GO:0005975	1975	89	53,2	89	carbohydrate metabolic process	0,000250408123289881
+GO:0045736	12	2	0,32	2	negative regulation of cyclin-dependent protein serine/threonine kinase activity	0,0400038181676997
+GO:0010411	79	8	2,13	8	xyloglucan metabolic process	0,00129928084983339
+GO:0008299	153	18	4,12	18	isoprenoid biosynthetic process	0,000393131414789121
+GO:0043335	1	1	0,03	1	protein unfolding	0,0269381818181818
+GO:0006468	2458	92	66,21	92	protein phosphorylation	0,00599842866735693
+GO:1902476	23	3	0,62	3	chloride transmembrane transport	0,0230984638772967
+GO:0080167	25	3	0,67	3	response to karrikin	0,0288360670198223
+GO:0009695	12	3	0,32	3	jasmonic acid biosynthetic process	0,0035733148831802
+GO:0010115	4	2	0,11	2	regulation of abscisic acid biosynthetic process	0,00419509603276605
+GO:0010143	1	1	0,03	1	cutin biosynthetic process	0,0269381818181818
+GO:0009662	2	2	0,05	2	etioplast organization	0,000724903071560428
+GO:0016121	5	2	0,13	2	carotene catabolic process	0,00686709315166538
+GO:0016126	43	5	1,16	5	sterol biosynthetic process	0,00578966704670672
+GO:0010090	18	3	0,48	3	trichome morphogenesis	0,0117536761731659
+GO:0016114	102	11	2,75	11	terpenoid biosynthetic process	0,0392475187342144
+GO:0090228	2	2	0,05	2	positive regulation of red or far-red light signaling pathway	0,000724903071560428
+GO:0009435	24	3	0,65	3	NAD biosynthetic process	0,0258815509251773
+GO:0042372	8	2	0,22	2	phylloquinone biosynthetic process	0,0182215908521279
+GO:0055114	3639	114	98,03	114	oxidation-reduction process	0,0171844183437431
+GO:0043448	1	1	0,03	1	alkane catabolic process	0,0269381818181818
+GO:0009611	80	6	2,16	6	response to wounding	0,020967827349196
+GO:0042550	2	2	0,05	2	photosystem I stabilization	0,000724903071560428
+GO:0010052	10	2	0,27	2	guard cell differentiation	0,0282597743457164
+GO:0000160	314	18	8,46	18	phosphorelay signal transduction system	0,0013328774638023
+GO:0043622	33	4	0,89	4	cortical microtubule organization	0,0115090879178796
+GO:0000162	30	3	0,81	3	tryptophan biosynthetic process	0,0461397693273252
+GO:0009642	35	4	0,94	4	response to light intensity	0,0180157513328589
+GO:0015689	8	2	0,22	2	molybdate ion transport	0,0182215908521279
+GO:0016104	12	2	0,32	2	triterpenoid biosynthetic process	0,0400038181676997
+GO:0007267	23	3	0,62	3	cell-cell signaling	0,0230984638772967
+GO:0007010	369	22	9,94	22	cytoskeleton organization	0,00677423390052786
+GO:0010071	1	1	0,03	1	root meristem specification	0,0269381818181818
+GO:2000601	1	1	0,03	1	positive regulation of Arp2/3 complex-mediated actin nucleation	0,0269381818181818
+GO:0010027	13	2	0,35	2	thylakoid membrane organization	0,0464494380565921
+GO:0006168	9	2	0,24	2	adenine salvage	0,0230136536393281
+GO:0010043	1	1	0,03	1	response to zinc ion	0,0269381818181818
+GO:0042546	183	12	4,93	12	cell wall biogenesis	3,28932016585183e-05
+GO:0042549	11	5	0,3	5	photosystem II stabilization	5,66445923775845e-06
+GO:0016042	186	11	5,01	11	lipid catabolic process	0,00471332157202329
+GO:0045490	191	12	5,15	12	pectin catabolic process	0,00585997793899909
+GO:0051179	4897	118	131,92	118	localization	0,0274432646969028
+GO:0045454	62	7	1,67	7	cell redox homeostasis	0,00136514421860953
+GO:0010207	17	5	0,46	5	photosystem II assembly	6,63044678695827e-05
+GO:0050896	4701	140	126,64	140	response to stimulus	6,46690892536943e-05
+GO:0044209	10	2	0,27	2	AMP salvage	0,0282597743457164
+GO:0009063	108	3	2,91	3	cellular amino acid catabolic process	0,0101542343989202
+GO:2000022	29	3	0,78	3	regulation of jasmonic acid mediated signaling pathway	0,0423470289071134
+GO:0071365	208	17	5,6	17	cellular response to auxin stimulus	0,0266331070007022
+GO:2000012	10	2	0,27	2	regulation of auxin polar transport	0,0282597743457164
+GO:0009251	73	8	1,97	8	glucan catabolic process	0,0348946759836892
+GO:0006270	28	4	0,75	4	DNA replication initiation	0,0318781740792067
+GO:0051083	1	1	0,03	1	'de novo' cotranslational protein folding	0,0269381818181818
+GO:0006225	1	1	0,03	1	UDP biosynthetic process	0,0269381818181818
+GO:0010951	71	7	1,91	7	negative regulation of endopeptidase activity	0,00299853067406654
+GO:0071555	535	25	14,41	25	cell wall organization	0,0104057905932477
+GO:0009228	22	3	0,59	3	thiamine biosynthetic process	0,0204872232704756
+GO:0035556	620	33	16,7	33	intracellular signal transduction	0,0143143831805273
+GO:0009234	4	2	0,11	2	menaquinone biosynthetic process	0,00419509603276605
+GO:0032502	1247	45	33,59	45	developmental process	0,00678692825259858
+GO:0009765	62	16	1,67	16	photosynthesis, light harvesting	3,57771479632818e-11
+GO:0009768	12	2	0,32	2	photosynthesis, light harvesting in photosystem I	0,0400038181676997
+GO:0052865	11	2	0,3	2	1-deoxy-D-xylulose 5-phosphate biosynthetic process	0,0339320676202798
+GO:0009773	18	3	0,48	3	photosynthetic electron transport in photosystem I	0,0117536761731659
+GO:0048511	80	4	2,16	4	rhythmic process	0,0399904978140852
+GO:0031564	2	2	0,05	2	transcription antitermination	0,000724903071560428
+GO:0015995	46	4	1,24	4	chlorophyll biosynthetic process	0,0349539858416716
+GO:0015996	12	4	0,32	4	chlorophyll catabolic process	0,000217873791184988
+GO:0009734	207	16	5,58	16	auxin-activated signaling pathway	0,000169595852148009

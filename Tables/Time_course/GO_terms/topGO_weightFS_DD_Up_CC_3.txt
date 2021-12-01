@@ -1,0 +1,20 @@
+anchored component of plasma membrane
+peroxisomal matrix
+formate dehydrogenase complex
+photosystem I
+endoplasmic reticulum lumen
+photosystem II
+extrinsic component of membrane
+vacuole
+chloroplast thylakoid lumen
+extracellular exosome
+chloroplast thylakoid membrane
+plastid
+integral component of membrane
+photosystem I reaction center
+photosystem II oxygen evolving complex
+chloroplast
+extracellular region
+chloroplast stroma
+NAD(P)H dehydrogenase complex (plastoquinone)
+plastoglobule

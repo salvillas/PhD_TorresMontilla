@@ -1,0 +1,41 @@
+regulation of abscisic acid biosynthetic process
+purine ribonucleoside salvage
+adenine salvage
+cell wall organization
+pectin catabolic process
+peptidyl-arginine methylation, to symmetrical-dimethyl arginine
+response to stimulus
+protein localization involved in auxin polar transport
+cell-cell signaling
+multicellular organism development
+cellular response to auxin stimulus
+tryptophan biosynthetic process
+tyrosine catabolic process
+menaquinone biosynthetic process
+DNA replication initiation
+cellular amino acid catabolic process
+plasmodesma organization
+microtubule-based movement
+mitochondrial tRNA wobble uridine modification
+formaldehyde catabolic process
+leaf vascular tissue pattern formation
+response to zinc ion
+nucleosome assembly
+auxin-activated signaling pathway
+positive regulation of anaphase-promoting complex-dependent catabolic process
+sulfolipid biosynthetic process
+carbohydrate metabolic process
+AMP salvage
+xyloglucan metabolic process
+protein phosphorylation
+tRNA-type intron splice site recognition and cleavage
+SOS response
+developmental process
+photosystem I stabilization
+positive regulation of cell cycle arrest
+cell wall modification
+cell wall biogenesis
+glycine betaine biosynthetic process from choline
+root hair cell development
+magnesium ion transmembrane transport
+lignin biosynthetic process

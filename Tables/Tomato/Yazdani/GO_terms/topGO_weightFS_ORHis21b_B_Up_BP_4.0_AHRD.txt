@@ -1,0 +1,64 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0009693	12	3	0,74	3	ethylene biosynthetic process	0,0343139611143459
+GO:0009695	6	3	0,37	3	jasmonic acid biosynthetic process	0,00412643575416241
+GO:0030968	12	3	0,74	3	endoplasmic reticulum unfolded protein response	0,0343139611143459
+GO:0016125	49	5	3,04	5	sterol metabolic process	0,0183216009451771
+GO:0006102	5	2	0,31	2	isocitrate metabolic process	0,0338747148844271
+GO:0009646	6	2	0,37	2	response to absence of light	0,0487488544495595
+GO:0006267	7	6	0,43	6	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	3,72375776754891e-07
+GO:0006268	22	4	1,36	4	DNA unwinding involved in DNA replication	0,0439752574810024
+GO:0006270	17	8	1,05	8	DNA replication initiation	0,0066191814706062
+GO:0009607	340	36	21,08	36	response to biotic stimulus	0,0120027395500592
+GO:0006271	12	6	0,74	6	DNA strand elongation involved in DNA replication	0,000198379992419528
+GO:0006273	3	2	0,19	2	lagging strand elongation	0,0110485588676356
+GO:0006952	845	80	52,39	80	defense response	0,000733210898910194
+GO:0010499	22	6	1,36	6	proteasomal ubiquitin-independent protein catabolic process	0,00177031705964932
+GO:0050832	68	11	4,22	11	defense response to fungus	0,00241602765424544
+GO:0046777	121	17	7,5	17	protein autophosphorylation	0,00128278230219936
+GO:0010411	43	13	2,67	13	xyloglucan metabolic process	1,24862172245548e-05
+GO:0006099	52	10	3,22	10	tricarboxylic acid cycle	0,00117408260355828
+GO:0009414	76	11	4,71	11	response to water deprivation	0,0336306629316976
+GO:0009415	78	13	4,84	13	response to water	0,00380207561862548
+GO:0006012	22	6	1,36	6	galactose metabolic process	0,00113281544130956
+GO:0006044	3	2	0,19	2	N-acetylglucosamine metabolic process	0,0110485588676356
+GO:0055085	1498	121	92,88	121	transmembrane transport	0,00304639702554134
+GO:0010117	3	2	0,19	2	photoprotection	0,0110485588676356
+GO:0006865	87	12	5,39	12	amino acid transport	0,0212192305431048
+GO:0006817	282	32	17,48	32	phosphate ion transport	0,00220765539980147
+GO:0010268	11	3	0,68	3	brassinosteroid homeostasis	0,0269526928351804
+GO:0006833	6	2	0,37	2	water transport	0,0487488544495595
+GO:0009969	5	2	0,31	2	xyloglucan biosynthetic process	0,0338747148844271
+GO:0002238	11	3	0,68	3	response to molecule of fungal origin	0,0269526928351804
+GO:0071555	320	35	19,84	35	cell wall organization	0,000444679707949725
+GO:0043161	211	17	13,08	17	proteasome-mediated ubiquitin-dependent protein catabolic process	0,0334494589514541
+GO:0080186	5	2	0,31	2	developmental vegetative growth	0,0338747148844271
+GO:0042742	73	12	4,53	12	defense response to bacterium	0,00209905095698585
+GO:0007205	8	3	0,5	3	protein kinase C-activating G protein-coupled receptor signaling pathway	0,0105184055652135
+GO:0010200	12	4	0,74	4	response to chitin	0,00486888799768407
+GO:0006567	5	2	0,31	2	threonine catabolic process	0,0338747148844271
+GO:0032509	18	4	1,12	4	endosome transport via multivesicular body sorting pathway	0,0105094268176562
+GO:0006572	4	2	0,25	2	tyrosine catabolic process	0,0211899975384202
+GO:0002758	2	2	0,12	2	innate immune response-activating signal transduction	0,00384139533154055
+GO:0000727	11	6	0,68	6	double-strand break repair via break-induced replication	1,97869824905994e-05
+GO:0031120	3	2	0,19	2	snRNA pseudouridine synthesis	0,0110485588676356
+GO:0031118	5	2	0,31	2	rRNA pseudouridine synthesis	0,0338747148844271
+GO:0018401	7	3	0,43	3	peptidyl-proline hydroxylation to 4-hydroxy-L-proline	0,00688948253855596
+GO:0006355	1951	135	120,97	135	regulation of transcription, DNA-templated	0,00111042719744903
+GO:0019722	19	7	1,18	7	calcium-mediated signaling	9,00722350288805e-05
+GO:0043928	11	3	0,68	3	exonucleolytic catabolism of deadenylated mRNA	0,0269526928351804
+GO:0045927	25	5	1,55	5	positive regulation of growth	0,0146615270805595
+GO:0008295	13	4	0,81	4	spermidine biosynthetic process	0,00669121184544442
+GO:0034976	56	7	3,47	7	response to endoplasmic reticulum stress	0,0115525328643443
+GO:0071456	29	8	1,8	8	cellular response to hypoxia	0,000283604651652898
+GO:0009873	89	17	5,52	17	ethylene-activated signaling pathway	2,85430078015009e-05
+GO:0071423	2	2	0,12	2	malate transmembrane transport	0,00384139533154055
+GO:1901002	6	2	0,37	2	positive regulation of response to salt stress	0,0487488544495595
+GO:0042546	136	17	8,43	17	cell wall biogenesis	7,09361081226784e-06
+GO:0009835	11	3	0,68	3	fruit ripening	0,0269526928351804
+GO:0006468	1515	130	93,93	130	protein phosphorylation	0,000155951967166931
+GO:0015976	6	4	0,37	4	carbon utilization	0,000199407284657002
+GO:0030150	24	5	1,49	5	protein import into mitochondrial matrix	0,0143744824917718
+GO:0050790	585	36	36,27	36	regulation of catalytic activity	0,034096822763598
+GO:1902975	4	4	0,25	4	mitotic DNA replication initiation	1,47113523736549e-05
+GO:0072657	129	11	8	11	protein localization to membrane	0,0223586100457573
+GO:0072318	6	2	0,37	2	clathrin coat disassembly	0,0487488544495595

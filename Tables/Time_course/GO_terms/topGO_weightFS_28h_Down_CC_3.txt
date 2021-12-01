@@ -1,0 +1,36 @@
+PAM complex, Tim23 associated import motor
+SNARE complex
+Z disc
+proteasome complex
+small-subunit processome
+transport vesicle membrane
+preribosome, large subunit precursor
+preribosome, small subunit precursor
+plasma membrane
+ESCRT III complex
+cytosol
+centriole
+perinuclear region of cytoplasm
+cell surface
+UTP-C complex
+1,3-beta-D-glucan synthase complex
+heterotrimeric G-protein complex
+pICln-Sm protein complex
+cytoplasmic stress granule
+etioplast membrane
+mitochondrial respiratory chain complex III
+oxoglutarate dehydrogenase complex
+box C/D RNP complex
+mitochondrial intermembrane space
+peroxisomal matrix
+endoplasmic reticulum
+endoplasmic reticulum lumen
+methylosome
+vacuole
+mitochondria-associated endoplasmic reticulum membrane
+CURI complex
+glyoxysomal membrane
+VCP-NPL4-UFD1 AAA ATPase complex
+nucleolus
+cytoplasm
+germ cell nucleus

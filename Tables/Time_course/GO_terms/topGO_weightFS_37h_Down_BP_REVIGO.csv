@@ -1,0 +1,60 @@
+term_ID,description,frequency,plot_X,plot_Y,plot_size,log10 p-value,uniqueness,dispensability,representative,eliminated
+GO:0006457,"protein folding",0.903%, 3.279,-0.069,5.064,-25.2370,0.937,0.000,6457,0
+GO:0006820,"anion transport",1.956%, 5.112,-3.399,5.400,-3.9806,0.878,0.000,6820,0
+GO:0034220,"ion transmembrane transport",3.528%,null,null,5.656,-1.9599,0.868,0.762,6820,1
+GO:0009408,"response to heat",0.166%, 3.169, 5.875,4.328,-18.2206,0.714,0.000,9408,0
+GO:0009651,"response to salt stress",0.043%,null,null,3.741,-4.4616,0.735,0.726,9408,1
+GO:0034605,"cellular response to heat",0.041%,null,null,3.726,-6.7154,0.705,0.865,9408,1
+GO:0050982,"detection of mechanical stimulus",0.013%,null,null,3.212,-1.9787,0.763,0.668,9408,1
+GO:0009704,"de-etiolation",0.001%,null,null,1.978,-2.6516,0.742,0.564,9408,1
+GO:0050821,"protein stabilization",0.045%,-2.969, 6.742,3.763,-4.9211,0.903,0.000,50821,0
+GO:0080186,"developmental vegetative growth",0.001%, 6.674, 0.447,2.182,-2.7947,0.889,0.000,80186,0
+GO:0045927,"positive regulation of growth",0.060%,null,null,3.889,-1.6572,0.870,0.612,80186,1
+GO:0042026,"protein refolding",0.069%, 0.131,-0.157,3.949,-14.9868,0.903,0.027,42026,0
+GO:0061077,"chaperone-mediated protein folding",0.043%,null,null,3.743,-2.7443,0.904,0.621,42026,1
+GO:0051085,"chaperone mediated protein folding requiring cofactor",0.010%,null,null,3.117,-11.7835,0.908,0.567,42026,1
+GO:0051259,"protein oligomerization",0.188%,-5.314, 2.655,4.382,-4.9211,0.794,0.030,51259,0
+GO:0000387,"spliceosomal snRNP assembly",0.052%,null,null,3.827,-2.3043,0.774,0.598,51259,1
+GO:0000395,"mRNA 5'-splice site recognition",0.007%,null,null,2.942,-1.3835,0.793,0.670,51259,1
+GO:0051131,"chaperone-mediated protein complex assembly",0.016%,null,null,3.324,-3.7495,0.814,0.614,51259,1
+GO:0065003,"macromolecular complex assembly",1.497%,null,null,5.283,-2.0034,0.781,0.697,51259,1
+GO:0000413,"protein peptidyl-prolyl isomerization",0.393%,-6.902,-2.374,4.703,-4.4616,0.865,0.032,413,0
+GO:0009686,"gibberellin biosynthetic process",0.001%,-1.033,-6.011,2.236,-2.0359,0.826,0.036,9686,0
+GO:1902246,"cis-abienol biosynthetic process",0.001%,null,null,1.869,-1.5062,0.831,0.861,9686,1
+GO:1902242,"copal-8-ol diphosphate(3-) catabolic process",0.002%,null,null,2.476,-1.5062,0.778,0.794,9686,1
+GO:0032781,"positive regulation of ATPase activity",0.033%,-1.793, 7.609,3.627,-2.7047,0.895,0.160,32781,0
+GO:0045859,"regulation of protein kinase activity",0.295%,null,null,4.579,-1.4318,0.774,0.590,32781,1
+GO:0009718,"anthocyanin-containing compound biosynthetic process",0.001%,-3.503,-5.716,2.188,-1.9217,0.903,0.175,9718,0
+GO:0045037,"protein import into chloroplast stroma",0.001%, 4.163,-4.588,2.107,-2.1693,0.860,0.185,45037,0
+GO:0016558,"protein import into peroxisome matrix",0.030%,null,null,3.590,-2.0359,0.719,0.707,45037,1
+GO:0019628,"urate catabolic process",0.006%, 0.515,-5.684,2.893,-1.6800,0.821,0.208,19628,0
+GO:0006203,"dGTP catabolic process",0.003%,null,null,2.512,-1.3835,0.806,0.687,19628,1
+GO:0010583,"response to cyclopentenone",0.005%, 4.132, 4.809,2.845,-3.9587,0.756,0.228,10583,0
+GO:0071712,"ER-associated misfolded protein catabolic process",0.006%,null,null,2.872,-1.8704,0.605,0.866,10583,1
+GO:0006986,"response to unfolded protein",0.037%,null,null,3.677,-1.6821,0.709,0.601,10583,1
+GO:0030970,"retrograde protein transport, ER to cytosol",0.011%,null,null,3.146,-1.3835,0.560,0.899,10583,1
+GO:0098869,"cellular oxidant detoxification",0.784%,null,null,5.003,-1.5416,0.698,0.541,10583,1
+GO:0030433,"ER-associated ubiquitin-dependent protein catabolic process",0.049%,null,null,3.794,-3.0100,0.582,0.535,10583,1
+GO:0009435,"NAD biosynthetic process",0.246%,-2.134,-4.562,4.499,-1.5839,0.821,0.230,9435,0
+GO:0034389,"lipid particle organization",0.005%,-6.171, 3.441,2.823,-2.0998,0.846,0.302,34389,0
+GO:0010050,"vegetative phase change",0.001%, 6.663, 1.196,1.978,-1.6800,0.894,0.303,10050,0
+GO:0010582,"floral meristem determinacy",0.001%,null,null,1.940,-1.5062,0.894,0.540,10050,1
+GO:0006513,"protein monoubiquitination",0.016%,-6.586,-2.909,3.318,-1.8222,0.870,0.331,6513,0
+GO:0000209,"protein polyubiquitination",0.066%,null,null,3.929,-1.3951,0.864,0.651,6513,1
+GO:0097352,"autophagosome maturation",0.008%,-5.881, 2.213,3.035,-1.3835,0.801,0.333,97352,0
+GO:0006884,"cell volume homeostasis",0.009%,-4.416, 4.253,3.039,-3.4846,0.774,0.383,6884,0
+GO:0042149,"cellular response to glucose starvation",0.016%, 2.451, 5.924,3.301,-1.9217,0.749,0.388,42149,0
+GO:0006659,"phosphatidylserine biosynthetic process",0.009%,-1.807,-5.712,3.040,-1.5062,0.832,0.398,6659,0
+GO:0042542,"response to hydrogen peroxide",0.029%, 3.448, 5.251,3.571,-7.5230,0.705,0.405,42542,0
+GO:0071230,"cellular response to amino acid stimulus",0.019%,null,null,3.390,-1.5062,0.677,0.741,42542,1
+GO:0000302,"response to reactive oxygen species",0.181%,null,null,4.367,-1.4736,0.685,0.728,42542,1
+GO:1902584,"positive regulation of response to water deprivation",0.001%,null,null,2.045,-2.7947,0.667,0.585,42542,1
+GO:0010157,"response to chlorate",0.000%,null,null,1.771,-3.1866,0.755,0.569,42542,1
+GO:1901671,"positive regulation of superoxide dismutase activity",0.002%,null,null,2.305,-2.9678,0.656,0.656,42542,1
+GO:0009789,"positive regulation of abscisic acid-activated signaling pathway",0.001%,null,null,2.258,-3.6280,0.664,0.545,42542,1
+GO:0051228,"mitotic spindle disassembly",0.002%,-6.474, 2.585,2.449,-1.3835,0.812,0.419,51228,0
+GO:0070544,"histone H3-K36 demethylation",0.003%,-6.125, 0.456,2.600,-1.9787,0.762,0.439,70544,0
+GO:0009649,"entrainment of circadian clock",0.006%, 1.199, 6.157,2.906,-1.6552,0.797,0.459,9649,0
+GO:0015914,"phospholipid transport",0.076%, 4.693,-3.902,3.987,-1.7167,0.819,0.499,15914,0
+GO:0006821,"chloride transport",0.117%,null,null,4.175,-1.5189,0.888,0.553,15914,1
+GO:0034204,"lipid translocation",0.057%,null,null,3.867,-1.4041,0.689,0.806,15914,1

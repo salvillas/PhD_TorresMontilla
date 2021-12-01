@@ -1,0 +1,113 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0006116	1	1	0,04	1	NADH oxidation	0,0432000000000002
+GO:0044211	8	2	0,35	2	CTP salvage	0,0439048584841022
+GO:0015713	6	4	0,26	4	phosphoglycerate transmembrane transport	4,85176051713937e-05
+GO:0007389	71	5	3,07	5	pattern specification process	0,0431715493368312
+GO:1904580	1	1	0,04	1	regulation of intracellular mRNA localization	0,0432000000000002
+GO:0016121	5	2	0,22	2	carotene catabolic process	0,0170925025218994
+GO:0016126	43	5	1,86	5	sterol biosynthetic process	0,0369755818482581
+GO:0009652	1	1	0,04	1	thigmotropism	0,0432000000000002
+GO:0015706	27	4	1,17	4	nitrate transport	0,0275545575736757
+GO:0030244	79	14	3,41	14	cellulose biosynthetic process	3,48116518716254e-06
+GO:0120188	1	1	0,04	1	regulation of bile acid secretion	0,0432000000000002
+GO:1902042	1	1	0,04	1	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	0,0432000000000002
+GO:0009648	46	6	1,99	6	photoperiodism	0,0105267156121025
+GO:0009308	162	8	7	8	amine metabolic process	0,0296320703192362
+GO:1902749	22	4	0,95	4	regulation of cell cycle G2/M phase transition	0,0170646364001427
+GO:0006270	28	7	1,21	7	DNA replication initiation	0,000700759724663903
+GO:0006952	893	87	38,58	87	defense response	1,92636599235947e-14
+GO:0051301	392	44	16,93	44	cell division	1,39707946404807e-09
+GO:0044772	84	9	3,63	9	mitotic cell cycle phase transition	0,00542849960380117
+GO:0060236	15	3	0,65	3	regulation of mitotic spindle organization	0,0248012908262294
+GO:0030050	7	2	0,3	2	vesicle transport along actin filament	0,0338851362717671
+GO:0016998	19	3	0,82	3	cell wall macromolecule catabolic process	0,0465040544331854
+GO:0035436	6	4	0,26	4	triose phosphate transmembrane transport	4,85176051713937e-05
+GO:1904667	5	2	0,22	2	negative regulation of ubiquitin protein ligase activity	0,0170925025218994
+GO:0046777	96	9	4,15	9	protein autophosphorylation	0,0230491525637855
+GO:0010411	79	24	3,41	24	xyloglucan metabolic process	1,71660288775715e-14
+GO:0006906	59	7	2,55	7	vesicle fusion	0,0137355780877905
+GO:0006796	5120	261	221,18	261	phosphate-containing compound metabolic process	0,04615812988247
+GO:0038183	1	1	0,04	1	bile acid signaling pathway	0,0432000000000002
+GO:0032006	6	2	0,26	2	regulation of TOR signaling	0,0249094987559166
+GO:0090351	61	5	2,64	5	seedling development	0,0438664212681799
+GO:1904486	1	1	0,04	1	response to 17alpha-ethynylestradiol	0,0432000000000002
+GO:0055085	2538	151	109,64	151	transmembrane transport	1,40133603256923e-06
+GO:0090307	8	2	0,35	2	mitotic spindle assembly	0,0439048584841022
+GO:0045490	191	15	8,25	15	pectin catabolic process	0,0191225950817977
+GO:0007142	9	3	0,39	3	male meiosis II	0,00555544826727457
+GO:0032876	5	2	0,22	2	negative regulation of DNA endoreduplication	0,0170925025218994
+GO:0055047	4	2	0,17	2	generative cell mitosis	0,0105569070449469
+GO:0035264	1	1	0,04	1	multicellular organism growth	0,0432000000000002
+GO:0045471	1	1	0,04	1	response to ethanol	0,0432000000000002
+GO:0006865	167	11	7,21	11	amino acid transport	0,0337166052021017
+GO:0048446	1	1	0,04	1	petal morphogenesis	0,0432000000000002
+GO:0006887	104	12	4,49	12	exocytosis	0,00178455982465983
+GO:1905775	2	2	0,09	2	negative regulation of DNA helicase activity	0,00186503752836446
+GO:0000226	197	22	8,51	22	microtubule cytoskeleton organization	0,000395440098748932
+GO:0006817	467	34	20,17	34	phosphate ion transport	0,00230268557814373
+GO:0000911	35	5	1,51	5	cytokinesis by cell plate formation	0,0165094295619214
+GO:1902358	31	5	1,34	5	sulfate transmembrane transport	0,0099540935022343
+GO:0071555	535	56	23,11	56	cell wall organization	5,40167332891621e-10
+GO:0070086	2	2	0,09	2	ubiquitin-dependent endocytosis	0,00186503752836446
+GO:0009247	121	9	5,23	9	glycolipid biosynthetic process	0,0308265483593631
+GO:0071577	28	4	1,21	4	zinc ion transmembrane transport	0,0310794379938367
+GO:0019252	62	10	2,68	10	starch biosynthetic process	0,00030406780195996
+GO:0046506	5	2	0,22	2	sulfolipid biosynthetic process	0,0170925025218994
+GO:0007205	15	4	0,65	4	protein kinase C-activating G protein-coupled receptor signaling pathway	0,00322911532924717
+GO:0006562	4	3	0,17	3	proline catabolic process	0,00186274244564111
+GO:0010200	4	2	0,17	2	response to chitin	0,0105569070449469
+GO:0080142	15	4	0,65	4	regulation of salicylic acid biosynthetic process	0,00322911532924717
+GO:0007076	11	4	0,48	4	mitotic chromosome condensation	0,000896620854514503
+GO:0006542	17	3	0,73	3	glutamine biosynthetic process	0,0347739279332077
+GO:0009765	62	14	2,68	14	photosynthesis, light harvesting	7,32195215651328e-06
+GO:0009768	12	3	0,52	3	photosynthesis, light harvesting in photosystem I	0,0132044868765526
+GO:0007010	369	40	15,94	40	cytoskeleton organization	1,5976612641292e-05
+GO:0006536	24	7	1,04	7	glutamate metabolic process	0,0436723491022807
+GO:0006537	5	3	0,22	3	glutamate biosynthetic process	0,000753513829518246
+GO:0007017	390	59	16,85	59	microtubule-based process	0,00972331258369145
+GO:0007018	147	33	6,35	33	microtubule-based movement	4,38747067302484e-15
+GO:0007049	904	77	39,05	77	cell cycle	3,55214772528174e-09
+GO:0010043	1	1	0,04	1	response to zinc ion	0,0432000000000002
+GO:0051783	54	5	2,33	5	regulation of nuclear division	0,0170730259817557
+GO:0009741	65	5	2,81	5	response to brassinosteroid	0,010234394258796
+GO:0009734	207	22	8,94	22	auxin-activated signaling pathway	0,000565412397733368
+GO:0009736	49	7	2,12	7	cytokinin-activated signaling pathway	0,0048579125406371
+GO:0051726	343	26	14,82	26	regulation of cell cycle	0,0331625090801286
+GO:0006355	2858	153	123,47	153	regulation of transcription, DNA-templated	0,00023244546802983
+GO:0048278	53	6	2,29	6	vesicle docking	0,0261836683453144
+GO:0019722	19	5	0,82	5	calcium-mediated signaling	0,00104594260995842
+GO:0035872	1	1	0,04	1	nucleotide-binding domain, leucine rich repeat containing receptor signaling pathway	0,0432000000000002
+GO:0017006	14	3	0,6	3	protein-tetrapyrrole linkage	0,020486855726833
+GO:2000374	1	1	0,04	1	regulation of oxygen metabolic process	0,0432000000000002
+GO:1901797	1	1	0,04	1	negative regulation of signal transduction by p53 class mediator	0,0432000000000002
+GO:0006629	1330	72	57,46	72	lipid metabolic process	0,0100362852161771
+GO:0034219	25	11	1,08	11	carbohydrate transmembrane transport	3,61552435521343e-06
+GO:0032468	2	2	0,09	2	Golgi calcium ion homeostasis	0,00186503752836446
+GO:0032472	2	2	0,09	2	Golgi calcium ion transport	0,00186503752836446
+GO:0009873	196	23	8,47	23	ethylene-activated signaling pathway	1,44427472033289e-05
+GO:0045792	1	1	0,04	1	negative regulation of cell size	0,0432000000000002
+GO:0018298	275	20	11,88	20	protein-chromophore linkage	0,0167305978942529
+GO:0045053	16	3	0,69	3	protein retention in Golgi apparatus	0,0295647679417693
+GO:0048768	1	1	0,04	1	root hair cell tip growth	0,0432000000000002
+GO:0042546	183	28	7,91	28	cell wall biogenesis	4,64525022696949e-15
+GO:0009831	1	1	0,04	1	plant-type cell wall modification involved in multidimensional cell growth	0,0432000000000002
+GO:0005980	3	2	0,13	2	glycogen catabolic process	0,00543418100189933
+GO:0070588	99	14	4,28	14	calcium ion transmembrane transport	9,07309122421865e-05
+GO:0005985	86	7	3,72	7	sucrose metabolic process	0,0348172298057193
+GO:0006468	2458	162	106,19	162	protein phosphorylation	8,4253161216979e-07
+GO:0015995	46	5	1,99	5	chlorophyll biosynthetic process	0,0474337069186851
+GO:0005975	1975	148	85,32	148	carbohydrate metabolic process	0,00745146173540206
+GO:0005978	17	6	0,73	6	glycogen biosynthetic process	5,27788938467147e-05
+GO:2001271	1	1	0,04	1	negative regulation of cysteine-type endopeptidase activity involved in execution phase of apoptosis	0,0432000000000002
+GO:0035556	620	58	26,78	58	intracellular signal transduction	0,0166233650759041
+GO:0048731	598	38	25,83	38	system development	0,0245751217080602
+GO:0009590	1	1	0,04	1	detection of gravity	0,0432000000000002
+GO:1903335	1	1	0,04	1	regulation of vacuolar transport	0,0432000000000002
+GO:0010555	4	2	0,17	2	response to mannitol	0,0105569070449469
+GO:1904825	1	1	0,04	1	protein localization to microtubule plus-end	0,0432000000000002
+GO:0009584	11	3	0,48	3	detection of visible light	0,0102281292601211
+GO:0009585	18	3	0,78	3	red, far-red light phototransduction	0,0404229914136878
+GO:0050790	780	49	33,7	49	regulation of catalytic activity	0,0468658754576145
+GO:0045893	415	18	17,93	18	positive regulation of transcription, DNA-templated	0,0266101398360228
+GO:0015770	9	4	0,39	4	sucrose transport	0,000367012369735752
+GO:0015721	1	1	0,04	1	bile acid and bile salt transport	0,0432000000000002

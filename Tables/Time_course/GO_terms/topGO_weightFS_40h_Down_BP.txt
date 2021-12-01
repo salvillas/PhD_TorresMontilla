@@ -1,0 +1,105 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0046710	2	2	0,04	2	GDP metabolic process	0,00049592662530348
+GO:0045037	12	2	0,27	2	protein import into chloroplast stroma	0,02822782848822
+GO:0015741	2	1	0,04	1	fumarate transport	0,0440713461019692
+GO:0015744	2	1	0,04	1	succinate transport	0,0440713461019692
+GO:0009704	7	2	0,16	2	de-etiolation	0,00966810138875853
+GO:0006891	33	3	0,74	3	intra-Golgi vesicle-mediated transport	0,0366516261296907
+GO:0006896	17	3	0,38	3	Golgi to vacuole transport	0,00593574369337648
+GO:1903335	1	1	0,02	1	regulation of vacuolar transport	0,0222836363636363
+GO:0030212	10	2	0,22	2	hyaluronan metabolic process	0,0198200272071662
+GO:0015914	54	5	1,2	5	phospholipid transport	0,00697160037906193
+GO:0008612	2	1	0,04	1	peptidyl-lysine modification to peptidyl-hypusine	0,0440713461019692
+GO:0010583	2	2	0,04	2	response to cyclopentenone	0,00049592662530348
+GO:0006884	3	2	0,07	2	cell volume homeostasis	0,00146573420391603
+GO:0042795	1	1	0,02	1	snRNA transcription by RNA polymerase II	0,0222836363636363
+GO:0042796	1	1	0,02	1	snRNA transcription by RNA polymerase III	0,0222836363636363
+GO:0006820	982	37	21,88	37	anion transport	0,000478509259875578
+GO:0009873	196	12	4,37	12	ethylene-activated signaling pathway	0,0111398446960288
+GO:0006811	2106	56	46,93	56	ion transport	0,0172128473992769
+GO:0000395	4	2	0,09	2	mRNA 5'-splice site recognition	0,00288811112853538
+GO:0045761	2	1	0,04	1	regulation of adenylate cyclase activity	0,0440713461019692
+GO:2001011	2	2	0,04	2	positive regulation of plant-type cell wall cellulose biosynthetic process	0,00049592662530348
+GO:0000387	33	4	0,74	4	spliceosomal snRNP assembly	0,00599202613526821
+GO:0042744	224	10	4,99	10	hydrogen peroxide catabolic process	0,0294535540756542
+GO:0097054	2	2	0,04	2	L-glutamate biosynthetic process	0,00049592662530348
+GO:0006379	9	2	0,2	2	mRNA cleavage	0,0160913300412073
+GO:1902584	6	2	0,13	2	positive regulation of response to water deprivation	0,00700886731775089
+GO:0006564	9	2	0,2	2	L-serine biosynthetic process	0,0160913300412073
+GO:0033962	22	4	0,49	4	cytoplasmic mRNA processing body assembly	0,00495413366885757
+GO:0045927	34	4	0,76	4	positive regulation of growth	0,0123475875330833
+GO:0030970	4	2	0,09	2	retrograde protein transport, ER to cytosol	0,00288811112853538
+GO:0000302	75	10	1,67	10	response to reactive oxygen species	0,0233920461300279
+GO:0023014	108	11	2,41	11	signal transduction by protein phosphorylation	2,55512453575849e-05
+GO:0045893	415	14	9,25	14	positive regulation of transcription, DNA-templated	0,00217790433422531
+GO:0034389	13	2	0,29	2	lipid droplet organization	0,0328751481954641
+GO:0031146	83	6	1,85	6	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	0,010635330595241
+GO:0019676	2	1	0,04	1	ammonia assimilation cycle	0,0440713461019692
+GO:1905499	2	2	0,04	2	trichome papilla formation	0,00049592662530348
+GO:0019628	2	1	0,04	1	urate catabolic process	0,0440713461019692
+GO:0043547	88	8	1,96	8	positive regulation of GTPase activity	0,000785633919762972
+GO:0042823	10	3	0,22	3	pyridoxal phosphate biosynthetic process	0,0126713014282818
+GO:0010157	4	2	0,09	2	response to chlorate	0,00288811112853538
+GO:0006457	365	80	8,13	80	protein folding	1,63070154896384e-25
+GO:0000413	117	10	2,61	10	protein peptidyl-prolyl isomerization	0,000298238274402652
+GO:0065003	708	28	15,78	28	protein-containing complex assembly	0,00914157465554466
+GO:0048280	13	3	0,29	3	vesicle fusion with Golgi apparatus	0,00266757009837738
+GO:0098869	378	19	8,42	19	cellular oxidant detoxification	0,0046095255787506
+GO:0080186	6	2	0,13	2	developmental vegetative growth	0,00700886731775089
+GO:0070544	1	1	0,02	1	histone H3-K36 demethylation	0,0222836363636363
+GO:0032781	24	5	0,53	5	positive regulation of ATPase activity	0,000162130115120777
+GO:0071786	2	1	0,04	1	endoplasmic reticulum tubular network organization	0,0440713461019692
+GO:0009651	117	8	2,61	8	response to salt stress	0,0254091558087072
+GO:0010091	9	2	0,2	2	trichome branching	0,0160913300412073
+GO:0009443	2	1	0,04	1	pyridoxal 5'-phosphate salvage	0,0440713461019692
+GO:0009686	14	2	0,31	2	gibberellin biosynthetic process	0,0377978060195426
+GO:0032958	6	2	0,13	2	inositol phosphate biosynthetic process	0,0440195238377122
+GO:0010104	4	2	0,09	2	regulation of ethylene-activated signaling pathway	0,00288811112853538
+GO:0055114	3639	92	81,09	92	oxidation-reduction process	0,0414821209062347
+GO:0071712	17	3	0,38	3	ER-associated misfolded protein catabolic process	0,00593574369337648
+GO:0006644	364	11	8,11	11	phospholipid metabolic process	0,0081742399733824
+GO:0048209	2	1	0,04	1	regulation of vesicle targeting, to, from or within Golgi	0,0440713461019692
+GO:0032922	4	2	0,09	2	circadian regulation of gene expression	0,00288811112853538
+GO:0010050	2	1	0,04	1	vegetative phase change	0,0440713461019692
+GO:0016095	2	1	0,04	1	polyprenol catabolic process	0,0440713461019692
+GO:0061077	85	22	1,89	22	chaperone-mediated protein folding	0,014797055880755
+GO:0009408	109	31	2,43	31	response to heat	6,81726493325239e-18
+GO:0006163	711	12	15,84	12	purine nucleotide metabolic process	0,0443500906843066
+GO:0000122	37	3	0,82	3	negative regulation of transcription by RNA polymerase II	0,0489282775124216
+GO:0042542	10	4	0,22	4	response to hydrogen peroxide	4,6162378188147e-05
+GO:0034620	21	3	0,47	3	cellular response to unfolded protein	0,0126790531652556
+GO:0006122	8	2	0,18	2	mitochondrial electron transport, ubiquinol to cytochrome c	0,0127015739604094
+GO:0050982	1	1	0,02	1	detection of mechanical stimulus	0,0222836363636363
+GO:1901671	5	3	0,11	3	positive regulation of superoxide dismutase activity	0,00010659058472331
+GO:1901672	2	2	0,04	2	positive regulation of systemic acquired resistance	0,00049592662530348
+GO:0034605	25	9	0,56	9	cellular response to heat	1,91935686041297e-09
+GO:1902066	5	2	0,11	2	regulation of cell wall pectin metabolic process	0,00474245815774342
+GO:0019249	2	1	0,04	1	lactate biosynthetic process	0,0440713461019692
+GO:0051131	11	3	0,25	3	chaperone-mediated protein complex assembly	0,00159102190040284
+GO:0030433	42	5	0,94	5	ubiquitin-dependent ERAD pathway	0,00233236684716405
+GO:0097352	4	2	0,09	2	autophagosome maturation	0,00288811112853538
+GO:0050821	29	5	0,65	5	protein stabilization	0,00041314515235954
+GO:0034097	4	2	0,09	2	response to cytokine	0,00288811112853538
+GO:0046294	6	2	0,13	2	formaldehyde catabolic process	0,00700886731775089
+GO:0051085	61	19	1,36	19	chaperone cofactor-dependent protein refolding	4,05865212076979e-17
+GO:0034063	14	3	0,31	3	stress granule assembly	0,00333920125099289
+GO:0051259	29	5	0,65	5	protein complex oligomerization	4,6026768886222e-05
+GO:0010923	54	5	1,2	5	negative regulation of phosphatase activity	0,00962059631546311
+GO:0046037	14	2	0,31	2	GMP metabolic process	0,0377978060195426
+GO:0051228	4	2	0,09	2	mitotic spindle disassembly	0,00288811112853538
+GO:1904580	1	1	0,02	1	regulation of intracellular mRNA localization	0,0222836363636363
+GO:0042147	37	3	0,82	3	retrograde transport, endosome to Golgi	0,0489282775124216
+GO:0042149	16	2	0,36	2	cellular response to glucose starvation	0,0484114681512814
+GO:0034220	1128	20	25,14	20	ion transmembrane transport	0,0258557375600329
+GO:0006783	43	3	0,96	3	heme biosynthetic process	0,0328489465139914
+GO:0048586	10	2	0,22	2	regulation of long-day photoperiodism, flowering	0,0198200272071662
+GO:0052865	11	2	0,25	2	1-deoxy-D-xylulose 5-phosphate biosynthetic process	0,0238709172753359
+GO:0071472	16	2	0,36	2	cellular response to salt stress	0,0484114681512814
+GO:0034204	30	3	0,67	3	lipid translocation	0,028635186153954
+GO:0009789	12	3	0,27	3	positive regulation of abscisic acid-activated signaling pathway	0,00208636121091526
+GO:0006953	2	2	0,04	2	acute-phase response	0,00049592662530348
+GO:0042026	58	20	1,29	20	protein refolding	5,96026576532699e-19
+GO:0006986	23	4	0,51	4	response to unfolded protein	0,0439272148586541
+GO:0009718	16	2	0,36	2	anthocyanin-containing compound biosynthetic process	0,0484114681512814
+GO:0006970	141	10	3,14	10	response to osmotic stress	0,0424531833754234
+GO:0006979	398	24	8,87	24	response to oxidative stress	0,040367803618827

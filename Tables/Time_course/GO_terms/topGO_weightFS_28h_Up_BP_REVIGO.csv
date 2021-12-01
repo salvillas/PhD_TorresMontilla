@@ -1,0 +1,130 @@
+term_ID,description,frequency,plot_X,plot_Y,plot_size,log10 p-value,uniqueness,dispensability,representative,eliminated
+GO:0006817,"phosphate ion transport",0.242%, 2.088, 6.845,4.492,-2.9510,0.893,0.000,6817,0
+GO:0071805,"potassium ion transmembrane transport",0.331%,null,null,4.628,-2.1404,0.780,0.612,6817,1
+GO:0015810,"aspartate transport",0.010%,null,null,3.112,-1.4011,0.859,0.507,6817,1
+GO:0015867,"ATP transport",0.019%,null,null,3.381,-2.6279,0.855,0.528,6817,1
+GO:1902476,"chloride transmembrane transport",0.047%,null,null,3.780,-2.7415,0.897,0.687,6817,1
+GO:0015689,"molybdate ion transport",0.068%,null,null,3.938,-2.5213,0.900,0.706,6817,1
+GO:0034220,"ion transmembrane transport",3.528%,null,null,5.656,-2.5967,0.889,0.592,6817,1
+GO:0032259,"methylation",3.103%, 6.428, 2.115,5.600,-2.4182,0.971,0.000,32259,0
+GO:0071555,"cell wall organization",0.709%, 1.506, 3.530,4.959,-10.9185,0.883,0.000,71555,0
+GO:0042546,"cell wall biogenesis",0.640%,null,null,4.915,-5.8982,0.890,0.923,71555,1
+GO:0010215,"cellulose microfibril organization",0.007%,null,null,2.925,-2.1522,0.835,0.658,71555,1
+GO:0010208,"pollen wall assembly",0.004%,null,null,2.694,-1.3268,0.802,0.749,71555,1
+GO:0000032,"cell wall mannoprotein biosynthetic process",0.007%,null,null,2.945,-2.3370,0.806,0.635,71555,1
+GO:0030244,"cellulose biosynthetic process",0.025%,-6.175, 0.706,3.511,-10.3430,0.757,0.025,30244,0
+GO:0010411,"xyloglucan metabolic process",0.016%,null,null,3.321,-4.1934,0.851,0.675,30244,1
+GO:0030245,"cellulose catabolic process",0.060%,null,null,3.890,-4.9822,0.850,0.899,30244,1
+GO:0045490,"pectin catabolic process",0.058%,null,null,3.875,-2.3843,0.867,0.867,30244,1
+GO:0045489,"pectin biosynthetic process",0.008%,null,null,3.038,-5.4669,0.785,0.590,30244,1
+GO:0072593,"reactive oxygen species metabolic process",0.282%, 5.070, 0.747,4.558,-1.5377,0.936,0.042,72593,0
+GO:0048443,"stamen development",0.004%, 2.494, 1.438,2.762,-3.6170,0.844,0.045,48443,0
+GO:1905392,"plant organ morphogenesis",0.019%,null,null,3.378,-1.4017,0.854,0.806,48443,1
+GO:0090351,"seedling development",0.010%,null,null,3.104,-1.4239,0.865,0.667,48443,1
+GO:0048868,"pollen tube development",0.008%,null,null,2.998,-1.7015,0.907,0.596,48443,1
+GO:2000067,"regulation of root morphogenesis",0.001%,null,null,1.954,-2.0476,0.842,0.685,48443,1
+GO:0009901,"anther dehiscence",0.001%,null,null,2.013,-2.0476,0.854,0.920,48443,1
+GO:0048467,"gynoecium development",0.004%,null,null,2.753,-2.3373,0.854,0.935,48443,1
+GO:0048446,"petal morphogenesis",0.000%,null,null,1.580,-1.4011,0.858,0.823,48443,1
+GO:0009734,"auxin-activated signaling pathway",0.035%, 5.632,-4.197,3.649,-8.0665,0.783,0.050,9734,0
+GO:2000022,"regulation of jasmonic acid mediated signaling pathway",0.002%,null,null,2.391,-7.0236,0.799,0.673,9734,1
+GO:1905582,"response to mannose",0.013%,null,null,3.221,-1.7858,0.873,0.552,9734,1
+GO:0043434,"response to peptide hormone",0.056%,null,null,3.853,-1.3268,0.859,0.735,9734,1
+GO:0010315,"auxin efflux",0.002%,null,null,2.452,-2.5213,0.746,0.851,9734,1
+GO:0009873,"ethylene-activated signaling pathway",0.005%,null,null,2.803,-2.2767,0.804,0.709,9734,1
+GO:0005975,"carbohydrate metabolic process",5.260%, 2.829,-0.122,5.829,-5.3109,0.933,0.051,5975,0
+GO:0010253,"UDP-rhamnose biosynthetic process",0.000%,-3.057,-6.551,1.079,-4.1041,0.846,0.076,10253,0
+GO:0051211,"anisotropic cell growth",0.000%, 0.209, 2.284,1.633,-1.4246,0.894,0.089,51211,0
+GO:0042814,"monopolar cell growth",0.003%,null,null,2.531,-1.4013,0.816,0.559,51211,1
+GO:0006556,"S-adenosylmethionine biosynthetic process",0.050%,-3.387,-2.304,3.810,-4.4581,0.809,0.106,6556,0
+GO:0019805,"quinolinate biosynthetic process",0.049%,null,null,3.798,-2.8025,0.740,0.767,6556,1
+GO:0006116,"NADH oxidation",0.002%,null,null,2.446,-1.4011,0.772,0.689,6556,1
+GO:0033353,"S-adenosylmethionine cycle",0.039%,null,null,3.694,-2.3375,0.688,0.907,6556,1
+GO:0070814,"hydrogen sulfide biosynthetic process",0.058%,null,null,3.875,-1.4246,0.854,0.577,6556,1
+GO:0009435,"NAD biosynthetic process",0.246%,null,null,4.499,-3.5501,0.677,0.565,6556,1
+GO:0009698,"phenylpropanoid metabolic process",0.021%,-3.614, 1.711,3.431,-2.7109,0.861,0.112,9698,0
+GO:0006629,"lipid metabolic process",3.522%,-5.812, 3.553,5.655,-5.0186,0.847,0.135,6629,0
+GO:0010143,"cutin biosynthetic process",0.002%, 0.984,-2.224,2.336,-1.4011,0.914,0.136,10143,0
+GO:0072699,"protein localization to cortical microtubule cytoskeleton",0.000%, 1.984, 5.235,1.322,-2.2162,0.942,0.142,72699,0
+GO:0009690,"cytokinin metabolic process",0.040%, 1.248,-6.892,3.710,-5.6808,0.807,0.160,9690,0
+GO:0008295,"spermidine biosynthetic process",0.055%,null,null,3.846,-5.4791,0.823,0.682,9690,1
+GO:0006557,"S-adenosylmethioninamine biosynthetic process",0.016%,null,null,3.303,-3.3676,0.692,0.777,9690,1
+GO:0006597,"spermine biosynthetic process",0.010%,null,null,3.124,-4.2115,0.837,0.808,9690,1
+GO:0033388,"putrescine biosynthetic process from arginine",0.002%,null,null,2.352,-2.0476,0.768,0.730,9690,1
+GO:0006730,"one-carbon metabolic process",0.328%,-6.536, 0.130,4.625,-3.5853,0.808,0.173,6730,0
+GO:0006270,"DNA replication initiation",0.141%,-1.507,-3.351,4.259,-1.6250,0.861,0.179,6270,0
+GO:0010951,"negative regulation of endopeptidase activity",0.157%, 2.609,-6.753,4.304,-2.7108,0.863,0.188,10951,0
+GO:0006833,"water transport",0.014%, 1.181, 7.215,3.256,-2.5213,0.884,0.192,6833,0
+GO:0009611,"response to wounding",0.127%, 6.523,-2.601,4.212,-6.6681,0.901,0.252,9611,0
+GO:0018106,"peptidyl-histidine phosphorylation",0.265%,-2.221,-6.662,4.531,-2.3582,0.846,0.269,18106,0
+GO:0006468,"protein phosphorylation",4.137%,null,null,5.725,-1.3780,0.821,0.518,18106,1
+GO:0010731,"protein glutathionylation",0.002%, 2.127,-2.800,2.446,-2.3370,0.915,0.283,10731,0
+GO:0008299,"isoprenoid biosynthetic process",0.442%,-7.095,-0.599,4.754,-5.4917,0.737,0.289,8299,0
+GO:0051484,"isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway involved in terpenoid biosynthetic process",0.000%,null,null,1.663,-1.4011,0.756,0.595,8299,1
+GO:0050992,"dimethylallyl diphosphate biosynthetic process",0.036%,null,null,3.661,-1.6727,0.739,0.565,8299,1
+GO:0016042,"lipid catabolic process",0.401%,null,null,4.712,-1.7200,0.793,0.590,8299,1
+GO:0019288,"isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway",0.148%,null,null,4.279,-1.8379,0.671,0.896,8299,1
+GO:0016126,"sterol biosynthetic process",0.075%,null,null,3.985,-2.8504,0.773,0.598,8299,1
+GO:0030259,"lipid glycosylation",0.057%,null,null,3.864,-2.2162,0.809,0.545,8299,1
+GO:0034440,"lipid oxidation",0.087%,null,null,4.045,-1.3279,0.812,0.766,8299,1
+GO:0031408,"oxylipin biosynthetic process",0.007%,null,null,2.941,-4.1697,0.763,0.502,8299,1
+GO:0006493,"protein O-linked glycosylation",0.045%,null,null,3.761,-1.5381,0.756,0.720,8299,1
+GO:0097503,"sialylation",0.019%,-0.997,-0.352,3.395,-1.6727,0.927,0.290,97503,0
+GO:0061817,"endoplasmic reticulum-plasma membrane tethering",0.000%, 1.391, 5.470,1.708,-1.3268,0.944,0.295,61817,0
+GO:0090158,"endoplasmic reticulum membrane organization",0.001%,-2.222, 4.452,2.100,-1.3268,0.871,0.295,90158,0
+GO:0044209,"AMP salvage",0.035%,-5.117,-3.866,3.649,-4.6799,0.698,0.296,44209,0
+GO:0019509,"L-methionine biosynthetic process from methylthioadenosine",0.067%,null,null,3.934,-2.2162,0.695,0.752,44209,1
+GO:0006555,"methionine metabolic process",0.358%,null,null,4.662,-1.8409,0.724,0.803,44209,1
+GO:0006166,"purine ribonucleoside salvage",0.108%,null,null,4.140,-3.8377,0.698,0.895,44209,1
+GO:0006168,"adenine salvage",0.032%,null,null,3.613,-3.5756,0.732,0.827,44209,1
+GO:0015936,"coenzyme A metabolic process",0.173%,null,null,4.347,-1.3271,0.706,0.536,44209,1
+GO:0009785,"blue light signaling pathway",0.010%, 5.433,-4.420,3.129,-1.3268,0.836,0.296,9785,0
+GO:0055114,"oxidation-reduction process",15.060%,-6.035, 2.726,6.286,-5.3837,0.843,0.300,55114,0
+GO:0043622,"cortical microtubule organization",0.002%,-2.471, 4.976,2.446,-2.0353,0.867,0.310,43622,0
+GO:0051174,"regulation of phosphorus metabolic process",0.580%, 0.227,-6.890,4.872,-1.4004,0.834,0.327,51174,0
+GO:0055085,"transmembrane transport",8.916%, 2.758, 6.366,6.058,-7.5046,0.915,0.339,55085,0
+GO:0006811,"ion transport",5.344%,null,null,5.836,-2.1244,0.918,0.535,55085,1
+GO:0046940,"nucleoside monophosphate phosphorylation",0.000%,-6.050,-4.533,1.380,-1.4343,0.798,0.345,46940,0
+GO:0006526,"arginine biosynthetic process",0.308%,-6.348,-1.331,4.597,-4.6682,0.722,0.353,6526,0
+GO:0019264,"glycine biosynthetic process from serine",0.036%,null,null,3.669,-1.3120,0.754,0.521,6526,1
+GO:0009094,"L-phenylalanine biosynthetic process",0.044%,null,null,3.755,-1.5381,0.750,0.529,6526,1
+GO:0009423,"chorismate biosynthetic process",0.191%,null,null,4.389,-2.3473,0.746,0.506,6526,1
+GO:0033566,"gamma-tubulin complex localization",0.005%, 2.698, 5.512,2.839,-1.4011,0.934,0.354,33566,0
+GO:0009695,"jasmonic acid biosynthetic process",0.001%,-7.326, 0.301,2.217,-3.0230,0.801,0.357,9695,0
+GO:0015996,"chlorophyll catabolic process",0.008%,-6.388,-3.083,3.037,-3.0230,0.783,0.365,15996,0
+GO:0051555,"flavonol biosynthetic process",0.001%,null,null,2.158,-2.0476,0.835,0.510,15996,1
+GO:0009051,"pentose-phosphate shunt, oxidative branch",0.003%,-5.327,-4.312,2.569,-2.3582,0.753,0.373,9051,0
+GO:0052865,"1-deoxy-D-xylulose 5-phosphate biosynthetic process",0.027%,-3.846,-6.395,3.541,-2.0908,0.817,0.394,52865,0
+GO:0035434,"copper ion transmembrane transport",0.038%, 1.875, 6.475,3.683,-2.2162,0.910,0.399,35434,0
+GO:0031640,"killing of cells of other organism",0.019%, 3.473,-6.762,3.389,-1.8373,0.917,0.399,31640,0
+GO:0006357,"regulation of transcription from RNA polymerase II promoter",1.273%,-0.123,-6.092,5.213,-1.3949,0.776,0.399,6357,0
+GO:0006878,"cellular copper ion homeostasis",0.020%, 2.134,-7.010,3.405,-2.9424,0.827,0.400,6878,0
+GO:0055069,"zinc ion homeostasis",0.013%,null,null,3.214,-1.4011,0.916,0.711,6878,1
+GO:0051560,"mitochondrial calcium ion homeostasis",0.006%,null,null,2.891,-1.3663,0.836,0.727,6878,1
+GO:0006253,"dCTP catabolic process",0.000%,-5.114,-5.072,1.477,-1.4246,0.784,0.404,6253,0
+GO:0046168,"glycerol-3-phosphate catabolic process",0.048%,null,null,3.787,-1.4246,0.817,0.542,6253,1
+GO:0043953,"protein transport by the Tat complex",0.073%, 1.041, 6.532,3.974,-1.3268,0.915,0.416,43953,0
+GO:0046686,"response to cadmium ion",0.027%, 6.770,-1.964,3.534,-2.4932,0.871,0.417,46686,0
+GO:0010193,"response to ozone",0.002%,null,null,2.427,-1.7858,0.869,0.603,46686,1
+GO:0010043,"response to zinc ion",0.009%,null,null,3.058,-1.4011,0.877,0.754,46686,1
+GO:0051592,"response to calcium ion",0.018%,null,null,3.357,-2.3370,0.874,0.785,46686,1
+GO:0009414,"response to water deprivation",0.022%,null,null,3.453,-1.7435,0.849,0.696,46686,1
+GO:0015827,"tryptophan transport",0.001%, 1.826, 6.985,2.037,-1.4011,0.872,0.436,15827,0
+GO:0000160,"phosphorelay signal transduction system",2.570%, 4.650,-4.777,5.518,-5.3974,0.779,0.436,160,0
+GO:0023014,"signal transduction by protein phosphorylation",1.506%,null,null,5.286,-2.3318,0.665,0.645,160,1
+GO:0042594,"response to starvation",0.109%, 6.853,-2.461,4.147,-2.6949,0.888,0.436,42594,0
+GO:0042262,"DNA protection",0.003%,null,null,2.619,-1.4246,0.823,0.621,42594,1
+GO:0009991,"response to extracellular stimulus",0.473%,null,null,4.783,-1.4025,0.891,0.695,42594,1
+GO:0006004,"fucose metabolic process",0.026%,-6.827, 1.575,3.518,-4.7466,0.814,0.437,6004,0
+GO:0035999,"tetrahydrofolate interconversion",0.129%,null,null,4.217,-2.1522,0.749,0.699,6004,1
+GO:0033355,"ascorbate glutathione cycle",0.083%,null,null,4.025,-2.8025,0.687,0.621,6004,1
+GO:2000082,"regulation of L-ascorbic acid biosynthetic process",0.000%,null,null,1.114,-2.3370,0.769,1.004,6004,1
+GO:0051176,"positive regulation of sulfur metabolic process",0.004%, 2.755,-5.637,2.665,-2.3370,0.867,0.441,51176,0
+GO:0031347,"regulation of defense response",0.132%, 5.232,-4.840,4.229,-3.2677,0.864,0.443,31347,0
+GO:0042372,"phylloquinone biosynthetic process",0.006%,-6.993,-1.350,2.915,-1.4246,0.774,0.446,42372,0
+GO:0048229,"gametophyte development",0.024%, 2.072, 1.289,3.494,-1.4003,0.873,0.447,48229,0
+GO:0018401,"peptidyl-proline hydroxylation to 4-hydroxy-L-proline",0.001%,-4.684,-1.435,2.196,-2.0476,0.789,0.480,18401,0
+GO:0002238,"response to molecule of fungal origin",0.001%, 6.997,-1.708,2.196,-1.3268,0.881,0.484,2238,0
+GO:0019305,"dTDP-rhamnose biosynthetic process",0.000%,-3.793,-5.840,1.602,-1.8373,0.850,0.491,19305,0
+GO:0009298,"GDP-mannose biosynthetic process",0.028%,null,null,3.552,-1.3268,0.818,0.627,19305,1
+GO:0007010,"cytoskeleton organization",0.786%, 0.096, 3.847,5.004,-3.4535,0.911,0.497,7010,0

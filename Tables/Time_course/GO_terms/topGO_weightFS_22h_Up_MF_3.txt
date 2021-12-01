@@ -1,0 +1,58 @@
+microtubule binding
+very-long-chain 3-ketoacyl-CoA synthase activity
+calcium ion binding
+pectinesterase activity
+S-(hydroxymethyl)glutathione dehydrogenase activity
+cinnamyl-alcohol dehydrogenase activity
+protein dimerization activity
+oxidoreductase activity, acting on CH-OH group of donors
+enoyl-[acyl-carrier-protein] reductase (NADH) activity
+Arp2/3 complex binding
+flavin adenine dinucleotide binding
+long-chain-alcohol oxidase activity
+glucose-6-phosphate dehydrogenase activity
+proline dehydrogenase activity
+protochlorophyllide reductase activity
+L-alanine transmembrane transporter activity
+arginine transmembrane transporter activity
+gamma-aminobutyric acid transmembrane transporter activity
+adenine phosphoribosyltransferase activity
+L-lysine transmembrane transporter activity
+3-oxo-arachidoyl-CoA synthase activity
+3-oxo-cerotoyl-CoA synthase activity
+L-glutamate transmembrane transporter activity
+pectate lyase activity
+3-oxo-lignoceronyl-CoA synthase activity
+L-allo-threonine aldolase activity
+thiamine pyrophosphate binding
+protein kinase A regulatory subunit binding
+abscisic acid binding
+beta-N-acetylhexosaminidase activity
+delta24-sterol reductase activity
+S-adenosyl-L-methionine transmembrane transporter activity
+phosphatidylglycerophosphatase activity
+aldehyde oxygenase (deformylating) activity
+tetrapyrrole binding
+UDP-N-acetylglucosamine diphosphorylase activity
+galacturonate binding
+protein phosphatase inhibitor activity
+phosphatidic acid binding
+uridine nucleosidase activity
+xyloglucan:xyloglucosyl transferase activity
+enzyme inhibitor activity
+N-acetyl-beta-D-galactosaminidase activity
+hydrolase activity, acting on ester bonds
+carbonate dehydratase activity
+[ribulose-bisphosphate carboxylase]-lysine N-methyltransferase activity
+ubiquitin ligase activator activity
+octadecanal decarbonylase activity
+alcohol dehydrogenase activity, zinc-dependent
+squalene monooxygenase activity
+alanine-tRNA ligase activity
+aspartyl esterase activity
+methyl indole-3-acetate esterase activity
+mandelonitrile lyase activity
+2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase activity
+channel activity
+anthranilate phosphoribosyltransferase activity
+isochorismate synthase activity

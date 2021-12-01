@@ -1,0 +1,152 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0042793	9	5	1,32	5	plastid transcription	0,00516153060737481
+GO:0015969	6	4	0,88	4	guanosine tetraphosphate metabolic process	0,00547402942537885
+GO:0009408	74	27	10,89	27	response to heat	0,000842590511065074
+GO:0045454	36	16	5,3	16	cell redox homeostasis	1,78972980829516e-05
+GO:0010387	2	2	0,29	2	COP9 signalosome assembly	0,0216539738732753
+GO:0030968	12	7	1,77	7	endoplasmic reticulum unfolded protein response	0,000593875562314414
+GO:0015976	6	3	0,88	3	carbon utilization	0,0450027251238052
+GO:0015940	2	2	0,29	2	pantothenate biosynthetic process	0,0216539738732753
+GO:0043328	5	3	0,74	3	protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	0,0252383772745921
+GO:0006850	6	3	0,88	3	mitochondrial pyruvate transmembrane transport	0,0450027251238052
+GO:0033617	12	5	1,77	5	mitochondrial cytochrome c oxidase assembly	0,022116306203095
+GO:0019243	5	3	0,74	3	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione	0,0252383772745921
+GO:2000028	20	9	2,94	9	regulation of photoperiodism, flowering	0,00680808338656696
+GO:0010499	22	10	3,24	10	proteasomal ubiquitin-independent protein catabolic process	0,000553291860504016
+GO:0070932	10	4	1,47	4	histone H3 deacetylation	0,0469602372052036
+GO:0006807	10254	1532	1509,13	1532	nitrogen compound metabolic process	0,000260340743964758
+GO:0000395	2	2	0,29	2	mRNA 5'-splice site recognition	0,0216539738732753
+GO:0009107	3	3	0,44	3	lipoate biosynthetic process	0,00318504955218436
+GO:0000398	164	33	24,14	33	mRNA splicing, via spliceosome	0,0274596311631305
+GO:0045175	3	3	0,44	3	basal protein localization	0,00318504955218436
+GO:0045116	8	4	1,18	4	protein neddylation	0,0199651179755144
+GO:0046951	3	3	0,44	3	ketone body biosynthetic process	0,00318504955218436
+GO:0005983	5	3	0,74	3	starch catabolic process	0,0252383772745921
+GO:0000373	17	8	2,5	8	Group II intron splicing	0,00152331846955263
+GO:0006552	4	3	0,59	3	leucine catabolic process	0,0113351567030965
+GO:0006572	4	3	0,59	3	tyrosine catabolic process	0,0113351567030965
+GO:0046940	17	6	2,5	6	nucleoside monophosphate phosphorylation	0,0292209964517817
+GO:0000338	6	4	0,88	4	protein deneddylation	0,00547402942537885
+GO:0006515	30	13	4,42	13	protein quality control for misfolded or incompletely synthesized proteins	1,59601633040778e-05
+GO:0043403	2	2	0,29	2	skeletal muscle tissue regeneration	0,0216539738732753
+GO:0010193	12	6	1,77	6	response to ozone	0,00419679838464767
+GO:0009249	6	3	0,88	3	protein lipoylation	0,0450027251238052
+GO:0010197	6	3	0,88	3	polar nucleus fusion	0,0450027251238052
+GO:0006535	14	5	2,06	5	cysteine biosynthetic process from serine	0,0434398730681297
+GO:0009231	13	6	1,91	6	riboflavin biosynthetic process	0,0068311701368103
+GO:0043161	211	57	31,05	57	proteasome-mediated ubiquitin-dependent protein catabolic process	0,00132324086809535
+GO:0009793	79	21	11,63	21	embryo development ending in seed dormancy	0,0042443049920594
+GO:0010121	2	2	0,29	2	arginine catabolic process to proline via ornithine	0,0216539738732753
+GO:0001510	65	18	9,57	18	RNA methylation	0,031441983773836
+GO:0042542	16	6	2,35	6	response to hydrogen peroxide	0,0215284104571034
+GO:0019878	3	3	0,44	3	lysine biosynthetic process via aminoadipic acid	0,00318504955218436
+GO:0010136	2	2	0,29	2	ureide catabolic process	0,0216539738732753
+GO:0006623	23	10	3,39	10	protein targeting to vacuole	0,000850504952640387
+GO:0006627	6	3	0,88	3	protein processing involved in protein targeting to mitochondrion	0,0450027251238052
+GO:0030308	4	4	0,59	4	negative regulation of cell growth	0,0216286937117349
+GO:0042692	2	2	0,29	2	muscle cell differentiation	0,0216539738732753
+GO:0090503	33	9	4,86	9	RNA phosphodiester bond hydrolysis, exonucleolytic	0,0444333829830116
+GO:0071596	2	2	0,29	2	ubiquitin-dependent protein catabolic process via the N-end rule pathway	0,0216539738732753
+GO:0034599	44	18	6,48	18	cellular response to oxidative stress	0,000342878517924922
+GO:0010224	27	11	3,97	11	response to UV-B	0,00126517079575889
+GO:0071586	11	6	1,62	6	CAAX-box protein processing	0,00239533697348104
+GO:0045717	6	3	0,88	3	negative regulation of fatty acid biosynthetic process	0,0450027251238052
+GO:0010236	2	2	0,29	2	plastoquinone biosynthetic process	0,0216539738732753
+GO:0010239	5	3	0,74	3	chloroplast mRNA processing	0,0252383772745921
+GO:0045732	34	11	5	11	positive regulation of protein catabolic process	0,0448451523706735
+GO:0030433	27	13	3,97	13	ubiquitin-dependent ERAD pathway	3,88621707562817e-05
+GO:0019544	2	2	0,29	2	arginine catabolic process to glutamate	0,0216539738732753
+GO:0009816	10	4	1,47	4	defense response to bacterium, incompatible interaction	0,04498602184344
+GO:0019509	7	4	1,03	4	L-methionine salvage from methylthioadenosine	0,0112874243640984
+GO:0009835	11	6	1,62	6	fruit ripening	0,00239533697348104
+GO:0030150	24	12	3,53	12	protein import into mitochondrial matrix	4,82852054146932e-05
+GO:0006099	52	16	7,65	16	tricarboxylic acid cycle	0,00247526574624429
+GO:0050790	585	82	86,1	82	regulation of catalytic activity	0,0266373874845478
+GO:0000256	2	2	0,29	2	allantoin catabolic process	0,0216539738732753
+GO:0035335	33	10	4,86	10	peptidyl-tyrosine dephosphorylation	0,0171140432119419
+GO:0009561	13	6	1,91	6	megagametogenesis	0,0449227662945347
+GO:0009585	10	5	1,47	5	red, far-red light phototransduction	0,00907961386725973
+GO:0055129	5	3	0,74	3	L-proline biosynthetic process	0,0252383772745921
+GO:1900027	2	2	0,29	2	regulation of ruffle assembly	0,0216539738732753
+GO:0070143	2	2	0,29	2	mitochondrial alanyl-tRNA aminoacylation	0,0216539738732753
+GO:0000209	55	14	8,09	14	protein polyubiquitination	0,0254638319359868
+GO:0006006	48	12	7,06	12	glucose metabolic process	0,0358250019724649
+GO:0034605	18	9	2,65	9	cellular response to heat	0,000923777822155151
+GO:0032780	3	3	0,44	3	negative regulation of ATPase activity	0,0216413325835278
+GO:0032781	22	8	3,24	8	positive regulation of ATPase activity	0,0468443481033725
+GO:0042026	32	12	4,71	12	protein refolding	0,00128472873231937
+GO:1901259	6	4	0,88	4	chloroplast rRNA processing	0,00547402942537885
+GO:0006995	8	4	1,18	4	cellular response to nitrogen starvation	0,0199651179755144
+GO:0009693	12	6	1,77	6	ethylene biosynthetic process	0,00419679838464767
+GO:0050896	3200	456	470,96	456	response to stimulus	0,0204683639356537
+GO:0009658	92	30	13,54	30	chloroplast organization	3,03400205403338e-05
+GO:0000710	6	3	0,88	3	meiotic mismatch repair	0,0450027251238052
+GO:0050821	19	6	2,8	6	protein stabilization	0,0494959351115851
+GO:0006914	61	24	8,98	24	autophagy	0,0211434345869649
+GO:0048511	57	15	8,39	15	rhythmic process	0,0316641545393507
+GO:0016310	2112	296	310,83	296	phosphorylation	6,17431023280318e-08
+GO:0008299	102	32	15,01	32	isoprenoid biosynthetic process	6,687545826756e-05
+GO:0048671	2	2	0,29	2	negative regulation of collateral sprouting	0,0216539738732753
+GO:0009090	5	3	0,74	3	homoserine biosynthetic process	0,0252383772745921
+GO:0009098	7	4	1,03	4	leucine biosynthetic process	0,0112874243640984
+GO:0072598	14	8	2,06	8	protein localization to chloroplast	0,0215912147170245
+GO:0006352	69	22	10,16	22	DNA-templated transcription, initiation	0,00896815087261101
+GO:0009058	5231	798	769,87	798	biosynthetic process	0,0287442895357526
+GO:0044255	608	135	89,48	135	cellular lipid metabolic process	0,00975144000851556
+GO:0009086	21	11	3,09	11	methionine biosynthetic process	0,0051282873662569
+GO:0006370	7	4	1,03	4	7-methylguanosine mRNA capping	0,0112874243640984
+GO:0009073	52	16	7,65	16	aromatic amino acid family biosynthetic process	0,00151339197064974
+GO:0006334	75	19	11,04	19	nucleosome assembly	0,0230967780076593
+GO:0097428	13	9	1,91	9	protein maturation by iron-sulfur cluster transfer	0,000215576699056042
+GO:0045053	7	6	1,03	6	protein retention in Golgi apparatus	6,19063901080173e-05
+GO:1903003	4	3	0,59	3	positive regulation of protein deubiquitination	0,0113351567030965
+GO:0042372	6	3	0,88	3	phylloquinone biosynthetic process	0,0450027251238052
+GO:0030587	6	3	0,88	3	sorocarp development	0,0450027251238052
+GO:0006457	214	56	31,5	56	protein folding	0,000726313124190014
+GO:0045037	6	5	0,88	5	protein import into chloroplast stroma	0,000362499770459768
+GO:0016114	73	18	10,74	18	terpenoid biosynthetic process	0,0314918741263956
+GO:0030517	2	2	0,29	2	negative regulation of axon extension	0,0216539738732753
+GO:0006479	118	17	17,37	17	protein methylation	0,0200413055005954
+GO:0006415	23	11	3,39	11	translational termination	6,16538212798064e-05
+GO:0070525	5	4	0,74	4	tRNA threonylcarbamoyladenosine metabolic process	0,0216308729252072
+GO:0006402	83	18	12,22	18	mRNA catabolic process	0,0316941170933551
+GO:0007005	153	58	22,52	58	mitochondrion organization	0,00106513538459159
+GO:0010020	12	6	1,77	6	chloroplast fission	0,00419679838464767
+GO:0010027	11	6	1,62	6	thylakoid membrane organization	0,00239533697348104
+GO:0043085	159	37	23,4	37	positive regulation of catalytic activity	0,00729631620273761
+GO:0106035	5	3	0,74	3	protein maturation by [4Fe-4S] cluster transfer	0,0252383772745921
+GO:0034355	2	2	0,29	2	NAD salvage	0,0216539738732753
+GO:0016226	29	21	4,27	21	iron-sulfur cluster assembly	2,21642276421484e-09
+GO:0061615	14	5	2,06	5	glycolytic process through fructose-6-phosphate	0,0434398730681297
+GO:0006145	2	2	0,29	2	purine nucleobase catabolic process	0,0216539738732753
+GO:0046506	2	2	0,29	2	sulfolipid biosynthetic process	0,0216539738732753
+GO:0006108	20	7	2,94	7	malate metabolic process	0,0198400892727061
+GO:0034497	5	3	0,74	3	protein localization to phagophore assembly site	0,0252383772745921
+GO:0051259	27	8	3,97	8	protein complex oligomerization	0,00124460582001117
+GO:0000055	12	7	1,77	7	ribosomal large subunit export from nucleus	0,000593875562314414
+GO:0000056	9	6	1,32	6	ribosomal small subunit export from nucleus	0,000568290868928659
+GO:0046654	5	3	0,74	3	tetrahydrofolate biosynthetic process	0,0252383772745921
+GO:0046656	3	3	0,44	3	folic acid biosynthetic process	0,00318504955218436
+GO:0010928	17	6	2,5	6	regulation of auxin mediated signaling pathway	0,00261105879913894
+GO:0019419	3	3	0,44	3	sulfate reduction	0,00318504955218436
+GO:0019430	19	8	2,8	8	removal of superoxide radicals	0,00741535318390348
+GO:0044571	3	3	0,44	3	[2Fe-2S] cluster assembly	0,00318504955218436
+GO:0000045	25	12	3,68	12	autophagosome assembly	0,00114177340790059
+GO:0002943	6	4	0,88	4	tRNA dihydrouridine synthesis	0,00547402942537885
+GO:0051205	34	10	5	10	protein insertion into membrane	0,0216051357154351
+GO:0008610	460	104	67,7	104	lipid biosynthetic process	0,0399754488449358
+GO:0032955	2	2	0,29	2	regulation of division septum assembly	0,0216539738732753
+GO:0032981	18	7	2,65	7	mitochondrial respiratory chain complex I assembly	0,0106292553495386
+GO:0051782	2	2	0,29	2	negative regulation of cell division	0,0216539738732753
+GO:0051776	2	2	0,29	2	detection of redox state	0,0216539738732753
+GO:0055059	4	3	0,59	3	asymmetric neuroblast division	0,0113351567030965
+GO:0055088	19	7	2,8	7	lipid homeostasis	0,0199322797093428
+GO:0033528	2	2	0,29	2	S-methylmethionine cycle	0,0216539738732753
+GO:0033512	6	4	0,88	4	L-lysine catabolic process to acetyl-CoA via saccharopine	0,00547402942537885
+GO:0006782	14	9	2,06	9	protoporphyrinogen IX biosynthetic process	3,16753335353668e-05
+GO:0009423	13	6	1,91	6	chorismate biosynthetic process	0,0068311701368103
+GO:0060776	2	2	0,29	2	simple leaf morphogenesis	0,0216539738732753
+GO:0009415	78	15	11,48	15	response to water	0,0216269530454169
+GO:1901006	3	3	0,44	3	ubiquinone-6 biosynthetic process	0,00318504955218436
+GO:0006744	20	9	2,94	9	ubiquinone biosynthetic process	0,0291065605614428
+GO:0006749	53	15	7,8	15	glutathione metabolic process	0,0130308460518923

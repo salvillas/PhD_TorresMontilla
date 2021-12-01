@@ -1,0 +1,123 @@
+peptidyl-tyrosine dephosphorylation
+ethylene biosynthetic process
+protein transport
+phenylpropanoid metabolic process
+endoplasmic reticulum unfolded protein response
+cellular response to lead ion
+response to salt
+response to insect
+response to wounding
+galactolipid biosynthetic process
+ATP transport
+response to biotic stimulus
+defense response
+maintenance of shoot apical meristem identity
+recognition of pollen
+cell wall macromolecule catabolic process
+autophagy of mitochondrion
+defense response to fungus
+response to oxidative stress
+oxidation-dependent protein catabolic process
+protein autophosphorylation
+gamma-aminobutyric acid catabolic process
+GDP metabolic process
+GMP metabolic process
+formate catabolic process
+maintenance of seed dormancy by absisic acid
+chorismate biosynthetic process
+xyloglucan metabolic process
+vesicle docking involved in exocytosis
+negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway
+metal ion transport
+cyanate metabolic process
+glycerol metabolic process
+toxin catabolic process
+tryptophan catabolic process to kynurenine
+regulation of jasmonic acid mediated signaling pathway
+removal of superoxide radicals
+seed trichome elongation
+galactose metabolic process
+N-acetylglucosamine metabolic process
+chitin catabolic process
+phosphate ion homeostasis
+glutathione metabolic process
+transmembrane receptor protein serine/threonine kinase signaling pathway
+mature ribosome assembly
+regulation of defense response
+lipid catabolic process
+killing of cells of other organism
+cellular oxidant detoxification
+cellular response to phosphate starvation
+regulation of abscisic acid biosynthetic process
+positive regulation of response to water deprivation
+cell redox homeostasis
+lead ion transport
+chaperone-mediated protein complex assembly
+lipid oxidation
+myo-inositol hexakisphosphate biosynthetic process
+response to vitamin B1
+defense response to oomycetes
+ceramide biosynthetic process
+negative regulation of endopeptidase activity
+cell wall organization
+mitochondrial mRNA modification
+oxylipin biosynthetic process
+developmental vegetative growth
+defense response to bacterium
+hydrogen peroxide catabolic process
+polyamine catabolic process
+isopentenyl diphosphate biosynthetic process, mevalonate pathway
+protein kinase C-activating G protein-coupled receptor signaling pathway
+defense response to other organism
+response to chitin
+regulation of salicylic acid biosynthetic process
+L-phenylalanine catabolic process
+protein quality control for misfolded or incompletely synthesized proteins
+biosynthetic process
+glutamate decarboxylation to succinate
+cytidine to uridine editing
+glutamate catabolic process
+response to salicylic acid
+response to jasmonic acid
+sesquiterpene biosynthetic process
+response to brassinosteroid
+steroid biosynthetic process
+inflorescence morphogenesis
+rRNA processing
+regulation of transcription, DNA-templated
+calcium-mediated signaling
+glycerol ether metabolic process
+long-chain fatty acid metabolic process
+response to starvation
+protein retention in ER lumen
+lipid metabolic process
+SRP-dependent cotranslational protein targeting to membrane, translocation
+isoprenoid biosynthetic process
+regulation of defense response to fungus
+double-strand break repair via nonhomologous end joining
+dephosphorylation
+cellular response to hypoxia
+trehalose biosynthetic process
+ethylene-activated signaling pathway
+lipid translocation
+ubiquitin-dependent ERAD pathway
+dimethylallyl diphosphate biosynthetic process
+posttranslational protein targeting to membrane, translocation
+cell wall biogenesis
+calcium ion transmembrane transport
+sucrose catabolic process
+protein phosphorylation
+chlorophyll catabolic process
+dolichyl monophosphate biosynthetic process
+protein N-linked glycosylation
+protein dephosphorylation
+extracellular matrix organization
+piecemeal microautophagy of the nucleus
+threonyl-tRNA aminoacylation
+melatonin biosynthetic process
+phospholipid transport
+tRNA export from nucleus
+flavonol biosynthetic process
+GMP biosynthetic process
+UDP-glucose transmembrane transport
+UDP-galactose transmembrane transport

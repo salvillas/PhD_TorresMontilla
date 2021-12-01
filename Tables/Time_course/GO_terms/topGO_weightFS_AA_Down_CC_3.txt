@@ -1,0 +1,26 @@
+endomembrane system
+integral component of membrane
+integral component of Golgi membrane
+integral component of mitochondrial inner membrane
+perinuclear region of cytoplasm
+plasma membrane
+cell surface
+proteasome core complex, alpha-subunit complex
+mitochondrial respiratory chain complex III
+mitochondrial intermembrane space
+endoplasmic reticulum
+endoplasmic reticulum lumen
+endoplasmic reticulum membrane
+cytosol
+preribosome, large subunit precursor
+vacuole
+lipid droplet
+polysome
+proteasome regulatory particle, base subcomplex
+ESCRT III complex
+heterotrimeric G-protein complex
+germ cell nucleus
+oxoglutarate dehydrogenase complex
+SNARE complex
+cytoplasm
+VCP-NPL4-UFD1 AAA ATPase complex

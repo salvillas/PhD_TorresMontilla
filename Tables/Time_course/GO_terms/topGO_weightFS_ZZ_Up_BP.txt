@@ -1,0 +1,54 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0016998	19	3	0,18	3	cell wall macromolecule catabolic process	0,0007187219244353
+GO:0019344	27	2	0,25	2	cysteine biosynthetic process	0,0461387669600078
+GO:0042026	58	4	0,55	4	protein refolding	0,00220251254553032
+GO:2000022	29	2	0,27	2	regulation of jasmonic acid mediated signaling pathway	0,0304144629913213
+GO:0031640	5	2	0,05	2	killing of cells of other organism	0,000869197988375933
+GO:1903298	4	2	0,04	2	negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway	0,000524791215215767
+GO:0015996	12	2	0,11	2	chlorophyll catabolic process	0,00549167952197837
+GO:0048281	4	1	0,04	1	inflorescence morphogenesis	0,0371737237238476
+GO:0055114	3639	64	34,3	64	oxidation-reduction process	4,4119993746302e-05
+GO:0050832	80	3	0,75	3	defense response to fungus	0,0400595765924655
+GO:0042744	224	12	2,11	12	hydrogen peroxide catabolic process	5,14027782221704e-05
+GO:0010273	3	1	0,03	1	detoxification of copper ion	0,0280114905966896
+GO:0010951	71	8	0,67	8	negative regulation of endopeptidase activity	3,62969110992685e-07
+GO:0009695	12	2	0,11	2	jasmonic acid biosynthetic process	0,00549167952197837
+GO:0019419	7	5	0,07	5	sulfate reduction	1,49158157710179e-09
+GO:0015914	54	3	0,51	3	phospholipid transport	0,0144393658078357
+GO:0019430	35	2	0,33	2	removal of superoxide radicals	0,0429657725843896
+GO:0019432	24	2	0,23	2	triglyceride biosynthetic process	0,0213212636650767
+GO:0010200	4	1	0,04	1	response to chitin	0,0371737237238476
+GO:0015671	3	2	0,03	2	oxygen transport	0,000264043354772993
+GO:0009058	8924	78	84,11	78	biosynthetic process	0,0427510734279952
+GO:0031408	27	2	0,25	2	oxylipin biosynthetic process	0,0266191803048249
+GO:0009082	67	3	0,63	3	branched-chain amino acid biosynthetic process	0,0363424876405938
+GO:0006952	893	20	8,42	20	defense response	0,00837036462224542
+GO:0006979	398	14	3,75	14	response to oxidative stress	3,84706116149731e-05
+GO:0009611	80	5	0,75	5	response to wounding	0,000973072346708599
+GO:0017186	5	1	0,05	1	peptidyl-pyroglutamic acid biosynthetic process, using glutaminyl-peptide cyclotransferase	0,0462498551577154
+GO:0009607	307	10	2,89	10	response to biotic stimulus	0,0200595922285543
+GO:0033355	2	2	0,02	2	ascorbate glutathione cycle	8,85675748583759e-05
+GO:0006621	15	3	0,14	3	protein retention in ER lumen	0,000347043714121723
+GO:0006629	1330	26	12,54	26	lipid metabolic process	0,00141992085125169
+GO:0070816	27	2	0,25	2	phosphorylation of RNA polymerase II C-terminal domain	0,0266191803048249
+GO:0006032	28	3	0,26	3	chitin catabolic process	0,00228222372184031
+GO:0010731	3	2	0,03	2	protein glutathionylation	0,000264043354772993
+GO:0030968	13	2	0,12	2	endoplasmic reticulum unfolded protein response	0,00644994575542848
+GO:0009435	24	2	0,23	2	NAD biosynthetic process	0,0213212636650767
+GO:0006457	365	12	3,44	12	protein folding	0,0100843898578612
+GO:0006749	60	5	0,57	5	glutathione metabolic process	0,0171969923482167
+GO:0016121	5	1	0,05	1	carotene catabolic process	0,0462498551577154
+GO:0098869	378	18	3,56	18	cellular oxidant detoxification	1,92355633630109e-07
+GO:0032968	38	2	0,36	2	positive regulation of transcription elongation from RNA polymerase II promoter	0,04984436448879
+GO:0009862	3	1	0,03	1	systemic acquired resistance, salicylic acid mediated signaling pathway	0,0280114905966896
+GO:0034440	39	3	0,37	3	lipid oxidation	0,00303869779392628
+GO:0000028	38	2	0,36	2	ribosomal small subunit assembly	0,04984436448879
+GO:0120009	22	3	0,21	3	intermembrane lipid transfer	0,00111858974834091
+GO:0090378	3	1	0,03	1	seed trichome elongation	0,0280114905966896
+GO:0046777	96	4	0,9	4	protein autophosphorylation	0,0130636282173458
+GO:0008299	153	7	1,44	7	isoprenoid biosynthetic process	0,00133451145867738
+GO:0010152	3	1	0,03	1	pollen maturation	0,0280114905966896
+GO:0010155	1	1	0,01	1	regulation of proton transport	0,00942545454545463
+GO:0019509	10	2	0,09	2	L-methionine salvage from methylthioadenosine	0,00379122598220807
+GO:0045792	1	1	0,01	1	negative regulation of cell size	0,00942545454545463
+GO:0051085	61	3	0,57	3	chaperone cofactor-dependent protein refolding	0,0199701743651106

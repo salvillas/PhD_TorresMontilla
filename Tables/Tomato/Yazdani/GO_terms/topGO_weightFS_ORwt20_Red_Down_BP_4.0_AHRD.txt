@@ -1,0 +1,95 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0006734	9	6	1,43	6	NADH metabolic process	0,000102132546661736
+GO:0015995	28	16	4,46	16	chlorophyll biosynthetic process	7,30670283626464e-07
+GO:0015977	22	8	3,5	8	carbon fixation	0,00362686803584328
+GO:0015979	343	97	54,63	97	photosynthesis	9,32977516354556e-07
+GO:1901962	3	3	0,48	3	S-adenosyl-L-methionine transmembrane transport	0,0040364076202695
+GO:0006865	87	21	13,86	21	amino acid transport	0,00410063249514717
+GO:0034220	621	96	98,9	96	ion transmembrane transport	0,00736629547044224
+GO:0006817	282	74	44,91	74	phosphate ion transport	4,54156011644042e-06
+GO:0070979	7	4	1,11	4	protein K11-linked ubiquitination	0,0149837548593991
+GO:0005980	4	3	0,64	3	glycogen catabolic process	0,0142186225209101
+GO:0005986	13	7	2,07	7	sucrose biosynthetic process	0,00181705636198747
+GO:0005975	1113	263	177,26	263	carbohydrate metabolic process	4,19409629107476e-05
+GO:0051513	4	3	0,64	3	regulation of monopolar cell growth	0,0142186225209101
+GO:0005978	11	6	1,75	6	glycogen biosynthetic process	0,00362836235938701
+GO:0010196	3	3	0,48	3	nonphotochemical quenching	0,0040364076202695
+GO:0006538	9	4	1,43	4	glutamate catabolic process	0,0413479041036192
+GO:0009234	4	4	0,64	4	menaquinone biosynthetic process	0,000642335986722652
+GO:0120142	2	2	0,32	2	positive regulation of ecdysone receptor-mediated signaling pathway	0,0253578367334146
+GO:0042550	2	2	0,32	2	photosystem I stabilization	0,0253578367334146
+GO:0010158	2	2	0,32	2	abaxial cell fate specification	0,0253578367334146
+GO:0030388	12	7	1,91	7	fructose 1,6-bisphosphate metabolic process	0,00097204797650441
+GO:0019853	11	5	1,75	5	L-ascorbic acid biosynthetic process	0,0413185598722471
+GO:0010114	12	6	1,91	6	response to red light	0,00628467674226961
+GO:0009765	36	26	5,73	26	photosynthesis, light harvesting	0,00185449279237447
+GO:0010133	2	2	0,32	2	proline catabolic process to glutamate	0,0253578367334146
+GO:0009768	22	16	3,5	16	photosynthesis, light harvesting in photosystem I	4,70115848616891e-09
+GO:0000413	72	19	11,47	19	protein peptidyl-prolyl isomerization	0,0156433836764292
+GO:0009785	7	4	1,11	4	blue light signaling pathway	0,0149837548593991
+GO:0009773	8	7	1,27	7	photosynthetic electron transport in photosystem I	1,77997996067997e-05
+GO:0009723	106	22	16,88	22	response to ethylene	0,0114480532179469
+GO:0009718	9	6	1,43	6	anthocyanin-containing compound biosynthetic process	0,00088105222029207
+GO:0009749	22	7	3,5	7	response to glucose	0,0413763114114229
+GO:0009734	123	36	19,59	36	auxin-activated signaling pathway	2,72767846157267e-05
+GO:0009735	40	10	6,37	10	response to cytokinin	0,00403215337735655
+GO:0010258	2	2	0,32	2	NADH dehydrogenase complex (plastoquinone) assembly	0,0253578367334146
+GO:0010275	4	4	0,64	4	NAD(P)H dehydrogenase complex assembly	0,0253308668825141
+GO:0071555	320	65	50,96	65	cell wall organization	0,0135932627608597
+GO:0009867	39	8	6,21	8	jasmonic acid mediated signaling pathway	0,0413814021279344
+GO:0009854	9	4	1,43	4	oxidative photosynthetic carbon pathway	0,0413479041036192
+GO:0010206	4	4	0,64	4	photosystem II repair	0,000642335986722652
+GO:0010207	13	8	2,07	8	photosystem II assembly	0,000970444545032905
+GO:0008360	28	11	4,46	11	regulation of cell shape	0,00638547748816168
+GO:0009833	14	8	2,23	8	plant-type primary cell wall biogenesis	0,000497296204721384
+GO:0046467	83	8	13,22	8	membrane lipid biosynthetic process	0,0254690760360723
+GO:0045842	5	3	0,8	3	positive regulation of mitotic metaphase/anaphase transition	0,0313421841235892
+GO:0006075	12	5	1,91	5	(1->3)-beta-D-glucan biosynthetic process	0,0303526952731239
+GO:0006021	8	4	1,27	4	inositol biosynthetic process	0,0262245470492122
+GO:1900087	2	2	0,32	2	positive regulation of G1/S transition of mitotic cell cycle	0,0253578367334146
+GO:0006013	7	4	1,11	4	mannose metabolic process	0,0149837548593991
+GO:1905642	2	2	0,32	2	negative regulation of DNA methylation	0,0253578367334146
+GO:0006000	10	5	1,59	5	fructose metabolic process	0,0127352670098675
+GO:0006002	19	8	3,03	8	fructose 6-phosphate metabolic process	0,00593054443581693
+GO:0050896	3200	564	509,64	564	response to stimulus	0,0245071844392239
+GO:0018298	144	33	22,93	33	protein-chromophore linkage	0,0175792349664847
+GO:0030244	67	19	10,67	19	cellulose biosynthetic process	0,0132753033220686
+GO:0030245	30	9	4,78	9	cellulose catabolic process	0,0391260064350577
+GO:0006970	97	25	15,45	25	response to osmotic stress	0,0301060699710383
+GO:0009631	13	6	2,07	6	cold acclimation	0,0101140656396543
+GO:0009639	52	17	8,28	17	response to red or far red light	0,0410828900525606
+GO:0048511	57	21	9,08	21	rhythmic process	0,0409452280345775
+GO:0034058	4	3	0,64	3	endosomal vesicle fusion	0,0142186225209101
+GO:0016311	464	68	73,9	68	dephosphorylation	0,0117913910905994
+GO:0007623	48	17	7,64	17	circadian rhythm	0,000404677737819844
+GO:0034969	5	3	0,8	3	histone arginine methylation	0,0313421841235892
+GO:0046777	121	30	19,27	30	protein autophosphorylation	0,00761979551601527
+GO:0043622	17	6	2,71	6	cortical microtubule organization	0,0413879015971887
+GO:0019919	2	2	0,32	2	peptidyl-arginine methylation, to asymmetrical-dimethyl arginine	0,0253578367334146
+GO:0016123	5	3	0,8	3	xanthophyll biosynthetic process	0,0313421841235892
+GO:0006468	1515	297	241,28	297	protein phosphorylation	3,35628137550264e-05
+GO:0016126	32	10	5,1	10	sterol biosynthetic process	0,0230524665223449
+GO:0046835	35	13	5,57	13	carbohydrate phosphorylation	0,00467018389332461
+GO:0016104	12	6	1,91	6	triterpenoid biosynthetic process	0,00628467674226961
+GO:0007010	227	45	36,15	45	cytoskeleton organization	0,00621976828359755
+GO:0007017	222	57	35,36	57	microtubule-based process	0,00324071795042575
+GO:0007018	79	24	12,58	24	microtubule-based movement	0,00246687345368093
+GO:0007049	487	86	77,56	86	cell cycle	0,0323051195366501
+GO:0009904	17	6	2,71	6	chloroplast accumulation movement	0,0413879015971887
+GO:0045910	14	6	2,23	6	negative regulation of DNA recombination	0,0153470024799549
+GO:0019318	128	39	20,39	39	hexose metabolic process	0,0036629157885473
+GO:0045901	6	4	0,96	4	positive regulation of translational elongation	0,00734498500787258
+GO:0045905	6	4	0,96	4	positive regulation of translational termination	0,00734498500787258
+GO:0006107	5	4	0,8	4	oxaloacetate metabolic process	0,00280291478579056
+GO:0019464	5	4	0,8	4	glycine decarboxylation via glycine cleavage system	0,00280291478579056
+GO:0000054	26	6	4,14	6	ribosomal subunit export from nucleus	0,0430575515599882
+GO:0090116	4	4	0,64	4	C-5 methylation of cytosine	0,000642335986722652
+GO:0032958	8	4	1,27	4	inositol phosphate biosynthetic process	0,0262245470492122
+GO:0055085	1498	276	238,58	276	transmembrane transport	8,07654393798791e-05
+GO:0006751	5	3	0,8	3	glutathione catabolic process	0,0313421841235892
+GO:0048367	186	31	29,62	31	shoot system development	0,0313646108634033
+GO:0030001	312	58	49,69	58	metal ion transport	0,00571788292022057
+GO:0009423	13	5	2,07	5	chorismate biosynthetic process	0,0430018387940424
+GO:0080186	5	3	0,8	3	developmental vegetative growth	0,0313421841235892
+GO:0009414	76	22	12,1	22	response to water deprivation	0,00815849973157336
+GO:0009416	213	71	33,92	71	response to light stimulus	1,5843980377063e-07

@@ -1,0 +1,31 @@
+pICln-Sm protein complex
+cytosol
+preribosome, large subunit precursor
+mitochondrial respiratory chain complex III
+mitochondrial intermembrane space
+peroxisomal matrix
+endoplasmic reticulum
+endoplasmic reticulum lumen
+PAM complex, Tim23 associated import motor
+intercellular bridge
+cytosolic proteasome complex
+methylosome
+glyoxysomal membrane
+germ cell nucleus
+perinuclear region of cytoplasm
+nucleolus
+cytoplasm
+VCP-NPL4-UFD1 AAA ATPase complex
+SNARE complex
+UTP-C complex
+CURI complex
+U2AF complex
+Z disc
+Las1 complex
+cell surface
+proteasome regulatory particle, base subcomplex
+late endosome membrane
+basal plasma membrane
+small-subunit processome
+oxoglutarate dehydrogenase complex
+plasma membrane

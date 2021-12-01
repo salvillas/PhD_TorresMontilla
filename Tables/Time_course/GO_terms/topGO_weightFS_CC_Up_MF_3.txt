@@ -1,0 +1,53 @@
+methione N-acyltransferase activity
+phosphoprotein binding
+terpene synthase activity
+nicotinate-nucleotide diphosphorylase (carboxylating) activity
+oxygen binding
+phosphoenolpyruvate carboxykinase (ATP) activity
+carotenoid dioxygenase activity
+phosphomannomutase activity
+monooxygenase activity
+phosphoglycerate mutase activity
+chitin binding
+heme binding
+carbonate dehydratase activity
+oxygen carrier activity
+L-leucine transaminase activity
+L-valine transaminase activity
+L-isoleucine transaminase activity
+acireductone dioxygenase [iron(II)-requiring] activity
+L-alanine:2-oxoglutarate aminotransferase activity
+alcohol dehydrogenase activity, zinc-dependent
+aldehyde dehydrogenase (NAD+) activity
+glutamate N-acetyltransferase activity
+L-threonine ammonia-lyase activity
+UDP-glycosyltransferase activity
+adenosylmethionine decarboxylase activity
+serine O-acetyltransferase activity
+protein disulfide isomerase activity
+acetyl-CoA:L-glutamate N-acetyltransferase activity
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+peroxidase activity
+magnesium ion binding
+aldose 1-epimerase activity
+inorganic diphosphatase activity
+pyridoxal phosphate binding
+calcium-dependent phospholipid binding
+endopeptidase inhibitor activity
+serine-type endopeptidase inhibitor activity
+glutaminyl-peptide cyclotransferase activity
+hydroperoxide dehydratase activity
+glutathione dehydrogenase (ascorbate) activity
+chitinase activity
+alpha-amylase activity
+catalase activity
+catechol oxidase activity
+S-(hydroxymethyl)glutathione dehydrogenase activity
+alpha-amylase activity (releasing maltohexaose)
+sulfiredoxin activity
+allene-oxide cyclase activity
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity
+protein-L-isoaspartate (D-aspartate) O-methyltransferase activity
+iron ion binding
+calcium ion binding
+glyceraldehyde-3-phosphate dehydrogenase (NADP+) (non-phosphorylating) activity

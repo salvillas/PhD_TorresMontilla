@@ -1,0 +1,49 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0000427	5	3	0,67	3	plastid-encoded plastid RNA polymerase complex	0,0191132505112948
+GO:1990316	3	3	0,4	3	Atg1/ULK1 kinase complex	0,00235633261586872
+GO:0044233	2	2	0,27	2	mitochondria-associated endoplasmic reticulum membrane	0,0177138594005827
+GO:1990124	3	2	0,4	2	messenger ribonucleoprotein complex	0,0484289129700106
+GO:0005747	21	8	2,8	8	mitochondrial respiratory chain complex I	0,00395550884795246
+GO:0005749	6	4	0,8	4	mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)	0,00375571715180249
+GO:0005737	7170	1213	954,45	1213	cytoplasm	2,04151262122898e-07
+GO:0005739	1111	215	147,89	215	mitochondrion	2,81763141848418e-06
+GO:0000813	8	4	1,06	4	ESCRT I complex	0,0140390232927562
+GO:0000839	2	2	0,27	2	Hrd1p ubiquitin ligase ERAD-L complex	0,0177138594005827
+GO:0008290	3	2	0,4	2	F-actin capping protein complex	0,0484289129700106
+GO:0019773	16	8	2,13	8	proteasome core complex, alpha-subunit complex	0,000463075990612167
+GO:0031969	133	30	17,7	30	chloroplast membrane	0,000456741078878149
+GO:0031977	21	7	2,8	7	thylakoid lumen	0,00846774099687078
+GO:0005851	3	2	0,4	2	eukaryotic translation initiation factor 2B complex	0,0484289129700106
+GO:0005666	19	6	2,53	6	RNA polymerase III complex	0,0321063382035071
+GO:0042644	23	9	3,06	9	chloroplast nucleoid	0,00181674338009182
+GO:0035658	3	2	0,4	2	Mon1-Ccz1 complex	0,0484289129700106
+GO:0000323	38	8	5,06	8	lytic vacuole	0,0483777974563789
+GO:0009368	13	8	1,73	8	endopeptidase Clp complex	6,7210064400759e-05
+GO:0000325	61	9	8,12	9	plant-type vacuole	0,00951325391444131
+GO:0005829	1242	188	165,33	188	cytosol	0,000277764523889066
+GO:1990429	4	3	0,53	3	peroxisomal importomer complex	0,00848533514553395
+GO:0032587	3	2	0,4	2	ruffle membrane	0,0484289129700106
+GO:0031464	12	5	1,6	5	Cul4A-RING E3 ubiquitin ligase complex	0,0146460014610784
+GO:0031901	3	3	0,4	3	early endosome membrane	0,00235633261586872
+GO:0031902	11	5	1,46	5	late endosome membrane	0,00958062733417816
+GO:0030134	34	8	4,53	8	COPII-coated ER to Golgi transport vesicle	0,0212267605300039
+GO:0005839	30	14	3,99	14	proteasome core complex	0,00630517307035422
+GO:0009570	281	64	37,41	64	chloroplast stroma	0,000386461776748555
+GO:0016593	8	4	1,06	4	Cdc73/Paf1 complex	0,0140390232927562
+GO:0042555	11	6	1,46	6	MCM complex	0,00140197336604154
+GO:0080008	34	12	4,53	12	Cul4-RING E3 ubiquitin ligase complex	0,0201370511804427
+GO:0000502	80	22	10,65	22	proteasome complex	0,0480249747389783
+GO:0033185	3	2	0,4	2	dolichol-phosphate-mannose synthase complex	0,0484289129700106
+GO:0009534	420	46	55,91	46	chloroplast thylakoid	0,000628154833713817
+GO:0008180	10	4	1,33	4	COP9 signalosome	0,0338209048792603
+GO:0030904	7	5	0,93	5	retromer complex	0,0483350747109974
+GO:0009941	225	64	29,95	64	chloroplast envelope	7,9226234462166e-09
+GO:0030906	4	3	0,53	3	retromer, cargo-selective complex	0,00848533514553395
+GO:0005783	472	103	62,83	103	endoplasmic reticulum	1,59249851739334e-05
+GO:0001405	8	5	1,06	5	PAM complex, Tim23 associated import motor	0,00164238918846389
+GO:0009507	1541	313	205,13	313	chloroplast	2,12160018276253e-15
+GO:0005770	33	14	4,39	14	late endosome	0,00947833910357936
+GO:0005771	10	4	1,33	4	multivesicular body	0,0338209048792603
+GO:0005774	181	31	24,09	31	vacuolar membrane	0,010472554162612
+GO:0005777	112	28	14,91	28	peroxisome	0,0087324023584359
+GO:0005778	25	7	3,33	7	peroxisomal membrane	0,02945948575702

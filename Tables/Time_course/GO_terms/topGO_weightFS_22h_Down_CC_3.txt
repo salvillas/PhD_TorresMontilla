@@ -1,0 +1,25 @@
+cytosol
+lipid droplet
+polysome
+mitochondrial intermembrane space
+heterotrimeric G-protein complex
+endoplasmic reticulum
+endoplasmic reticulum lumen
+endoplasmic reticulum membrane
+vacuole
+peroxisome
+perinuclear region of cytoplasm
+cytoplasm
+VCP-NPL4-UFD1 AAA ATPase complex
+endomembrane system
+SNARE complex
+membrane
+integral component of membrane
+Z disc
+extracellular region
+cell surface
+phagophore assembly site membrane
+oxoglutarate dehydrogenase complex
+FACT complex
+plasma membrane
+endoplasmic reticulum-Golgi intermediate compartment

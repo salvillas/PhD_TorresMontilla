@@ -1,0 +1,77 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0008728	6	5	0,75	5	GTP diphosphokinase activity	0,000160491424295705
+GO:0004652	10	5	1,25	5	polynucleotide adenylyltransferase activity	0,0110682748957004
+GO:0004659	27	8	3,36	8	prenyltransferase activity	0,0154669643789027
+GO:0015211	27	7	3,36	7	purine nucleoside transmembrane transporter activity	0,0430758086156857
+GO:0030170	144	34	17,93	34	pyridoxal phosphate binding	0,000152346113862825
+GO:0004673	36	9	4,48	9	protein histidine kinase activity	0,015468351542864
+GO:0061630	149	35	18,55	35	ubiquitin protein ligase activity	0,000136917276068259
+GO:0004108	3	2	0,37	2	citrate (Si)-synthase activity	0,0426438573212478
+GO:0000309	2	2	0,25	2	nicotinamide-nucleotide adenylyltransferase activity	0,0155005429122907
+GO:0003747	14	6	1,74	6	translation release factor activity	0,0287586765698725
+GO:0030628	6	3	0,75	3	pre-mRNA 3'-splice site binding	0,0288170387423137
+GO:0003700	959	160	119,42	160	DNA-binding transcription factor activity	3,50994505937765e-07
+GO:0008883	3	2	0,37	2	glutamyl-tRNA reductase activity	0,0426438573212478
+GO:0051536	222	42	27,64	42	iron-sulfur cluster binding	0,00182162558857914
+GO:0016671	25	12	3,11	12	oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor	0,00117940775094983
+GO:0051537	55	17	6,85	17	2 iron, 2 sulfur cluster binding	0,000250627999329508
+GO:0008964	6	4	0,75	4	phosphoenolpyruvate carboxylase activity	0,00292021023333405
+GO:0004222	60	13	7,47	13	metalloendopeptidase activity	0,0311200063637371
+GO:0003868	2	2	0,25	2	4-hydroxyphenylpyruvate dioxygenase activity	0,0155005429122907
+GO:0003857	9	5	1,12	5	3-hydroxyacyl-CoA dehydrogenase activity	0,00243319656632469
+GO:0003872	14	6	1,74	6	6-phosphofructokinase activity	0,00456302872359004
+GO:0003824	12151	1617	1513,06	1617	catalytic activity	0,0212759569812567
+GO:0003954	145	3	18,06	3	NADH dehydrogenase activity	0,0431577960015398
+GO:0008936	3	3	0,37	3	nicotinamidase activity	0,00192888570781212
+GO:0051117	19	6	2,37	6	ATPase binding	0,0238555920689611
+GO:0003935	3	2	0,37	2	GTP cyclohydrolase II activity	0,0426438573212478
+GO:0010309	3	2	0,37	2	acireductone dioxygenase [iron(II)-requiring] activity	0,0426438573212478
+GO:0008422	57	9	7,1	9	beta-glucosidase activity	0,00421920629660936
+GO:0004781	3	2	0,37	2	sulfate adenylyltransferase (ATP) activity	0,0426438573212478
+GO:0004721	242	39	30,13	39	phosphoprotein phosphatase activity	0,0236424855153886
+GO:0070204	3	3	0,37	3	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase activity	0,00192888570781212
+GO:0070205	2	2	0,25	2	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase activity	0,0155005429122907
+GO:0005509	277	46	34,49	46	calcium ion binding	0,0251593057397373
+GO:0030785	3	3	0,37	3	[ribulose-bisphosphate carboxylase]-lysine N-methyltransferase activity	0,00192888570781212
+GO:0008531	3	2	0,37	2	riboflavin kinase activity	0,0426438573212478
+GO:0017172	6	3	0,75	3	cysteine dioxygenase activity	0,0288170387423137
+GO:0004364	54	13	6,72	13	glutathione transferase activity	0,0134841087544489
+GO:0008692	6	3	0,75	3	3-hydroxybutyryl-CoA epimerase activity	0,0288170387423137
+GO:0016787	4082	502	508,3	502	hydrolase activity	0,00252532563829877
+GO:0004373	17	6	2,12	6	glycogen (starch) synthase activity	0,0135287760906851
+GO:0008686	3	2	0,37	2	3,4-dihydroxy-2-butanone-4-phosphate synthase activity	0,0426438573212478
+GO:0016730	7	4	0,87	4	oxidoreductase activity, acting on iron-sulfur proteins as donors	0,00699092760472999
+GO:0004332	11	4	1,37	4	fructose-bisphosphate aldolase activity	0,0384451861278903
+GO:0042132	7	4	0,87	4	fructose 1,6-bisphosphate 1-phosphatase activity	0,00614220126864829
+GO:0004813	2	2	0,25	2	alanine-tRNA ligase activity	0,0155005429122907
+GO:0004842	365	76	45,45	76	ubiquitin-protein transferase activity	0,00340958559309613
+GO:0009881	29	10	3,61	10	photoreceptor activity	0,00869286825590178
+GO:0004806	4	3	0,5	3	triglyceride lipase activity	0,00699568841151465
+GO:0047274	2	2	0,25	2	galactinol-sucrose galactosyltransferase activity	0,0155005429122907
+GO:0043565	722	89	89,9	89	sequence-specific DNA binding	0,00505645604957193
+GO:0004462	5	3	0,62	3	lactoylglutathione lyase activity	0,0158686244878239
+GO:0016851	3	2	0,37	2	magnesium chelatase activity	0,0426438573212478
+GO:0050155	2	2	0,25	2	ornithine(lysine) transaminase activity	0,0155005429122907
+GO:0005247	8	4	1	4	voltage-gated chloride channel activity	0,0110793959681117
+GO:0016874	361	55	44,95	55	ligase activity	0,0380756451643284
+GO:0042282	3	2	0,37	2	hydroxymethylglutaryl-CoA reductase activity	0,0426438573212478
+GO:0050661	73	15	9,09	15	NADP binding	0,0478769583821273
+GO:0016829	438	73	54,54	73	lyase activity	0,0374884822779938
+GO:0004420	3	2	0,37	2	hydroxymethylglutaryl-CoA reductase (NADPH) activity	0,0426438573212478
+GO:0046872	4174	521	519,75	521	metal ion binding	0,00181530973817727
+GO:0070300	5	3	0,62	3	phosphatidic acid binding	0,0158686244878239
+GO:0016987	8	5	1	5	sigma factor activity	0,00120500656918485
+GO:0004419	3	3	0,37	3	hydroxymethylglutaryl-CoA lyase activity	0,00192888570781212
+GO:0016301	1799	270	224,01	270	kinase activity	0,0498915465195914
+GO:0016847	7	4	0,87	4	1-aminocyclopropane-1-carboxylate synthase activity	0,00614220126864829
+GO:0004587	2	2	0,25	2	ornithine-oxo-acid transaminase activity	0,0155005429122907
+GO:0102483	4	3	0,5	3	scopolin beta-glucosidase activity	0,00699568841151465
+GO:0004514	3	2	0,37	2	nicotinate-nucleotide diphosphorylase (carboxylating) activity	0,0426438573212478
+GO:0004518	357	36	44,45	36	nuclease activity	0,0182662250651118
+GO:0010277	10	4	1,25	4	chlorophyllide a oxygenase [overall] activity	0,0270812232515087
+GO:0030060	11	4	1,37	4	L-malate dehydrogenase activity	0,0384451861278903
+GO:0046422	2	2	0,25	2	violaxanthin de-epoxidase activity	0,0155005429122907
+GO:0046554	2	2	0,25	2	malate dehydrogenase (NADP+) activity	0,0155005429122907
+GO:2001070	6	5	0,75	5	starch binding	0,000160491424295705
+GO:0004176	39	12	4,86	12	ATP-dependent peptidase activity	0,00207285118512636
+GO:0043621	31	11	3,86	11	protein self-association	0,000849102173154457

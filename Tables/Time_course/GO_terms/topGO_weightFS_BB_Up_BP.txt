@@ -1,0 +1,103 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0010315	8	3	0,22	3	auxin efflux	0,00102032133091526
+GO:0009901	4	2	0,11	2	anther dehiscence	0,00429354831495589
+GO:0030244	79	13	2,15	13	cellulose biosynthetic process	1,66317911220981e-07
+GO:0030245	46	8	1,25	8	cellulose catabolic process	3,08101866626608e-05
+GO:0048443	10	4	0,27	4	stamen development	0,00427703172268244
+GO:0048446	1	1	0,03	1	petal morphogenesis	0,0272581818181817
+GO:0018106	9	2	0,25	2	peptidyl-histidine phosphorylation	0,0235286549618247
+GO:0009873	196	11	5,34	11	ethylene-activated signaling pathway	0,0191497209189485
+GO:0006811	2106	80	57,41	80	ion transport	0,000178456694752371
+GO:0006817	467	25	12,73	25	phosphate ion transport	0,00118555127489002
+GO:0015860	39	4	1,06	4	purine nucleoside transmembrane transport	0,0211908363782999
+GO:0006833	8	2	0,22	2	water transport	0,0186332884270118
+GO:0009831	1	1	0,03	1	plant-type cell wall modification involved in multidimensional cell growth	0,0272581818181817
+GO:0009833	13	2	0,35	2	plant-type primary cell wall biogenesis	0,0474492981480951
+GO:0005987	39	4	1,06	4	sucrose catabolic process	0,0211908363782999
+GO:0015827	1	1	0,03	1	tryptophan transport	0,0272581818181817
+GO:0005975	1975	107	53,83	107	carbohydrate metabolic process	0,0014218103637832
+GO:0015810	1	1	0,03	1	aspartate transmembrane transport	0,0272581818181817
+GO:0019305	5	2	0,14	2	dTDP-rhamnose biosynthetic process	0,00702674042068571
+GO:0031640	5	2	0,14	2	killing of cells of other organism	0,00702674042068571
+GO:0031408	27	5	0,74	5	oxylipin biosynthetic process	0,00072970166350725
+GO:0006597	12	2	0,33	2	spermine biosynthetic process	0,0408733878539918
+GO:0019509	10	2	0,27	2	L-methionine salvage from methylthioadenosine	0,0288861048673562
+GO:0010411	79	8	2,15	8	xyloglucan metabolic process	0,001399967184249
+GO:0006556	6	2	0,16	2	S-adenosylmethionine biosynthetic process	0,0103502885024095
+GO:0006557	10	2	0,27	2	S-adenosylmethioninamine biosynthetic process	0,0288861048673562
+GO:0051592	3	2	0,08	2	response to calcium ion	0,00218633126149466
+GO:0008295	18	4	0,49	4	spermidine biosynthetic process	0,0012368464337663
+GO:0008299	153	23	4,17	23	isoprenoid biosynthetic process	1,01808728322903e-07
+GO:0006526	23	6	0,63	6	arginine biosynthetic process	2,73860398533924e-05
+GO:0023014	108	8	2,94	8	signal transduction by protein phosphorylation	0,0228808032960821
+GO:0051555	4	2	0,11	2	flavonol biosynthetic process	0,00429354831495589
+GO:0010193	14	3	0,38	3	response to ozone	0,00586894202486494
+GO:1902476	23	4	0,63	4	chloride transmembrane transport	0,00321239393500806
+GO:0006470	477	21	13	21	protein dephosphorylation	0,018235326792527
+GO:0009690	56	6	1,53	6	cytokinin metabolic process	0,0102600643963309
+GO:0009695	12	4	0,33	4	jasmonic acid biosynthetic process	0,000227955117881102
+GO:0010115	4	2	0,11	2	regulation of abscisic acid biosynthetic process	0,00429354831495589
+GO:0048229	163	6	4,44	6	gametophyte development	0,0272411071814809
+GO:0009414	100	8	2,73	8	response to water deprivation	0,00607729506281528
+GO:0016126	43	5	1,17	5	sterol biosynthetic process	0,00608091205307683
+GO:0051484	1	1	0,03	1	isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway involved in terpenoid biosynthetic process	0,0272581818181817
+GO:0006629	1330	85	36,25	85	lipid metabolic process	4,44148711817537e-08
+GO:0032957	12	2	0,33	2	inositol trisphosphate metabolic process	0,0408733878539918
+GO:0009435	24	4	0,65	4	NAD biosynthetic process	0,00377265825758695
+GO:0042372	8	2	0,22	2	phylloquinone biosynthetic process	0,0186332884270118
+GO:0055114	3639	126	99,19	126	oxidation-reduction process	4,25762336248852e-05
+GO:0009611	80	14	2,18	14	response to wounding	1,11035765818245e-07
+GO:0006635	30	3	0,82	3	fatty acid beta-oxidation	0,0475023727026308
+GO:0000160	314	24	8,56	24	phosphorelay signal transduction system	1,97268455664098e-05
+GO:0043622	33	5	0,9	5	cortical microtubule organization	0,00187460410482287
+GO:0000162	30	3	0,82	3	tryptophan biosynthetic process	0,0475023727026308
+GO:0046686	26	3	0,71	3	response to cadmium ion	0,032934961156199
+GO:0015689	8	2	0,22	2	molybdate ion transport	0,0186332884270118
+GO:0016104	12	2	0,33	2	triterpenoid biosynthetic process	0,0408733878539918
+GO:0033355	2	2	0,05	2	ascorbate glutathione cycle	0,000742237103095892
+GO:0007010	369	17	10,06	17	cytoskeleton organization	0,000199433244172749
+GO:0033388	4	2	0,11	2	putrescine biosynthetic process from arginine	0,00429354831495589
+GO:0034440	39	5	1,06	5	lipid oxidation	0,0234259906119954
+GO:0050992	6	2	0,16	2	dimethylallyl diphosphate biosynthetic process	0,0103502885024095
+GO:0006166	14	4	0,38	4	purine ribonucleoside salvage	0,000441325012139867
+GO:0010253	7	4	0,19	4	UDP-rhamnose biosynthetic process	1,79790989371961e-05
+GO:0006168	9	3	0,25	3	adenine salvage	0,00149950555516673
+GO:0010043	1	1	0,03	1	response to zinc ion	0,0272581818181817
+GO:0042546	183	16	4,99	16	cell wall biogenesis	0,000194376234851442
+GO:0055085	2538	100	69,18	100	transmembrane transport	8,29520656575981e-05
+GO:0016042	186	14	5,07	14	lipid catabolic process	0,00498101347109585
+GO:0006116	1	1	0,03	1	NADH oxidation	0,0272581818181817
+GO:0045490	191	11	5,21	11	pectin catabolic process	0,0161249243403608
+GO:0019288	6	3	0,16	3	isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway	0,00701255238191634
+GO:0010208	9	2	0,25	2	pollen wall assembly	0,0235286549618247
+GO:0045489	44	5	1,2	5	pectin biosynthetic process	0,0249298952761642
+GO:0050896	4701	175	128,14	175	response to stimulus	0,0314568689004077
+GO:0044209	10	4	0,27	4	AMP salvage	0,000101022724592169
+GO:2000067	4	2	0,11	2	regulation of root morphogenesis	0,00429354831495589
+GO:0009051	9	2	0,25	2	pentose-phosphate shunt, oxidative branch	0,0235286549618247
+GO:0000032	3	2	0,08	2	cell wall mannoprotein biosynthetic process	0,00218633126149466
+GO:0071805	134	10	3,65	10	potassium ion transmembrane transport	0,00378047770345154
+GO:0009298	9	2	0,25	2	GDP-mannose biosynthetic process	0,0235286549618247
+GO:0072699	10	3	0,27	3	protein localization to cortical microtubule cytoskeleton	0,00209885533969869
+GO:2000022	29	8	0,79	8	regulation of jasmonic acid mediated signaling pathway	7,63525430397232e-07
+GO:0006253	8	2	0,22	2	dCTP catabolic process	0,0186332884270118
+GO:2000012	10	2	0,27	2	regulation of auxin polar transport	0,0288861048673562
+GO:0009251	73	11	1,99	11	glucan catabolic process	0,0356650280600652
+GO:0010951	71	9	1,94	9	negative regulation of endopeptidase activity	0,00013114332311171
+GO:0006004	93	9	2,54	9	fucose metabolic process	0,000996140863838633
+GO:0071555	535	37	14,58	37	cell wall organization	8,34808464566039e-05
+GO:0010731	3	2	0,08	2	protein glutathionylation	0,00218633126149466
+GO:0035556	620	41	16,9	41	intracellular signal transduction	0,0357201960498112
+GO:0042183	3	2	0,08	2	formate catabolic process	0,00218633126149466
+GO:0051211	8	2	0,22	2	anisotropic cell growth	0,0186332884270118
+GO:0034220	1128	35	30,75	35	ion transmembrane transport	0,023247575429354
+GO:0052865	11	2	0,3	2	1-deoxy-D-xylulose 5-phosphate biosynthetic process	0,0346768658270509
+GO:0009785	9	2	0,25	2	blue light signaling pathway	0,0235286549618247
+GO:0042262	8	2	0,22	2	DNA protection	0,0186332884270118
+GO:0006730	64	7	1,74	7	one-carbon metabolic process	0,0118850442809912
+GO:0015996	12	3	0,33	3	chlorophyll catabolic process	0,00369425569234624
+GO:0035434	10	2	0,27	2	copper ion transmembrane transport	0,0288861048673562
+GO:0031347	107	8	2,92	8	regulation of defense response	0,00902989956349826
+GO:0002238	9	2	0,25	2	response to molecule of fungal origin	0,0235286549618247
+GO:0009734	207	20	5,64	20	auxin-activated signaling pathway	6,41204295466909e-05
+GO:0043953	9	2	0,25	2	protein transport by the Tat complex	0,0235286549618247

@@ -1,0 +1,102 @@
+GDP metabolic process
+protein import into chloroplast stroma
+fumarate transport
+succinate transport
+de-etiolation
+intra-Golgi vesicle-mediated transport
+Golgi to vacuole transport
+regulation of vacuolar transport
+hyaluronan metabolic process
+phospholipid transport
+peptidyl-lysine modification to peptidyl-hypusine
+response to cyclopentenone
+cell volume homeostasis
+snRNA transcription by RNA polymerase II
+snRNA transcription by RNA polymerase III
+anion transport
+ethylene-activated signaling pathway
+ion transport
+mRNA 5'-splice site recognition
+regulation of adenylate cyclase activity
+positive regulation of plant-type cell wall cellulose biosynthetic process
+spliceosomal snRNP assembly
+hydrogen peroxide catabolic process
+L-glutamate biosynthetic process
+mRNA cleavage
+positive regulation of response to water deprivation
+L-serine biosynthetic process
+P-body assembly
+positive regulation of growth
+retrograde protein transport, ER to cytosol
+response to reactive oxygen species
+positive regulation of transcription, DNA-templated
+lipid droplet organization
+SCF-dependent proteasomal ubiquitin-dependent protein catabolic process
+ammonia assimilation cycle
+trichome papilla formation
+urate catabolic process
+positive regulation of GTPase activity
+pyridoxal phosphate biosynthetic process
+response to chlorate
+protein folding
+protein peptidyl-prolyl isomerization
+protein-containing complex assembly
+vesicle fusion with Golgi apparatus
+cellular oxidant detoxification
+developmental vegetative growth
+histone H3-K36 demethylation
+positive regulation of ATPase activity
+endoplasmic reticulum tubular network organization
+response to salt stress
+trichome branching
+pyridoxal 5'-phosphate salvage
+gibberellin biosynthetic process
+inositol phosphate biosynthetic process
+regulation of ethylene-activated signaling pathway
+ER-associated misfolded protein catabolic process
+phospholipid metabolic process
+regulation of vesicle targeting, to, from or within Golgi
+circadian regulation of gene expression
+vegetative phase change
+polyprenol catabolic process
+chaperone-mediated protein folding
+response to heat
+purine nucleotide metabolic process
+negative regulation of transcription by RNA polymerase II
+response to hydrogen peroxide
+cellular response to unfolded protein
+mitochondrial electron transport, ubiquinol to cytochrome c
+detection of mechanical stimulus
+positive regulation of superoxide dismutase activity
+positive regulation of systemic acquired resistance
+cellular response to heat
+regulation of cell wall pectin metabolic process
+lactate biosynthetic process
+chaperone-mediated protein complex assembly
+ubiquitin-dependent ERAD pathway
+autophagosome maturation
+protein stabilization
+response to cytokine
+formaldehyde catabolic process
+chaperone cofactor-dependent protein refolding
+stress granule assembly
+protein complex oligomerization
+negative regulation of phosphatase activity
+GMP metabolic process
+mitotic spindle disassembly
+regulation of intracellular mRNA localization
+retrograde transport, endosome to Golgi
+cellular response to glucose starvation
+ion transmembrane transport
+heme biosynthetic process
+regulation of long-day photoperiodism, flowering
+1-deoxy-D-xylulose 5-phosphate biosynthetic process
+cellular response to salt stress
+lipid translocation
+positive regulation of abscisic acid-activated signaling pathway
+acute-phase response
+protein refolding
+response to unfolded protein
+anthocyanin-containing compound biosynthetic process
+response to osmotic stress
+response to oxidative stress

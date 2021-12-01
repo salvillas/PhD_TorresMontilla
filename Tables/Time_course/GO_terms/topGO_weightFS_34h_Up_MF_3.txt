@@ -1,0 +1,81 @@
+aspartic-type endopeptidase activity
+flavin adenine dinucleotide binding
+peroxidase activity
+phosphoadenylyl-sulfate reductase (thioredoxin) activity
+protein disulfide oxidoreductase activity
+phospholipase A1 activity
+glutathione transferase activity
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+gibberellin 3-beta-dioxygenase activity
+calcium-dependent phospholipid binding
+glutamate N-acetyltransferase activity
+polysaccharide binding
+glutathione dehydrogenase (ascorbate) activity
+glycine hydroxymethyltransferase activity
+terpene synthase activity
+serine-type carboxypeptidase activity
+chitinase activity
+hydrolase activity, hydrolyzing O-glycosyl compounds
+pyrophosphate hydrolysis-driven proton transmembrane transporter activity
+iron ion binding
+calcium ion binding
+1-aminocyclopropane-1-carboxylate oxidase activity
+misfolded protein binding
+growth factor activity
+acireductone dioxygenase [iron(II)-requiring] activity
+fructose-bisphosphate aldolase activity
+UDP-glucose transmembrane transporter activity
+1-deoxy-D-xylulose-5-phosphate reductoisomerase activity
+mandelonitrile lyase activity
+4-hydroxyphenylpyruvate dioxygenase activity
+nicotinate-nucleotide diphosphorylase (carboxylating) activity
+UDP-galactose transmembrane transporter activity
+protein folding chaperone
+formate dehydrogenase (NAD+) activity
+amylopectin maltohydrolase activity
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase activity
+nucleotide binding
+catalase activity
+oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor
+glyceraldehyde-3-phosphate dehydrogenase (NADP+) (non-phosphorylating) activity
+12-oxophytodienoate reductase activity
+2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase activity
+monooxygenase activity
+selenium binding
+neutral amino acid transmembrane transporter activity
+squalene monooxygenase activity
+cellulase activity
+adenyl-nucleotide exchange factor activity
+N-carbamoylputrescine amidase activity
+pectate lyase activity
+protein heterodimerization activity
+branched-chain-amino-acid transaminase activity
+4-coumarate-CoA ligase activity
+GDP-D-glucose phosphorylase activity
+endopeptidase inhibitor activity
+serine-type endopeptidase inhibitor activity
+anthranilate synthase activity
+sulfiredoxin activity
+inorganic diphosphatase activity
+beta-amylase activity
+chlorophyll binding
+xyloglucan:xyloglucosyl transferase activity
+oxygen binding
+heme binding
+transmembrane transporter activity
+phosphoprotein binding
+hydrolase activity, acting on ester bonds
+protein disulfide isomerase activity
+phosphoglycerate kinase activity
+hydroperoxide dehydratase activity
+oxidoreductase activity, acting on CH or CH2 groups, NAD or NADP as acceptor
+channel activity
+oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+allene-oxide cyclase activity
+water channel activity
+transferase activity
+ribulose-bisphosphate carboxylase activity
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity
+sarcosine oxidase activity
+transferase activity, transferring acyl groups other than amino-acyl groups
+oxygen carrier activity

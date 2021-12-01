@@ -1,0 +1,49 @@
+term_ID,description,frequency,plot_X,plot_Y,plot_size,log10 p-value,uniqueness,dispensability,representative,eliminated
+GO:0009611,"response to wounding",0.127%, 6.444,-1.639,4.212,-3.6192,0.786,0.000,9611,0
+GO:0019419,"sulfate reduction",0.041%,-4.890,-1.897,3.722,-9.4993,0.805,0.000,19419,0
+GO:0019344,"cysteine biosynthetic process",0.131%,null,null,4.225,-1.4682,0.729,0.572,19419,1
+GO:0033355,"ascorbate glutathione cycle",0.083%,null,null,4.025,-4.3211,0.686,0.528,19419,1
+GO:0051603,"proteolysis involved in cellular protein catabolic process",0.759%,null,null,4.988,-1.7406,0.807,0.553,19419,1
+GO:0006013,"mannose metabolic process",0.031%,null,null,3.596,-1.3235,0.817,0.628,19419,1
+GO:0006457,"protein folding",0.903%, 3.229,-7.306,5.064,-4.9594,0.932,0.026,6457,0
+GO:0042026,"protein refolding",0.069%, 1.549,-4.646,3.949,-3.1493,0.913,0.027,42026,0
+GO:0051085,"chaperone mediated protein folding requiring cofactor",0.010%,null,null,3.117,-2.0566,0.915,0.567,42026,1
+GO:0010951,"negative regulation of endopeptidase activity",0.157%, 4.597, 3.916,4.304,-4.9927,0.777,0.042,10951,0
+GO:0015671,"oxygen transport",0.040%,-5.634, 3.322,3.709,-3.8460,0.864,0.052,15671,0
+GO:0090378,"seed trichome elongation",0.000%,-2.360, 6.025,0.602,-1.6855,0.862,0.081,90378,0
+GO:0009695,"jasmonic acid biosynthetic process",0.001%,-0.725,-6.653,2.217,-2.5215,0.799,0.098,9695,0
+GO:0006792,"regulation of sulfur utilization",0.000%, 0.831, 4.205,0.778,-1.3890,0.873,0.125,6792,0
+GO:0006629,"lipid metabolic process",3.522%,-5.361,-3.573,5.655,-3.0716,0.836,0.141,6629,0
+GO:0031640,"killing of cells of other organism",0.019%, 2.848, 6.392,3.389,-3.3271,0.867,0.168,31640,0
+GO:0010731,"protein glutathionylation",0.002%, 0.496, 0.679,2.446,-3.8460,0.907,0.194,10731,0
+GO:0010043,"response to zinc ion",0.009%, 7.120,-0.555,3.058,-2.1597,0.787,0.231,10043,0
+GO:0008299,"isoprenoid biosynthetic process",0.442%,-3.011,-4.390,4.754,-2.2839,0.739,0.237,8299,0
+GO:0016121,"carotene catabolic process",0.001%,null,null,1.949,-1.4667,0.770,0.618,8299,1
+GO:0016126,"sterol biosynthetic process",0.075%,null,null,3.985,-1.4462,0.783,0.598,8299,1
+GO:0010115,"regulation of abscisic acid biosynthetic process",0.000%,null,null,1.771,-1.5621,0.702,0.603,8299,1
+GO:0010439,"regulation of glucosinolate biosynthetic process",0.000%,null,null,1.176,-1.3890,0.740,0.750,8299,1
+GO:0031408,"oxylipin biosynthetic process",0.007%,null,null,2.941,-1.8253,0.760,0.502,8299,1
+GO:0033387,"putrescine biosynthetic process from ornithine",0.002%,-1.815,-6.455,2.305,-2.1597,0.809,0.240,33387,0
+GO:0090110,"cargo loading into COPII-coated vesicle",0.002%,-4.379, 4.604,2.290,-1.6855,0.832,0.285,90110,0
+GO:0015786,"UDP-glucose transport",0.002%,-5.880, 2.424,2.328,-3.0089,0.845,0.287,15786,0
+GO:0072334,"UDP-galactose transmembrane transport",0.003%,null,null,2.617,-2.8859,0.840,0.920,15786,1
+GO:0010438,"cellular response to sulfur starvation",0.000%, 5.630,-2.681,1.342,-1.3890,0.798,0.294,10438,0
+GO:0055114,"oxidation-reduction process",15.060%,-4.552,-4.024,6.286,-3.3373,0.832,0.300,55114,0
+GO:0070588,"calcium ion transmembrane transport",0.157%,-6.198, 1.576,4.305,-1.4999,0.914,0.318,70588,0
+GO:0006527,"arginine catabolic process",0.051%,-2.241,-5.845,3.817,-1.4667,0.745,0.343,6527,0
+GO:0045792,"negative regulation of cell size",0.003%, 0.858, 6.458,2.597,-2.1597,0.800,0.345,45792,0
+GO:0050832,"defense response to fungus",0.028%, 6.261,-2.371,3.557,-2.6293,0.763,0.396,50832,0
+GO:1901031,"regulation of response to reactive oxygen species",0.012%,null,null,3.178,-1.3235,0.680,0.662,50832,1
+GO:0009862,"systemic acquired resistance, salicylic acid mediated signaling pathway",0.001%,null,null,1.914,-1.6855,0.642,0.648,50832,1
+GO:0002221,"pattern recognition receptor signaling pathway",0.030%,null,null,3.591,-1.6855,0.664,0.632,50832,1
+GO:0055072,"iron ion homeostasis",0.141%, 3.278, 5.832,4.259,-1.5637,0.859,0.432,55072,0
+GO:1903298,"negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway",0.001%, 5.730,-0.153,2.049,-3.5470,0.650,0.434,1903298,0
+GO:0009638,"phototropism",0.002%, 5.935,-3.250,2.290,-1.4667,0.817,0.451,9638,0
+GO:0030968,"endoplasmic reticulum unfolded protein response",0.027%, 5.798, 0.511,3.548,-2.4509,0.636,0.459,30968,0
+GO:2000022,"regulation of jasmonic acid mediated signaling pathway",0.002%,null,null,2.391,-1.7660,0.668,0.564,30968,1
+GO:0009741,"response to brassinosteroid",0.009%,null,null,3.083,-1.9812,0.742,0.534,30968,1
+GO:0098869,"cellular oxidant detoxification",0.784%,null,null,5.003,-1.7761,0.725,0.518,30968,1
+GO:0030433,"ER-associated ubiquitin-dependent protein catabolic process",0.049%,null,null,3.794,-1.4650,0.556,0.872,30968,1
+GO:0010200,"response to chitin",0.004%,null,null,2.755,-1.5621,0.754,0.546,30968,1
+GO:0048281,"inflorescence morphogenesis",0.000%,-2.303, 3.638,1.591,-1.5621,0.897,0.462,48281,0
+GO:2000582,"positive regulation of ATP-dependent microtubule motor activity, plus-end-directed",0.000%, 5.804, 4.895,1.716,-1.3890,0.883,0.500,2000582,0

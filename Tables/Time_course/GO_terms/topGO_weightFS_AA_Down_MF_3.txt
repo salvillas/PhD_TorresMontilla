@@ -1,0 +1,103 @@
+thioredoxin-disulfide reductase activity
+ornithine decarboxylase activity
+arylformamidase activity
+syntaxin binding
+long-chain-alcohol oxidase activity
+shikimate 3-dehydrogenase (NADP+) activity
+isovaleryl-CoA dehydrogenase activity
+potassium ion binding
+citrate dehydratase activity
+ribonuclease T2 activity
+long-chain-alcohol O-fatty-acyltransferase activity
+mismatched DNA binding
+thiamine pyrophosphate binding
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+histone demethylase activity (H3-trimethyl-K4 specific)
+8-oxo-7,8-dihydrodeoxyguanosine triphosphate pyrophosphatase activity
+succinate-CoA ligase (ADP-forming) activity
+Hsp90 protein binding
+protein tag
+dimethylallyltranstransferase activity
+diphosphomevalonate decarboxylase activity
+G-protein gamma-subunit binding
+G-protein beta/gamma-subunit complex binding
+arginine decarboxylase activity
+protein self-association
+soluble NSF attachment protein activity
+pyruvate kinase activity
+L-ascorbate peroxidase activity
+chitin binding
+oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor
+1-aminocyclopropane-1-carboxylate oxidase activity
+glutathione transferase activity
+phosphatidate phosphatase activity
+ferrous iron binding
+ATPase activity
+diacylglycerol kinase activity
+dihydrolipoyl dehydrogenase activity
+dihydrolipoyllysine-residue succinyltransferase activity
+guanyl nucleotide binding
+DNA-binding transcription factor activity
+procollagen-proline 4-dioxygenase activity
+antiporter activity
+inositol phosphoceramide synthase activity
+ATP binding
+magnesium ion binding
+FMN binding
+calmodulin binding
+citrate (Si)-synthase activity
+calcium-dependent protein serine/threonine kinase activity
+glucose-6-phosphate dehydrogenase activity
+calcium-dependent phospholipid binding
+phospholipid transporter activity
+flavin adenine dinucleotide binding
+NADP binding
+heme binding
+geranyltranstransferase activity
+phosphopantothenate--cysteine ligase activity
+3-methyl-2-oxobutanoate hydroxymethyltransferase activity
+ligand-gated ion channel activity
+3-dehydroquinate dehydratase activity
+xenobiotic transmembrane transporter activity
+luteolin O-methyltransferase activity
+iron ion binding
+ATPase activator activity
+threonine-tRNA ligase activity
+calcium ion binding
+polyubiquitin modification-dependent protein binding
+peroxidase activity
+5-epi-aristolochene-1,3-dihydroxylase activity
+6-phosphofructokinase activity
+unfolded protein binding
+aconitate hydratase activity
+ATP citrate synthase activity
+chaperone binding
+3,4-dihydroxy-2-butanone-4-phosphate synthase activity
+5-epi-aristolochene synthase activity
+ceramide cholinephosphotransferase activity
+mevalonate kinase activity
+monooxygenase activity
+L-ascorbic acid binding
+acetylserotonin O-methyltransferase activity
+oxygen binding
+terpene synthase activity
+NAD(P)H dehydrogenase (quinone) activity
+long-chain fatty acid-CoA ligase activity
+raffinose alpha-galactosidase activity
+isopentenyl-diphosphate delta-isomerase activity
+malate dehydrogenase (decarboxylating) (NAD+) activity
+oxoglutarate dehydrogenase (succinyl-transferring) activity
+pantothenate kinase activity
+hydroxymethylglutaryl-CoA reductase (NADPH) activity
+hydroxymethylglutaryl-CoA synthase activity
+ribosome binding
+ribosomal large subunit binding
+heat shock protein binding
+ATPase binding
+adenyl-nucleotide exchange factor activity
+GTP cyclohydrolase II activity
+superoxide dismutase copper chaperone activity
+hydrolase activity
+sphingomyelin synthase activity
+chitinase activity
+transferase activity, transferring phosphorus-containing groups

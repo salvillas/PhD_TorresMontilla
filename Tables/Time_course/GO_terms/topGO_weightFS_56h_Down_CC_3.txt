@@ -1,0 +1,28 @@
+pICln-Sm protein complex
+cytosol
+amyloplast
+plasmodesma
+DNA polymerase III complex
+cortical microtubule
+endoplasmic reticulum lumen
+methylosome
+commitment complex
+nuclear pre-replicative complex
+perinuclear region of cytoplasm
+cytoplasm
+starch grain
+SNARE complex
+Cul4A-RING E3 ubiquitin ligase complex
+integral component of membrane
+U2AF complex
+Z disc
+extracellular region
+extrinsic component of stromal side of plastid thylakoid membrane
+cell surface
+plastoglobule
+chloroplast stroma
+anchored component of plasma membrane
+cytoskeleton
+Ddb1-Ckn1 complex
+plasma membrane
+microtubule

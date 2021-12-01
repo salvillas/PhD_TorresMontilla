@@ -1,0 +1,63 @@
+chloroplast stroma
+site of double-strand break
+Noc4p-Nop14p complex
+chloroplast outer membrane
+glutamyl-tRNA(Gln) amidotransferase complex
+PAM complex, Tim23 associated import motor
+chloroplast membrane
+chloroplast thylakoid lumen
+proteasome complex
+chloroplast thylakoid
+chloroplast thylakoid membrane
+small-subunit processome
+plastid small ribosomal subunit
+thylakoid lumen
+pore complex
+preribosome, large subunit precursor
+extrinsic component of membrane
+nascent polypeptide-associated complex
+chloroplast nucleoid
+mitochondrial nucleoid
+chloroplast
+plastid chromosome
+chromoplast
+TIM22 mitochondrial import inner membrane insertion complex
+ribonuclease MRP complex
+chromosome
+nuclear exosome (RNase complex)
+cytoplasmic exosome (RNase complex)
+histone acetyltransferase complex
+glycerol-3-phosphate dehydrogenase complex
+perinuclear region of cytoplasm
+Holliday junction resolvase complex
+ribosome
+cell surface
+RNA polymerase III complex
+Mpp10 complex
+pICln-Sm protein complex
+nucleolar ribonuclease P complex
+cytosolic large ribosomal subunit
+cytosolic small ribosomal subunit
+TOC-TIC supercomplex I
+photosystem II oxygen evolving complex
+Cajal body
+etioplast membrane
+chloroplast envelope
+box C/D RNP complex
+mitochondrial intermembrane space
+mitochondrial matrix
+endoplasmic reticulum lumen
+methylosome
+peroxisome
+NAD(P)H dehydrogenase complex (plastoquinone)
+plastid-encoded plastid RNA polymerase complex
+tRNA (m1A) methyltransferase complex
+mitochondria-associated endoplasmic reticulum membrane
+intracellular membrane-bounded organelle
+mitochondrial inner membrane
+TIM23 mitochondrial import inner membrane translocase complex
+nucleolus
+sno(s)RNA-containing ribonucleoprotein complex
+RNA polymerase I complex
+cytoplasm
+mitochondrion

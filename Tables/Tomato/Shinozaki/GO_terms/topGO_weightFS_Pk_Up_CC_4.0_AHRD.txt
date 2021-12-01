@@ -1,0 +1,47 @@
+Annotated	Significant	Expected	DEG	Term
+GO:0000427	5	3	0,66	3	plastid-encoded plastid RNA polymerase complex
+GO:1990316	3	3	0,39	3	Atg1/ULK1 kinase complex
+GO:0044233	2	2	0,26	2	mitochondria-associated endoplasmic reticulum membrane
+GO:1990124	3	2	0,39	2	messenger ribonucleoprotein complex
+GO:0005737	7170	1138	940,27	1138	cytoplasm
+GO:0000813	8	5	1,05	5	ESCRT I complex
+GO:0000814	3	2	0,39	2	ESCRT II complex
+GO:0019773	16	5	2,1	5	proteasome core complex, alpha-subunit complex
+GO:0031969	133	27	17,44	27	chloroplast membrane
+GO:0070461	12	4	1,57	4	SAGA-type complex
+GO:0031977	21	4	2,75	4	thylakoid lumen
+GO:0042644	23	8	3,02	8	chloroplast nucleoid
+GO:0035658	3	2	0,39	2	Mon1-Ccz1 complex
+GO:0000323	38	6	4,98	6	lytic vacuole
+GO:0009368	13	8	1,7	8	endopeptidase Clp complex
+GO:0005674	3	2	0,39	2	transcription factor TFIIF complex
+GO:0005829	1242	199	162,88	199	cytosol
+GO:1990429	4	3	0,52	3	peroxisomal importomer complex
+GO:0005628	2	2	0,26	2	prospore membrane
+GO:0010287	24	7	3,15	7	plastoglobule
+GO:0019898	47	13	6,16	13	extrinsic component of membrane
+GO:0032587	3	2	0,39	2	ruffle membrane
+GO:0031901	3	3	0,39	3	early endosome membrane
+GO:0031902	11	4	1,44	4	late endosome membrane
+GO:0030134	34	6	4,46	6	COPII-coated ER to Golgi transport vesicle
+GO:0034663	4	3	0,52	3	endoplasmic reticulum chaperone complex
+GO:0009570	281	62	36,85	62	chloroplast stroma
+GO:0032300	34	9	4,46	9	mismatch repair complex
+GO:0080008	34	10	4,46	10	Cul4-RING E3 ubiquitin ligase complex
+GO:0000502	80	20	10,49	20	proteasome complex
+GO:0033185	3	2	0,39	2	dolichol-phosphate-mannose synthase complex
+GO:0009534	420	40	55,08	40	chloroplast thylakoid
+GO:0009536	1641	305	215,2	305	plastid
+GO:0008180	10	6	1,31	6	COP9 signalosome
+GO:0030904	7	3	0,92	3	retromer complex
+GO:0009941	225	53	29,51	53	chloroplast envelope
+GO:0005750	7	4	0,92	4	mitochondrial respiratory chain complex III
+GO:0005782	2	2	0,26	2	peroxisomal matrix
+GO:0005783	472	90	61,9	90	endoplasmic reticulum
+GO:0001405	8	4	1,05	4	PAM complex, Tim23 associated import motor
+GO:0009507	1541	284	202,09	284	chloroplast
+GO:0005788	23	8	3,02	8	endoplasmic reticulum lumen
+GO:0005771	10	4	1,31	4	multivesicular body
+GO:0005776	7	3	0,92	3	autophagosome
+GO:0005777	112	39	14,69	39	peroxisome
+GO:0005778	25	10	3,28	10	peroxisomal membrane

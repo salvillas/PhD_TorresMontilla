@@ -1,0 +1,146 @@
+Annotated	Significant	Expected	DEG	Term
+GO:0035999	14	5	1,95	5	tetrahydrofolate interconversion
+GO:0045454	36	18	5,02	18	cell redox homeostasis
+GO:0010387	2	2	0,28	2	COP9 signalosome assembly
+GO:0030150	24	9	3,34	9	protein import into mitochondrial matrix
+GO:0042372	6	3	0,84	3	phylloquinone biosynthetic process
+GO:0010928	17	5	2,37	5	regulation of auxin mediated signaling pathway
+GO:0010917	2	2	0,28	2	negative regulation of mitochondrial membrane potential
+GO:0010940	2	2	0,28	2	positive regulation of necrotic cell death
+GO:0019243	5	3	0,7	3	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione
+GO:0000045	25	12	3,48	12	autophagosome assembly
+GO:0034620	21	8	2,93	8	cellular response to unfolded protein
+GO:0010499	22	11	3,07	11	proteasomal ubiquitin-independent protein catabolic process
+GO:0034605	18	11	2,51	11	cellular response to heat
+GO:0008610	460	98	64,11	98	lipid biosynthetic process
+GO:0032955	2	2	0,28	2	regulation of division septum assembly
+GO:0032981	18	9	2,51	9	mitochondrial respiratory chain complex I assembly
+GO:0007205	8	4	1,11	4	protein kinase C-activating G protein-coupled receptor signaling pathway
+GO:0006367	38	10	5,3	10	transcription initiation from RNA polymerase II promoter
+GO:0045116	8	5	1,11	5	protein neddylation
+GO:0016226	29	18	4,04	18	iron-sulfur cluster assembly
+GO:0006352	69	18	9,62	18	DNA-templated transcription, initiation
+GO:0006388	5	3	0,7	3	tRNA splicing, via endonucleolytic cleavage and ligation
+GO:0061615	14	5	1,95	5	glycolytic process through fructose-6-phosphate
+GO:0009423	13	6	1,81	6	chorismate biosynthetic process
+GO:0060776	2	2	0,28	2	simple leaf morphogenesis
+GO:0009415	78	18	10,87	18	response to water
+GO:0010193	12	6	1,67	6	response to ozone
+GO:0015995	28	10	3,9	10	chlorophyll biosynthetic process
+GO:0046506	2	2	0,28	2	sulfolipid biosynthetic process
+GO:0009408	74	30	10,31	30	response to heat
+GO:0010150	18	6	2,51	6	leaf senescence
+GO:0051085	34	9	4,74	9	chaperone cofactor-dependent protein refolding
+GO:0015976	6	3	0,84	3	carbon utilization
+GO:0010121	2	2	0,28	2	arginine catabolic process to proline via ornithine
+GO:0050790	585	80	81,53	80	regulation of catalytic activity
+GO:0015914	34	10	4,74	10	phospholipid transport
+GO:0006457	214	57	29,82	57	protein folding
+GO:0010136	2	2	0,28	2	ureide catabolic process
+GO:0015937	9	4	1,25	4	coenzyme A biosynthetic process
+GO:0090378	2	2	0,28	2	seed trichome elongation
+GO:0006470	310	57	43,2	57	protein dephosphorylation
+GO:0046037	6	4	0,84	4	GMP metabolic process
+GO:0055129	5	3	0,7	3	L-proline biosynthetic process
+GO:0055114	2597	416	361,94	416	oxidation-reduction process
+GO:0006415	23	8	3,21	8	translational termination
+GO:0070525	5	4	0,7	4	tRNA threonylcarbamoyladenosine metabolic process
+GO:0000395	2	2	0,28	2	mRNA 5'-splice site recognition
+GO:0000398	164	33	22,86	33	mRNA splicing, via spliceosome
+GO:0010224	27	10	3,76	10	response to UV-B
+GO:0106035	5	4	0,7	4	protein maturation by [4Fe-4S] cluster transfer
+GO:0042218	7	4	0,98	4	1-aminocyclopropane-1-carboxylate biosynthetic process
+GO:0006165	93	19	12,96	19	nucleoside diphosphate phosphorylation
+GO:0045717	6	3	0,84	3	negative regulation of fatty acid biosynthetic process
+GO:0000373	17	7	2,37	7	Group II intron splicing
+GO:0033528	2	2	0,28	2	S-methylmethionine cycle
+GO:0010236	2	2	0,28	2	plastoquinone biosynthetic process
+GO:0006189	13	5	1,81	5	'de novo' IMP biosynthetic process
+GO:0019544	2	2	0,28	2	arginine catabolic process to glutamate
+GO:0006120	7	5	0,98	5	mitochondrial electron transport, NADH to ubiquinone
+GO:0006122	9	5	1,25	5	mitochondrial electron transport, ubiquinol to cytochrome c
+GO:0000338	6	4	0,84	4	protein deneddylation
+GO:0050821	19	7	2,65	7	protein stabilization
+GO:0006145	2	2	0,28	2	purine nucleobase catabolic process
+GO:0070676	3	3	0,42	3	intralumenal vesicle formation
+GO:0042793	9	6	1,25	6	plastid transcription
+GO:0035794	2	2	0,28	2	positive regulation of mitochondrial membrane permeability
+GO:0009231	13	7	1,81	7	riboflavin biosynthetic process
+GO:0006102	5	4	0,7	4	isocitrate metabolic process
+GO:0006108	20	6	2,79	6	malate metabolic process
+GO:0034497	5	4	0,7	4	protein localization to phagophore assembly site
+GO:0016560	4	3	0,56	3	protein import into peroxisome matrix, docking
+GO:0030587	6	3	0,84	3	sorocarp development
+GO:0071472	8	4	1,11	4	cellular response to salt stress
+GO:0030517	2	2	0,28	2	negative regulation of axon extension
+GO:0000422	13	6	1,81	6	autophagy of mitochondrion
+GO:1900027	2	2	0,28	2	regulation of ruffle assembly
+GO:0048671	2	2	0,28	2	negative regulation of collateral sprouting
+GO:0007030	28	9	3,9	9	Golgi organization
+GO:0032781	22	9	3,07	9	positive regulation of ATPase activity
+GO:0007005	153	48	21,32	48	mitochondrion organization
+GO:0072598	14	6	1,95	6	protein localization to chloroplast
+GO:0000162	18	6	2,51	6	tryptophan biosynthetic process
+GO:0005983	5	3	0,7	3	starch catabolic process
+GO:0044255	608	125	84,74	125	cellular lipid metabolic process
+GO:0006782	14	6	1,95	6	protoporphyrinogen IX biosynthetic process
+GO:2000582	9	4	1,25	4	positive regulation of ATP-dependent microtubule motor activity, plus-end-directed
+GO:0009816	10	4	1,39	4	defense response to bacterium, incompatible interaction
+GO:0006749	53	19	7,39	19	glutathione metabolic process
+GO:0006739	34	8	4,74	8	NADP metabolic process
+GO:0009835	11	7	1,53	7	fruit ripening
+GO:0000256	2	2	0,28	2	allantoin catabolic process
+GO:0031408	20	7	2,79	7	oxylipin biosynthetic process
+GO:0042542	16	7	2,23	7	response to hydrogen peroxide
+GO:0043328	5	4	0,7	4	protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway
+GO:0045037	6	3	0,84	3	protein import into chloroplast stroma
+GO:0006850	6	4	0,84	4	mitochondrial pyruvate transmembrane transport
+GO:0051443	12	4	1,67	4	positive regulation of ubiquitin-protein transferase activity
+GO:1901141	2	2	0,28	2	regulation of lignin biosynthetic process
+GO:0008299	102	26	14,22	26	isoprenoid biosynthetic process
+GO:0006825	12	3	1,67	3	copper ion transport
+GO:0042692	2	2	0,28	2	muscle cell differentiation
+GO:0006807	10254	1394	1429,07	1394	nitrogen compound metabolic process
+GO:0009090	5	3	0,7	3	homoserine biosynthetic process
+GO:0042026	32	14	4,46	14	protein refolding
+GO:0010020	12	7	1,67	7	chloroplast fission
+GO:0010027	11	6	1,53	6	thylakoid membrane organization
+GO:0009693	12	7	1,67	7	ethylene biosynthetic process
+GO:0010043	5	4	0,7	4	response to zinc ion
+GO:0009058	5231	767	729,03	767	biosynthetic process
+GO:0055088	19	7	2,65	7	lipid homeostasis
+GO:0009082	31	9	4,32	9	branched-chain amino acid biosynthetic process
+GO:0009086	21	8	2,93	8	methionine biosynthetic process
+GO:0006559	18	6	2,51	6	L-phenylalanine catabolic process
+GO:0009088	9	4	1,25	4	threonine biosynthetic process
+GO:0009651	81	20	11,29	20	response to salt stress
+GO:0009073	52	18	7,25	18	aromatic amino acid family biosynthetic process
+GO:0009658	92	25	12,82	25	chloroplast organization
+GO:0006572	4	3	0,56	3	tyrosine catabolic process
+GO:0055046	14	4	1,95	4	microgametogenesis
+GO:0006515	30	12	4,18	12	protein quality control for misfolded or incompletely synthesized proteins
+GO:0043403	2	2	0,28	2	skeletal muscle tissue regeneration
+GO:0097428	13	9	1,81	9	protein maturation by iron-sulfur cluster transfer
+GO:0006099	52	19	7,25	19	tricarboxylic acid cycle
+GO:0043161	211	50	29,41	50	proteasome-mediated ubiquitin-dependent protein catabolic process
+GO:0051259	27	7	3,76	7	protein complex oligomerization
+GO:0016310	2112	287	294,34	287	phosphorylation
+GO:0006662	13	6	1,81	6	glycerol ether metabolic process
+GO:0006086	13	5	1,81	5	acetyl-CoA biosynthetic process from pyruvate
+GO:0019430	19	7	2,65	7	removal of superoxide radicals
+GO:0006012	22	8	3,07	8	galactose metabolic process
+GO:0006623	23	7	3,21	7	protein targeting to vacuole
+GO:0030308	4	4	0,56	4	negative regulation of cell growth
+GO:0051205	34	6	4,74	6	protein insertion into membrane
+GO:0006635	21	7	2,93	7	fatty acid beta-oxidation
+GO:0006006	48	13	6,69	13	glucose metabolic process
+GO:0090503	33	9	4,6	9	RNA phosphodiester bond hydrolysis, exonucleolytic
+GO:0071596	2	2	0,28	2	ubiquitin-dependent protein catabolic process via the N-end rule pathway
+GO:0034599	44	18	6,13	18	cellular response to oxidative stress
+GO:0051782	2	2	0,28	2	negative regulation of cell division
+GO:0036258	2	2	0,28	2	multivesicular body assembly
+GO:0051776	2	2	0,28	2	detection of redox state
+GO:0071586	11	6	1,53	6	CAAX-box protein processing
+GO:0030433	27	8	3,76	8	ubiquitin-dependent ERAD pathway
+GO:0046710	3	3	0,42	3	GDP metabolic process
+GO:0002238	11	6	1,53	6	response to molecule of fungal origin

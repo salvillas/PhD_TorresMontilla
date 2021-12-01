@@ -1,0 +1,67 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0016730	11	2	0,14	2	oxidoreductase activity, acting on iron-sulfur proteins as donors	0,00787503313260291
+GO:0016298	113	8	1,4	8	lipase activity	0,00391935780480571
+GO:0000287	396	10	4,92	10	magnesium ion binding	0,0275370666713524
+GO:0010436	6	2	0,07	2	carotenoid dioxygenase activity	0,00223802487787083
+GO:0004364	59	4	0,73	4	glutathione transferase activity	0,00626114414913154
+GO:0047987	1	1	0,01	1	hydroperoxide dehydratase activity	0,0124317849061626
+GO:0004096	15	2	0,19	2	catalase activity	0,0145491995442114
+GO:0004350	4	2	0,05	2	glutamate-5-semialdehyde dehydrogenase activity	0,000910132188376779
+GO:0042834	4	1	0,05	1	peptidoglycan binding	0,0488094179998417
+GO:0015267	326	6	4,05	6	channel activity	0,0235473039950411
+GO:0016705	591	20	7,35	20	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	0,00277727808728114
+GO:0004358	2	1	0,02	1	glutamate N-acetyltransferase activity	0,0247093473715236
+GO:0005544	32	7	0,4	7	calcium-dependent phospholipid binding	1,12896781339965e-07
+GO:0046923	15	4	0,19	4	ER retention sequence binding	2,88730541413649e-05
+GO:0030170	223	7	2,77	7	pyridoxal phosphate binding	0,0221397691172709
+GO:0004372	21	2	0,26	2	glycine hydroxymethyltransferase activity	0,0277090922102796
+GO:0050511	2	1	0,02	1	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase activity	0,0247093473715236
+GO:0004866	70	9	0,87	9	endopeptidase inhibitor activity	9,87046875693128e-05
+GO:0004867	31	4	0,39	4	serine-type endopeptidase inhibitor activity	0,000568641512767842
+GO:0010242	4	4	0,05	4	oxygen evolving activity	2,35835688752592e-08
+GO:0017096	3	1	0,04	1	acetylserotonin O-methyltransferase activity	0,0368345965469756
+GO:0008061	25	3	0,31	3	chitin binding	0,00358269366771732
+GO:0008863	3	2	0,04	2	formate dehydrogenase (NAD+) activity	0,000458849020619958
+GO:0042132	16	2	0,2	2	fructose 1,6-bisphosphate 1-phosphatase activity	0,0164922711839556
+GO:0008194	531	15	6,6	15	UDP-glycosyltransferase activity	0,0307479599846273
+GO:0008236	359	12	4,46	12	serine-type peptidase activity	0,000881219620408144
+GO:0005506	627	18	7,79	18	iron ion binding	0,000995475348386066
+GO:0005199	19	3	0,24	3	structural constituent of cell wall	0,00159508158043815
+GO:0005509	479	24	5,95	24	calcium ion binding	1,09210788491395e-08
+GO:0008886	2	1	0,02	1	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (non-phosphorylating) activity	0,0247093473715236
+GO:0004349	6	2	0,07	2	glutamate 5-kinase activity	0,00223802487787083
+GO:0070300	4	1	0,05	1	phosphatidic acid binding	0,0488094179998417
+GO:0004021	3	1	0,04	1	L-alanine:2-oxoglutarate aminotransferase activity	0,0368345965469756
+GO:0005344	3	2	0,04	2	oxygen carrier activity	0,000458849020619958
+GO:0020037	789	25	9,81	25	heme binding	2,33785790426206e-05
+GO:0010333	102	8	1,27	8	terpene synthase activity	4,2468004121465e-05
+GO:0051219	9	2	0,11	2	phosphoprotein binding	0,00524004008472706
+GO:0003977	2	1	0,02	1	UDP-N-acetylglucosamine diphosphorylase activity	0,0247093473715236
+GO:0008970	17	3	0,21	3	phospholipase A1 activity	0,00114019923779997
+GO:0016168	209	8	2,6	8	chlorophyll binding	0,00485675870939008
+GO:0008792	3	1	0,04	1	arginine decarboxylase activity	0,0368345965469756
+GO:0043424	28	2	0,35	2	protein histidine kinase binding	0,0471280997388241
+GO:0009013	2	1	0,02	1	succinate-semialdehyde dehydrogenase [NAD(P)+] activity	0,0247093473715236
+GO:0016157	29	3	0,36	3	sucrose synthase activity	0,0054867689997517
+GO:0010309	5	2	0,06	2	acireductone dioxygenase [iron(II)-requiring] activity	0,00150439398087812
+GO:0046423	2	2	0,02	2	allene-oxide cyclase activity	0,000154222440801613
+GO:0045550	2	2	0,02	2	geranylgeranyl reductase activity	0,000154222440801613
+GO:0030744	2	1	0,02	1	luteolin O-methyltransferase activity	0,0247093473715236
+GO:0016984	25	2	0,31	2	ribulose-bisphosphate carboxylase activity	0,0383208975490971
+GO:0046429	4	2	0,05	2	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity	0,000910132188376779
+GO:0009979	2	2	0,02	2	16:0 monogalactosyldiacylglycerol desaturase activity	0,000154222440801613
+GO:0019825	5	2	0,06	2	oxygen binding	0,00150439398087812
+GO:0004675	19	2	0,24	2	transmembrane receptor protein serine/threonine kinase activity	0,022933283488222
+GO:0004497	503	19	6,25	19	monooxygenase activity	0,000261985416850546
+GO:0003756	28	4	0,35	4	protein disulfide isomerase activity	0,000381079447411379
+GO:0048529	2	1	0,02	1	magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase activity	0,0247093473715236
+GO:0046524	8	2	0,1	2	sucrose-phosphate synthase activity	0,0041092913724102
+GO:0004777	2	1	0,02	1	succinate-semialdehyde dehydrogenase (NAD+) activity	0,0247093473715236
+GO:0102067	2	2	0,02	2	geranylgeranyl diphosphate reductase activity	0,000154222440801613
+GO:0004459	2	1	0,02	1	L-lactate dehydrogenase activity	0,0247093473715236
+GO:0004601	313	10	3,89	10	peroxidase activity	0,033243538058494
+GO:0004568	25	4	0,31	4	chitinase activity	0,000242481756046191
+GO:0032542	2	1	0,02	1	sulfiredoxin activity	0,0247093473715236
+GO:0046507	1	1	0,01	1	UDPsulfoquinovose synthase activity	0,0124317849061626
+GO:0016717	27	2	0,34	2	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water	0,0441164108400931
+GO:0030246	761	19	9,46	19	carbohydrate binding	0,0045847335643297

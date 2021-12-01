@@ -1,0 +1,127 @@
+NADH oxidation
+cytokinin metabolic process
+jasmonic acid biosynthetic process
+phenylpropanoid metabolic process
+lipid glycosylation
+L-methionine salvage from methylthioadenosine
+methylation
+sterol biosynthetic process
+nucleoside monophosphate phosphorylation
+auxin efflux
+AMP salvage
+cellulose biosynthetic process
+cellulose catabolic process
+response to wounding
+endoplasmic reticulum-plasma membrane tethering
+1-deoxy-D-xylulose 5-phosphate biosynthetic process
+dCTP catabolic process
+ATP transport
+DNA replication initiation
+tryptophan transport
+copper ion transmembrane transport
+aspartate transmembrane transport
+dTDP-rhamnose biosynthetic process
+chorismate biosynthetic process
+xyloglucan metabolic process
+response to water deprivation
+isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway involved in terpenoid biosynthetic process
+NAD biosynthetic process
+regulation of root morphogenesis
+sialylation
+seedling development
+regulation of L-ascorbic acid biosynthetic process
+phosphorelay signal transduction system
+cortical microtubule organization
+regulation of jasmonic acid mediated signaling pathway
+response to ozone
+zinc ion homeostasis
+DNA protection
+one-carbon metabolic process
+transmembrane transport
+regulation of defense response
+fucose metabolic process
+lipid catabolic process
+killing of cells of other organism
+pectin catabolic process
+gynoecium development
+cutin biosynthetic process
+regulation of phosphorus metabolic process
+positive regulation of sulfur metabolic process
+tetrahydrofolate interconversion
+pectin biosynthetic process
+response to peptide hormone
+stamen development
+petal morphogenesis
+cellular copper ion homeostasis
+molybdate ion transport
+potassium ion transmembrane transport
+GDP-mannose biosynthetic process
+ion transport
+phosphate ion transport
+response to extracellular stimulus
+lipid oxidation
+water transport
+UDP-rhamnose biosynthetic process
+negative regulation of endopeptidase activity
+response to molecule of fungal origin
+cell wall organization
+cellulose microfibril organization
+oxylipin biosynthetic process
+glycine biosynthetic process from serine
+spermine biosynthetic process
+isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway
+anisotropic cell growth
+pollen wall assembly
+endoplasmic reticulum membrane organization
+methionine metabolic process
+S-adenosylmethionine biosynthetic process
+S-adenosylmethioninamine biosynthetic process
+L-phenylalanine biosynthetic process
+anther dehiscence
+arginine biosynthetic process
+pentose-phosphate shunt, oxidative branch
+response to cadmium ion
+cell wall mannoprotein biosynthetic process
+cytoskeleton organization
+peptidyl-proline hydroxylation to 4-hydroxy-L-proline
+blue light signaling pathway
+response to zinc ion
+monopolar cell growth
+chloride transmembrane transport
+protein glutathionylation
+auxin-activated signaling pathway
+protein transport by the Tat complex
+regulation of transcription by RNA polymerase II
+gametophyte development
+hydrogen sulfide biosynthetic process
+response to starvation
+response to mannose
+ion transmembrane transport
+lipid metabolic process
+spermidine biosynthetic process
+isoprenoid biosynthetic process
+peptidyl-histidine phosphorylation
+ethylene-activated signaling pathway
+reactive oxygen species metabolic process
+protein O-linked glycosylation
+dimethylallyl diphosphate biosynthetic process
+gamma-tubulin complex localization
+plant organ morphogenesis
+cell wall biogenesis
+protein phosphorylation
+chlorophyll catabolic process
+carbohydrate metabolic process
+glycerol-3-phosphate catabolic process
+quinolinate biosynthetic process
+response to calcium ion
+phylloquinone biosynthetic process
+coenzyme A metabolic process
+mitochondrial calcium ion homeostasis
+S-adenosylmethionine cycle
+protein localization to cortical microtubule cytoskeleton
+ascorbate glutathione cycle
+flavonol biosynthetic process
+pollen tube development
+putrescine biosynthetic process from arginine
+purine ribonucleoside salvage
+adenine salvage

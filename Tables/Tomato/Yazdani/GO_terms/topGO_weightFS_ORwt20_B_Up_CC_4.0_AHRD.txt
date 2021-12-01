@@ -1,0 +1,42 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0005741	41	10	5,05	10	mitochondrial outer membrane	0,00338614378446441
+GO:0005743	280	64	34,49	64	mitochondrial inner membrane	0,0374942259587095
+GO:0005746	45	18	5,54	18	mitochondrial respirasome	0,00580968480475857
+GO:0005747	21	7	2,59	7	mitochondrial respiratory chain complex I	0,0103237333853837
+GO:0005749	6	3	0,74	3	mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)	0,0279792032764381
+GO:0008541	6	3	0,74	3	proteasome regulatory particle, lid subcomplex	0,0279792032764381
+GO:0005737	7170	1070	883,15	1070	cytoplasm	1,54493479460153e-05
+GO:0005739	1111	193	136,85	193	mitochondrion	0,0114149881595862
+GO:0000815	7	3	0,86	3	ESCRT III complex	0,0445388990200053
+GO:0019773	16	7	1,97	7	proteasome core complex, alpha-subunit complex	0,00176892460374326
+GO:0031969	133	20	16,38	20	chloroplast membrane	0,00309441860273832
+GO:0031977	21	6	2,59	6	thylakoid lumen	0,00676933114466181
+GO:0042644	23	10	2,83	10	chloroplast nucleoid	0,000196246784416169
+GO:0035658	3	3	0,37	3	Mon1-Ccz1 complex	0,00186655046165736
+GO:0009361	2	2	0,25	2	succinate-CoA ligase complex (ADP-forming)	0,0151657225009661
+GO:0009368	13	6	1,6	6	endopeptidase Clp complex	0,00275033838863172
+GO:0005829	1242	171	152,98	171	cytosol	0,0410830816477212
+GO:0048471	10	4	1,23	4	perinuclear region of cytoplasm	0,0261029477570587
+GO:0045252	4	3	0,49	3	oxoglutarate dehydrogenase complex	0,00677728380437699
+GO:0030956	7	3	0,86	3	glutamyl-tRNA(Gln) amidotransferase complex	0,0445388990200053
+GO:0031901	3	2	0,37	2	early endosome membrane	0,0417640665795835
+GO:0005834	3	2	0,37	2	heterotrimeric G-protein complex	0,0417640665795835
+GO:0030134	34	7	4,19	7	COPII-coated ER to Golgi transport vesicle	0,0154912338344793
+GO:0005839	30	13	3,7	13	proteasome core complex	0,0042662170932695
+GO:0034663	4	3	0,49	3	endoplasmic reticulum chaperone complex	0,00677728380437699
+GO:0046930	5	3	0,62	3	pore complex	0,0153903614410912
+GO:0042555	11	6	1,35	6	MCM complex	0,000922069465939166
+GO:0005793	20	7	2,46	7	endoplasmic reticulum-Golgi intermediate compartment	0,0226606092635113
+GO:0005794	683	105	84,13	105	Golgi apparatus	0,0291491551508424
+GO:0009534	420	32	51,73	32	chloroplast thylakoid	0,0161558597072856
+GO:0009536	1641	258	202,13	258	plastid	0,025821794598576
+GO:0033179	17	5	2,09	5	proton-transporting V-type ATPase, V0 domain	0,0490340485665826
+GO:0030904	7	3	0,86	3	retromer complex	0,0417460023938173
+GO:0009941	225	52	27,71	52	chloroplast envelope	1,94084392459582e-08
+GO:0005750	7	3	0,86	3	mitochondrial respiratory chain complex III	0,0445388990200053
+GO:0005783	472	97	58,14	97	endoplasmic reticulum	7,22942096612337e-05
+GO:0001405	8	4	0,99	4	PAM complex, Tim23 associated import motor	0,010654397105734
+GO:0005787	6	3	0,74	3	signal peptidase complex	0,0279792032764381
+GO:0009507	1541	237	189,81	237	chloroplast	6,04098221425533e-07
+GO:0005788	23	11	2,83	11	endoplasmic reticulum lumen	3,15512244941015e-05
+GO:0005771	10	4	1,23	4	multivesicular body	0,0261029477570587

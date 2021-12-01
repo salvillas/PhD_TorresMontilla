@@ -1,0 +1,45 @@
+term_ID,description,frequency,plot_X,plot_Y,plot_size,log10 p-value,uniqueness,dispensability,representative,eliminated
+GO:0010951,"negative regulation of endopeptidase activity",0.157%,-3.556, 3.449,4.304,-8.1827,0.856,0.000,10951,0
+GO:0009058,"biosynthetic process",31.611%,-0.919,-3.456,6.608,-1.8881,0.952,0.018,9058,0
+GO:0042026,"protein refolding",0.069%,-3.987, 0.098,3.949,-1.7413,0.933,0.024,42026,0
+GO:0098869,"cellular oxidant detoxification",0.784%,-5.401,-4.233,5.003,-5.0582,0.750,0.029,98869,0
+GO:0033355,"ascorbate glutathione cycle",0.083%, 5.344,-3.328,4.025,-4.9033,0.628,0.044,33355,0
+GO:0019509,"L-methionine biosynthetic process from methylthioadenosine",0.067%,null,null,3.934,-1.4568,0.732,0.546,33355,1
+GO:0042744,"hydrogen peroxide catabolic process",0.093%,null,null,4.078,-1.3660,0.813,0.981,33355,1
+GO:0009102,"biotin biosynthetic process",0.081%,null,null,4.017,-1.3791,0.711,0.613,33355,1
+GO:0006013,"mannose metabolic process",0.031%,null,null,3.596,-1.6094,0.819,0.628,33355,1
+GO:0015671,"oxygen transport",0.040%, 2.515, 3.249,3.709,-1.9743,0.905,0.055,15671,0
+GO:0015976,"carbon utilization",0.040%,-2.714, 1.755,3.715,-1.3791,0.913,0.055,15976,0
+GO:0090378,"seed trichome elongation",0.000%, 0.413, 5.683,0.602,-1.9743,0.874,0.084,90378,0
+GO:0009298,"GDP-mannose biosynthetic process",0.028%, 3.337,-7.866,3.552,-1.5017,0.845,0.093,9298,0
+GO:0006792,"regulation of sulfur utilization",0.000%,-5.845, 3.062,0.778,-1.6756,0.902,0.125,6792,0
+GO:0006629,"lipid metabolic process",3.522%, 4.929, 1.086,5.655,-2.7675,0.849,0.150,6629,0
+GO:0031640,"killing of cells of other organism",0.019%,-6.532, 1.341,3.389,-3.9064,0.920,0.168,31640,0
+GO:0043953,"protein transport by the Tat complex",0.073%, 0.302, 2.811,3.974,-1.5017,0.945,0.190,43953,0
+GO:0034389,"lipid particle organization",0.005%,-0.217, 6.085,2.823,-1.3451,0.928,0.194,34389,0
+GO:0010731,"protein glutathionylation",0.002%, 2.859, 5.992,2.446,-4.4272,0.902,0.194,10731,0
+GO:0010438,"cellular response to sulfur starvation",0.000%,-4.883,-5.941,1.342,-1.6756,0.784,0.203,10438,0
+GO:0017186,"peptidyl-pyroglutamic acid biosynthetic process, using glutaminyl-peptide cyclotransferase",0.007%, 4.597, 4.937,2.953,-1.7540,0.899,0.233,17186,0
+GO:0009695,"jasmonic acid biosynthetic process",0.001%, 2.162,-4.719,2.217,-3.0939,0.818,0.241,9695,0
+GO:0009435,"NAD biosynthetic process",0.246%, 4.013,-4.709,4.499,-2.4846,0.768,0.244,9435,0
+GO:0055114,"oxidation-reduction process",15.060%, 4.073,-0.235,6.286,-4.9633,0.853,0.300,55114,0
+GO:0009611,"response to wounding",0.127%,-4.099,-5.808,4.212,-4.9967,0.776,0.321,9611,0
+GO:0009607,"response to biotic stimulus",0.342%,-4.899,-4.575,4.643,-1.7291,0.816,0.351,9607,0
+GO:0006032,"chitin catabolic process",0.018%, 6.164,-4.044,3.368,-3.8732,0.792,0.367,6032,0
+GO:0010439,"regulation of glucosinolate biosynthetic process",0.000%, 3.907,-6.150,1.176,-1.6756,0.748,0.378,10439,0
+GO:0016121,"carotene catabolic process",0.001%, 7.323,-0.312,1.949,-1.7540,0.819,0.378,16121,0
+GO:0050832,"defense response to fungus",0.028%,-3.978,-6.320,3.557,-2.5321,0.715,0.396,50832,0
+GO:0002238,"response to molecule of fungal origin",0.001%,null,null,2.196,-1.5017,0.738,0.815,50832,1
+GO:0042742,"defense response to bacterium",0.097%,null,null,4.097,-1.4719,0.709,0.888,50832,1
+GO:0098542,"defense response to other organism",0.220%,null,null,4.450,-1.4321,0.701,0.810,50832,1
+GO:2000022,"regulation of jasmonic acid mediated signaling pathway",0.002%,-5.660,-3.001,2.391,-2.3220,0.719,0.430,2000022,0
+GO:1902584,"positive regulation of response to water deprivation",0.001%,null,null,2.045,-1.6756,0.733,0.593,2000022,1
+GO:0009269,"response to desiccation",0.007%,null,null,2.923,-1.3791,0.734,0.790,2000022,1
+GO:0009862,"systemic acquired resistance, salicylic acid mediated signaling pathway",0.001%,null,null,1.914,-1.9743,0.660,0.640,2000022,1
+GO:0016998,"cell wall macromolecule catabolic process",0.059%, 7.481,-1.050,3.880,-4.3921,0.829,0.455,16998,0
+GO:0046294,"formaldehyde catabolic process",0.021%, 6.314,-2.177,3.430,-1.6756,0.771,0.461,46294,0
+GO:0052837,"thiazole biosynthetic process",0.008%, 2.954,-7.127,3.002,-2.1496,0.797,0.475,52837,0
+GO:0080186,"developmental vegetative growth",0.001%,-2.163, 5.730,2.182,-1.6756,0.901,0.475,80186,0
+GO:0006557,"S-adenosylmethioninamine biosynthetic process",0.016%, 4.103,-5.696,3.303,-1.4568,0.711,0.496,6557,0
+GO:0006597,"spermine biosynthetic process",0.010%,null,null,3.124,-1.3791,0.837,0.705,6557,1
+GO:0006979,"response to oxidative stress",0.575%,-4.465,-5.396,4.868,-1.8548,0.760,0.498,6979,0

@@ -1,0 +1,66 @@
+response to reactive oxygen species
+glucose metabolic process
+autophagosome maturation
+protein stabilization
+stress granule assembly
+positive regulation of response to water deprivation
+regulation of synapse structure or activity
+response to unfolded protein
+polyprenol catabolic process
+mitochondrial electron transport, ubiquinol to cytochrome c
+protein peptidyl-prolyl isomerization
+chaperone-mediated protein complex assembly
+cellular response to amino acid stimulus
+protein monoubiquitination
+chaperone-mediated protein folding
+protein-containing complex assembly
+response to salt stress
+detection of mechanical stimulus
+gibberellin biosynthetic process
+positive regulation of transcription, DNA-templated
+ubiquitin-dependent ERAD pathway
+protein complex oligomerization
+entrainment of circadian clock
+regulation of protein kinase activity
+pre-replicative complex assembly involved in nuclear cell cycle DNA replication
+positive regulation of superoxide dismutase activity
+mitotic spindle disassembly
+developmental vegetative growth
+ER-associated misfolded protein catabolic process
+negative regulation of transcription by RNA polymerase II
+copal-8-ol diphosphate(3-) catabolic process
+protein import into chloroplast stroma
+cis-abienol biosynthetic process
+vegetative phase change
+protein import into peroxisome matrix
+protein refolding
+retrograde protein transport, ER to cytosol
+dGTP catabolic process
+positive regulation of abscisic acid-activated signaling pathway
+phospholipid transport
+anthocyanin-containing compound biosynthetic process
+receptor internalization
+de-etiolation
+positive regulation of growth
+ion transmembrane transport
+urate catabolic process
+response to chlorate
+floral meristem determinacy
+response to cyclopentenone
+dynamin family protein polymerization involved in mitochondrial fission
+lipid translocation
+negative regulation of phosphatase activity
+cellular response to heat
+response to hydrogen peroxide
+cellular response to glucose starvation
+mRNA 5'-splice site recognition
+mRNA splicing, via spliceosome
+chaperone cofactor-dependent protein refolding
+positive regulation of ATPase activity
+protein folding
+spliceosomal snRNP assembly
+cell volume homeostasis
+lipid droplet organization
+response to heat
+anion transport
+chloride transport

@@ -1,0 +1,99 @@
+phosphatidylinositol phospholipase C activity
+hydrolase activity, hydrolyzing O-glycosyl compounds
+alpha-amylase activity
+phospholipase A1 activity
+potassium ion transmembrane transporter activity
+L-threonine ammonia-lyase activity
+dTDP-glucose 4,6-dehydratase activity
+phosphorelay sensor kinase activity
+oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+sucrose alpha-glucosidase activity
+transferase activity
+nicotinate-nucleotide diphosphorylase (carboxylating) activity
+spermidine synthase activity
+galacturonate binding
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase activity
+adenosylhomocysteinase activity
+adenosylmethionine decarboxylase activity
+receptor serine/threonine kinase binding
+adenylate kinase activity
+phosphoprotein phosphatase activity
+transmembrane transporter activity
+blue light photoreceptor activity
+acetyl-CoA:L-glutamate N-acetyltransferase activity
+anthranilate synthase activity
+voltage-gated chloride channel activity
+UDPsulfoquinovose synthase activity
+1,2-diacylglycerol 3-beta-galactosyltransferase activity
+phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase activity
+12-oxophytodienoate reductase activity
+structural constituent of cytoskeleton
+phosphoric diester hydrolase activity
+saccharopine dehydrogenase (NADP+, L-lysine-forming) activity
+lipase activity
+saccharopine dehydrogenase (NAD+, L-glutamate-forming) activity
+1-ethyladenine demethylase activity
+glutathione dehydrogenase (ascorbate) activity
+pectate lyase activity
+beta-amyrin synthase activity
+microtubule binding
+inositol tetrakisphosphate 1-kinase activity
+lanosterol synthase activity
+alpha-amylase activity (releasing maltohexaose)
+glycopeptide alpha-N-acetylgalactosaminidase activity
+N-carbamoylputrescine amidase activity
+oxidoreductase activity
+phospholipase C activity
+acyl-CoA hydrolase activity
+DNA-binding transcription factor activity, RNA polymerase II-specific
+channel activity
+methione N-acyltransferase activity
+calcium-dependent phospholipid binding
+endopeptidase inhibitor activity
+serine-type endopeptidase inhibitor activity
+water channel activity
+heme binding
+FAD binding
+ligand-gated ion channel activity
+UDP-glucose 4,6-dehydratase activity
+1-deoxy-D-xylulose-5-phosphate synthase activity
+polygalacturonate 4-alpha-galacturonosyltransferase activity
+iron ion binding
+metal ion binding
+purine nucleoside transmembrane transporter activity
+dCTP diphosphatase activity
+N2-acetyl-L-ornithine:2-oxoglutarate 5-aminotransferase activity
+2-alkenal reductase [NAD(P)+] activity
+acyl-CoA oxidase activity
+pyridoxal phosphate binding
+adenine phosphoribosyltransferase activity
+catalytic activity
+1,4-dihydroxy-2-naphthoyl-CoA thioesterase activity
+inositol-1,3,4-trisphosphate 6-kinase activity
+inositol-1,3,4-trisphosphate 5-kinase activity
+galactinol-sucrose galactosyltransferase activity
+pheophytinase activity
+hydroperoxide dehydratase activity
+4-coumarate-CoA ligase activity
+formate dehydrogenase (NAD+) activity
+terpene synthase activity
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase activity
+6-phosphogluconolactonase activity
+molybdate ion transmembrane transporter activity
+copper ion transmembrane transporter activity
+malate dehydrogenase (decarboxylating) (NAD+) activity
+mannose-6-phosphate isomerase activity
+methionine adenosyltransferase activity
+cellulose synthase (UDP-forming) activity
+cellulase activity
+xyloglucan:xyloglucosyl transferase activity
+hydroxymethylglutaryl-CoA reductase (NADPH) activity
+N-acetyl-gamma-glutamyl-phosphate reductase activity
+transferase activity, transferring glycosyl groups
+UDP-L-rhamnose synthase activity
+allene-oxide cyclase activity
+dTDP-4-dehydrorhamnose 3,5-epimerase activity
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity
+dTDP-4-dehydrorhamnose reductase activity
+hydrolase activity

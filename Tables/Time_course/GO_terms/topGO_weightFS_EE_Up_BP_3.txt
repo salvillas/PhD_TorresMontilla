@@ -1,0 +1,122 @@
+ethylene biosynthetic process
+phenylpropanoid metabolic process
+endoplasmic reticulum unfolded protein response
+sterol metabolic process
+response to very low light intensity stimulus
+cellular response to lead ion
+response to insect
+phytochelatin biosynthetic process
+response to wounding
+negative regulation of T cell receptor signaling pathway
+galactolipid biosynthetic process
+response to biotic stimulus
+defense response
+recognition of pollen
+piRNA metabolic process
+cell wall macromolecule catabolic process
+defense response to fungus
+response to oxidative stress
+protein autophosphorylation
+regulation of signaling receptor activity
+GDP metabolic process
+GMP metabolic process
+formate catabolic process
+maintenance of seed dormancy by absisic acid
+xyloglucan metabolic process
+negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway
+metal ion transport
+cyanate metabolic process
+regulation of defense response to insect
+neutrophil degranulation
+glycerol metabolic process
+toxin catabolic process
+tryptophan catabolic process to kynurenine
+protein unfolding
+regulation of jasmonic acid mediated signaling pathway
+seed trichome elongation
+N-acetylglucosamine metabolic process
+chitin catabolic process
+glutathione metabolic process
+leaf senescence
+regulation of proton transport
+transmembrane receptor protein serine/threonine kinase signaling pathway
+mature ribosome assembly
+regulation of defense response
+lipid catabolic process
+killing of cells of other organism
+cellular oxidant detoxification
+phenylacetate catabolic process
+cellular response to phosphate starvation
+regulation of abscisic acid biosynthetic process
+1-aminocyclopropane-1-carboxylate biosynthetic process
+positive regulation of response to water deprivation
+cell redox homeostasis
+lead ion transport
+multicellular organism growth
+lipid biosynthetic process
+mitochondrial fission
+DNA mediated transformation
+GDP-mannose biosynthetic process
+lipid oxidation
+myo-inositol hexakisphosphate biosynthetic process
+response to vitamin B1
+defense response to oomycetes
+ceramide biosynthetic process
+protein refolding
+collagen catabolic process
+negative regulation of endopeptidase activity
+mitochondrial mRNA modification
+oxylipin biosynthetic process
+developmental vegetative growth
+gene silencing by RNA-directed DNA methylation
+defense response to bacterium
+polyamine catabolic process
+isopentenyl diphosphate biosynthetic process, mevalonate pathway
+defense response to other organism
+response to chitin
+regulation of salicylic acid biosynthetic process
+arginine catabolic process
+snRNA pseudouridine synthesis
+biosynthetic process
+cytidine to uridine editing
+glutamate catabolic process
+response to jasmonic acid
+'de novo' cotranslational protein folding
+clathrin coat assembly
+response to brassinosteroid
+rRNA processing
+regulation of transcription, DNA-templated
+calcium-mediated signaling
+glycerol ether metabolic process
+long-chain fatty acid metabolic process
+protein retention in ER lumen
+lipid metabolic process
+SRP-dependent cotranslational protein targeting to membrane, translocation
+isoprenoid biosynthetic process
+regulation of defense response to fungus
+double-strand break repair via nonhomologous end joining
+dephosphorylation
+cellular response to hypoxia
+trehalose biosynthetic process
+ethylene-activated signaling pathway
+negative regulation of cell size
+lipid translocation
+ubiquitin-dependent ERAD pathway
+posttranslational protein targeting to membrane, translocation
+cell wall biogenesis
+calcium ion transmembrane transport
+protein phosphorylation
+dolichyl monophosphate biosynthetic process
+negative regulation of inclusion body assembly
+protein dephosphorylation
+lignin biosynthetic process
+photosynthesis
+piecemeal microautophagy of the nucleus
+melatonin biosynthetic process
+phospholipid transport
+flavonol biosynthetic process
+putrescine biosynthetic process from ornithine
+positive regulation of autophagy
+UDP-glucose transmembrane transport
+2,4,6-trinitrotoluene catabolic process
+UDP-galactose transmembrane transport

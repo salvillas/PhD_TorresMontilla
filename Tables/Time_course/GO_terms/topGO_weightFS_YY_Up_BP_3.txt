@@ -1,0 +1,94 @@
+NADH oxidation
+cytokinin metabolic process
+jasmonic acid biosynthetic process
+pattern specification process
+inositol trisphosphate metabolic process
+auxin efflux
+AMP salvage
+cellulose biosynthetic process
+cellulose catabolic process
+response to fungus
+response to wounding
+dCTP catabolic process
+ATP transport
+DNA replication initiation
+tryptophan transport
+copper ion transmembrane transport
+aspartate transmembrane transport
+ion homeostasis
+xyloglucan metabolic process
+response to water deprivation
+NAD biosynthetic process
+phosphorelay signal transduction system
+tryptophan biosynthetic process
+cortical microtubule organization
+protein unfolding
+regulation of jasmonic acid mediated signaling pathway
+response to ozone
+DNA protection
+transmembrane transport
+regulation of defense response
+fucose metabolic process
+lipid catabolic process
+killing of cells of other organism
+pectin catabolic process
+regulation of abscisic acid biosynthetic process
+positive regulation of sulfur metabolic process
+stamen development
+petal morphogenesis
+cellular copper ion homeostasis
+molybdate ion transport
+GDP-mannose biosynthetic process
+ion transport
+phosphate ion transport
+lipid oxidation
+water transport
+UDP-rhamnose biosynthetic process
+glucan catabolic process
+negative regulation of endopeptidase activity
+response to molecule of fungal origin
+cell wall organization
+cytidine deamination
+oxylipin biosynthetic process
+developmental process
+cell cycle arrest
+arginine biosynthetic process
+double-strand break repair via break-induced replication
+pentose-phosphate shunt, oxidative branch
+cell wall mannoprotein biosynthetic process
+magnesium ion transmembrane transport
+cytidine to uridine editing
+cytoskeleton organization
+root meristem specification
+microtubule-based process
+'de novo' cotranslational protein folding
+response to zinc ion
+chloride transmembrane transport
+response to sucrose
+protein glutathionylation
+auxin-activated signaling pathway
+protein transport by the Tat complex
+regulation of transcription by RNA polymerase II
+gametophyte development
+hydrogen sulfide biosynthetic process
+response to starvation
+ion transmembrane transport
+lipid metabolic process
+nucleosome assembly
+spermidine biosynthetic process
+isoprenoid biosynthetic process
+acyl-CoA metabolic process
+ethylene-activated signaling pathway
+cell wall biogenesis
+plant-type cell wall modification involved in multidimensional cell growth
+chlorophyll catabolic process
+carbohydrate metabolic process
+intracellular signal transduction
+negative regulation of cyclin-dependent protein serine/threonine kinase activity
+quinolinate biosynthetic process
+phylloquinone biosynthetic process
+ascorbate glutathione cycle
+flavonol biosynthetic process
+purine ribonucleoside salvage
+adenine salvage
+root cap development

@@ -1,0 +1,148 @@
+Annotated	Significant	Expected	DEG	Term
+GO:0042793	9	6	1,29	6	plastid transcription
+GO:0009408	74	32	10,61	32	response to heat
+GO:0045454	36	16	5,16	16	cell redox homeostasis
+GO:0010387	2	2	0,29	2	COP9 signalosome assembly
+GO:0016560	4	3	0,57	3	protein import into peroxisome matrix, docking
+GO:0030968	12	5	1,72	5	endoplasmic reticulum unfolded protein response
+GO:0015976	6	3	0,86	3	carbon utilization
+GO:0043328	5	4	0,72	4	protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway
+GO:0006850	6	4	0,86	4	mitochondrial pyruvate transmembrane transport
+GO:0015937	9	4	1,29	4	coenzyme A biosynthetic process
+GO:0019243	5	3	0,72	3	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione
+GO:0046037	6	4	0,86	4	GMP metabolic process
+GO:0006825	12	3	1,72	3	copper ion transport
+GO:0070973	14	5	2,01	5	protein localization to endoplasmic reticulum exit site
+GO:0010499	22	9	3,15	9	proteasomal ubiquitin-independent protein catabolic process
+GO:0070932	10	4	1,43	4	histone H3 deacetylation
+GO:0006807	10254	1461	1470,39	1461	nitrogen compound metabolic process
+GO:0000395	2	2	0,29	2	mRNA 5'-splice site recognition
+GO:0000398	164	41	23,52	41	mRNA splicing, via spliceosome
+GO:0045175	3	3	0,43	3	basal protein localization
+GO:0045116	8	5	1,15	5	protein neddylation
+GO:0005983	5	3	0,72	3	starch catabolic process
+GO:0000373	17	6	2,44	6	Group II intron splicing
+GO:0006572	4	3	0,57	3	tyrosine catabolic process
+GO:0046940	17	6	2,44	6	nucleoside monophosphate phosphorylation
+GO:0000338	6	4	0,86	4	protein deneddylation
+GO:0006515	30	12	4,3	12	protein quality control for misfolded or incompletely synthesized proteins
+GO:0006541	49	10	7,03	10	glutamine metabolic process
+GO:0043403	2	2	0,29	2	skeletal muscle tissue regeneration
+GO:0010193	12	5	1,72	5	response to ozone
+GO:0010197	6	3	0,86	3	polar nucleus fusion
+GO:0009231	13	7	1,86	7	riboflavin biosynthetic process
+GO:0035999	14	5	2,01	5	tetrahydrofolate interconversion
+GO:0043161	211	50	30,26	50	proteasome-mediated ubiquitin-dependent protein catabolic process
+GO:0010121	2	2	0,29	2	arginine catabolic process to proline via ornithine
+GO:0000455	2	2	0,29	2	enzyme-directed rRNA pseudouridine synthesis
+GO:0042542	16	7	2,29	7	response to hydrogen peroxide
+GO:0006662	13	5	1,86	5	glycerol ether metabolic process
+GO:0010136	2	2	0,29	2	ureide catabolic process
+GO:0000422	13	7	1,86	7	autophagy of mitochondrion
+GO:0070370	2	2	0,29	2	cellular heat acclimation
+GO:0030308	4	4	0,57	4	negative regulation of cell growth
+GO:0042692	2	2	0,29	2	muscle cell differentiation
+GO:0090503	33	10	4,73	10	RNA phosphodiester bond hydrolysis, exonucleolytic
+GO:0034599	44	17	6,31	17	cellular response to oxidative stress
+GO:0000162	18	6	2,58	6	tryptophan biosynthetic process
+GO:0010224	27	10	3,87	10	response to UV-B
+GO:0071586	11	6	1,58	6	CAAX-box protein processing
+GO:0045717	6	3	0,86	3	negative regulation of fatty acid biosynthetic process
+GO:0010239	5	3	0,72	3	chloroplast mRNA processing
+GO:0045732	34	10	4,88	10	positive regulation of protein catabolic process
+GO:0030433	27	9	3,87	9	ubiquitin-dependent ERAD pathway
+GO:0019544	2	2	0,29	2	arginine catabolic process to glutamate
+GO:0009816	10	5	1,43	5	defense response to bacterium, incompatible interaction
+GO:0000103	12	5	1,72	5	sulfate assimilation
+GO:0009835	11	7	1,58	7	fruit ripening
+GO:0030150	24	12	3,44	12	protein import into mitochondrial matrix
+GO:0006099	52	20	7,46	20	tricarboxylic acid cycle
+GO:0051085	34	10	4,88	10	chaperone cofactor-dependent protein refolding
+GO:0050790	585	82	83,89	82	regulation of catalytic activity
+GO:1905691	2	2	0,29	2	lipid droplet disassembly
+GO:0000256	2	2	0,29	2	allantoin catabolic process
+GO:0006086	13	6	1,86	6	acetyl-CoA biosynthetic process from pyruvate
+GO:0009561	13	6	1,86	6	megagametogenesis
+GO:0050764	5	3	0,72	3	regulation of phagocytosis
+GO:1901141	2	2	0,29	2	regulation of lignin biosynthetic process
+GO:0006012	22	8	3,15	8	galactose metabolic process
+GO:0034620	21	9	3,01	9	cellular response to unfolded protein
+GO:0055129	5	3	0,72	3	L-proline biosynthetic process
+GO:1900027	2	2	0,29	2	regulation of ruffle assembly
+GO:0070143	2	2	0,29	2	mitochondrial alanyl-tRNA aminoacylation
+GO:0034605	18	12	2,58	12	cellular response to heat
+GO:0032781	22	6	3,15	6	positive regulation of ATPase activity
+GO:0030259	5	3	0,72	3	lipid glycosylation
+GO:0042026	32	16	4,59	16	protein refolding
+GO:1901259	6	3	0,86	3	chloroplast rRNA processing
+GO:0006995	8	4	1,15	4	cellular response to nitrogen starvation
+GO:0009693	12	7	1,72	7	ethylene biosynthetic process
+GO:0009651	81	19	11,62	19	response to salt stress
+GO:0009658	92	29	13,19	29	chloroplast organization
+GO:0050821	19	7	2,72	7	protein stabilization
+GO:0016310	2112	272	302,85	272	phosphorylation
+GO:0008299	102	28	14,63	28	isoprenoid biosynthetic process
+GO:0048671	2	2	0,29	2	negative regulation of collateral sprouting
+GO:0009098	7	4	1	4	leucine biosynthetic process
+GO:0072598	14	6	2,01	6	protein localization to chloroplast
+GO:0032511	10	7	1,43	7	late endosome to vacuole transport via multivesicular body sorting pathway
+GO:0006367	38	10	5,45	10	transcription initiation from RNA polymerase II promoter
+GO:0044255	608	132	87,19	132	cellular lipid metabolic process
+GO:0006388	5	3	0,72	3	tRNA splicing, via endonucleolytic cleavage and ligation
+GO:0009086	21	7	3,01	7	methionine biosynthetic process
+GO:0009073	52	17	7,46	17	aromatic amino acid family biosynthetic process
+GO:0046710	3	3	0,43	3	GDP metabolic process
+GO:0044210	9	4	1,29	4	'de novo' CTP biosynthetic process
+GO:0097428	13	8	1,86	8	protein maturation by iron-sulfur cluster transfer
+GO:0044208	4	3	0,57	3	'de novo' AMP biosynthetic process
+GO:0030587	6	4	0,86	4	sorocarp development
+GO:0046855	14	5	2,01	5	inositol phosphate dephosphorylation
+GO:0006457	214	68	30,69	68	protein folding
+GO:0045037	6	3	0,86	3	protein import into chloroplast stroma
+GO:0030517	2	2	0,29	2	negative regulation of axon extension
+GO:0051443	12	4	1,72	4	positive regulation of ubiquitin-protein transferase activity
+GO:0090378	2	2	0,29	2	seed trichome elongation
+GO:0006415	23	8	3,3	8	translational termination
+GO:0070525	5	4	0,72	4	tRNA threonylcarbamoyladenosine metabolic process
+GO:1990544	8	4	1,15	4	mitochondrial ATP transmembrane transport
+GO:0010020	12	7	1,72	7	chloroplast fission
+GO:0010027	11	6	1,58	6	thylakoid membrane organization
+GO:0106035	5	3	0,72	3	protein maturation by [4Fe-4S] cluster transfer
+GO:0010043	5	4	0,72	4	response to zinc ion
+GO:0019375	7	4	1	4	galactolipid biosynthetic process
+GO:0034355	2	2	0,29	2	NAD salvage
+GO:0016226	29	20	4,16	20	iron-sulfur cluster assembly
+GO:0051131	6	3	0,86	3	chaperone-mediated protein complex assembly
+GO:0006145	2	2	0,29	2	purine nucleobase catabolic process
+GO:0070676	3	3	0,43	3	intralumenal vesicle formation
+GO:0046506	2	2	0,29	2	sulfolipid biosynthetic process
+GO:0006102	5	4	0,72	4	isocitrate metabolic process
+GO:0006108	20	7	2,87	7	malate metabolic process
+GO:0044804	11	6	1,58	6	autophagy of nucleus
+GO:0034497	5	3	0,72	3	protein localization to phagophore assembly site
+GO:0051259	27	8	3,87	8	protein complex oligomerization
+GO:0000055	12	6	1,72	6	ribosomal large subunit export from nucleus
+GO:0000056	9	4	1,29	4	ribosomal small subunit export from nucleus
+GO:0010928	17	5	2,44	5	regulation of auxin mediated signaling pathway
+GO:0031408	20	7	2,87	7	oxylipin biosynthetic process
+GO:0019419	3	3	0,43	3	sulfate reduction
+GO:0019430	19	7	2,72	7	removal of superoxide radicals
+GO:0000045	25	12	3,58	12	autophagosome assembly
+GO:0034414	5	3	0,72	3	tRNA 3'-trailer cleavage, endonucleolytic
+GO:0051205	34	10	4,88	10	protein insertion into membrane
+GO:0140021	8	4	1,15	4	mitochondrial ADP transmembrane transport
+GO:0008610	460	100	65,96	100	lipid biosynthetic process
+GO:0032955	2	2	0,29	2	regulation of division septum assembly
+GO:0032981	18	8	2,58	8	mitochondrial respiratory chain complex I assembly
+GO:0051782	2	2	0,29	2	negative regulation of cell division
+GO:0036258	2	2	0,29	2	multivesicular body assembly
+GO:0051776	2	2	0,29	2	detection of redox state
+GO:0055059	4	3	0,57	3	asymmetric neuroblast division
+GO:0051726	210	30	30,11	30	regulation of cell cycle
+GO:0033528	2	2	0,29	2	S-methylmethionine cycle
+GO:0006782	14	6	2,01	6	protoporphyrinogen IX biosynthetic process
+GO:0009423	13	6	1,86	6	chorismate biosynthetic process
+GO:0055046	14	4	2,01	4	microgametogenesis
+GO:0060776	2	2	0,29	2	simple leaf morphogenesis
+GO:0009415	78	17	11,18	17	response to water
+GO:0006749	53	14	7,6	14	glutathione metabolic process

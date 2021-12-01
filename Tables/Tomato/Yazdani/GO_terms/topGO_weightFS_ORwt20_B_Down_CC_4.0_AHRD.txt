@@ -1,0 +1,31 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0044613	7	4	0,94	4	nuclear pore central transport channel	0,00795940298982818
+GO:0030687	23	8	3,07	8	preribosome, large subunit precursor	0,00765300688884848
+GO:0005971	2	2	0,27	2	ribonucleoside-diphosphate reductase complex	0,0178604057062179
+GO:0005730	239	45	31,95	45	nucleolus	0,0192146550439555
+GO:0033063	3	2	0,4	2	Rad51B-Rad51C-Rad51D-XRCC2 complex	0,0488099373085641
+GO:0009654	24	9	3,21	9	photosystem II oxygen evolving complex	0,00264231272628142
+GO:0005948	3	2	0,4	2	acetolactate synthase complex	0,0488099373085641
+GO:0070062	5	3	0,67	3	extracellular exosome	0,019333407618487
+GO:0012511	12	5	1,6	5	monolayer-surrounded lipid storage body	0,0148985375718609
+GO:0032807	3	2	0,4	2	DNA ligase IV complex	0,0488099373085641
+GO:0000799	3	3	0,4	3	nuclear condensin complex	0,00238563990504482
+GO:0055028	15	8	2	8	cortical microtubule	0,014832594496349
+GO:0005853	3	2	0,4	2	eukaryotic translation elongation factor 1 complex	0,0488099373085641
+GO:0005664	5	3	0,67	3	nuclear origin of replication recognition complex	0,019333407618487
+GO:0005886	1469	233	196,36	233	plasma membrane	0,00211612329938185
+GO:0005874	178	55	23,79	55	microtubule	1,16370810208517e-08
+GO:0000176	6	3	0,8	3	nuclear exosome (RNase complex)	0,0348524079351544
+GO:0000786	109	23	14,57	23	nucleosome	0,0165538233685659
+GO:0005811	32	12	4,28	12	lipid droplet	0,0118758666650976
+GO:0010287	24	12	3,21	12	plastoglobule	1,79585796922589e-05
+GO:0005847	9	4	1,2	4	mRNA cleavage and polyadenylation specificity factor complex	0,022958779887362
+GO:0010005	3	3	0,4	3	cortical microtubule, transverse to long axis	0,00238563990504482
+GO:0009522	92	36	12,3	36	photosystem I	9,14635954445171e-07
+GO:0009523	125	38	16,71	38	photosystem II	3,62868588655782e-05
+GO:0000930	7	4	0,94	4	gamma-tubulin complex	0,0178408486596699
+GO:0019005	56	14	7,49	14	SCF ubiquitin ligase complex	0,0136682992594611
+GO:0033186	2	2	0,27	2	CAF-1 complex	0,0178604057062179
+GO:0009538	11	8	1,47	8	photosystem I reaction center	1,14109751279331e-05
+GO:0009941	225	38	30,07	38	chloroplast envelope	0,000335831893592984
+GO:0005773	377	56	50,39	56	vacuole	0,0392152613693581

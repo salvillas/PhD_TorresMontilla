@@ -1,0 +1,33 @@
+SNARE complex
+AP-2 adaptor complex
+transport vesicle membrane
+cytoplasmic vesicle membrane
+integral component of mitochondrial inner membrane
+plasmodesma
+plasma membrane
+telomerase holoenzyme complex
+cytosol
+perinuclear region of cytoplasm
+membrane
+integral component of membrane
+cell surface
+late endosome membrane
+Golgi apparatus
+1,3-beta-D-glucan synthase complex
+heterotrimeric G-protein complex
+pICln-Sm protein complex
+cytoplasmic stress granule
+mitochondrial respiratory chain complex III
+oxoglutarate dehydrogenase complex
+mitochondrial intermembrane space
+peroxisomal matrix
+endoplasmic reticulum
+endoplasmic reticulum lumen
+endoplasmic reticulum membrane
+methylosome
+vacuole
+vacuolar membrane
+peroxisome
+SCF ubiquitin ligase complex
+VCP-NPL4-UFD1 AAA ATPase complex
+cytoplasm

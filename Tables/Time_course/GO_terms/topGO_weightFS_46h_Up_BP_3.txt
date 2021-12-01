@@ -1,0 +1,135 @@
+ethylene biosynthetic process
+jasmonic acid metabolic process
+salicylic acid metabolic process
+tRNA acetylation
+endoplasmic reticulum unfolded protein response
+carotene catabolic process
+sterol biosynthetic process
+chloroplast organization
+terpenoid biosynthetic process
+response to wounding
+box H/ACA snoRNP assembly
+negative regulation of T cell receptor signaling pathway
+photosynthetic acclimation
+response to high light intensity
+response to low light intensity stimulus
+cellular response to oxidative stress
+protein repair
+response to biotic stimulus
+defense response
+transcription antitermination
+recognition of pollen
+cell wall macromolecule catabolic process
+protein peptidyl-prolyl isomerization
+protein autophosphorylation
+xyloglucan metabolic process
+response to light stimulus
+negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway
+metal ion transport
+regulation of defense response to insect
+response to heat
+response to cold
+tryptophan catabolic process to kynurenine
+protein unfolding
+protoporphyrinogen IX biosynthetic process
+rRNA modification
+regulation of jasmonic acid mediated signaling pathway
+seed trichome elongation
+mannose metabolic process
+farnesyl diphosphate biosynthetic process
+cell surface receptor signaling pathway
+chitin catabolic process
+cell communication
+regulation of seed dormancy process
+NADP biosynthetic process
+glutathione metabolic process
+regulation of proton transport
+response to chlorate
+transmembrane receptor protein serine/threonine kinase signaling pathway
+mature ribosome assembly
+regulation of defense response
+glucose metabolic process
+negative regulation of seed germination
+killing of cells of other organism
+regulation of abscisic acid biosynthetic process
+1-aminocyclopropane-1-carboxylate biosynthetic process
+cell redox homeostasis
+multicellular organism growth
+tripeptide transport
+alkane catabolic process
+production of siRNA involved in chromatin silencing by small RNA
+plastid transcription
+oxygen transport
+tRNA 3'-trailer cleavage, endonucleolytic
+chloroplast RNA processing
+lipid oxidation
+defense response to oomycetes
+ceramide biosynthetic process
+negative regulation of endopeptidase activity
+mitochondrial mRNA modification
+oxylipin biosynthetic process
+defense response to bacterium
+polyamine catabolic process
+menaquinone biosynthetic process
+plastid translation
+negative regulation of gibberellic acid mediated signaling pathway
+response to chitin
+regulation of salicylic acid biosynthetic process
+photoinhibition
+photosystem II repair
+photosystem II assembly
+pseudouridine synthesis
+positive regulation of TORC1 signaling
+arginine catabolic process
+snRNA pseudouridine synthesis
+cytidine to uridine editing
+photosynthesis, light harvesting
+photosynthesis, light harvesting in photosystem I
+thylakoid membrane organization
+metabolic process
+photosynthetic electron transport in photosystem I
+'de novo' cotranslational protein folding
+sesquiterpene biosynthetic process
+response to zinc ion
+response to ethylene
+carboxylic acid metabolic process
+peptidyl-pyrromethane cofactor linkage
+histone H4-K16 acetylation
+calcium-mediated signaling
+de-etiolation
+positive regulation of red or far-red light signaling pathway
+protein retention in ER lumen
+lipid metabolic process
+spermidine biosynthetic process
+isoprenoid biosynthetic process
+salicylic acid mediated signaling pathway
+jasmonic acid mediated signaling pathway
+unsaturated fatty acid biosynthetic process
+photorespiration
+cellular response to hypoxia
+negative regulation of translational elongation
+negative regulation of cell size
+lipid translocation
+negative regulation of catalytic activity
+regulation of chromatin silencing at telomere
+protein-chromophore linkage
+cell wall biogenesis
+photosystem II stabilization
+plant-type cell wall modification involved in multidimensional cell growth
+hyperosmotic salinity response
+protein phosphorylation
+chlorophyll biosynthetic process
+lignin biosynthetic process
+translation
+carbon utilization
+carbon fixation
+photosynthesis
+melatonin biosynthetic process
+phospholipid transport
+flavonol biosynthetic process
+putrescine biosynthetic process from ornithine
+mitotic DNA replication preinitiation complex assembly
+peptidyl-lysine monomethylation
+positive regulation of autophagy
+UDP-glucose transmembrane transport
+UDP-galactose transmembrane transport

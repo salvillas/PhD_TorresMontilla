@@ -1,0 +1,48 @@
+regulation of abscisic acid biosynthetic process
+cysteine biosynthetic process
+protein refolding
+regulation of jasmonic acid mediated signaling pathway
+ubiquitin-dependent ERAD pathway
+proteolysis involved in cellular protein catabolic process
+killing of cells of other organism
+negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway
+UDP-galactose transmembrane transport
+inflorescence morphogenesis
+defense response to fungus
+arginine catabolic process
+negative regulation of endopeptidase activity
+jasmonic acid biosynthetic process
+sulfate reduction
+response to chitin
+oxygen transport
+oxylipin biosynthetic process
+UDP-glucose transmembrane transport
+response to wounding
+response to zinc ion
+phototropism
+COPII-coated vesicle cargo loading
+regulation of sulfur utilization
+ascorbate glutathione cycle
+mannose metabolic process
+lipid metabolic process
+response to brassinosteroid
+putrescine biosynthetic process from ornithine
+protein glutathionylation
+pattern recognition receptor signaling pathway
+iron ion homeostasis
+endoplasmic reticulum unfolded protein response
+protein folding
+carotene catabolic process
+sterol biosynthetic process
+cellular response to sulfur starvation
+regulation of glucosinolate biosynthetic process
+cellular oxidant detoxification
+systemic acquired resistance, salicylic acid mediated signaling pathway
+positive regulation of ATP-dependent microtubule motor activity, plus-end-directed
+calcium ion transmembrane transport
+intermembrane lipid transfer
+regulation of response to reactive oxygen species
+seed trichome elongation
+isoprenoid biosynthetic process
+negative regulation of cell size
+chaperone cofactor-dependent protein refolding

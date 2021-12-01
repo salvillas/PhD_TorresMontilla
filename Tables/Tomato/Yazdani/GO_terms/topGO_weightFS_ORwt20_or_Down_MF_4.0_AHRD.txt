@@ -1,0 +1,64 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0046524	4	3	0,61	3	sucrose-phosphate synthase activity	0,0128390206328023
+GO:0004683	2	2	0,31	2	calmodulin-dependent protein kinase activity	0,0236150911427146
+GO:0030170	144	32	22,13	32	pyridoxal phosphate binding	0,0182642531688835
+GO:0004672	1386	261	213,02	261	protein kinase activity	7,44247085020019e-05
+GO:0004629	9	3	1,38	3	phospholipase C activity	0,0236161774695321
+GO:0003777	75	21	11,53	21	microtubule motor activity	0,00291706654179875
+GO:0016157	12	6	1,84	6	sucrose synthase activity	0,00524333871770331
+GO:0008865	9	4	1,38	4	fructokinase activity	0,036758009914949
+GO:0016627	91	26	13,99	26	oxidoreductase activity, acting on the CH-CH group of donors	0,0127833195677539
+GO:0016629	2	2	0,31	2	12-oxophytodienoate reductase activity	0,0236150911427146
+GO:0008964	6	5	0,92	5	phosphoenolpyruvate carboxylase activity	0,000447556683523075
+GO:0039706	2	2	0,31	2	co-receptor binding	0,0236150911427146
+GO:0102250	4	3	0,61	3	linear malto-oligosaccharide phosphorylase activity	0,0128390206328023
+GO:0003885	3	3	0,46	3	D-arabinono-1,4-lactone oxidase activity	0,00362757958134214
+GO:0003886	4	3	0,61	3	DNA (cytosine-5-)-methyltransferase activity	0,0128390206328023
+GO:0000095	3	3	0,46	3	S-adenosyl-L-methionine transmembrane transporter activity	0,00362757958134214
+GO:0030246	456	66	70,08	66	carbohydrate binding	0,00274399017707706
+GO:0003843	12	6	1,84	6	1,3-beta-D-glucan synthase activity	0,00524333871770331
+GO:0008460	3	3	0,46	3	dTDP-glucose 4,6-dehydratase activity	0,00362757958134214
+GO:0003924	215	43	33,04	43	GTPase activity	0,0395658941481997
+GO:0004795	2	2	0,31	2	threonine synthase activity	0,0236150911427146
+GO:0033612	17	7	2,61	7	receptor serine/threonine kinase binding	0,00943916962192506
+GO:0050378	6	4	0,92	4	UDP-glucuronate 4-epimerase activity	0,00643497268502041
+GO:0017091	8	4	1,23	4	AU-rich element binding	0,023201994905467
+GO:0035242	2	2	0,31	2	protein-arginine omega-N asymmetric methyltransferase activity	0,0236150911427146
+GO:0070204	3	3	0,46	3	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase activity	0,00362757958134214
+GO:0070205	2	2	0,31	2	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase activity	0,0236150911427146
+GO:0097367	3899	617	599,24	617	carbohydrate derivative binding	0,0496597665676544
+GO:0005509	277	58	42,57	58	calcium ion binding	0,00779893159536647
+GO:0016207	63	17	9,68	17	4-coumarate-CoA ligase activity	0,0123964902598798
+GO:0004748	4	3	0,61	3	ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor	0,0128390206328023
+GO:0016798	521	103	80,07	103	hydrolase activity, acting on glycosyl bonds	0,0495770852910304
+GO:0051287	108	24	16,6	24	NAD binding	0,0443657768675715
+GO:0008168	477	77	73,31	77	methyltransferase activity	0,0322937168766185
+GO:0016757	703	145	108,05	145	transferase activity, transferring glycosyl groups	0,0314467411875687
+GO:0004351	5	3	0,77	3	glutamate decarboxylase activity	0,0284325085559724
+GO:0008017	150	37	23,05	37	microtubule binding	0,00195648675428518
+GO:0016787	4082	626	627,37	626	hydrolase activity	0,000311571387159055
+GO:0008184	4	3	0,61	3	glycogen phosphorylase activity	0,0128390206328023
+GO:0004852	2	2	0,31	2	uroporphyrinogen-III synthase activity	0,0236150911427146
+GO:0004998	2	2	0,31	2	transferrin receptor activity	0,0236150911427146
+GO:0052692	4	4	0,61	4	raffinose alpha-galactosidase activity	0,000557099230855418
+GO:0004300	12	5	1,84	5	enoyl-CoA hydratase activity	0,0263390329859822
+GO:0015098	5	4	0,77	4	molybdate ion transmembrane transporter activity	0,00244336201735552
+GO:0051753	9	4	1,38	4	mannan synthase activity	0,036758009914949
+GO:0009881	29	11	4,46	11	photoreceptor activity	0,0288912857847402
+GO:0009882	4	3	0,61	3	blue light photoreceptor activity	0,0128390206328023
+GO:0030976	13	5	2	5	thiamine pyrophosphate binding	0,0374993881948065
+GO:0101005	82	9	12,6	9	ubiquitinyl hydrolase activity	0,013286682143976
+GO:0005247	8	4	1,23	4	voltage-gated chloride channel activity	0,023201994905467
+GO:0016874	361	60	55,48	60	ligase activity	0,0392729619700022
+GO:0102499	4	3	0,61	3	SHG alpha-glucan phosphorylase activity	0,0128390206328023
+GO:0004478	5	3	0,77	3	methionine adenosyltransferase activity	0,0284325085559724
+GO:0031210	3	3	0,46	3	phosphatidylcholine binding	0,00362757958134214
+GO:0004427	14	6	2,15	6	inorganic diphosphatase activity	0,0129380591322816
+GO:0005200	25	11	3,84	11	structural constituent of cytoskeleton	0,000607304603829955
+GO:0004559	8	5	1,23	5	alpha-mannosidase activity	0,00362350825608551
+GO:0022857	1391	280	213,79	280	transmembrane transporter activity	0,000130460586921211
+GO:0050105	2	2	0,31	2	L-gulonolactone oxidase activity	0,0236150911427146
+GO:0015267	233	54	35,81	54	channel activity	0,000507268320629302
+GO:0004015	5	3	0,77	3	adenosylmethionine-8-amino-7-oxononanoate transaminase activity	0,0284325085559724
+GO:0004034	9	4	1,38	4	aldose 1-epimerase activity	0,036758009914949
+GO:0015276	15	8	2,31	8	ligand-gated ion channel activity	0,000717705505653195

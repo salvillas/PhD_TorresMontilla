@@ -1,0 +1,50 @@
+porin activity
+superoxide dismutase copper chaperone activity
+ATP binding
+glutathione transferase activity
+polyubiquitin modification-dependent protein binding
+glutaminase activity
+pre-mRNA 3'-splice site binding
+GTPase activator activity
+IMP cyclohydrolase activity
+UDP-3-O-acyl-N-acetylglucosamine deacetylase activity
+mannan synthase activity
+single-stranded DNA helicase activity
+tubulin binding
+misfolded protein binding
+protein C-terminus binding
+inositol-3-phosphate synthase activity
+ATPase activity
+L-ascorbate peroxidase activity
+peroxiredoxin activity
+3-hydroxyisobutyrate dehydrogenase activity
+protein homodimerization activity
+preprotein binding
+adenyl-nucleotide exchange factor activity
+S100 protein binding
+dGTPase activity
+unfolded protein binding
+heat shock protein binding
+chaperone binding
+phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase activity
+inositol-1,3,4-trisphosphate 6-kinase activity
+inositol-1,3,4-trisphosphate 5-kinase activity
+transition metal ion binding
+protein self-association
+imidazoleglycerol-phosphate synthase activity
+inositol tetrakisphosphate 1-kinase activity
+spermine synthase activity
+phosphatase inhibitor activity
+zeaxanthin epoxidase [overall] activity
+Hsp90 protein binding
+phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity
+ATPase activator activity
+mechanosensitive ion channel activity
+peptidyl-prolyl cis-trans isomerase activity
+urate oxidase activity
+UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase activity
+phosphoribosylaminoimidazolecarboxamide formyltransferase activity
+ubiquinol-cytochrome-c reductase activity
+raffinose alpha-galactosidase activity
+NAD+ synthase (glutamine-hydrolyzing) activity
+transcription corepressor activity

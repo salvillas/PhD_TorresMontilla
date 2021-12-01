@@ -1,0 +1,60 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0000302	75	9	0,79	9	response to reactive oxygen species	0,0336008597098317
+GO:0097352	4	1	0,04	1	autophagosome maturation	0,041351940376556
+GO:0050821	29	5	0,3	5	protein stabilization	1,19922168392887e-05
+GO:0070544	1	1	0,01	1	histone H3-K36 demethylation	0,0105018181818182
+GO:1902584	6	2	0,06	2	positive regulation of response to water deprivation	0,001604374808919
+GO:0006986	23	3	0,24	3	response to unfolded protein	0,0207911388427391
+GO:0000413	117	8	1,23	8	protein peptidyl-prolyl isomerization	3,45425252065655e-05
+GO:0051131	11	3	0,12	3	chaperone-mediated protein complex assembly	0,000178032498324766
+GO:0071230	3	1	0,03	1	cellular response to amino acid stimulus	0,0311766456329711
+GO:0006513	18	2	0,19	2	protein monoubiquitination	0,0150588207393054
+GO:0061077	85	15	0,89	15	chaperone-mediated protein folding	0,00180164767764221
+GO:0065003	708	16	7,44	16	protein-containing complex assembly	0,00992088154650467
+GO:0009651	117	8	1,23	8	response to salt stress	3,45425252065655e-05
+GO:0050982	1	1	0,01	1	detection of mechanical stimulus	0,0105018181818182
+GO:0009686	14	2	0,15	2	gibberellin biosynthetic process	0,00920740024381714
+GO:0098869	378	10	3,97	10	cellular oxidant detoxification	0,0287364616506185
+GO:0030433	42	4	0,44	4	ubiquitin-dependent ERAD pathway	0,000977208384508187
+GO:0051259	29	5	0,3	5	protein complex oligomerization	1,19922168392887e-05
+GO:0009649	22	2	0,23	2	entrainment of circadian clock	0,0221186183160248
+GO:0045859	191	4	2,01	4	regulation of protein kinase activity	0,0369995674886919
+GO:1901671	5	2	0,05	2	positive regulation of superoxide dismutase activity	0,00107706335533892
+GO:0051228	4	1	0,04	1	mitotic spindle disassembly	0,041351940376556
+GO:0006659	3	1	0,03	1	phosphatidylserine biosynthetic process	0,0311766456329711
+GO:0080186	6	2	0,06	2	developmental vegetative growth	0,001604374808919
+GO:0071712	17	2	0,18	2	ER-associated misfolded protein catabolic process	0,0134782492405366
+GO:1902242	3	1	0,03	1	copal-8-ol diphosphate(3-) catabolic process	0,0311766456329711
+GO:0045037	12	2	0,13	2	protein import into chloroplast stroma	0,00677101076910012
+GO:1902246	3	1	0,03	1	cis-abienol biosynthetic process	0,0311766456329711
+GO:0010050	2	1	0,02	1	vegetative phase change	0,0208936504863609
+GO:0016558	14	2	0,15	2	protein import into peroxisome matrix	0,00920740024381714
+GO:0042026	58	14	0,61	14	protein refolding	1,0309752266017e-15
+GO:0030970	4	1	0,04	1	retrograde protein transport, ER to cytosol	0,041351940376556
+GO:0006203	4	1	0,04	1	dGTP catabolic process	0,041351940376556
+GO:0009789	12	3	0,13	3	positive regulation of abscisic acid-activated signaling pathway	0,000235529867429791
+GO:0015914	54	3	0,57	3	phospholipid transport	0,0191996660079666
+GO:0009718	16	2	0,17	2	anthocyanin-containing compound biosynthetic process	0,0119749448027327
+GO:0009704	7	2	0,07	2	de-etiolation	0,0022305389406514
+GO:0045927	34	3	0,36	3	positive regulation of growth	0,0220188410796936
+GO:0034220	1128	11	11,85	11	ion transmembrane transport	0,01096749966834
+GO:0019628	2	1	0,02	1	urate catabolic process	0,0208936504863609
+GO:0010157	4	2	0,04	2	response to chlorate	0,000650761402216743
+GO:0010582	3	1	0,03	1	floral meristem determinacy	0,0311766456329711
+GO:0010583	2	2	0,02	2	response to cyclopentenone	0,000109985877275108
+GO:0000209	72	3	0,76	3	protein polyubiquitination	0,040266753738685
+GO:0034204	30	2	0,32	2	lipid translocation	0,0394327388276525
+GO:0034605	25	6	0,26	6	cellular response to heat	1,92568084015587e-07
+GO:0042542	10	5	0,11	5	response to hydrogen peroxide	2,99883573711321e-08
+GO:0042149	16	2	0,17	2	cellular response to glucose starvation	0,0119749448027327
+GO:0000395	4	1	0,04	1	mRNA 5'-splice site recognition	0,041351940376556
+GO:0051085	61	12	0,64	12	chaperone cofactor-dependent protein refolding	1,6463252432026e-12
+GO:0032781	24	3	0,25	3	positive regulation of ATPase activity	0,00197363216240255
+GO:0009435	24	2	0,25	2	NAD biosynthetic process	0,0260671998028968
+GO:0006457	365	60	3,83	60	protein folding	5,7939808196687e-26
+GO:0000387	33	3	0,35	3	spliceosomal snRNP assembly	0,004962179206966
+GO:0006884	3	2	0,03	2	cell volume homeostasis	0,000327660193141369
+GO:0034389	13	2	0,14	2	lipid droplet organization	0,00794686583827018
+GO:0009408	109	24	1,14	24	response to heat	6,01725203016285e-19
+GO:0006820	982	21	10,31	21	anion transport	0,000104575655239041
+GO:0006821	26	2	0,27	2	chloride transport	0,0302774070578933

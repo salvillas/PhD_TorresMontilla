@@ -1,0 +1,42 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0010115	4	1	0,03	1	regulation of abscisic acid biosynthetic process	0,0332088003303702
+GO:0006166	14	2	0,12	2	purine ribonucleoside salvage	0,00599622229997549
+GO:0006168	9	2	0,08	2	adenine salvage	0,00243885123006389
+GO:0071555	535	13	4,5	13	cell wall organization	0,0146103566044819
+GO:0045490	191	8	1,61	8	pectin catabolic process	0,000227774919514199
+GO:0019918	5	1	0,04	1	peptidyl-arginine methylation, to symmetrical-dimethyl arginine	0,0413378235390207
+GO:0050896	4701	44	39,52	44	response to stimulus	0,00161454128290921
+GO:1901703	4	1	0,03	1	protein localization involved in auxin polar transport	0,0332088003303702
+GO:0007267	23	3	0,19	3	cell-cell signaling	0,000919460136199049
+GO:0007275	988	14	8,31	14	multicellular organism development	0,0467998045706783
+GO:0071365	208	7	1,75	7	cellular response to auxin stimulus	0,00828260360571265
+GO:0000162	30	2	0,25	2	tryptophan biosynthetic process	0,0262457351968785
+GO:0006572	4	1	0,03	1	tyrosine catabolic process	0,0332088003303702
+GO:0009234	4	1	0,03	1	menaquinone biosynthetic process	0,0332088003303702
+GO:0006270	28	2	0,24	2	DNA replication initiation	0,0230579649864375
+GO:0009063	108	2	0,91	2	cellular amino acid catabolic process	0,0493748304062993
+GO:0009663	2	1	0,02	1	plasmodesma organization	0,016744105745886
+GO:0007018	147	7	1,24	7	microtubule-based movement	0,000258054715758424
+GO:0070899	2	1	0,02	1	mitochondrial tRNA wobble uridine modification	0,016744105745886
+GO:0046294	6	1	0,05	1	formaldehyde catabolic process	0,049398730405393
+GO:0010305	18	2	0,15	2	leaf vascular tissue pattern formation	0,00986099276048838
+GO:0010043	1	1	0,01	1	response to zinc ion	0,00840727272727293
+GO:0006334	69	3	0,58	3	nucleosome assembly	0,0204983820903043
+GO:0009734	207	6	1,74	6	auxin-activated signaling pathway	0,00836440068160531
+GO:1905786	5	1	0,04	1	positive regulation of anaphase-promoting complex-dependent catabolic process	0,0413378235390207
+GO:0046506	5	1	0,04	1	sulfolipid biosynthetic process	0,0413378235390207
+GO:0005975	1975	34	16,6	34	carbohydrate metabolic process	0,0276282625587589
+GO:0044209	10	2	0,08	2	AMP salvage	0,00303167538941063
+GO:0010411	79	5	0,66	5	xyloglucan metabolic process	0,000550311821678274
+GO:0006468	2458	33	20,67	33	protein phosphorylation	0,0191082315137263
+GO:0000379	3	1	0,03	1	tRNA-type intron splice site recognition and cleavage	0,0250110871975907
+GO:0009432	2	1	0,02	1	SOS response	0,016744105745886
+GO:0032502	1247	18	10,48	18	developmental process	0,00732713933115267
+GO:0042550	2	1	0,02	1	photosystem I stabilization	0,016744105745886
+GO:0071158	6	1	0,05	1	positive regulation of cell cycle arrest	0,049398730405393
+GO:0042545	155	5	1,3	5	cell wall modification	0,0102023893162475
+GO:0042546	183	6	1,54	6	cell wall biogenesis	0,00466573589812115
+GO:0019285	2	1	0,02	1	glycine betaine biosynthetic process from choline	0,016744105745886
+GO:0080147	6	1	0,05	1	root hair cell development	0,049398730405393
+GO:1903830	20	3	0,17	3	magnesium ion transmembrane transport	0,000602998662570041
+GO:0009809	29	2	0,24	2	lignin biosynthetic process	0,0246305729328551

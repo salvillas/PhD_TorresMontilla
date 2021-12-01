@@ -1,0 +1,79 @@
+term_ID,description,frequency,plot_X,plot_Y,plot_size,log10 p-value,uniqueness,dispensability,representative,eliminated
+GO:0006457,"protein folding",0.903%, 3.411, 5.195,5.064,-24.9728,0.943,0.000,6457,0
+GO:0006820,"anion transport",1.956%,-5.552,-5.142,5.400,-2.8088,0.902,0.000,6820,0
+GO:0034765,"regulation of ion transmembrane transport",0.197%,null,null,4.404,-1.8226,0.846,0.546,6820,1
+GO:0009408,"response to heat",0.166%, 5.684, 1.160,4.328,-20.9837,0.761,0.000,9408,0
+GO:0009651,"response to salt stress",0.043%,null,null,3.741,-4.3559,0.778,0.726,9408,1
+GO:0009648,"photoperiodism",0.012%,null,null,3.196,-1.3044,0.816,0.666,9408,1
+GO:0034605,"cellular response to heat",0.041%,null,null,3.726,-6.2417,0.746,0.865,9408,1
+GO:0050982,"detection of mechanical stimulus",0.013%,null,null,3.212,-1.8978,0.813,0.668,9408,1
+GO:0009704,"de-etiolation",0.001%,null,null,1.978,-2.4925,0.807,0.564,9408,1
+GO:0050821,"protein stabilization",0.045%,-2.573, 5.816,3.763,-4.5329,0.901,0.000,50821,0
+GO:0042026,"protein refolding",0.069%, 3.533, 6.721,3.949,-18.3077,0.919,0.027,42026,0
+GO:0061077,"chaperone-mediated protein folding",0.043%,null,null,3.743,-2.5195,0.920,0.621,42026,1
+GO:0051085,"chaperone mediated protein folding requiring cofactor",0.010%,null,null,3.117,-16.4023,0.923,0.567,42026,1
+GO:0051259,"protein oligomerization",0.188%,-6.650, 0.724,4.382,-4.5329,0.792,0.030,51259,0
+GO:0006267,"pre-replicative complex assembly involved in nuclear cell cycle DNA replication",0.009%,null,null,3.061,-1.8978,0.752,0.531,51259,1
+GO:0003374,"dynamin family protein polymerization involved in mitochondrial fission",0.002%,null,null,2.449,-1.4261,0.789,0.541,51259,1
+GO:0051131,"chaperone-mediated protein complex assembly",0.016%,null,null,3.324,-3.5116,0.811,0.614,51259,1
+GO:0065003,"macromolecular complex assembly",1.497%,null,null,5.283,-2.7362,0.781,0.697,51259,1
+GO:0000413,"protein peptidyl-prolyl isomerization",0.393%,-1.320,-0.582,4.703,-3.1284,0.884,0.032,413,0
+GO:0009688,"abscisic acid biosynthetic process",0.001%, 2.114,-6.094,2.238,-2.6350,0.805,0.036,9688,0
+GO:1902246,"cis-abienol biosynthetic process",0.001%,null,null,1.869,-1.4261,0.798,0.959,9688,1
+GO:1902242,"copal-8-ol diphosphate(3-) catabolic process",0.002%,null,null,2.476,-1.4261,0.777,0.794,9688,1
+GO:0009686,"gibberellin biosynthetic process",0.001%,null,null,2.236,-1.8812,0.828,0.534,9688,1
+GO:0032957,"inositol trisphosphate metabolic process",0.007%,null,null,2.968,-2.0134,0.815,0.525,9688,1
+GO:0010264,"myo-inositol hexakisphosphate biosynthetic process",0.002%,null,null,2.320,-1.3039,0.808,0.700,9688,1
+GO:0046855,"inositol phosphate dephosphorylation",0.061%,null,null,3.895,-1.4695,0.739,0.850,9688,1
+GO:0080186,"developmental vegetative growth",0.001%,-6.741, 5.848,2.182,-2.6350,0.923,0.036,80186,0
+GO:0045927,"positive regulation of growth",0.060%,null,null,3.889,-1.5070,0.862,0.612,80186,1
+GO:0045893,"positive regulation of transcription, DNA-templated",0.519%,null,null,4.823,-1.3639,0.758,0.628,80186,1
+GO:0000103,"sulfate assimilation",0.084%, 1.640, 2.934,4.033,-1.6252,0.959,0.047,103,0
+GO:0006379,"mRNA cleavage",0.046%, 4.587,-2.676,3.775,-2.2657,0.856,0.107,6379,0
+GO:0000387,"spliceosomal snRNP assembly",0.052%,null,null,3.827,-2.0816,0.725,0.629,6379,1
+GO:0000398,"mRNA splicing, via spliceosome",0.315%,null,null,4.607,-1.3302,0.836,0.861,6379,1
+GO:0000395,"mRNA 5'-splice site recognition",0.007%,null,null,2.942,-1.3039,0.750,0.670,6379,1
+GO:0034063,"stress granule assembly",0.005%,null,null,2.786,-1.8812,0.808,0.639,6379,1
+GO:0042753,"positive regulation of circadian rhythm",0.007%, 0.216, 6.748,2.942,-1.4261,0.887,0.146,42753,0
+GO:0032781,"positive regulation of ATPase activity",0.033%,-1.066, 7.350,3.627,-3.6578,0.886,0.160,32781,0
+GO:0000122,"negative regulation of transcription from RNA polymerase II promoter",0.199%,null,null,4.408,-1.9442,0.816,0.592,32781,1
+GO:0043547,"positive regulation of GTPase activity",0.470%,null,null,4.780,-1.4892,0.873,0.771,32781,1
+GO:0010923,"negative regulation of phosphatase activity",0.018%,null,null,3.354,-2.4933,0.812,0.567,32781,1
+GO:0006122,"mitochondrial electron transport, ubiquinol to cytochrome c",0.035%, 0.291,-5.863,3.652,-2.3713,0.818,0.167,6122,0
+GO:0042795,"snRNA transcription from RNA polymerase II promoter",0.003%, 3.030,-2.407,2.632,-1.8978,0.861,0.172,42795,0
+GO:0042796,"snRNA transcription from RNA polymerase III promoter",0.002%,null,null,2.344,-1.8978,0.870,0.947,42795,1
+GO:0009718,"anthocyanin-containing compound biosynthetic process",0.001%, 4.226,-4.992,2.188,-1.7682,0.903,0.175,9718,0
+GO:0045037,"protein import into chloroplast stroma",0.001%,-4.247,-6.055,2.107,-2.0134,0.879,0.185,45037,0
+GO:0016558,"protein import into peroxisome matrix",0.030%,null,null,3.590,-1.8812,0.730,0.707,45037,1
+GO:0010583,"response to cyclopentenone",0.005%, 5.529, 2.488,2.845,-3.7965,0.801,0.228,10583,0
+GO:0071712,"ER-associated misfolded protein catabolic process",0.006%,null,null,2.872,-1.7175,0.640,0.870,10583,1
+GO:0006986,"response to unfolded protein",0.037%,null,null,3.677,-1.6012,0.748,0.828,10583,1
+GO:0030970,"retrograde protein transport, ER to cytosol",0.011%,null,null,3.146,-1.3039,0.617,0.899,10583,1
+GO:0071218,"cellular response to misfolded protein",0.016%,null,null,3.317,-1.3067,0.727,0.940,10583,1
+GO:0071629,"cytoplasm-associated proteasomal ubiquitin-dependent protein catabolic process",0.003%,null,null,2.632,-1.8978,0.687,0.678,10583,1
+GO:0030433,"ER-associated ubiquitin-dependent protein catabolic process",0.049%,null,null,3.794,-2.7131,0.632,0.535,10583,1
+GO:0034389,"lipid particle organization",0.005%,-7.168, 1.272,2.823,-1.9445,0.852,0.302,34389,0
+GO:0006513,"protein monoubiquitination",0.016%,-1.735,-1.508,3.318,-1.6699,0.898,0.331,6513,0
+GO:0061635,"regulation of protein complex stability",0.001%,-3.517, 6.097,2.021,-1.4261,0.914,0.336,61635,0
+GO:0048280,"vesicle fusion with Golgi apparatus",0.014%,-6.386,-1.611,3.257,-1.9445,0.746,0.342,48280,0
+GO:0031623,"receptor internalization",0.016%,null,null,3.311,-1.4261,0.821,0.508,48280,1
+GO:0097352,"autophagosome maturation",0.008%,null,null,3.035,-1.3039,0.800,0.742,48280,1
+GO:0006896,"Golgi to vacuole transport",0.012%,null,null,3.200,-1.7175,0.893,0.649,48280,1
+GO:0009833,"plant-type primary cell wall biogenesis",0.002%,-7.494, 0.189,2.396,-1.9445,0.815,0.350,9833,0
+GO:0006884,"cell volume homeostasis",0.009%,-4.787, 3.087,3.039,-3.3230,0.764,0.383,6884,0
+GO:0042149,"cellular response to glucose starvation",0.016%, 5.996, 0.731,3.301,-1.7682,0.796,0.388,42149,0
+GO:0019628,"urate catabolic process",0.006%, 0.135,-6.621,2.893,-1.5995,0.804,0.399,19628,0
+GO:0006203,"dGTP catabolic process",0.003%,null,null,2.512,-1.3039,0.789,0.687,19628,1
+GO:0042542,"response to hydrogen peroxide",0.029%, 5.714, 1.740,3.571,-7.1200,0.767,0.405,42542,0
+GO:0071230,"cellular response to amino acid stimulus",0.019%,null,null,3.390,-1.4261,0.731,0.741,42542,1
+GO:0000302,"response to reactive oxygen species",0.181%,null,null,4.367,-2.3065,0.751,0.728,42542,1
+GO:1902584,"positive regulation of response to water deprivation",0.001%,null,null,2.045,-2.6350,0.700,0.579,42542,1
+GO:1901671,"positive regulation of superoxide dismutase activity",0.002%,null,null,2.305,-4.7044,0.678,0.656,42542,1
+GO:0010157,"response to chlorate",0.000%,null,null,1.771,-3.0257,0.807,0.561,42542,1
+GO:0009789,"positive regulation of abscisic acid-activated signaling pathway",0.001%,null,null,2.258,-2.0134,0.689,0.585,42542,1
+GO:0050803,"regulation of synapse structure or activity",0.034%,-2.735, 6.281,3.640,-1.4261,0.902,0.417,50803,0
+GO:0009435,"NAD biosynthetic process",0.246%, 1.407,-4.730,4.499,-1.4353,0.793,0.436,9435,0
+GO:0070544,"histone H3-K36 demethylation",0.003%,-5.010,-0.016,2.600,-1.8978,0.776,0.439,70544,0
+GO:0051228,"mitotic spindle disassembly",0.002%,-7.135,-0.179,2.449,-1.3039,0.805,0.486,51228,0
+GO:0015914,"phospholipid transport",0.076%,-4.994,-5.535,3.987,-1.5081,0.862,0.499,15914,0
+GO:0006821,"chloride transport",0.117%,null,null,4.175,-1.3714,0.909,0.553,15914,1

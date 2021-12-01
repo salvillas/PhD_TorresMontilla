@@ -1,0 +1,70 @@
+catalase activity
+ethylene receptor activity
+glutamate synthase (NADH) activity
+phosphorelay sensor kinase activity
+metallopeptidase activity
+sucrose-phosphate synthase activity
+pyridoxal kinase activity
+alcohol dehydrogenase activity, zinc-dependent
+peptidyl-prolyl cis-trans isomerase activity
+Hsp90 protein binding
+polysaccharide binding
+inorganic anion exchanger activity
+ubiquitin conjugating enzyme activity
+protein self-association
+SNAP receptor activity
+L-ascorbate peroxidase activity
+RNA helicase activity
+imidazoleglycerol-phosphate synthase activity
+1-aminocyclopropane-1-carboxylate oxidase activity
+glutathione transferase activity
+UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase activity
+pyridoxal 5'-phosphate synthase (glutamine hydrolysing) activity
+GTPase activator activity
+ATPase activity
+protein C-terminus binding
+glyoxalase III activity
+glutaminase activity
+intramolecular lyase activity
+guanylate kinase activity
+DNA-binding transcription factor activity
+tubulin binding
+NAD+ nucleotidase, cyclic ADP-ribose generating
+ATP binding
+chromatin DNA binding
+FMN binding
+S-(hydroxymethyl)glutathione dehydrogenase activity
+phosphoglycerate dehydrogenase activity
+adenylate cyclase binding
+NADP binding
+phosphoribosylaminoimidazolecarboxamide formyltransferase activity
+NAD(P)+ nucleosidase activity
+porin activity
+3-oxo-5-alpha-steroid 4-dehydrogenase activity
+protein homodimerization activity
+1-deoxy-D-xylulose-5-phosphate synthase activity
+mechanosensitive ion channel activity
+metal ion binding
+ATPase activator activity
+polyubiquitin modification-dependent protein binding
+unfolded protein binding
+UDP-3-O-acyl-N-acetylglucosamine deacetylase activity
+chaperone binding
+thiol-dependent ubiquitin-specific protease activity
+urate oxidase activity
+sequence-specific DNA binding
+misfolded protein binding
+L-ascorbic acid binding
+3 iron, 4 sulfur cluster binding
+NADPH:quinone reductase activity
+polyprenol reductase activity
+ethylene binding
+raffinose alpha-galactosidase activity
+S100 protein binding
+deoxyhypusine synthase activity
+phosphatase inhibitor activity
+pre-mRNA 3'-splice site binding
+spermine synthase activity
+heat shock protein binding
+U1 snRNA binding
+IMP cyclohydrolase activity

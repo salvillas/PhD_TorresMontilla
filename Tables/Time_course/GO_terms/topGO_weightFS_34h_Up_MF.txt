@@ -1,0 +1,82 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0004190	215	11	3,61	11	aspartic-type endopeptidase activity	0,00109730535303577
+GO:0050660	230	8	3,86	8	flavin adenine dinucleotide binding	0,0486821455968957
+GO:0004601	313	13	5,25	13	peroxidase activity	0,0292111211828191
+GO:0004604	1	1	0,02	1	phosphoadenylyl-sulfate reductase (thioredoxin) activity	0,0167709303873285
+GO:0015035	77	4	1,29	4	protein disulfide oxidoreductase activity	0,0406414798070128
+GO:0008970	17	2	0,29	2	phospholipase A1 activity	0,0323355629767004
+GO:0004364	59	4	0,99	4	glutathione transferase activity	0,0172444158789427
+GO:0016705	591	22	9,91	22	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	0,0369244202019474
+GO:0016707	3	1	0,05	1	gibberellin 3-beta-dioxygenase activity	0,049475010766827
+GO:0005544	32	5	0,54	5	calcium-dependent phospholipid binding	0,000180756754007243
+GO:0004358	2	1	0,03	1	glutamate N-acetyltransferase activity	0,03326103564385
+GO:0030247	108	5	1,81	5	polysaccharide binding	0,0356461984144914
+GO:0045174	2	2	0,03	2	glutathione dehydrogenase (ascorbate) activity	0,000280825130806882
+GO:0004372	21	2	0,35	2	glycine hydroxymethyltransferase activity	0,0477910704881023
+GO:0010333	102	6	1,71	6	terpene synthase activity	0,0075357617626328
+GO:0004185	69	4	1,16	4	serine-type carboxypeptidase activity	0,0287776305132756
+GO:0004568	25	3	0,42	3	chitinase activity	0,00820467706131996
+GO:0004553	753	36	12,63	36	hydrolase activity, hydrolyzing O-glycosyl compounds	0,000931089032696699
+GO:0009678	15	2	0,25	2	hydrogen-translocating pyrophosphatase activity	0,025519960387944
+GO:0005506	627	21	10,52	21	iron ion binding	0,00444228587498808
+GO:0005509	479	19	8,03	19	calcium ion binding	0,000548663261697476
+GO:0009815	7	2	0,12	2	1-aminocyclopropane-1-carboxylate oxidase activity	0,0055767979130022
+GO:0051787	22	3	0,37	3	misfolded protein binding	0,00570149334273547
+GO:0008083	12	3	0,2	3	growth factor activity	0,000922528991260916
+GO:0010309	5	2	0,08	2	acireductone dioxygenase [iron(II)-requiring] activity	0,00271552169997015
+GO:0004332	17	3	0,29	3	fructose-bisphosphate aldolase activity	0,00267893781678844
+GO:0005460	6	2	0,1	2	UDP-glucose transmembrane transporter activity	0,00402807251797673
+GO:0030604	2	1	0,03	1	1-deoxy-D-xylulose-5-phosphate reductoisomerase activity	0,03326103564385
+GO:0046593	1	1	0,02	1	mandelonitrile lyase activity	0,0167709303873285
+GO:0003868	2	1	0,03	1	4-hydroxyphenylpyruvate dioxygenase activity	0,03326103564385
+GO:0004514	9	2	0,15	2	nicotinate-nucleotide diphosphorylase (carboxylating) activity	0,00934992007810303
+GO:0005459	8	2	0,13	2	UDP-galactose transmembrane transporter activity	0,00735343228236882
+GO:0044183	28	3	0,47	3	protein binding involved in protein folding	0,0112612521753932
+GO:0008863	3	1	0,05	1	formate dehydrogenase (NAD+) activity	0,049475010766827
+GO:0102229	22	3	0,37	3	amylopectin maltohydrolase activity	0,00570149334273547
+GO:0051745	2	2	0,03	2	4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase activity	0,000280825130806882
+GO:0000166	6859	104	115,03	104	nucleotide binding	0,013787873237744
+GO:0004096	15	3	0,25	3	catalase activity	0,00183777578070683
+GO:0016671	38	6	0,64	6	oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor	0,000362576884161038
+GO:0008886	2	2	0,03	2	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (non-phosphorylating) activity	0,000280825130806882
+GO:0016629	2	1	0,03	1	12-oxophytodienoate reductase activity	0,03326103564385
+GO:0008685	2	1	0,03	1	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase activity	0,03326103564385
+GO:0004497	503	23	8,44	23	monooxygenase activity	0,000279295802485277
+GO:0008430	2	1	0,03	1	selenium binding	0,03326103564385
+GO:0015175	3	1	0,05	1	neutral amino acid transmembrane transporter activity	0,049475010766827
+GO:0004506	5	3	0,08	3	squalene monooxygenase activity	4,57822477700327e-05
+GO:0008810	44	7	0,74	7	cellulase activity	8,07306384248122e-06
+GO:0000774	21	2	0,35	2	adenyl-nucleotide exchange factor activity	0,0477910704881023
+GO:0050126	2	1	0,03	1	N-carbamoylputrescine amidase activity	0,03326103564385
+GO:0030570	47	3	0,79	3	pectate lyase activity	0,0441856988649979
+GO:0046982	139	13	2,33	13	protein heterodimerization activity	6,94245651172284e-07
+GO:0004084	13	2	0,22	2	branched-chain-amino-acid transaminase activity	0,016749660479855
+GO:0016207	83	5	1,39	5	4-coumarate-CoA ligase activity	0,0129838007778268
+GO:0080048	4	2	0,07	2	GDP-D-glucose phosphorylase activity	0,0016476259190901
+GO:0004866	70	8	1,17	8	endopeptidase inhibitor activity	0,000242348177949051
+GO:0004867	31	4	0,52	4	serine-type endopeptidase inhibitor activity	0,00172080597807425
+GO:0004049	4	2	0,07	2	anthranilate synthase activity	0,0016476259190901
+GO:0032542	2	1	0,03	1	sulfiredoxin activity	0,03326103564385
+GO:0004427	29	3	0,49	3	inorganic diphosphatase activity	0,0124067323968954
+GO:0016161	22	3	0,37	3	beta-amylase activity	0,00570149334273547
+GO:0016168	209	10	3,51	10	chlorophyll binding	0,00295722278831144
+GO:0016762	66	7	1,11	7	xyloglucan:xyloglucosyl transferase activity	0,000119355154638279
+GO:0019825	5	2	0,08	2	oxygen binding	0,00271552169997015
+GO:0020037	789	30	13,23	30	heme binding	3,4416399458761e-05
+GO:0022857	2366	61	39,68	61	transmembrane transporter activity	0,0302910125792381
+GO:0051219	9	2	0,15	2	phosphoprotein binding	0,00934992007810303
+GO:0016788	3247	34	54,46	34	hydrolase activity, acting on ester bonds	0,0196678602875367
+GO:0003756	28	3	0,47	3	protein disulfide isomerase activity	0,0112612521753932
+GO:0004618	18	2	0,3	2	phosphoglycerate kinase activity	0,0359806392820428
+GO:0047987	1	1	0,02	1	hydroperoxide dehydratase activity	0,0167709303873285
+GO:0016726	5	3	0,08	3	oxidoreductase activity, acting on CH or CH2 groups, NAD or NADP as acceptor	0,0493231697144492
+GO:0015267	326	22	5,47	22	channel activity	2,19318017648211e-09
+GO:0016717	27	3	0,45	3	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water	0,0101795232905209
+GO:0046423	2	2	0,03	2	allene-oxide cyclase activity	0,000280825130806882
+GO:0015250	8	3	0,13	3	water channel activity	0,000246894804902288
+GO:0016740	8456	147	141,81	147	transferase activity	0,00804146387632003
+GO:0016984	25	5	0,42	5	ribulose-bisphosphate carboxylase activity	5,2540191105154e-05
+GO:0046429	4	2	0,07	2	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity	0,0016476259190901
+GO:0008115	2	1	0,03	1	sarcosine oxidase activity	0,03326103564385
+GO:0016747	507	16	8,5	16	transferase activity, transferring acyl groups other than amino-acyl groups	0,0458485705586984
+GO:0005344	3	2	0,05	2	oxygen carrier activity	0,000833085397896954

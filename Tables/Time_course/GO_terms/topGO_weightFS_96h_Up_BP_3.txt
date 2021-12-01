@@ -1,0 +1,226 @@
+tetrahydrobiopterin biosynthetic process
+box H/ACA snoRNP assembly
+nucleotide biosynthetic process
+glutathione metabolic process
+ribonucleoside monophosphate biosynthetic process
+deoxyribonucleoside monophosphate biosynthetic process
+maturation of 5.8S rRNA
+maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+exonucleolytic trimming to generate mature 3'-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+maturation of LSU-rRNA
+thylakoid membrane organization
+cellular oxidant detoxification
+xanthophyll cycle
+purine nucleobase biosynthetic process
+nucleoside metabolic process
+tRNA processing
+protein complex oligomerization
+chloroplast-nucleus signaling pathway
+protein peptidyl-prolyl isomerization
+pseudouridine synthesis
+RNA methylation
+mitotic spindle disassembly
+arginine biosynthetic process via ornithine
+peptidyl-pyrromethane cofactor linkage
+odontogenesis
+cell volume homeostasis
+positive regulation of double-strand break repair via nonhomologous end joining
+chloride transport
+regulation of starch biosynthetic process
+miRNA catabolic process
+exonucleolytic catabolism of deadenylated mRNA
+protein repair
+tryptophan biosynthetic process
+tRNA 5'-leader removal
+riboflavin biosynthetic process
+L-proline biosynthetic process
+menaquinone biosynthetic process
+DNA replication, removal of RNA primer
+mitochondria-nucleus signaling pathway
+plant ovule development
+chlorophyll metabolic process
+chlorophyll biosynthetic process
+chlorophyll catabolic process
+L-phenylalanine catabolic process
+cellular amino acid biosynthetic process
+carotene biosynthetic process
+embryo development ending in seed dormancy
+'de novo' CTP biosynthetic process
+GMP salvage
+asparagine biosynthetic process
+carotenoid biosynthetic process
+xenobiotic transport
+regulation of ion transmembrane transport
+protein quality control for misfolded or incompletely synthesized proteins
+methylation
+glutamine metabolic process
+glutamine catabolic process
+photosynthesis
+siroheme biosynthetic process
+positive regulation of TORC1 signaling
+UMP salvage
+photosynthetic electron transport in photosystem I
+'de novo' AMP biosynthetic process
+Cajal body organization
+glutaminyl-tRNAGln biosynthesis via transamidation
+chloroplast RNA modification
+proteasome regulatory particle assembly
+snRNA modification
+positive regulation of helicase activity
+regulation of DNA-templated transcription, initiation
+telomere formation via telomerase
+ribosome biogenesis
+glycerol ether metabolic process
+chaperone cofactor-dependent protein refolding
+de-etiolation
+ribosomal large subunit biogenesis
+iron-sulfur cluster assembly
+positive regulation of defense response to oomycetes
+cell redox homeostasis
+positive regulation of red or far-red light signaling pathway
+systemic acquired resistance, salicylic acid mediated signaling pathway
+telomere capping
+tRNA (guanine-N7)-methylation
+unsaturated fatty acid biosynthetic process
+gene silencing by miRNA
+phosphatidylglycerol acyl-chain remodeling
+sulfate reduction
+plastid transcription
+recombinational repair
+removal of superoxide radicals
+threonine biosynthetic process
+lysine biosynthetic process via diaminopimelate
+endosperm cellularization
+glycerol-3-phosphate catabolic process
+aromatic amino acid family biosynthetic process
+mRNA stabilization
+DNA catabolic process, exonucleolytic
+cinnamic acid biosynthetic process
+chloroplast rRNA processing
+RNA processing
+tRNA 3'-trailer cleavage
+cellular response to oxidative stress
+polyadenylation-dependent snoRNA 3'-end processing
+rRNA processing
+DNA-templated transcription, termination
+hypoxanthine metabolic process
+peptidyl-arginine methylation, to symmetrical-dimethyl arginine
+autophagosome maturation
+regulation of gene expression
+mRNA cleavage
+peptidyl-lysine monomethylation
+protein transmembrane transport
+nuclear retention of pre-mRNA with aberrant 3'-ends at the site of transcription
+CUT catabolic process
+nuclear polyadenylation-dependent rRNA catabolic process
+protein localization to Cajal body
+nuclear polyadenylation-dependent tRNA catabolic process
+positive regulation of establishment of protein localization to telomere
+negative regulation of translational elongation
+nucleosome assembly
+nucleosome disassembly
+fumarate transport
+succinate transport
+double-strand break repair
+double-strand break repair via nonhomologous end joining
+positive regulation of double-strand break repair via homologous recombination
+rRNA base methylation
+rRNA (guanine-N7)-methylation
+ribosomal small subunit assembly
+peptidyl-arginine N-methylation
+pyridoxal phosphate biosynthetic process
+protection from non-homologous end joining at telomere
+cytokinin biosynthetic process
+phenylpropanoid metabolic process
+cytochrome b6f complex assembly
+maintenance of rDNA
+regulation of translational fidelity
+protein folding
+protein refolding
+etioplast organization
+protein ADP-ribosylation
+response to salt stress
+ATP transport
+maturation of SSU-rRNA
+protein methylation
+positive regulation of mitochondrial membrane permeability
+chloroplast organization
+response to chlorate
+negative regulation of mitochondrial membrane potential
+leucyl-tRNA aminoacylation
+mitochondrial tRNA 3'-trailer cleavage, endonucleolytic
+positive regulation of necrotic cell death
+translation
+translational elongation
+translational termination
+mitochondrial translation
+plastid translation
+protein maturation by iron-sulfur cluster transfer
+L-asparagine biosynthetic process
+lysyl-tRNA aminoacylation
+methionyl-tRNA aminoacylation
+threonyl-tRNA aminoacylation
+methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione
+transcription antitermination
+tRNA methylation
+production of siRNA involved in RNA interference
+photosystem I stabilization
+cellular response to heat
+cytidine to uridine editing
+protein-containing complex assembly
+negative regulation of double-strand break repair via homologous recombination
+nucleosome positioning
+mitochondrial cytochrome c oxidase assembly
+positive regulation of mitochondrial translation
+response to hydrogen peroxide
+adenine salvage
+regulation of catalytic activity
+'de novo' IMP biosynthetic process
+brassinosteroid homeostasis
+guanine salvage
+mitochondrial mRNA modification
+extracellular matrix organization
+response to photooxidative stress
+retrograde protein transport, ER to cytosol
+NAD(P)H dehydrogenase complex assembly
+protein import into mitochondrial matrix
+photosystem I assembly
+ubiquinone-6 biosynthetic process
+chloroplast mRNA processing
+RNA folding
+photosystem II repair
+photosystem II assembly
+scaRNA localization to Cajal body
+mitochondrial DNA replication
+DNA topological change
+telomerase RNA localization to Cajal body
+regulation of DNA repair
+cellular response to sucrose stimulus
+uracil salvage
+intracellular cholesterol transport
+RNA modification
+positive regulation of hydrogen peroxide biosynthetic process
+U4 snRNA 3'-end processing
+protein stabilization
+nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'
+positive regulation of telomerase activity
+dGTP catabolic process
+tRNA 3'-trailer cleavage, endonucleolytic
+chorismate biosynthetic process
+Group II intron splicing
+cellular response to UV-B
+protein import into chloroplast stroma
+protein insertion into mitochondrial inner membrane
+granum assembly
+positive regulation of superoxide dismutase activity
+cellular response to ozone
+cellular response to light intensity
+toxin catabolic process
+response to heat
+cellular response to salt stress
+glutathione biosynthetic process
+glutathione catabolic process
+phylloquinone biosynthetic process
+response to reactive oxygen species
+protoporphyrinogen IX biosynthetic process

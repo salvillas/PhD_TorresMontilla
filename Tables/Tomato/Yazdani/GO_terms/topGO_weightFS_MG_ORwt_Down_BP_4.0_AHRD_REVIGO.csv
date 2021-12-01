@@ -1,0 +1,104 @@
+term_ID,description,frequency,plot_X,plot_Y,plot_size,log10 p-value,uniqueness,dispensability,representative,eliminated
+GO:0006891,"intra-Golgi vesicle-mediated transport",0.064%, 5.321, 1.333,3.916,-4.6266,0.930,0.000,6891,0
+GO:0006890,"retrograde vesicle-mediated transport, Golgi to ER",0.047%,null,null,3.777,-2.2604,0.931,0.772,6891,1
+GO:0071555,"cell wall organization",0.709%, 1.947, 6.996,4.959,-5.6355,0.809,0.000,71555,0
+GO:0042546,"cell wall biogenesis",0.640%,null,null,4.915,-3.6024,0.803,0.923,71555,1
+GO:0002181,"cytoplasmic translation",0.064%,-7.373,-0.275,3.915,-4.5143,0.773,0.026,2181,0
+GO:0007017,"microtubule-based process",0.658%,-3.472, 4.483,4.927,-5.4286,0.839,0.033,7017,0
+GO:0006457,"protein folding",0.903%, 2.567, 0.440,5.064,-1.9177,0.940,0.034,6457,0
+GO:0080186,"developmental vegetative growth",0.001%, 3.698, 1.790,2.182,-1.6245,0.933,0.050,80186,0
+GO:0005975,"carbohydrate metabolic process",5.260%, 3.011, 0.541,5.829,-3.1397,0.923,0.056,5975,0
+GO:0019722,"calcium-mediated signaling",0.040%, 4.649,-4.180,3.707,-4.0016,0.846,0.064,19722,0
+GO:0009718,"anthocyanin-containing compound biosynthetic process",0.001%,-4.683,-1.435,2.188,-2.3301,0.837,0.089,9718,0
+GO:0010252,"auxin homeostasis",0.003%, 3.202,-2.041,2.539,-3.1480,0.938,0.137,10252,0
+GO:0042351,"'de novo' GDP-L-fucose biosynthetic process",0.012%,-4.101,-5.356,3.184,-2.5257,0.789,0.141,42351,0
+GO:0019673,"GDP-mannose metabolic process",0.048%,null,null,3.787,-1.6842,0.828,0.716,42351,1
+GO:0009451,"RNA modification",1.778%,-2.035,-0.855,5.358,-2.3401,0.797,0.149,9451,0
+GO:0015689,"molybdate ion transport",0.068%, 4.885, 0.441,3.938,-2.7220,0.921,0.195,15689,0
+GO:1904482,"cellular response to tetrahydrofolate",0.000%, 4.368,-5.082,1.505,-1.9821,0.870,0.204,1904482,0
+GO:0007049,"cell cycle",1.885%,-4.323, 4.894,5.384,-1.4468,0.827,0.208,7049,0
+GO:0019877,"diaminopimelate biosynthetic process",0.136%,-6.959, 1.055,4.242,-3.3679,0.693,0.242,19877,0
+GO:0009089,"lysine biosynthetic process via diaminopimelate",0.288%,null,null,4.567,-1.8745,0.677,0.937,19877,1
+GO:0000727,"double-strand break repair via break-induced replication",0.013%, 2.207,-4.715,3.225,-3.6092,0.795,0.253,727,0
+GO:0006730,"one-carbon metabolic process",0.328%,-5.388, 3.161,4.625,-2.0566,0.795,0.260,6730,0
+GO:0016126,"sterol biosynthetic process",0.075%,-6.293,-2.899,3.985,-2.4262,0.779,0.287,16126,0
+GO:0031118,"rRNA pseudouridine synthesis",0.005%, 0.158, 5.628,2.838,-2.5261,0.761,0.304,31118,0
+GO:0035246,"peptidyl-arginine N-methylation",0.015%,-0.050, 1.114,3.281,-1.5309,0.857,0.327,35246,0
+GO:0019918,"peptidyl-arginine methylation, to symmetrical-dimethyl arginine",0.002%,null,null,2.312,-1.6837,0.870,0.880,35246,1
+GO:0006267,"pre-replicative complex assembly involved in nuclear cell cycle DNA replication",0.009%,-0.831, 6.238,3.061,-4.2647,0.693,0.341,6267,0
+GO:1902975,"mitotic DNA replication initiation",0.007%,null,null,2.947,-3.3679,0.754,0.838,6267,1
+GO:0006096,"glycolytic process",0.545%,-5.563,-0.883,4.844,-3.3459,0.583,0.375,6096,0
+GO:0046777,"protein autophosphorylation",0.077%,-1.872,-3.720,3.993,-1.6588,0.807,0.381,46777,0
+GO:0006423,"cysteinyl-tRNA aminoacylation",0.046%,-5.828, 1.451,3.775,-1.6837,0.704,0.381,6423,0
+GO:0055047,"generative cell mitosis",0.000%, 2.236, 6.573,1.230,-1.6837,0.804,0.393,55047,0
+GO:0070588,"calcium ion transmembrane transport",0.157%, 5.050, 0.372,4.305,-1.4273,0.921,0.403,70588,0
+GO:0006260,"DNA replication",1.577%,-3.388,-0.143,5.306,-1.9825,0.770,0.415,6260,0
+GO:0015786,"UDP-glucose transport",0.002%, 5.850, 0.853,2.328,-1.9733,0.883,0.421,15786,0
+GO:0034976,"response to endoplasmic reticulum stress",0.100%, 3.860,-5.631,4.106,-2.5494,0.878,0.431,34976,0
+GO:0009695,"jasmonic acid biosynthetic process",0.001%,-7.045,-0.378,2.217,-1.3722,0.782,0.437,9695,0
+GO:0006414,"translational elongation",0.777%,-6.815,-1.106,4.999,-2.9679,0.734,0.443,6414,0
+GO:0048443,"stamen development",0.004%, 3.471, 2.833,2.762,-1.6249,0.922,0.443,48443,0
+GO:0071456,"cellular response to hypoxia",0.022%, 4.020,-5.194,3.457,-2.5198,0.850,0.446,71456,0
+GO:0019853,"L-ascorbic acid biosynthetic process",0.002%,-6.505, 0.246,2.356,-1.8745,0.756,0.447,19853,0
+GO:0016310,"phosphorylation",7.764%,-1.449,-6.282,5.998,-1.9180,0.833,0.455,16310,0
+GO:0046168,"glycerol-3-phosphate catabolic process",0.048%,-2.352,-6.042,3.787,-1.9733,0.825,0.456,46168,0
+GO:0009395,"phospholipid catabolic process",0.043%,null,null,3.740,-1.8835,0.758,0.726,46168,1
+GO:0000165,"MAPK cascade",0.245%,-0.721,-3.773,4.498,-1.3265,0.670,0.463,165,0
+GO:0072657,"protein localization to membrane",0.387%,-0.007, 5.533,4.696,-2.6896,0.701,0.464,72657,0
+GO:0006886,"intracellular protein transport",1.199%,null,null,5.187,-1.3217,0.907,0.823,72657,1
+GO:0046513,"ceramide biosynthetic process",0.013%,-7.544, 0.619,3.208,-1.3598,0.748,0.466,46513,0
+GO:0006486,"protein glycosylation",0.317%,-3.292, 0.733,4.610,-2.0705,0.703,0.472,6486,0
+GO:0019264,"glycine biosynthetic process from serine",0.036%,-7.970, 0.497,3.669,-1.9821,0.717,0.472,19264,0
+GO:0006564,"L-serine biosynthetic process",0.075%,null,null,3.981,-1.6245,0.706,0.801,19264,1
+GO:0010315,"auxin efflux",0.002%, 4.446,-3.253,2.452,-2.3301,0.768,0.476,10315,0
+GO:0009734,"auxin-activated signaling pathway",0.035%,null,null,3.649,-1.5752,0.800,0.851,10315,1
+GO:0009926,"auxin polar transport",0.005%,null,null,2.820,-2.0280,0.858,0.926,10315,1
+GO:0051156,"glucose 6-phosphate metabolic process",0.319%,-1.734,-5.644,4.612,-1.9823,0.825,0.478,51156,0
+GO:0000028,"ribosomal small subunit assembly",0.020%, 1.944, 7.138,3.409,-3.1480,0.851,0.489,28,0
+GO:0045489,"pectin biosynthetic process",0.008%,-5.467, 0.377,3.038,-3.1236,0.778,0.496,45489,0
+GO:0007010,"cytoskeleton organization",0.786%, 1.868, 6.874,5.004,-3.7775,0.830,0.497,7010,0
+GO:0019915,"lipid storage",0.032%, 4.941,-0.839,3.611,-2.5493,0.895,0.498,19915,0
+GO:0006207,"'de novo' pyrimidine nucleobase biosynthetic process",0.192%,-6.001, 0.667,4.392,-1.5298,0.718,0.500,6207,0
+GO:0009641,"shade avoidance",0.001%, 3.867,-4.528,2.000,-1.6837,0.930,0.509,9641,0
+GO:0009231,"riboflavin biosynthetic process",0.223%,-7.398, 0.997,4.456,-1.5372,0.707,0.517,9231,0
+GO:0009263,"deoxyribonucleotide biosynthetic process",0.150%,-5.990,-2.060,4.283,-1.9734,0.678,0.520,9263,0
+GO:0000162,"tryptophan biosynthetic process",0.191%,-6.816, 0.753,4.389,-2.0259,0.685,0.533,162,0
+GO:0008295,"spermidine biosynthetic process",0.055%,null,null,3.846,-1.5372,0.810,0.835,162,1
+GO:0006004,"fucose metabolic process",0.026%,-5.612,-0.390,3.518,-2.8527,0.818,0.536,6004,0
+GO:0070301,"cellular response to hydrogen peroxide",0.019%, 3.984,-5.170,3.397,-1.6837,0.839,0.537,70301,0
+GO:0000278,"mitotic cell cycle",0.561%,-2.894, 6.101,4.857,-2.1918,0.807,0.537,278,0
+GO:0006116,"NADH oxidation",0.002%,-6.039,-4.235,2.446,-1.9733,0.751,0.555,6116,0
+GO:0000076,"DNA replication checkpoint",0.015%, 1.913, 4.585,3.292,-1.9737,0.841,0.558,76,0
+GO:0042273,"ribosomal large subunit biogenesis",0.151%, 2.025, 7.162,4.287,-3.1088,0.864,0.558,42273,0
+GO:0042254,"ribosome biogenesis",1.422%,null,null,5.261,-2.2966,0.846,0.755,42273,1
+GO:0006085,"acetyl-CoA biosynthetic process",0.111%,-3.795,-5.493,4.152,-1.6843,0.770,0.560,6085,0
+GO:0019287,"isopentenyl diphosphate biosynthetic process, mevalonate pathway",0.014%,null,null,3.258,-1.3722,0.707,0.811,6085,1
+GO:0015995,"chlorophyll biosynthetic process",0.039%,-7.854,-0.889,3.699,-1.8055,0.729,0.561,15995,0
+GO:0035999,"tetrahydrofolate interconversion",0.129%,-7.426, 1.021,4.217,-2.7650,0.702,0.567,35999,0
+GO:0046655,"folic acid metabolic process",0.054%,null,null,3.844,-1.3594,0.690,0.767,35999,1
+GO:0031120,"snRNA pseudouridine synthesis",0.004%, 0.104, 0.441,2.749,-2.5257,0.847,0.567,31120,0
+GO:0001678,"cellular glucose homeostasis",0.049%, 1.138,-0.483,3.795,-1.3723,0.826,0.572,1678,0
+GO:0009833,"plant-type primary cell wall biogenesis",0.002%, 0.829, 6.915,2.396,-4.5788,0.763,0.584,9833,0
+GO:0009664,"plant-type cell wall organization",0.028%,null,null,3.559,-1.9650,0.835,0.829,9833,1
+GO:0000226,"microtubule cytoskeleton organization",0.293%,-1.332, 6.459,4.575,-2.1076,0.755,0.601,226,0
+GO:0042776,"mitochondrial ATP synthesis coupled proton transport",0.002%,-4.215,-2.665,2.384,-1.5298,0.680,0.601,42776,0
+GO:0043622,"cortical microtubule organization",0.002%, 1.060, 6.929,2.446,-1.5775,0.811,0.602,43622,0
+GO:0006556,"S-adenosylmethionine biosynthetic process",0.050%,-2.688,-3.036,3.810,-1.6245,0.817,0.603,6556,0
+GO:0006538,"glutamate catabolic process",0.021%,-8.323, 1.128,3.433,-2.3301,0.742,0.603,6538,0
+GO:0001732,"formation of cytoplasmic translation initiation complex",0.004%,-2.785, 5.260,2.749,-1.5920,0.720,0.603,1732,0
+GO:0070814,"hydrogen sulfide biosynthetic process",0.058%,-0.527,-1.377,3.875,-1.6837,0.853,0.609,70814,0
+GO:0006565,"L-serine catabolic process",0.001%,-7.956,-1.168,1.968,-1.9821,0.781,0.613,6565,0
+GO:2000022,"regulation of jasmonic acid mediated signaling pathway",0.002%, 4.628,-4.905,2.391,-1.9239,0.820,0.615,2000022,0
+GO:1902476,"chloride transmembrane transport",0.047%, 4.898, 0.375,3.780,-1.3594,0.918,0.628,1902476,0
+GO:0010043,"response to zinc ion",0.009%, 4.085,-5.005,3.058,-1.6245,0.895,0.642,10043,0
+GO:0010039,"response to iron ion",0.010%,null,null,3.111,-1.3722,0.894,0.714,10043,1
+GO:0006270,"DNA replication initiation",0.141%,-2.958, 1.501,4.259,-3.2909,0.781,0.646,6270,0
+GO:0006271,"DNA strand elongation involved in DNA replication",0.040%,null,null,3.705,-2.2989,0.796,0.712,6270,1
+GO:0006268,"DNA unwinding involved in DNA replication",0.058%,null,null,3.873,-2.0521,0.715,0.732,6270,1
+GO:0070212,"protein poly-ADP-ribosylation",0.001%,-1.978,-1.625,1.968,-1.6245,0.783,0.652,70212,0
+GO:0006122,"mitochondrial electron transport, ubiquinol to cytochrome c",0.035%,-6.080,-3.124,3.652,-1.5298,0.719,0.655,6122,0
+GO:0009753,"response to jasmonic acid",0.011%, 4.412,-5.384,3.152,-1.3615,0.880,0.669,9753,0
+GO:0010411,"xyloglucan metabolic process",0.016%,-0.048, 4.101,3.321,-3.8834,0.830,0.675,10411,0
+GO:0030244,"cellulose biosynthetic process",0.025%,-5.744, 1.988,3.511,-2.2772,0.742,0.675,30244,0
+GO:0006412,"translation",5.686%,-6.622,-1.284,5.863,-9.9100,0.693,0.696,6412,0
+GO:0006633,"fatty acid biosynthetic process",0.617%,-6.902, 1.305,4.899,-1.4893,0.676,0.700,6633,0

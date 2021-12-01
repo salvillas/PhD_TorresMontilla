@@ -1,0 +1,116 @@
+glucan endo-1,3-beta-D-glucosidase activity
+luteolin O-methyltransferase activity
+trehalose-phosphatase activity
+transmembrane receptor protein serine/threonine kinase binding
+G-protein beta/gamma-subunit complex binding
+diacylglycerol kinase activity
+phospho-N-acetylmuramoyl-pentapeptide-transferase activity
+misfolded protein binding
+oxoglutarate dehydrogenase (succinyl-transferring) activity
+catalytic activity
+shikimate O-hydroxycinnamoyltransferase activity
+protein histidine kinase binding
+protein domain specific binding
+chitin binding
+4-coumarate-CoA ligase activity
+ATPase inhibitor activity
+beta-1,4-mannosylglycoprotein 4-beta-N-acetylglucosaminyltransferase activity
+chitinase activity
+ornithine decarboxylase activity
+3,4-dihydroxy-2-butanone-4-phosphate synthase activity
+sphingomyelin synthase activity
+guanyl nucleotide binding
+sucrose alpha-glucosidase activity
+protein folding chaperone
+colneleate synthase activity
+calcium:proton antiporter activity
+nuclease activity
+xyloglucan:xyloglucosyl transferase activity
+transferase activity, transferring glycosyl groups
+U3 snoRNA binding
+box H/ACA snoRNA binding
+transferase activity, transferring phosphorus-containing groups
+glutathione transferase activity
+transferase activity
+transferase activity, transferring acyl groups other than amino-acyl groups
+polyamine oxidase activity
+guanylate kinase activity
+catalase activity
+ferrochelatase activity
+terpene synthase activity
+oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen
+L-aspartate:2-oxoglutarate aminotransferase activity
+pyrophosphate hydrolysis-driven proton transmembrane transporter activity
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+ATP binding
+protein disulfide oxidoreductase activity
+succinate-semialdehyde dehydrogenase [NAD(P)+] activity
+L-ascorbate oxidase activity
+acid phosphatase activity
+calmodulin binding
+thioredoxin-disulfide reductase activity
+acireductone dioxygenase [iron(II)-requiring] activity
+calcium-dependent phospholipid binding
+protein kinase activity
+hydroperoxide dehydratase activity
+protein serine/threonine kinase activity
+L-alanine:2-oxoglutarate aminotransferase activity
+transmembrane receptor protein serine/threonine kinase activity
+inositol phosphoceramide synthase activity
+NAD+ ADP-ribosyltransferase activity
+formate dehydrogenase (NAD+) activity
+8-oxo-7,8-dihydrodeoxyguanosine triphosphate pyrophosphatase activity
+sequence-specific DNA binding
+iron ion binding
+ion channel activity
+calcium ion binding
+acetyl-CoA C-acyltransferase activity
+magnesium ion binding
+UDP-glycosyltransferase activity
+monooxygenase activity
+UDP-glucose 4-epimerase activity
+glycerophosphodiester phosphodiesterase activity
+ATPase activity
+GMP synthase (glutamine-hydrolyzing) activity
+succinate-semialdehyde dehydrogenase (NAD+) activity
+protein serine/threonine phosphatase activity
+protein tyrosine phosphatase activity
+cyanate hydratase activity
+inositol 3-kinase activity
+long-chain fatty acid-CoA ligase activity
+glycopeptide alpha-N-acetylgalactosaminidase activity
+isopentenyl-diphosphate delta-isomerase activity
+GTP cyclohydrolase II activity
+ATP transmembrane transporter activity
+ADP-ribose diphosphatase activity
+ceramide cholinephosphotransferase activity
+carbohydrate binding
+polysaccharide binding
+hydroxymethylglutaryl-CoA reductase (NADPH) activity
+hydroxymethylglutaryl-CoA synthase activity
+RNA polymerase II cis-regulatory region sequence-specific DNA binding
+ER retention sequence binding
+heme binding
+inorganic diphosphatase activity
+peptide-methionine (S)-S-oxide reductase activity
+protein disulfide isomerase activity
+cardiolipin synthase activity
+thiamine pyrophosphate binding
+5-epi-aristolochene synthase activity
+clathrin heavy chain binding
+endopeptidase inhibitor activity
+serine-type endopeptidase inhibitor activity
+pheophytinase activity
+UDP-glucose transmembrane transporter activity
+1-aminocyclopropane-1-carboxylate oxidase activity
+aspartic-type endopeptidase activity
+UDP-galactose transmembrane transporter activity
+lipase activity
+DNA-binding transcription factor activity
+acetylserotonin O-methyltransferase activity
+ribosome binding
+phosphatidylinositol transfer activity
+threonine-tRNA ligase activity
+diphosphomevalonate decarboxylase activity
+dolichol kinase activity
+unfolded protein binding

@@ -1,0 +1,85 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0070212	5	3	0,67	3	protein poly-ADP-ribosylation	0,0195416752459011
+GO:0007142	5	3	0,67	3	male meiosis II	0,0195416752459011
+GO:0010366	2	2	0,27	2	negative regulation of ethylene biosynthetic process	0,0179982892391443
+GO:0034058	4	3	0,54	3	endosomal vesicle fusion	0,00868317489760646
+GO:0046835	35	9	4,7	9	carbohydrate phosphorylation	0,0375792568557244
+GO:0048229	83	15	11,14	15	gametophyte development	0,00240996881829589
+GO:0030261	19	8	2,55	8	chromosome condensation	0,0346045031252799
+GO:0006398	2	2	0,27	2	mRNA 3'-end processing by stem-loop binding and cleavage	0,0179982892391443
+GO:0030259	5	3	0,67	3	lipid glycosylation	0,0195416752459011
+GO:0032922	5	3	0,67	3	circadian regulation of gene expression	0,0195416752459011
+GO:0010417	10	4	1,34	4	glucuronoxylan biosynthetic process	0,034724623381674
+GO:0051513	4	3	0,54	3	regulation of monopolar cell growth	0,00868317489760646
+GO:0006378	21	7	2,82	7	mRNA polyadenylation	0,0162434608156738
+GO:0006970	97	18	13,02	18	response to osmotic stress	0,0151019237822834
+GO:0009416	213	56	28,58	56	response to light stimulus	3,82852980020651e-09
+GO:0006334	75	17	10,06	17	nucleosome assembly	0,0424408890261456
+GO:0015995	28	11	3,76	11	chlorophyll biosynthetic process	0,000591378580102173
+GO:0006302	105	23	14,09	23	double-strand break repair	0,0344546900651319
+GO:0006303	14	5	1,88	5	double-strand break repair via nonhomologous end joining	0,0304216249346066
+GO:0006306	30	10	4,03	10	DNA methylation	0,0487005617570112
+GO:0031047	113	20	15,16	20	gene silencing by RNA	0,0206715759369574
+GO:0015977	22	8	2,95	8	carbon fixation	0,00146201920618508
+GO:0015979	343	73	46,02	73	photosynthesis	0,00250593952242201
+GO:0006468	1515	247	203,28	247	protein phosphorylation	0,000772661340799624
+GO:0043547	64	13	8,59	13	positive regulation of GTPase activity	0,04100108650636
+GO:0048829	3	2	0,4	2	root cap development	0,0491680043329275
+GO:0042254	313	59	42	59	ribosome biogenesis	0,0108377680767942
+GO:0018298	144	33	19,32	33	protein-chromophore linkage	0,00126428582491516
+GO:0043622	17	6	2,28	6	cortical microtubule organization	0,0191842394966904
+GO:0045736	6	3	0,81	3	negative regulation of cyclin-dependent protein serine/threonine kinase activity	0,0352129856382373
+GO:0008360	28	10	3,76	10	regulation of cell shape	0,0066790944755151
+GO:0009234	4	4	0,54	4	menaquinone biosynthetic process	0,00032351729046822
+GO:0006107	5	4	0,67	4	oxaloacetate metabolic process	0,00144417466541003
+GO:1901962	3	3	0,4	3	S-adenosyl-L-methionine transmembrane transport	0,00241343169225278
+GO:0009765	36	26	4,83	26	photosynthesis, light harvesting	6,18384186191749e-05
+GO:0009768	22	17	2,95	17	photosynthesis, light harvesting in photosystem I	1,90410732084747e-11
+GO:1900087	2	2	0,27	2	positive regulation of G1/S transition of mitotic cell cycle	0,0179982892391443
+GO:0009785	7	4	0,94	4	blue light signaling pathway	0,00807243629189692
+GO:0090116	4	3	0,54	3	C-5 methylation of cytosine	0,00868317489760646
+GO:0009773	8	5	1,07	5	photosynthetic electron transport in photosystem I	0,00170438302598416
+GO:0007076	8	4	1,07	4	mitotic chromosome condensation	0,0144404895578097
+GO:0007020	6	4	0,81	4	microtubule nucleation	0,0179785135962918
+GO:0009718	9	5	1,21	5	anthocyanin-containing compound biosynthetic process	0,0034114294521988
+GO:0007010	227	44	30,46	44	cytoskeleton organization	0,00551907289693631
+GO:0007017	222	56	29,79	56	microtubule-based process	0,00706057233757496
+GO:0007018	79	25	10,6	25	microtubule-based movement	4,31579498951662e-05
+GO:0007623	48	15	6,44	15	circadian rhythm	0,0121122073439787
+GO:0009734	123	30	16,5	30	auxin-activated signaling pathway	0,000265592022790404
+GO:0009735	40	10	5,37	10	response to cytokinin	0,0490612718087317
+GO:0007049	487	84	65,35	84	cell cycle	0,022834886125572
+GO:0009737	187	35	25,09	35	response to abscisic acid	0,0255460601170321
+GO:0051321	121	26	16,24	26	meiotic cell cycle	0,010280061293941
+GO:0005980	4	3	0,54	3	glycogen catabolic process	0,00868317489760646
+GO:0005986	13	7	1,74	7	sucrose biosynthetic process	0,000634661403181706
+GO:0005975	1113	199	149,34	199	carbohydrate metabolic process	0,00742755338874063
+GO:0005978	11	4	1,48	4	glycogen biosynthetic process	0,0489026304471726
+GO:0009873	89	18	11,94	18	ethylene-activated signaling pathway	0,0475008953105981
+GO:0051301	237	44	31,8	44	cell division	0,0116052986913358
+GO:0006734	9	5	1,21	5	NADH metabolic process	0,00144319922965196
+GO:0009833	14	6	1,88	6	plant-type primary cell wall biogenesis	0,00664249159431313
+GO:0000290	11	4	1,48	4	deadenylation-dependent decapping of nuclear-transcribed mRNA	0,0489026304471726
+GO:0015783	3	2	0,4	2	GDP-fucose transmembrane transport	0,0491680043329275
+GO:0042550	2	2	0,27	2	photosystem I stabilization	0,0179982892391443
+GO:0045087	126	18	16,91	18	innate immune response	0,0066803441822231
+GO:0042549	11	4	1,48	4	photosystem II stabilization	0,0489026304471726
+GO:0006857	47	11	6,31	11	oligopeptide transport	0,0434833992079807
+GO:1902584	3	2	0,4	2	positive regulation of response to water deprivation	0,0491680043329275
+GO:0034220	621	76	83,33	76	ion transmembrane transport	0,036053576683791
+GO:0006817	282	54	37,84	54	phosphate ion transport	0,00504772766182854
+GO:0055062	6	3	0,81	3	phosphate ion homeostasis	0,0352129856382373
+GO:0009698	257	27	34,48	27	phenylpropanoid metabolic process	0,0211733417166961
+GO:0009063	89	17	11,94	17	cellular amino acid catabolic process	0,0490459986637441
+GO:0055085	1498	220	201	220	transmembrane transport	0,00711821009176208
+GO:0009688	8	3	1,07	3	abscisic acid biosynthetic process	0,0491564451221818
+GO:0006541	49	11	6,57	11	glutamine metabolic process	0,00917850425464008
+GO:0030388	12	7	1,61	7	fructose 1,6-bisphosphate metabolic process	0,000331311526670357
+GO:0043153	2	2	0,27	2	entrainment of circadian clock by photoperiod	0,0179982892391443
+GO:0006000	10	5	1,34	5	fructose metabolic process	0,00607240903323509
+GO:0006002	19	7	2,55	7	fructose 6-phosphate metabolic process	0,00896043572486637
+GO:0006006	48	14	6,44	14	glucose metabolic process	0,0171780815391634
+GO:0006606	45	14	6,04	14	protein import into nucleus	0,00488267059516079
+GO:0071555	320	53	42,94	53	cell wall organization	0,0304921738731119
+GO:0045910	14	5	1,88	5	negative regulation of DNA recombination	0,0304216249346066
+GO:0046777	121	24	16,24	24	protein autophosphorylation	0,0306904595417546

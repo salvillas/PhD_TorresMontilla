@@ -1,0 +1,85 @@
+histone H3-K36 demethylation
+pre-replicative complex assembly involved in nuclear cell cycle DNA replication
+endoplasmic reticulum tubular network organization
+ubiquitin-dependent endocytosis
+vesicle fusion with Golgi apparatus
+regulation of protein complex stability
+ER-associated misfolded protein catabolic process
+response to salt stress
+Golgi vesicle prefusion complex stabilization
+gibberellin biosynthetic process
+abscisic acid biosynthetic process
+copal-8-ol diphosphate(3-) catabolic process
+cis-abienol biosynthetic process
+terpenoid biosynthetic process
+sucrose biosynthetic process
+COPI coating of Golgi vesicle
+entrainment of circadian clock
+regulation of vesicle targeting, to, from or within Golgi
+lipid droplet organization
+saponin biosynthetic process
+dynamin family protein polymerization involved in mitochondrial fission
+protein peptidyl-prolyl isomerization
+chaperone cofactor-dependent protein refolding
+positive regulation of ATPase activity
+chaperone-mediated protein complex assembly
+negative regulation of phosphatase activity
+Golgi to vacuole transport
+protein stabilization
+negative regulation of transcription by RNA polymerase II
+urate catabolic process
+detection of mechanical stimulus
+mRNA cleavage
+response to hydrogen peroxide
+protein homooligomerization
+cell volume homeostasis
+protein complex oligomerization
+regulation of synapse structure or activity
+sulfate assimilation
+anion transport
+positive regulation of growth
+acute-phase response
+response to cyclopentenone
+coenzyme A metabolic process
+response to unfolded protein
+stress granule assembly
+anthocyanin-containing compound biosynthetic process
+protein refolding
+response to yeast
+positive regulation of superoxide dismutase activity
+protein-containing complex assembly
+de-etiolation
+receptor internalization
+cellular response to glucose starvation
+protein folding
+response to chlorate
+sesquiterpene biosynthetic process
+sodium ion import across plasma membrane
+isoprenoid biosynthetic process
+cytoplasm protein quality control by the ubiquitin-proteasome system
+protein polyubiquitination
+positive regulation of response to water deprivation
+protein monoubiquitination
+cellular response to heat
+plant-type primary cell wall biogenesis
+inositol phosphate dephosphorylation
+phosphatidylinositol dephosphorylation
+developmental vegetative growth
+protein import into chloroplast stroma
+purine nucleotide metabolic process
+geranyl diphosphate biosynthetic process
+ion transmembrane transport
+cellular oxidant detoxification
+myo-inositol hexakisphosphate biosynthetic process
+mitochondrial electron transport, ubiquinol to cytochrome c
+positive regulation of catalytic activity
+ubiquitin-dependent ERAD pathway
+cellular response to amino acid stimulus
+glucose metabolic process
+pyridoxal 5'-phosphate salvage
+chaperone-mediated protein folding
+snRNA transcription by RNA polymerase II
+snRNA transcription by RNA polymerase III
+protein import into peroxisome matrix
+response to heat
+spliceosomal snRNP assembly

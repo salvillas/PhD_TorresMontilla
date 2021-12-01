@@ -1,0 +1,53 @@
+term_ID,description,frequency,plot_X,plot_Y,plot_size,log10 p-value,uniqueness,dispensability,representative,eliminated
+GO:0019419,"sulfate reduction",0.041%, 3.811,-4.552,3.722,-8.8264,0.784,0.000,19419,0
+GO:0019509,"L-methionine biosynthetic process from methylthioadenosine",0.067%,null,null,3.934,-2.4212,0.718,0.546,19419,1
+GO:0019430,"removal of superoxide radicals",0.121%,null,null,4.192,-1.3669,0.638,0.848,19419,1
+GO:0019344,"cysteine biosynthetic process",0.131%,null,null,4.225,-1.3359,0.708,0.763,19419,1
+GO:0042744,"hydrogen peroxide catabolic process",0.093%,null,null,4.078,-4.2890,0.799,0.981,19419,1
+GO:0006749,"glutathione metabolic process",0.151%,null,null,4.288,-1.7645,0.803,0.708,19419,1
+GO:0033355,"ascorbate glutathione cycle",0.083%,null,null,4.025,-4.0527,0.634,0.528,19419,1
+GO:0009058,"biosynthetic process",31.611%,-2.527,-5.556,6.608,-1.3691,0.956,0.016,9058,0
+GO:0000028,"ribosomal small subunit assembly",0.020%,-0.871, 2.217,3.409,-1.3024,0.957,0.020,28,0
+GO:0098869,"cellular oxidant detoxification",0.784%,-6.627,-0.725,5.003,-6.7159,0.743,0.026,98869,0
+GO:0030968,"endoplasmic reticulum unfolded protein response",0.027%,null,null,3.548,-2.1904,0.688,0.518,98869,1
+GO:0010273,"detoxification of copper ion",0.001%,null,null,1.940,-1.5527,0.806,0.571,98869,1
+GO:0042026,"protein refolding",0.069%,-3.005,-7.362,3.949,-2.6571,0.913,0.027,42026,0
+GO:0051085,"chaperone mediated protein folding requiring cofactor",0.010%,null,null,3.117,-1.6996,0.916,0.567,42026,1
+GO:0006457,"protein folding",0.903%,-4.750,-6.105,5.064,-1.9964,0.929,0.034,6457,0
+GO:0010951,"negative regulation of endopeptidase activity",0.157%, 1.541, 5.620,4.304,-6.4401,0.820,0.042,10951,0
+GO:0010152,"pollen maturation",0.001%,-0.032,-1.787,2.076,-1.5527,0.899,0.042,10152,0
+GO:0015671,"oxygen transport",0.040%,-3.296, 6.845,3.709,-3.5783,0.880,0.052,15671,0
+GO:0016998,"cell wall macromolecule catabolic process",0.059%, 0.384,-7.206,3.880,-3.1434,0.837,0.101,16998,0
+GO:0006629,"lipid metabolic process",3.522%, 5.346,-4.515,5.655,-2.8477,0.837,0.141,6629,0
+GO:0008299,"isoprenoid biosynthetic process",0.442%, 5.962,-1.432,4.754,-2.8747,0.734,0.179,8299,0
+GO:0016121,"carotene catabolic process",0.001%,null,null,1.949,-1.3349,0.774,0.618,8299,1
+GO:0019432,"triglyceride biosynthetic process",0.021%,null,null,3.426,-1.6712,0.778,0.543,8299,1
+GO:0034440,"lipid oxidation",0.087%,null,null,4.045,-2.5173,0.792,0.563,8299,1
+GO:0031408,"oxylipin biosynthetic process",0.007%,null,null,2.941,-1.5748,0.760,0.502,8299,1
+GO:0010731,"protein glutathionylation",0.002%, 4.233, 5.677,2.446,-3.5783,0.888,0.194,10731,0
+GO:0009695,"jasmonic acid biosynthetic process",0.001%, 6.913,-0.143,2.217,-2.2603,0.808,0.237,9695,0
+GO:0046777,"protein autophosphorylation",0.077%, 5.032, 4.066,3.993,-1.8839,0.862,0.264,46777,0
+GO:0017186,"peptidyl-pyroglutamic acid biosynthetic process, using glutaminyl-peptide cyclotransferase",0.007%, 4.893, 5.008,2.953,-1.3349,0.884,0.282,17186,0
+GO:0010155,"regulation of proton transport",0.004%,-2.996, 6.016,2.668,-2.0257,0.852,0.299,10155,0
+GO:0055114,"oxidation-reduction process",15.060%, 5.601,-3.660,6.286,-4.3554,0.838,0.300,55114,0
+GO:0090378,"seed trichome elongation",0.000%, 0.604, 0.497,0.602,-1.5527,0.855,0.305,90378,0
+GO:0006621,"protein retention in ER lumen",0.017%,-1.824, 5.519,3.334,-3.4596,0.787,0.322,6621,0
+GO:0045792,"negative regulation of cell size",0.003%,-0.560, 4.131,2.597,-2.0257,0.814,0.343,45792,0
+GO:0009435,"NAD biosynthetic process",0.246%, 5.119,-0.977,4.499,-1.6712,0.749,0.346,9435,0
+GO:0009607,"response to biotic stimulus",0.342%,-6.398,-2.314,4.643,-1.6977,0.840,0.351,9607,0
+GO:0006032,"chitin catabolic process",0.018%, 1.277,-6.580,3.368,-2.6416,0.834,0.360,6032,0
+GO:0009082,"branched-chain amino acid biosynthetic process",0.402%, 5.263,-2.186,4.713,-1.4396,0.738,0.363,9082,0
+GO:0006979,"response to oxidative stress",0.575%,-6.638,-1.384,4.868,-4.4149,0.790,0.369,6979,0
+GO:0006952,"defense response",0.568%,null,null,4.863,-2.0773,0.790,0.570,6979,1
+GO:0031640,"killing of cells of other organism",0.019%,-4.266, 4.466,3.389,-3.0609,0.891,0.379,31640,0
+GO:0070816,"phosphorylation of RNA polymerase II C-terminal domain",0.022%, 3.280, 4.415,3.455,-1.5748,0.792,0.392,70816,0
+GO:0032968,"positive regulation of transcription elongation from RNA polymerase II promoter",0.029%,null,null,3.567,-1.3024,0.813,0.520,70816,1
+GO:0009862,"systemic acquired resistance, salicylic acid mediated signaling pathway",0.001%,-6.147, 0.451,1.914,-1.5527,0.711,0.401,9862,0
+GO:2000022,"regulation of jasmonic acid mediated signaling pathway",0.002%,null,null,2.391,-1.5169,0.726,0.640,9862,1
+GO:0050832,"defense response to fungus",0.028%,null,null,3.557,-1.3973,0.807,0.606,9862,1
+GO:0015914,"phospholipid transport",0.076%,-2.618, 7.039,3.987,-1.8405,0.873,0.427,15914,0
+GO:1903298,"negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway",0.001%,-5.445, 0.634,2.049,-3.2800,0.703,0.434,1903298,0
+GO:0048281,"inflorescence morphogenesis",0.000%, 1.012,-0.686,1.591,-1.4298,0.895,0.462,48281,0
+GO:0010200,"response to chitin",0.004%,-6.964,-0.118,2.755,-1.4298,0.801,0.479,10200,0
+GO:0015996,"chlorophyll catabolic process",0.008%, 2.039,-6.027,3.037,-2.2603,0.770,0.486,15996,0
+GO:0009611,"response to wounding",0.127%,-6.323,-1.621,4.212,-3.0119,0.805,0.498,9611,0

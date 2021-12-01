@@ -1,0 +1,47 @@
+Annotated	Significant	Expected	DEG	Term
+GO:0000427	5	3	0,7	3	plastid-encoded plastid RNA polymerase complex
+GO:1990316	3	3	0,42	3	Atg1/ULK1 kinase complex
+GO:0005741	41	9	5,77	9	mitochondrial outer membrane
+GO:0005747	21	10	2,95	10	mitochondrial respiratory chain complex I
+GO:0005749	6	5	0,84	5	mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)
+GO:0008541	6	3	0,84	3	proteasome regulatory particle, lid subcomplex
+GO:0005737	7170	1252	1008,42	1252	cytoplasm
+GO:0005739	1111	219	156,26	219	mitochondrion
+GO:0000243	10	4	1,41	4	commitment complex
+GO:0000813	8	5	1,13	5	ESCRT I complex
+GO:0000407	15	7	2,11	7	phagophore assembly site
+GO:0031314	6	3	0,84	3	extrinsic component of mitochondrial inner membrane
+GO:0019773	16	8	2,25	8	proteasome core complex, alpha-subunit complex
+GO:0071819	2	2	0,28	2	DUBm complex
+GO:0031969	133	28	18,71	28	chloroplast membrane
+GO:0031977	21	6	2,95	6	thylakoid lumen
+GO:0000151	173	38	24,33	38	ubiquitin ligase complex
+GO:0042644	23	10	3,23	10	chloroplast nucleoid
+GO:0005681	128	23	18	23	spliceosomal complex
+GO:0009368	13	8	1,83	8	endopeptidase Clp complex
+GO:0005829	1242	206	174,68	206	cytosol
+GO:0010287	24	7	3,38	7	plastoglobule
+GO:0070847	6	3	0,84	3	core mediator complex
+GO:0031901	3	3	0,42	3	early endosome membrane
+GO:0030134	34	6	4,78	6	COPII-coated ER to Golgi transport vesicle
+GO:0005637	4	3	0,56	3	nuclear inner membrane
+GO:0070390	5	3	0,7	3	transcription export complex 2
+GO:0009570	281	79	39,52	79	chloroplast stroma
+GO:0009579	500	64	70,32	64	thylakoid
+GO:0080008	34	11	4,78	11	Cul4-RING E3 ubiquitin ligase complex
+GO:0009534	420	51	59,07	51	chloroplast thylakoid
+GO:0009536	1641	360	230,8	360	plastid
+GO:0008180	10	6	1,41	6	COP9 signalosome
+GO:0009941	225	60	31,64	60	chloroplast envelope
+GO:0005750	7	5	0,98	5	mitochondrial respiratory chain complex III
+GO:0005782	2	2	0,28	2	peroxisomal matrix
+GO:0005783	472	89	66,38	89	endoplasmic reticulum
+GO:0001405	8	4	1,13	4	PAM complex, Tim23 associated import motor
+GO:0009507	1541	336	216,73	336	chloroplast
+GO:0005788	23	7	3,23	7	endoplasmic reticulum lumen
+GO:0005771	10	4	1,41	4	multivesicular body
+GO:0005774	181	34	25,46	34	vacuolar membrane
+GO:0022626	193	11	27,14	11	cytosolic ribosome
+GO:0005777	112	40	15,75	40	peroxisome
+GO:0005778	25	10	3,52	10	peroxisomal membrane
+GO:0030286	9	4	1,27	4	dynein complex

@@ -1,0 +1,66 @@
+oxidoreductase activity, acting on iron-sulfur proteins as donors
+lipase activity
+magnesium ion binding
+carotenoid dioxygenase activity
+glutathione transferase activity
+hydroperoxide dehydratase activity
+catalase activity
+glutamate-5-semialdehyde dehydrogenase activity
+peptidoglycan binding
+channel activity
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+glutamate N-acetyltransferase activity
+calcium-dependent phospholipid binding
+ER retention sequence binding
+pyridoxal phosphate binding
+glycine hydroxymethyltransferase activity
+undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase activity
+endopeptidase inhibitor activity
+serine-type endopeptidase inhibitor activity
+oxygen evolving activity
+acetylserotonin O-methyltransferase activity
+chitin binding
+formate dehydrogenase (NAD+) activity
+fructose 1,6-bisphosphate 1-phosphatase activity
+UDP-glycosyltransferase activity
+serine-type peptidase activity
+iron ion binding
+structural constituent of cell wall
+calcium ion binding
+glyceraldehyde-3-phosphate dehydrogenase (NADP+) (non-phosphorylating) activity
+glutamate 5-kinase activity
+phosphatidic acid binding
+L-alanine:2-oxoglutarate aminotransferase activity
+oxygen carrier activity
+heme binding
+terpene synthase activity
+phosphoprotein binding
+UDP-N-acetylglucosamine diphosphorylase activity
+phospholipase A1 activity
+chlorophyll binding
+arginine decarboxylase activity
+protein histidine kinase binding
+succinate-semialdehyde dehydrogenase [NAD(P)+] activity
+sucrose synthase activity
+acireductone dioxygenase [iron(II)-requiring] activity
+allene-oxide cyclase activity
+geranylgeranyl reductase activity
+luteolin O-methyltransferase activity
+ribulose-bisphosphate carboxylase activity
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity
+16:0 monogalactosyldiacylglycerol desaturase activity
+oxygen binding
+transmembrane receptor protein serine/threonine kinase activity
+monooxygenase activity
+protein disulfide isomerase activity
+magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase activity
+sucrose-phosphate synthase activity
+succinate-semialdehyde dehydrogenase (NAD+) activity
+geranylgeranyl diphosphate reductase activity
+L-lactate dehydrogenase activity
+peroxidase activity
+chitinase activity
+sulfiredoxin activity
+UDPsulfoquinovose synthase activity
+oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+carbohydrate binding

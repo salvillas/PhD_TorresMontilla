@@ -1,0 +1,16 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0046658	92	6	2,64	6	anchored component of plasma membrane	0,0491178273317734
+GO:0005618	488	30	14	30	cell wall	8,05924331866812e-05
+GO:0005886	1961	84	56,27	84	plasma membrane	0,000192376474436852
+GO:0010330	10	3	0,29	3	cellulose synthase complex	0,00242872159348009
+GO:0005874	317	22	9,1	22	microtubule	0,0067129390335318
+GO:0030124	2	2	0,06	2	AP-4 adaptor complex	0,000822361550562703
+GO:0036449	2	2	0,06	2	microtubule minus-end	0,000822361550562703
+GO:0016021	10862	391	311,68	391	integral component of membrane	4,26166972986448e-09
+GO:0005794	1076	38	30,88	38	Golgi apparatus	0,0428611808844327
+GO:0005576	1227	52	35,21	52	extracellular region	0,0109155754371942
+GO:0009326	3	2	0,09	2	formate dehydrogenase complex	0,00242000502005413
+GO:0010005	4	2	0,11	2	cortical microtubule, transverse to long axis	0,00474786977652023
+GO:0000159	42	4	1,21	4	protein phosphatase type 2A complex	0,0318247765841695
+GO:0017053	11	2	0,32	2	transcriptional repressor complex	0,0380937376119024
+GO:0055028	29	6	0,83	6	cortical microtubule	0,00522180427080985

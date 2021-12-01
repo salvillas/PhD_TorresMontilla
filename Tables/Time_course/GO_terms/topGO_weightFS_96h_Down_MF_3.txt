@@ -1,0 +1,91 @@
+diacylglycerol kinase activity
+nucleotide binding
+transmembrane transporter activity
+RNA polymerase II CTD heptapeptide repeat kinase activity
+DNA-binding transcription factor activity
+microtubule binding
+iron ion binding
+UDP-glucose 4-epimerase activity
+calcium ion binding
+SNAP receptor activity
+calmodulin-lysine N-methyltransferase activity
+1,4-alpha-glucan branching enzyme activity (using a glucosylated glycogenin as primer for glycogen synthesis)
+branched-chain-amino-acid transaminase activity
+lipid binding
+microfilament motor activity
+secondary active sulfate transmembrane transporter activity
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+phosphatidylcholine binding
+protochlorophyllide reductase activity
+glutamate decarboxylase activity
+glutamate-ammonia ligase activity
+actin-dependent ATPase activity
+chlorophyll binding
+glycogen (starch) synthase activity
+histidine phosphotransfer kinase activity
+aldose 1-epimerase activity
+pyridoxal phosphate binding
+N-acylphosphatidylethanolamine-specific phospholipase D activity
+ent-kaurene synthase activity
+sequence-specific DNA binding
+sucrose transmembrane transporter activity
+1,4-alpha-glucan branching enzyme activity
+structural constituent of cell wall
+hydrolase activity, hydrolyzing O-glycosyl compounds
+kinase binding
+protein domain specific binding
+bile acid:sodium symporter activity
+1-phosphatidylinositol-3-phosphate 5-kinase activity
+ADP binding
+monooxygenase activity
+UDP-sulfoquinovose:DAG sulfoquinovosyltransferase activity
+sugar transmembrane transporter activity
+glutamate synthase activity
+triose-phosphate transmembrane transporter activity
+tryptamine:oxygen oxidoreductase (deaminating) activity
+aminoacetone:oxygen oxidoreductase(deaminating) activity
+phosphoglycerate transmembrane transporter activity
+aliphatic-amine oxidase activity
+phenethylamine:oxygen oxidoreductase (deaminating) activity
+L-threonine ammonia-lyase activity
+nitrate transmembrane transporter activity
+1,2-diacylglycerol 3-beta-galactosyltransferase activity
+hydroxymethylglutaryl-CoA synthase activity
+inorganic diphosphatase activity
+cyclin-dependent protein serine/threonine kinase activity
+GTPase binding
+sulfate adenylyltransferase (ATP) activity
+microtubule plus-end binding
+calcium ion transmembrane transporter activity
+phospholipase A1 activity
+pectate lyase activity
+zinc ion transmembrane transporter activity
+calcium transmembrane transporter activity, phosphorylative mechanism
+proline dehydrogenase activity
+enzyme regulator activity
+uniporter activity
+antiporter activity
+linear malto-oligosaccharide phosphorylase activity
+protein kinase activity
+protein serine/threonine kinase activity
+protein disulfide oxidoreductase activity
+glycogen phosphorylase activity
+cysteine-type endopeptidase activity
+cyclin-dependent protein serine/threonine kinase regulator activity
+phospholipase D activity
+protein heterodimerization activity
+carotenoid dioxygenase activity
+microtubule motor activity
+primary amine oxidase activity
+glucose-1-phosphate adenylyltransferase activity
+ATP binding
+SHG alpha-glucan phosphorylase activity
+cellulose synthase (UDP-forming) activity
+xyloglucan:xyloglucosyl transferase activity
+calmodulin binding
+ATPase-coupled transmembrane transporter activity
+3 iron, 4 sulfur cluster binding
+glucosaminyl-phosphatidylinositol O-acyltransferase activity
+structural constituent of cytoskeleton
+calcium-dependent phospholipid binding
+heme binding

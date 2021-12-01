@@ -1,0 +1,139 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0015995	28	9	4,78	9	chlorophyll biosynthetic process	0,040310069199444
+GO:0019264	7	4	1,2	4	glycine biosynthetic process from serine	0,0192284901726311
+GO:0015977	22	8	3,76	8	carbon fixation	0,00522435925215095
+GO:0016554	19	10	3,25	10	cytidine to uridine editing	0,000429917904195582
+GO:1901962	3	3	0,51	3	S-adenosyl-L-methionine transmembrane transport	0,0049831608390896
+GO:0071289	3	3	0,51	3	cellular response to nickel ion	0,0049831608390896
+GO:1900865	16	7	2,73	7	chloroplast RNA modification	0,0115022944813533
+GO:0034220	621	87	106,1	87	ion transmembrane transport	0,000558333482671956
+GO:2000022	23	8	3,93	8	regulation of jasmonic acid mediated signaling pathway	0,0314635996323447
+GO:0048478	4	3	0,68	3	replication fork protection	0,0173804396260161
+GO:0006839	98	15	16,74	15	mitochondrial transport	0,017440099830271
+GO:0048443	11	5	1,88	5	stamen development	0,0379122469913572
+GO:0001878	2	2	0,34	2	response to yeast	0,0291816250671406
+GO:0010411	43	16	7,35	16	xyloglucan metabolic process	0,002807833504283
+GO:0005980	4	3	0,68	3	glycogen catabolic process	0,0173804396260161
+GO:0005986	13	6	2,22	6	sucrose biosynthetic process	0,014248341422428
+GO:0006564	5	4	0,85	4	L-serine biosynthetic process	0,00367285903077867
+GO:0006565	7	4	1,2	4	L-serine catabolic process	0,0192284901726311
+GO:0009263	9	5	1,54	5	deoxyribonucleotide biosynthetic process	0,0173636828941119
+GO:0019722	19	7	3,25	7	calcium-mediated signaling	0,0317154659926329
+GO:0009269	11	5	1,88	5	response to desiccation	0,027053389834059
+GO:0005975	1113	245	190,15	245	carbohydrate metabolic process	0,019787421301099
+GO:0051513	4	3	0,68	3	regulation of monopolar cell growth	0,0173804396260161
+GO:0006556	5	4	0,85	4	S-adenosylmethionine biosynthetic process	0,00367285903077867
+GO:0006541	49	13	8,37	13	glutamine metabolic process	0,00626647161971156
+GO:0006538	9	6	1,54	6	glutamate catabolic process	0,00129764712901345
+GO:0009234	4	3	0,68	3	menaquinone biosynthetic process	0,0173804396260161
+GO:0035999	14	6	2,39	6	tetrahydrofolate interconversion	0,0213872661566675
+GO:0120142	2	2	0,34	2	positive regulation of ecdysone receptor-mediated signaling pathway	0,0291816250671406
+GO:0030388	12	5	2,05	5	fructose 1,6-bisphosphate metabolic process	0,0399835562759716
+GO:0001522	24	13	4,1	13	pseudouridine synthesis	0,000727770106896014
+GO:0000462	37	14	6,32	14	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	0,00807198888212054
+GO:0000463	18	9	3,08	9	maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	0,00404646870938189
+GO:0000466	18	9	3,08	9	maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	0,0094933758676471
+GO:0010112	7	4	1,2	4	regulation of systemic acquired resistance	0,0379218525631255
+GO:0010119	22	7	3,76	7	regulation of stomatal movement	0,042055196398138
+GO:0000480	2	2	0,34	2	endonucleolytic cleavage in 5'-ETS of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	0,0291816250671406
+GO:0019877	4	4	0,68	4	diaminopimelate biosynthetic process	0,000850734576780749
+GO:0042546	136	31	23,24	31	cell wall biogenesis	0,00155015186092671
+GO:0000472	2	2	0,34	2	endonucleolytic cleavage to generate mature 5'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	0,0291816250671406
+GO:0009753	50	18	8,54	18	response to jasmonic acid	0,0170010332387988
+GO:0000413	72	19	12,3	19	protein peptidyl-prolyl isomerization	0,0307683907195607
+GO:0043137	2	2	0,34	2	DNA replication, removal of RNA primer	0,0291816250671406
+GO:0009773	8	4	1,37	4	photosynthetic electron transport in photosystem I	0,0333124070534247
+GO:0010105	2	2	0,34	2	negative regulation of ethylene-activated signaling pathway	0,0291816250671406
+GO:0009718	9	5	1,54	5	anthocyanin-containing compound biosynthetic process	0,00995323099536756
+GO:0006646	2	2	0,34	2	phosphatidylethanolamine biosynthetic process	0,0291816250671406
+GO:0048229	83	15	14,18	15	gametophyte development	0,00499053193826405
+GO:0070301	2	2	0,34	2	cellular response to hydrogen peroxide	0,0291816250671406
+GO:0001682	5	3	0,85	3	tRNA 5'-leader removal	0,0379418105188724
+GO:0001678	11	5	1,88	5	cellular glucose homeostasis	0,00952239599162657
+GO:0030488	31	10	5,3	10	tRNA methylation	0,0402794627902128
+GO:0000165	28	9	4,78	9	MAPK cascade	0,040310069199444
+GO:0071555	320	70	54,67	70	cell wall organization	0,00144163509181881
+GO:0010212	19	7	3,25	7	response to ionizing radiation	0,0142488420159135
+GO:0070476	2	2	0,34	2	rRNA (guanine-N7)-methylation	0,0291816250671406
+GO:1904482	7	4	1,2	4	cellular response to tetrahydrofolate	0,0192284901726311
+GO:0009833	14	6	2,39	6	plant-type primary cell wall biogenesis	0,0213872661566675
+GO:0002758	2	2	0,34	2	innate immune response-activating signal transduction	0,0291816250671406
+GO:0051017	12	5	2,05	5	actin filament bundle assembly	0,0399835562759716
+GO:0045842	5	4	0,85	4	positive regulation of mitotic metaphase/anaphase transition	0,00367285903077867
+GO:0006024	5	3	0,85	3	glycosaminoglycan biosynthetic process	0,0379418105188724
+GO:1902975	4	4	0,68	4	mitotic DNA replication initiation	0,000850734576780749
+GO:0048868	25	9	4,27	9	pollen tube development	0,0191899025494414
+GO:0006004	46	14	7,86	14	fucose metabolic process	0,0183113897112775
+GO:0033384	2	2	0,34	2	geranyl diphosphate biosynthetic process	0,0291816250671406
+GO:0033314	7	4	1,2	4	mitotic DNA replication checkpoint	0,0192284901726311
+GO:0000724	77	29	13,16	29	double-strand break repair via homologous recombination	0,0184071253900271
+GO:0000727	11	9	1,88	9	double-strand break repair via break-induced replication	4,84707783979871e-06
+GO:0000733	3	3	0,51	3	DNA strand renaturation	0,0049831608390896
+GO:0006913	105	34	17,94	34	nucleocytoplasmic transport	1,56408979021356e-05
+GO:0035196	12	5	2,05	5	production of miRNAs involved in gene silencing by miRNA	0,0192255643371475
+GO:0009637	18	8	3,08	8	response to blue light	0,00950371643428283
+GO:0015867	45	13	7,69	13	ATP transport	0,0404386301420684
+GO:0099402	186	48	31,78	48	plant organ development	0,0328585210351205
+GO:0006390	3	3	0,51	3	mitochondrial transcription	0,029167357104742
+GO:0006396	818	171	139,75	171	RNA processing	0,0224257256994137
+GO:0006398	2	2	0,34	2	mRNA 3'-end processing by stem-loop binding and cleavage	0,0291816250671406
+GO:0032515	36	11	6,15	11	negative regulation of phosphoprotein phosphatase activity	0,0334519312614211
+GO:0006364	192	69	32,8	69	rRNA processing	0,000535889315564336
+GO:0035246	14	10	2,39	10	peptidyl-arginine N-methylation	0,00990039634728448
+GO:0006355	1951	326	333,32	326	regulation of transcription, DNA-templated	0,048711117049102
+GO:0034969	5	3	0,85	3	histone arginine methylation	0,0379418105188724
+GO:0046777	121	37	20,67	37	protein autophosphorylation	0,000179643304193031
+GO:0009089	11	5	1,88	5	lysine biosynthetic process via diaminopimelate	0,027053389834059
+GO:0019918	2	2	0,34	2	peptidyl-arginine methylation, to symmetrical-dimethyl arginine	0,0291816250671406
+GO:0019919	2	2	0,34	2	peptidyl-arginine methylation, to asymmetrical-dimethyl arginine	0,0291816250671406
+GO:0034976	56	13	9,57	13	response to endoplasmic reticulum stress	0,030597106050281
+GO:0032508	70	28	11,96	28	DNA duplex unwinding	0,00167777205420363
+GO:0051301	237	51	40,49	51	cell division	0,0250240448299652
+GO:0006334	75	23	12,81	23	nucleosome assembly	0,00233985985868324
+GO:0044205	5	4	0,85	4	'de novo' UMP biosynthetic process	0,00367285903077867
+GO:0006468	1515	336	258,83	336	protein phosphorylation	3,20440121533764e-07
+GO:0016135	2	2	0,34	2	saponin biosynthetic process	0,0291816250671406
+GO:0007059	106	32	18,11	32	chromosome segregation	0,00127783741080434
+GO:0006423	2	2	0,34	2	cysteinyl-tRNA aminoacylation	0,0291816250671406
+GO:0045004	3	3	0,51	3	DNA replication proofreading	0,0049831608390896
+GO:0006414	65	20	11,11	20	translational elongation	0,00221568864495872
+GO:0046835	35	12	5,98	12	carbohydrate phosphorylation	0,00222233377003114
+GO:0016104	12	5	2,05	5	triterpenoid biosynthetic process	0,0399835562759716
+GO:0007010	227	54	38,78	54	cytoskeleton organization	0,00338595966966216
+GO:0007017	222	55	37,93	55	microtubule-based process	0,00204876789720463
+GO:0010050	2	2	0,34	2	vegetative phase change	0,0291816250671406
+GO:0015689	5	4	0,85	4	molybdate ion transport	0,00367285903077867
+GO:0051156	33	9	5,64	9	glucose 6-phosphate metabolic process	0,00224683526567988
+GO:0045910	14	7	2,39	7	negative regulation of DNA recombination	0,0142315043357906
+GO:0019318	128	42	21,87	42	hexose metabolic process	0,00503190263013916
+GO:0006189	13	6	2,22	6	'de novo' IMP biosynthetic process	0,014248341422428
+GO:0101030	3	3	0,51	3	tRNA-guanine transglycosylation	0,0049831608390896
+GO:0006297	6	4	1,03	4	nucleotide-excision repair, DNA gap filling	0,00952390828228501
+GO:0006298	45	18	7,69	18	mismatch repair	0,000359209135848421
+GO:0071456	29	12	4,95	12	cellular response to hypoxia	0,00177665625556218
+GO:0006260	161	67	27,51	67	DNA replication	0,00025453773485716
+GO:0006267	7	6	1,2	6	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	0,000148079421225512
+GO:0031408	20	8	3,42	8	oxylipin biosynthetic process	0,0129982954267705
+GO:0006268	22	11	3,76	11	DNA unwinding involved in DNA replication	0,000394405917277479
+GO:0000077	14	6	2,39	6	DNA damage checkpoint	0,0332800043395293
+GO:0071423	2	2	0,34	2	malate transmembrane transport	0,0291816250671406
+GO:0000028	23	10	3,93	10	ribosomal small subunit assembly	0,00720160186628231
+GO:0006281	353	105	60,31	105	DNA repair	0,00315903077799157
+GO:0034475	5	3	0,85	3	U4 snRNA 3'-end processing	0,0379418105188724
+GO:0006287	3	3	0,51	3	base-excision repair, gap-filling	0,0049831608390896
+GO:0046621	5	3	0,85	3	negative regulation of organ growth	0,0379418105188724
+GO:0006270	17	14	2,9	14	DNA replication initiation	3,58645741015061e-06
+GO:0006271	12	10	2,05	10	DNA strand elongation involved in DNA replication	0,00365289682779182
+GO:0006272	4	4	0,68	4	leading strand elongation	0,000850734576780749
+GO:0090116	4	4	0,68	4	C-5 methylation of cytosine	0,000850734576780749
+GO:0006207	9	5	1,54	5	'de novo' pyrimidine nucleobase biosynthetic process	0,00995323099536756
+GO:0042254	313	108	53,48	108	ribosome biogenesis	0,00156321425052336
+GO:0031145	11	5	1,88	5	anaphase-promoting complex-dependent catabolic process	0,027053389834059
+GO:0042273	93	33	15,89	33	ribosomal large subunit biogenesis	0,0024623650637074
+GO:1990090	2	2	0,34	2	cellular response to nerve growth factor stimulus	0,0291816250671406
+GO:1905168	2	2	0,34	2	positive regulation of double-strand break repair via homologous recombination	0,0291816250671406
+GO:0009451	294	88	50,23	88	RNA modification	3,70294892268788e-05
+GO:0031297	5	4	0,85	4	replication fork processing	0,0173683161761972
+GO:0080156	18	10	3,08	10	mitochondrial mRNA modification	0,000240409157858271
+GO:0009414	76	24	12,98	24	response to water deprivation	0,00680911837304921
+GO:1901002	6	4	1,03	4	positive regulation of response to salt stress	0,00952390828228501

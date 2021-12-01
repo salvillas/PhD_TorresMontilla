@@ -1,0 +1,105 @@
+catalase activity
+NAD(P)H dehydrogenase (quinone) activity
+diacylglycerol kinase activity
+diacylglycerol O-acyltransferase activity
+dihydrolipoyl dehydrogenase activity
+dihydrolipoyllysine-residue succinyltransferase activity
+acetate-CoA ligase activity
+DNA-binding transcription factor activity
+xenobiotic transmembrane transporter activity
+luteolin O-methyltransferase activity
+iron ion binding
+calcium ion binding
+threonine-tRNA ligase activity
+soluble NSF attachment protein activity
+L-ascorbate peroxidase activity
+GMP synthase (glutamine-hydrolyzing) activity
+polyubiquitin modification-dependent protein binding
+L-aspartate:2-oxoglutarate aminotransferase activity
+5-epi-aristolochene synthase activity
+rRNA (adenine-N6,N6-)-dimethyltransferase activity
+ubiquitin-protein transferase activity
+pre-mRNA 3'-splice site binding
+tripeptide transmembrane transporter activity
+ribosome binding
+misfolded protein binding
+acetylserotonin O-methyltransferase activity
+ubiquitin activating enzyme activity
+malate dehydrogenase activity
+maltose alpha-glucosidase activity
+glutathione transferase activity
+thiamine pyrophosphate binding
+alcohol dehydrogenase activity, zinc-dependent
+secondary active sulfate transmembrane transporter activity
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+SNARE binding
+8-oxo-7,8-dihydrodeoxyguanosine triphosphate pyrophosphatase activity
+inositol 3-alpha-galactosyltransferase activity
+adenylate kinase activity
+trehalose-phosphatase activity
+ethylene binding
+S100 protein binding
+fatty-acyl-CoA synthase activity
+U6 snRNA binding
+oxoglutarate dehydrogenase (succinyl-transferring) activity
+phosphatidylinositol transfer activity
+sequence-specific DNA binding
+1,3-beta-D-glucan synthase activity
+chitinase activity
+ATPase activity
+alpha-1,4-glucosidase activity
+ATPase activator activity
+syntaxin binding
+5-epi-aristolochene-1,3-dihydroxylase activity
+1-aminocyclopropane-1-carboxylate oxidase activity
+monooxygenase activity
+S-(hydroxymethyl)glutathione dehydrogenase activity
+lysine-acetylated histone binding
+fucosyltransferase activity
+Hsp90 protein binding
+long-chain fatty acid-CoA ligase activity
+thioredoxin-disulfide reductase activity
+L-threonine ammonia-lyase activity
+G-protein gamma-subunit binding
+G-protein beta/gamma-subunit complex binding
+malate dehydrogenase (decarboxylating) (NAD+) activity
+unfolded protein binding
+chaperone binding
+U3 snoRNA binding
+long-chain-alcohol O-fatty-acyltransferase activity
+sulfite reductase activity
+phosphatidate phosphatase activity
+phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity
+carbohydrate binding
+polysaccharide binding
+guanyl nucleotide binding
+calcium transmembrane transporter activity, phosphorylative mechanism
+enzyme regulator activity
+transmembrane receptor protein serine/threonine kinase binding
+antiporter activity
+protein self-association
+phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase activity
+protein kinase activity
+protein serine/threonine kinase activity
+transmembrane receptor protein serine/threonine kinase activity
+phosphatase inhibitor activity
+ATP transmembrane transporter activity
+AMP binding
+phosphomevalonate kinase activity
+phosphopantothenate--cysteine ligase activity
+protein-disulfide reductase activity
+ethylene receptor activity
+ligand-gated ion channel activity
+raffinose alpha-galactosidase activity
+proteasome binding
+peptidase activator activity
+ATP binding
+chitin binding
+aminophospholipid flippase activity
+calmodulin binding
+ATPase-coupled transmembrane transporter activity
+heat shock protein binding
+protein phosphatase inhibitor activity
+hydrolase activity
+heme binding
+transferase activity, transferring phosphorus-containing groups

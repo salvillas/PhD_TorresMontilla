@@ -1,0 +1,36 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0004602	11	2	0,12	2	glutathione peroxidase activity	0,00603714929715682
+GO:0005524	5240	95	56,77	95	ATP binding	2,17116935132622e-07
+GO:0004364	59	5	0,64	5	glutathione transferase activity	0,000451062500407134
+GO:0004365	4	1	0,04	1	glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity	0,042640637050892
+GO:0031593	32	3	0,35	3	polyubiquitin modification-dependent protein binding	0,00496014072247353
+GO:0030628	15	2	0,16	2	pre-mRNA 3'-splice site binding	0,0112006824338787
+GO:0103117	2	1	0,02	1	UDP-3-O-acyl-N-acetylglucosamine deacetylase activity	0,0215520046373177
+GO:0017116	3	1	0,03	1	single-stranded DNA-dependent ATP-dependent DNA helicase activity	0,0321536161729405
+GO:0051787	22	3	0,24	3	misfolded protein binding	0,00166826890612008
+GO:0008022	2	1	0,02	1	protein C-terminus binding	0,0215520046373177
+GO:0004512	3	1	0,03	1	inositol-3-phosphate synthase activity	0,0321536161729405
+GO:0016887	1055	19	11,43	19	ATPase activity	0,000224932065641638
+GO:0016688	14	2	0,15	2	L-ascorbate peroxidase activity	0,00977678009426256
+GO:0004067	4	1	0,04	1	asparaginase activity	0,042640637050892
+GO:0042803	100	7	1,08	7	protein homodimerization activity	0,000112177381333547
+GO:0070678	3	1	0,03	1	preprotein binding	0,0321536161729405
+GO:0044548	3	2	0,03	2	S100 protein binding	0,000348781566071197
+GO:0016208	28	2	0,3	2	AMP binding	0,0367718868274554
+GO:0008832	3	1	0,03	1	dGTPase activity	0,0321536161729405
+GO:0051082	238	37	2,58	37	unfolded protein binding	1,70244088207215e-31
+GO:0031072	104	18	1,13	18	heat shock protein binding	7,38109064664757e-09
+GO:0051087	74	16	0,8	16	chaperone binding	1,01954189907825e-16
+GO:0034485	9	2	0,1	2	phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase activity	0,00400862720093298
+GO:0043621	35	9	0,38	9	protein self-association	1,03697552144459e-10
+GO:0008798	4	1	0,04	1	beta-aspartyl-peptidase activity	0,042640637050892
+GO:0051879	29	8	0,31	8	Hsp90 protein binding	6,2369483601821e-10
+GO:0004439	12	2	0,13	2	phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity	0,00719292306301998
+GO:0001671	18	3	0,2	3	ATPase activator activity	0,000912813917340138
+GO:0008381	2	2	0,02	2	mechanosensitive ion channel activity	0,000117102244088098
+GO:0003755	117	8	1,27	8	peptidyl-prolyl cis-trans isomerase activity	4,32342289564171e-05
+GO:0004846	2	1	0,02	1	urate oxidase activity	0,0215520046373177
+GO:0008759	2	1	0,02	1	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase activity	0,0215520046373177
+GO:1990381	4	1	0,04	1	ubiquitin-specific protease binding	0,042640637050892
+GO:0052692	8	2	0,09	2	raffinose alpha-galactosidase activity	0,00314027286139891
+GO:0003952	3	1	0,03	1	NAD+ synthase (glutamine-hydrolyzing) activity	0,0321536161729405

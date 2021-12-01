@@ -1,0 +1,25 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0009538	10	9	0,68	9	photosystem I reaction center	2,77025876624572e-10
+GO:0005811	37	6	2,51	6	lipid droplet	0,0141823459462205
+GO:0009360	3	2	0,2	2	DNA polymerase III complex	0,0131543041272492
+GO:0055028	16	5	1,08	5	cortical microtubule	0,00668499342281364
+GO:0005664	11	3	0,75	3	nuclear origin of replication recognition complex	0,0340001638499456
+GO:0005658	4	3	0,27	3	alpha DNA polymerase:primase complex	0,00118033946429009
+GO:0019898	58	10	3,93	10	extrinsic component of membrane	0,0033042962318201
+GO:0009654	23	13	1,56	13	photosystem II oxygen evolving complex	3,63831739348148e-10
+GO:0005960	5	3	0,34	3	glycine cleavage complex	0,00280165963872171
+GO:0005634	5527	453	374,66	453	nucleus	8,35908409052807e-07
+GO:0051233	3	2	0,2	2	spindle midzone	0,0131543041272492
+GO:0061908	3	2	0,2	2	phagophore	0,0131543041272492
+GO:0009898	21	4	1,42	4	cytoplasmic side of plasma membrane	0,0191534138545061
+GO:0010598	4	2	0,27	2	NAD(P)H dehydrogenase complex (plastoquinone)	0,0251282687902082
+GO:0009522	127	23	8,61	23	photosystem I	0,0483237844905775
+GO:0046658	103	12	6,98	12	anchored component of plasma membrane	0,0459090750069478
+GO:0032044	5	2	0,34	2	DSIF complex	0,0400126748911992
+GO:0005881	22	8	1,49	8	cytoplasmic microtubule	0,00527791084453856
+GO:0000784	12	3	0,81	3	nuclear chromosome, telomeric region	0,043101003176102
+GO:0000786	95	30	6,44	30	nucleosome	4,03739402025971e-13
+GO:0005886	1945	174	131,85	174	plasma membrane	0,000321524554707972
+GO:0005874	276	35	18,71	35	microtubule	0,0231811611416799
+GO:0000778	5	4	0,34	4	condensed nuclear chromosome kinetochore	0,00117797429992185
+GO:0042555	14	6	0,95	6	MCM complex	0,000179415045093139

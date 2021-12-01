@@ -1,0 +1,48 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0035243	5	1	0,04	1	protein-arginine omega-N symmetric methyltransferase activity	0,0439318621184218
+GO:0045330	142	5	1,27	5	aspartyl esterase activity	0,00920070418296125
+GO:0008289	385	9	3,44	9	lipid binding	0,0229639383409953
+GO:0047987	1	1	0,01	1	hydroperoxide dehydratase activity	0,00894449620657511
+GO:0102769	2	1	0,02	1	dihydroceramide glucosyltransferase activity	0,0178092243844739
+GO:0015267	326	6	2,92	6	channel activity	0,00783128793885192
+GO:0048032	6	3	0,05	3	galacturonate binding	1,39045504008935e-05
+GO:0001228	21	2	0,19	2	DNA-binding transcription activator activity, RNA polymerase II-specific	0,0149731193268141
+GO:0080030	24	2	0,21	2	methyl indole-3-acetate esterase activity	0,0193361475498246
+GO:0070204	2	1	0,02	1	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase activity	0,0178092243844739
+GO:0003995	5	1	0,04	1	acyl-CoA dehydrogenase activity	0,0439318621184218
+GO:0004506	5	1	0,04	1	squalene monooxygenase activity	0,0439318621184218
+GO:0003868	2	1	0,02	1	4-hydroxyphenylpyruvate dioxygenase activity	0,0178092243844739
+GO:0003999	6	2	0,05	2	adenine phosphoribosyltransferase activity	0,00116843103106689
+GO:0015095	20	3	0,18	3	magnesium ion transmembrane transporter activity	0,000722163833778146
+GO:0004089	31	2	0,28	2	carbonate dehydratase activity	0,0312732615147582
+GO:0070300	4	1	0,04	1	phosphatidic acid binding	0,0353022074689063
+GO:0001872	5	1	0,04	1	(1->3)-beta-D-glucan binding	0,0439318621184218
+GO:0008962	4	1	0,04	1	phosphatidylglycerophosphatase activity	0,0353022074689063
+GO:0004024	4	1	0,04	1	alcohol dehydrogenase activity, zinc-dependent	0,0353022074689063
+GO:0009881	63	3	0,56	3	photoreceptor activity	0,018973474246857
+GO:0050378	4	1	0,04	1	UDP-glucuronate 4-epimerase activity	0,0353022074689063
+GO:0046593	1	1	0,01	1	mandelonitrile lyase activity	0,00894449620657511
+GO:0008017	262	12	2,34	12	microtubule binding	4,96860062821438e-06
+GO:0004049	4	2	0,04	2	anthranilate synthase activity	0,000472952830702232
+GO:0030599	144	5	1,29	5	pectinesterase activity	0,00973669460992686
+GO:0003831	2	1	0,02	1	beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase activity	0,0178092243844739
+GO:0016207	83	3	0,74	3	4-coumarate-CoA ligase activity	0,0385773502776596
+GO:0008120	2	1	0,02	1	ceramide glucosyltransferase activity	0,0178092243844739
+GO:0046423	2	1	0,02	1	allene-oxide cyclase activity	0,0178092243844739
+GO:0045551	8	2	0,07	2	cinnamyl-alcohol dehydrogenase activity	0,00215537402184757
+GO:0046429	4	2	0,04	2	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity	0,000472952830702232
+GO:0004672	2256	30	20,18	30	protein kinase activity	0,00993497801820487
+GO:0042393	87	3	0,78	3	histone binding	0,0433743295963141
+GO:0008763	2	1	0,02	1	UDP-N-acetylmuramate-L-alanine ligase activity	0,0178092243844739
+GO:0050660	230	6	2,06	6	flavin adenine dinucleotide binding	0,0178555807341294
+GO:0030570	47	3	0,42	3	pectate lyase activity	0,00859900307101986
+GO:0046510	4	1	0,04	1	UDP-sulfoquinovose:DAG sulfoquinovosyltransferase activity	0,0353022074689063
+GO:0003777	139	7	1,24	7	microtubule motor activity	0,00132861113681549
+GO:0016762	66	5	0,59	5	xyloglucan:xyloglucosyl transferase activity	0,000317671714218458
+GO:0016614	293	7	2,62	7	oxidoreductase activity, acting on CH-OH group of donors	0,0061998291158233
+GO:0019133	2	1	0,02	1	choline monooxygenase activity	0,0178092243844739
+GO:0016788	3247	21	29,04	21	hydrolase activity, acting on ester bonds	0,0385056791405094
+GO:0004566	5	1	0,04	1	beta-glucuronidase activity	0,0439318621184218
+GO:0004553	753	19	6,74	19	hydrolase activity, hydrolyzing O-glycosyl compounds	0,0284599651290684
+GO:0008574	5	1	0,04	1	ATP-dependent microtubule motor activity, plus-end-directed	0,0439318621184218
+GO:1990757	5	1	0,04	1	ubiquitin ligase activator activity	0,0439318621184218

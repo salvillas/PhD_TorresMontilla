@@ -1,0 +1,98 @@
+Annotated	Significant	Expected	DEG	Term
+GO:0008278	8	4	1,53	4	cohesin complex
+GO:0032039	2	2	0,38	2	integrator complex
+GO:0005886	3146	909	602,99	909	plasma membrane
+GO:0005634	10736	2586	2057,75	2586	nucleus
+GO:0005635	117	31	22,43	31	nuclear envelope
+GO:0005887	107	36	20,51	36	integral component of plasma membrane
+GO:0009705	134	41	25,68	41	plant-type vacuole membrane
+GO:0000151	324	89	62,1	89	ubiquitin ligase complex
+GO:0034657	6	6	1,15	6	GID complex
+GO:0005829	2790	720	534,76	720	cytosol
+GO:0071006	8	4	1,53	4	U2-type catalytic step 1 spliceosome
+GO:0071008	2	2	0,38	2	U2-type post-mRNA release spliceosomal complex
+GO:0005814	2	2	0,38	2	centriole
+GO:0070461	19	7	3,64	7	SAGA-type complex
+GO:0017119	16	7	3,07	7	Golgi transport complex
+GO:0005838	33	16	6,33	16	proteasome regulatory particle
+GO:0005956	7	4	1,34	4	protein kinase CK2 complex
+GO:0090694	5	5	0,96	5	Scc2-Scc4 cohesin loading complex
+GO:0000325	810	249	155,25	249	plant-type vacuole
+GO:0000326	13	7	2,49	7	protein storage vacuole
+GO:0044853	3	3	0,58	3	plasma membrane raft
+GO:0019774	11	6	2,11	6	proteasome core complex, beta-subunit complex
+GO:0005947	5	4	0,96	4	mitochondrial alpha-ketoglutarate dehydrogenase complex
+GO:0070449	2	2	0,38	2	elongin complex
+GO:0034271	3	3	0,58	3	phosphatidylinositol 3-kinase complex, class III, type I
+GO:0034272	3	3	0,58	3	phosphatidylinositol 3-kinase complex, class III, type II
+GO:0008540	17	8	3,26	8	proteasome regulatory particle, base subcomplex
+GO:0008541	14	6	2,68	6	proteasome regulatory particle, lid subcomplex
+GO:0015629	69	21	13,23	21	actin cytoskeleton
+GO:0071261	2	2	0,38	2	Ssh1 translocon complex
+GO:0031305	39	14	7,48	14	integral component of mitochondrial inner membrane
+GO:0005794	1195	334	229,04	334	Golgi apparatus
+GO:0019005	84	23	16,1	23	SCF ubiquitin ligase complex
+GO:0000812	14	8	2,68	8	Swr1 complex
+GO:0000813	8	7	1,53	7	ESCRT I complex
+GO:0000815	12	8	2,3	8	ESCRT III complex
+GO:0000839	4	4	0,77	4	Hrd1p ubiquitin ligase ERAD-L complex
+GO:0005764	41	16	7,86	16	lysosome
+GO:0005768	421	126	80,69	126	endosome
+GO:0005750	19	9	3,64	9	mitochondrial respiratory chain complex III
+GO:1990316	3	3	0,58	3	Atg1/ULK1 kinase complex
+GO:0019898	88	23	16,87	23	extrinsic component of membrane
+GO:0005783	1109	328	212,56	328	endoplasmic reticulum
+GO:0031225	316	69	60,57	69	anchored component of membrane
+GO:0005786	10	5	1,92	5	signal recognition particle, endoplasmic reticulum targeting
+GO:0010008	73	33	13,99	33	endosome membrane
+GO:0005789	305	95	58,46	95	endoplasmic reticulum membrane
+GO:0030014	28	12	5,37	12	CCR4-NOT complex
+GO:0005770	68	33	13,03	33	late endosome
+GO:0005771	24	15	4,6	15	multivesicular body
+GO:0005776	22	18	4,22	18	autophagosome
+GO:0005777	325	112	62,29	112	peroxisome
+GO:0005778	32	14	6,13	14	peroxisomal membrane
+GO:0005779	13	6	2,49	6	integral component of peroxisomal membrane
+GO:0043231	19918	4347	3817,66	4347	intracellular membrane-bounded organelle
+GO:0034098	7	7	1,34	7	VCP-NPL4-UFD1 AAA ATPase complex
+GO:0061908	7	6	1,34	6	phagophore
+GO:0045334	7	4	1,34	4	clathrin-coated endocytic vesicle
+GO:0000932	64	28	12,27	28	P-body
+GO:0031931	5	4	0,96	4	TORC1 complex
+GO:0005749	11	5	2,11	5	mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)
+GO:0016592	54	20	10,35	20	mediator complex
+GO:0016593	8	5	1,53	5	Cdc73/Paf1 complex
+GO:0035267	18	8	3,45	8	NuA4 histone acetyltransferase complex
+GO:0030173	35	12	6,71	12	integral component of Golgi membrane
+GO:0030176	81	23	15,53	23	integral component of endoplasmic reticulum membrane
+GO:0005737	15146	3350	2903,01	3350	cytoplasm
+GO:0031201	50	16	9,58	16	SNARE complex
+GO:0009514	4	4	0,77	4	glyoxysome
+GO:0030140	19	7	3,64	7	trans-Golgi network transport vesicle
+GO:0045252	6	5	1,15	5	oxoglutarate dehydrogenase complex
+GO:0009536	5614	1085	1076,03	1085	plastid
+GO:0030134	55	20	10,54	20	COPII-coated ER to Golgi transport vesicle
+GO:0012505	2403	698	460,58	698	endomembrane system
+GO:0016580	7	6	1,34	6	Sin3 complex
+GO:0017053	7	4	1,34	4	transcription repressor complex
+GO:0005654	429	124	82,23	124	nucleoplasm
+GO:0034045	10	6	1,92	6	phagophore assembly site membrane
+GO:0000407	19	15	3,64	15	phagophore assembly site
+GO:0005681	164	52	31,43	52	spliceosomal complex
+GO:0009504	41	15	7,86	15	cell plate
+GO:0009505	393	89	75,33	89	plant-type cell wall
+GO:0009506	969	250	185,73	250	plasmodesma
+GO:0009507	5187	948	994,19	948	chloroplast
+GO:0016514	14	6	2,68	6	SWI/SNF complex
+GO:0090404	22	8	4,22	8	pollen tube tip
+GO:0071014	14	8	2,68	8	post-mRNA release spliceosomal complex
+GO:0090406	91	38	17,44	38	pollen tube
+GO:0000785	186	68	35,65	68	chromatin
+GO:0010494	28	11	5,37	11	cytoplasmic stress granule
+GO:0005615	127	40	24,34	40	extracellular space
+GO:0005618	586	145	112,32	145	cell wall
+GO:0099503	175	49	33,54	49	secretory vesicle
+GO:0016020	5095	1394	976,55	1394	membrane
+GO:0016021	462	142	88,55	142	integral component of membrane
+GO:0031011	27	11	5,18	11	Ino80 complex
+GO:0031012	22	10	4,22	10	extracellular matrix

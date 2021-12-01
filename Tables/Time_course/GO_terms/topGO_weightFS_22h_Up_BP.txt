@@ -1,0 +1,49 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0042372	8	2	0,04	2	phylloquinone biosynthetic process	0,000798112401933442
+GO:0032774	3267	15	17,68	15	RNA biosynthetic process	0,0112925909891541
+GO:0006166	14	2	0,08	2	purine ribonucleoside salvage	0,00253901639634072
+GO:0006168	9	2	0,05	2	adenine salvage	0,00102249190051016
+GO:0010143	1	1	0,01	1	cutin biosynthetic process	0,00541090909090902
+GO:0071555	535	15	2,89	15	cell wall organization	1,02487130706979e-05
+GO:0045490	191	6	1,03	6	pectin catabolic process	0,000630744430682737
+GO:1901703	4	1	0,02	1	protein localization involved in auxin polar transport	0,0214695308285316
+GO:0007267	23	3	0,12	3	cell-cell signaling	0,000254893787848412
+GO:0043448	1	1	0,01	1	alkane catabolic process	0,00541090909090902
+GO:0048255	3	1	0,02	1	mRNA stabilization	0,0161455190323023
+GO:0006562	4	1	0,02	1	proline catabolic process	0,0214695308285316
+GO:0006567	6	1	0,03	1	threonine catabolic process	0,0320317392380435
+GO:0071365	208	4	1,13	4	cellular response to auxin stimulus	0,00535588855069058
+GO:0055114	3639	29	19,69	29	oxidation-reduction process	0,00419495054889195
+GO:2000601	1	1	0,01	1	positive regulation of Arp2/3 complex-mediated actin nucleation	0,00541090909090902
+GO:0015979	598	15	3,24	15	photosynthesis	6,74607079601908e-09
+GO:0009234	4	2	0,02	2	menaquinone biosynthetic process	0,000173483643614622
+GO:0015949	5	1	0,03	1	nucleobase-containing small molecule interconversion	0,0267648864267362
+GO:0009063	108	4	0,58	4	cellular amino acid catabolic process	0,00042394672159294
+GO:0009663	2	1	0,01	1	plasmodesma organization	0,010792696805725
+GO:0070899	2	1	0,01	1	mitochondrial tRNA wobble uridine modification	0,010792696805725
+GO:0046294	6	1	0,03	1	formaldehyde catabolic process	0,0320317392380435
+GO:0010019	3	1	0,02	1	chloroplast-nucleus signaling pathway	0,0161455190323023
+GO:0010044	9	1	0,05	1	response to aluminum ion	0,0476628028350675
+GO:0006048	8	1	0,04	1	UDP-N-acetylglucosamine biosynthetic process	0,042480546064561
+GO:1905786	5	1	0,03	1	positive regulation of anaphase-promoting complex-dependent catabolic process	0,0267648864267362
+GO:0006633	197	4	1,07	4	fatty acid biosynthetic process	0,02255445861419
+GO:0032515	47	2	0,25	2	negative regulation of phosphoprotein phosphatase activity	0,0268431061614426
+GO:0044209	10	2	0,05	2	AMP salvage	0,00127356731001063
+GO:1901962	6	1	0,03	1	S-adenosyl-L-methionine transmembrane transport	0,0320317392380435
+GO:0010411	79	6	0,43	6	xyloglucan metabolic process	4,63603376687549e-06
+GO:0070143	4	1	0,02	1	mitochondrial alanyl-tRNA aminoacylation	0,0214695308285316
+GO:0009432	2	1	0,01	1	SOS response	0,010792696805725
+GO:0016126	43	2	0,23	2	sterol biosynthetic process	0,0227400167049124
+GO:0042550	2	2	0,01	2	photosystem I stabilization	2,91213760929243e-05
+GO:1903401	6	1	0,03	1	L-lysine transmembrane transport	0,0320317392380435
+GO:0015812	2	1	0,01	1	gamma-aminobutyric acid transport	0,010792696805725
+GO:0015813	6	1	0,03	1	L-glutamate transmembrane transport	0,0320317392380435
+GO:0071158	6	1	0,03	1	positive regulation of cell cycle arrest	0,0320317392380435
+GO:0042545	155	4	0,84	4	cell wall modification	0,0101915884661074
+GO:0042546	183	6	0,99	6	cell wall biogenesis	0,000503793832021435
+GO:0043086	296	7	1,6	7	negative regulation of catalytic activity	0,00673272790124739
+GO:1903826	2	1	0,01	1	arginine transmembrane transport	0,010792696805725
+GO:0010847	2	1	0,01	1	regulation of chromatin assembly	0,010792696805725
+GO:0015808	2	1	0,01	1	L-alanine transport	0,010792696805725
+GO:0052746	5	1	0,03	1	inositol phosphorylation	0,0267648864267362
+GO:0009809	29	2	0,16	2	lignin biosynthetic process	0,0107411538297425

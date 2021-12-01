@@ -1,0 +1,43 @@
+regulation of jasmonic acid mediated signaling pathway
+jasmonic acid biosynthetic process
+response to desiccation
+systemic acquired resistance, salicylic acid mediated signaling pathway
+regulation of sulfur utilization
+oxygen transport
+developmental vegetative growth
+lipid droplet organization
+peptidyl-pyroglutamic acid biosynthetic process, using glutaminyl-peptide cyclotransferase
+spermine biosynthetic process
+protein transport by the Tat complex
+negative regulation of endopeptidase activity
+protein refolding
+defense response to fungus
+response to molecule of fungal origin
+NAD biosynthetic process
+protein glutathionylation
+thiazole biosynthetic process
+S-adenosylmethioninamine biosynthetic process
+defense response to other organism
+response to wounding
+response to oxidative stress
+response to biotic stimulus
+L-methionine salvage from methylthioadenosine
+cellular oxidant detoxification
+carbon utilization
+seed trichome elongation
+cellular response to sulfur starvation
+regulation of glucosinolate biosynthetic process
+mannose metabolic process
+ascorbate glutathione cycle
+formaldehyde catabolic process
+chitin catabolic process
+cell wall macromolecule catabolic process
+biotin biosynthetic process
+carotene catabolic process
+defense response to bacterium
+hydrogen peroxide catabolic process
+lipid metabolic process
+killing of cells of other organism
+positive regulation of response to water deprivation
+GDP-mannose biosynthetic process
+biosynthetic process

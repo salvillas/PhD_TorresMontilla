@@ -1,0 +1,377 @@
+Annotated	Significant	Expected	DEG	Term	pval
+GO:0009753	211	99	41.33	99	response to jasmonic acid	9.54595691874335e-09
+GO:0062211	2	2	0.39	2	root regeneration	0.0383570642455083
+GO:0009788	57	22	11.16	22	negative regulation of abscisic acid-activated signaling pathway	0.000689164503677703
+GO:0009789	53	28	10.38	28	positive regulation of abscisic acid-activated signaling pathway	7.04942358749655e-08
+GO:0051865	18	9	3.53	9	protein autoubiquitination	0.00365406513793648
+GO:0048838	4	3	0.78	3	release of seed from dormancy	0.0256306522089519
+GO:0070676	5	4	0.98	4	intralumenal vesicle formation	0.00620038853395783
+GO:0009723	182	62	35.65	62	response to ethylene	0.00823914403714825
+GO:0033356	12	9	2.35	9	UDP-L-arabinose metabolic process	0.0156671329447085
+GO:0033358	6	5	1.18	5	UDP-L-arabinose biosynthetic process	0.00144516941547487
+GO:0031204	10	8	1.96	8	posttranslational protein targeting to membrane, translocation	6.62582008071829e-05
+GO:0043328	15	9	2.94	9	protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	0.000665383357285136
+GO:0009718	37	17	7.25	17	anthocyanin-containing compound biosynthetic process	0.000252397808494114
+GO:0061817	11	6	2.15	6	endoplasmic reticulum-plasma membrane tethering	0.0104822243263132
+GO:0098542	933	366	182.74	366	defense response to other organism	0.0341222936807325
+GO:0009744	76	28	14.89	28	response to sucrose	0.00137840546069085
+GO:0009749	67	20	13.12	20	response to glucose	0.0211552872376183
+GO:0006995	36	18	7.05	18	cellular response to nitrogen starvation	4.10325837180284e-05
+GO:0009733	374	84	73.25	84	response to auxin	0.0328877922945098
+GO:0060623	2	2	0.39	2	regulation of chromosome condensation	0.0383570642455083
+GO:0033320	6	4	1.18	4	UDP-D-xylose biosynthetic process	0.0157108267709238
+GO:0009737	566	236	110.86	236	response to abscisic acid	9.36319403014922e-19
+GO:0009738	219	98	42.89	98	abscisic acid-activated signaling pathway	1.47604357572435e-07
+GO:0050684	32	11	6.27	11	regulation of mRNA processing	0.0309631185819031
+GO:0071805	45	19	8.81	19	potassium ion transmembrane transport	0.00497350043285187
+GO:0042128	15	8	2.94	8	nitrate assimilation	0.00619076658481554
+GO:2000070	38	16	7.44	16	regulation of response to water deprivation	0.00955031202149923
+GO:2000022	42	26	8.23	26	regulation of jasmonic acid mediated signaling pathway	2.22670709384239e-09
+GO:2000028	75	29	14.69	29	regulation of photoperiodism, flowering	0.00230047590386125
+GO:0006970	574	246	112.43	246	response to osmotic stress	6.49791182806933e-07
+GO:0006972	70	28	13.71	28	hyperosmotic response	0.000745598959021733
+GO:0045087	232	88	45.44	88	innate immune response	2.64774248985845e-07
+GO:0006979	460	176	90.1	176	response to oxidative stress	8.31163042026297e-08
+GO:2000031	31	12	6.07	12	regulation of salicylic acid mediated signaling pathway	0.0149648056770969
+GO:0048571	51	18	9.99	18	long-day photoperiodism	0.00617672540612689
+GO:0006914	73	51	14.3	51	autophagy	0.00102778225264666
+GO:0048573	140	49	27.42	49	photoperiodism, flowering	0.00445176627405039
+GO:0002221	24	12	4.7	12	pattern recognition receptor signaling pathway	0.00220309999574729
+GO:0048578	10	5	1.96	5	positive regulation of long-day photoperiodism, flowering	0.0301117887844616
+GO:0002229	86	29	16.84	29	defense response to oomycetes	0.00147007638260339
+GO:0009860	171	60	33.49	60	pollen tube growth	0.000541274604383167
+GO:0009863	81	29	15.87	29	salicylic acid mediated signaling pathway	0.000177846481090278
+GO:0002213	35	15	6.86	15	defense response to insect	0.00521801247491802
+GO:0030574	5	4	0.98	4	collagen catabolic process	0.00620038853395783
+GO:0009867	112	54	21.94	54	jasmonic acid mediated signaling pathway	2.14514581656818e-05
+GO:0002215	4	3	0.78	3	defense response to nematode	0.0256306522089519
+GO:0019760	129	32	25.27	32	glucosinolate metabolic process	0.000664064774050248
+GO:0009850	68	20	13.32	20	auxin metabolic process	0.0102861462018396
+GO:0003400	7	4	1.37	4	regulation of COPII vesicle coating	0.0310082804743759
+GO:0032107	5	4	0.98	4	regulation of response to nutrient levels	0.0383353612135087
+GO:0002237	44	25	8.62	25	response to molecule of bacterial origin	1.58773476516283e-06
+GO:0002238	20	12	3.92	12	response to molecule of fungal origin	0.00125265789403594
+GO:0002239	109	41	21.35	41	response to oomycetes	0.00563308765714743
+GO:0009871	4	3	0.78	3	jasmonic acid and ethylene-dependent systemic resistance, ethylene mediated signaling pathway	0.0256306522089519
+GO:0009873	86	32	16.84	32	ethylene-activated signaling pathway	0.00380501099810105
+GO:0010555	19	11	3.72	11	response to mannitol	0.000761672966437534
+GO:0006900	55	25	10.77	25	vesicle budding from membrane	0.00756287762901436
+GO:0006904	11	5	2.15	5	vesicle docking involved in exocytosis	0.0464697591662518
+GO:0090630	25	10	4.9	10	activation of GTPase activity	0.0149818375618085
+GO:0009846	73	26	14.3	26	pollen germination	0.000987333866389813
+GO:0048507	328	70	64.24	70	meristem development	0.0156767663607226
+GO:0009830	3	3	0.59	3	cell wall modification involved in abscission	0.00751040045701578
+GO:0016998	33	14	6.46	14	cell wall macromolecule catabolic process	0.00125368745527329
+GO:0032258	2	2	0.39	2	cytoplasm to vacuole transport by the Cvt pathway	0.0383570642455083
+GO:0015031	627	203	122.81	203	protein transport	0.000276852625891492
+GO:1904294	2	2	0.39	2	positive regulation of ERAD pathway	0.0383570642455083
+GO:0009809	56	16	10.97	16	lignin biosynthetic process	0.0448350349428736
+GO:0006099	47	21	9.21	21	tricarboxylic acid cycle	8.00673361954805e-05
+GO:0001561	2	2	0.39	2	fatty acid alpha-oxidation	0.0383570642455083
+GO:0044375	7	5	1.37	5	regulation of peroxisome size	0.00423773649333465
+GO:0043161	298	104	58.37	104	proteasome-mediated ubiquitin-dependent protein catabolic process	8.19449622414256e-10
+GO:0043162	18	12	3.53	12	ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	0.0074830547721816
+GO:0009555	375	120	73.45	120	pollen development	1.5224004615551e-05
+GO:0006012	26	11	5.09	11	galactose metabolic process	0.00864554550086735
+GO:1903830	7	5	1.37	5	magnesium ion transmembrane transport	0.00423773649333465
+GO:0072593	133	45	26.05	45	reactive oxygen species metabolic process	0.0235082078373932
+GO:0051645	4	3	0.78	3	Golgi localization	0.0256306522089519
+GO:0051646	6	4	1.18	4	mitochondrion localization	0.0157108267709238
+GO:0042742	431	173	84.42	173	defense response to bacterium	9.66978253702518e-18
+GO:0034497	9	7	1.76	7	protein localization to phagophore assembly site	0.000272733536569365
+GO:0051603	620	234	121.44	234	proteolysis involved in cellular protein catabolic process	7.04669048831235e-05
+GO:0009693	32	13	6.27	13	ethylene biosynthetic process	0.0383156866278463
+GO:0051607	61	19	11.95	19	defense response to virus	0.0194621394439299
+GO:0009697	20	11	3.92	11	salicylic acid biosynthetic process	0.000327207311629686
+GO:1902609	2	2	0.39	2	(R)-2-hydroxy-alpha-linolenic acid biosynthetic process	0.0383570642455083
+GO:1900056	15	8	2.94	8	negative regulation of leaf senescence	0.00368824797780991
+GO:1900057	18	11	3.53	11	positive regulation of leaf senescence	0.0001297542670507
+GO:0001666	268	149	52.49	149	response to hypoxia	0.0371578343377761
+GO:0016055	18	9	3.53	9	Wnt signaling pathway	0.00365406513793648
+GO:0009664	162	43	31.73	43	plant-type cell wall organization	2.50941365754354e-05
+GO:0031542	4	3	0.78	3	positive regulation of anthocyanin biosynthetic process	0.0256306522089519
+GO:0009651	488	206	95.58	206	response to salt stress	4.22416858939109e-28
+GO:0001676	14	9	2.74	9	long-chain fatty acid metabolic process	0.00422744554551687
+GO:0016024	18	8	3.53	8	CDP-diacylglycerol biosynthetic process	0.0143501132884269
+GO:0009688	25	10	4.9	10	abscisic acid biosynthetic process	0.00273198541380699
+GO:0060968	64	18	12.54	18	regulation of gene silencing	0.0156805750609685
+GO:0070973	11	5	2.15	5	protein localization to endoplasmic reticulum exit site	0.0464697591662518
+GO:0009620	388	167	76	167	response to fungus	0.000333587922594904
+GO:0009624	86	32	16.84	32	response to nematode	0.000107595753295845
+GO:0009626	69	30	13.51	30	plant-type hypersensitive response	0.000260809028630488
+GO:0009627	95	35	18.61	35	systemic acquired resistance	0.00125117615000886
+GO:0009611	245	103	47.99	103	response to wounding	9.13310812557997e-19
+GO:1900036	6	5	1.18	5	positive regulation of cellular response to heat	0.00144516941547487
+GO:0009615	101	36	19.78	36	response to virus	0.000753295922107168
+GO:0009617	548	215	107.33	215	response to bacterium	0.00538617849143862
+GO:0016036	120	35	23.5	35	cellular response to phosphate starvation	0.0153048102852389
+GO:0009646	48	22	9.4	22	response to absence of light	9.45357333755875e-06
+GO:0009631	61	18	11.95	18	cold acclimation	0.0412544924936516
+GO:0007099	2	2	0.39	2	centriole replication	0.0383570642455083
+GO:1901979	2	2	0.39	2	regulation of inward rectifier potassium channel activity	0.0383570642455083
+GO:0072659	19	11	3.72	11	protein localization to plasma membrane	0.0102793505159372
+GO:0045324	46	29	9.01	29	late endosome to vacuole transport	1.36509134964153e-06
+GO:0080092	39	18	7.64	18	regulation of pollen tube growth	0.000154067916314435
+GO:0007030	37	13	7.25	13	Golgi organization	0.0195023350365516
+GO:0007033	71	46	13.91	46	vacuole organization	0.000279759041085124
+GO:0045332	13	8	2.55	8	phospholipid translocation	0.00107387007135654
+GO:0042594	247	90	48.38	90	response to starvation	0.0325977328315411
+GO:0080024	5	4	0.98	4	indolebutyric acid metabolic process	0.00620038853395783
+GO:1903648	2	2	0.39	2	positive regulation of chlorophyll catabolic process	0.0383570642455083
+GO:0045490	98	28	19.19	28	pectin catabolic process	0.0204142419467949
+GO:0042542	74	41	14.49	41	response to hydrogen peroxide	2.62831041409717e-10
+GO:0042546	281	53	55.04	53	cell wall biogenesis	0.0214954077423598
+GO:0032511	26	15	5.09	15	late endosome to vacuole transport via multivesicular body sorting pathway	0.0104184942313984
+GO:0042538	59	21	11.56	21	hyperosmotic salinity response	0.00349165965553593
+GO:0006369	6	4	1.18	4	termination of RNA polymerase II transcription	0.0157108267709238
+GO:0006355	2228	545	436.39	545	regulation of transcription, DNA-templated	0.00894936193554386
+GO:0006357	494	127	96.76	127	regulation of transcription by RNA polymerase II	0.000183071966041869
+GO:0030970	4	3	0.78	3	retrograde protein transport, ER to cytosol	0.0256306522089519
+GO:0032509	34	20	6.66	20	endosome transport via multivesicular body sorting pathway	0.00939535281541768
+GO:0006338	81	25	15.87	25	chromatin remodeling	0.0233467306197363
+GO:1901000	36	16	7.05	16	regulation of response to salt stress	0.0462498402427384
+GO:1901001	14	6	2.74	6	negative regulation of response to salt stress	0.0399341136286721
+GO:1901002	11	5	2.15	5	positive regulation of response to salt stress	0.0464697591662518
+GO:0000054	19	7	3.72	7	ribosomal subunit export from nucleus	0.0179075673648085
+GO:0071902	2	2	0.39	2	positive regulation of protein serine/threonine kinase activity	0.0383570642455083
+GO:0000045	31	22	6.07	22	autophagosome assembly	1.91588254011546e-06
+GO:0042631	38	17	7.44	17	cellular response to water deprivation	0.000370595544830299
+GO:0006468	1143	323	223.87	323	protein phosphorylation	1.38185365686858e-07
+GO:0000003	2152	521	421.5	521	reproduction	0.00384215600683762
+GO:0006470	133	43	26.05	43	protein dephosphorylation	0.000337307159100949
+GO:0043562	47	24	9.21	24	cellular response to nitrogen levels	0.0103672322291043
+GO:0040029	103	25	20.17	25	regulation of gene expression, epigenetic	0.038394401579687
+GO:0016311	212	70	41.52	70	dephosphorylation	0.0147808832434213
+GO:0034727	6	6	1.18	6	piecemeal microautophagy of the nucleus	5.63243662732933e-05
+GO:0048015	17	7	3.33	7	phosphatidylinositol-mediated signaling	0.0338849290441339
+GO:0009910	50	19	9.79	19	negative regulation of flower development	0.00193327780668377
+GO:0048017	19	9	3.72	9	inositol lipid-mediated signaling	0.0383006460511644
+GO:0043547	39	19	7.64	19	positive regulation of GTPase activity	0.000319619663499573
+GO:0033523	5	4	0.98	4	histone H2B ubiquitination	0.0256189777064434
+GO:0009939	9	5	1.76	5	positive regulation of gibberellic acid mediated signaling pathway	0.0179082033076748
+GO:0075733	2	2	0.39	2	intracellular transport of virus	0.0383570642455083
+GO:0033512	3	3	0.59	3	L-lysine catabolic process to acetyl-CoA via saccharopine	0.00751040045701578
+GO:0061025	68	24	13.32	24	membrane fusion	0.0299249203790924
+GO:0097352	4	4	0.78	4	autophagosome maturation	0.0075067713258818
+GO:0010072	14	7	2.74	7	primary shoot apical meristem specification	0.0103142184876421
+GO:0040007	702	180	137.5	180	growth	0.037713493908787
+GO:2000280	76	20	14.89	20	regulation of root development	0.0208810659473581
+GO:0009901	25	12	4.9	12	anther dehiscence	0.00522618086389659
+GO:0010029	92	37	18.02	37	regulation of seed germination	0.000202782939992722
+GO:0046475	3	3	0.59	3	glycerophospholipid catabolic process	0.00751040045701578
+GO:0009908	514	148	100.67	148	flower development	0.0424214158614869
+GO:1902074	28	11	5.48	11	response to salt	0.0126966006269812
+GO:0030007	7	4	1.37	4	cellular potassium ion homeostasis	0.0310082804743759
+GO:0010043	43	16	8.42	16	response to zinc ion	0.00835343847648641
+GO:0010044	19	8	3.72	8	response to aluminum ion	0.0462801318446696
+GO:0010045	3	3	0.59	3	response to nickel cation	0.0383447082816435
+GO:0010031	7	4	1.37	4	circumnutation	0.0310082804743759
+GO:1900457	19	8	3.72	8	regulation of brassinosteroid mediated signaling pathway	0.0256007007969332
+GO:0045227	6	5	1.18	5	capsule polysaccharide biosynthetic process	0.00144516941547487
+GO:1990414	10	6	1.96	6	replication-born double-strand break repair via sister chromatid exchange	0.00570461783088803
+GO:0043666	28	12	5.48	12	regulation of phosphoprotein phosphatase activity	0.0309248917479685
+GO:0006122	13	7	2.55	7	mitochondrial electron transport, ubiquinol to cytochrome c	0.00619513600058608
+GO:1900424	52	25	10.18	25	regulation of defense response to bacterium	0.00108063961408427
+GO:1900425	17	9	3.33	9	negative regulation of defense response to bacterium	0.00220837889450622
+GO:1900426	27	10	5.29	10	positive regulation of defense response to bacterium	0.0265299926803228
+GO:0009051	14	7	2.74	7	pentose-phosphate shunt, oxidative branch	0.0103142184876421
+GO:0009058	5948	1122	1165.01	1122	biosynthetic process	0.0180328334216419
+GO:0009083	7	5	1.37	5	branched-chain amino acid catabolic process	0.00423773649333465
+GO:0043617	4	4	0.78	4	cellular response to sucrose starvation	0.00147031653970374
+GO:0044804	16	12	3.13	12	autophagy of nucleus	0.0178227634422735
+GO:0044805	4	4	0.78	4	late nucleophagy	0.00147031653970374
+GO:0006102	12	7	2.35	7	isocitrate metabolic process	0.00343753126946248
+GO:0006104	2	2	0.39	2	succinyl-CoA metabolic process	0.0383570642455083
+GO:1900409	2	2	0.39	2	positive regulation of cellular response to oxidative stress	0.0383570642455083
+GO:0016192	513	192	100.48	192	vesicle-mediated transport	6.09953257349129e-07
+GO:1900150	40	18	7.83	18	regulation of defense response to fungus	0.000229108575390706
+GO:1900186	2	2	0.39	2	negative regulation of clathrin-dependent endocytosis	0.0383570642455083
+GO:0045740	7	3	1.37	3	positive regulation of DNA replication	0.0383567453106016
+GO:0031087	7	6	1.37	6	deadenylation-independent decapping of nuclear-transcribed mRNA	0.000328142584330949
+GO:0045732	67	20	13.12	20	positive regulation of protein catabolic process	0.00944940989269195
+GO:0000390	3	3	0.59	3	spliceosomal complex disassembly	0.00751040045701578
+GO:0016121	9	6	1.76	6	carotene catabolic process	0.00273455272436389
+GO:0000398	249	79	48.77	79	mRNA splicing, via spliceosome	0.000446618049427389
+GO:0006210	2	2	0.39	2	thymine catabolic process	0.0383570642455083
+GO:0006212	3	3	0.59	3	uracil catabolic process	0.00751040045701578
+GO:0015770	20	9	3.92	9	sucrose transport	0.00959142772179374
+GO:0000380	18	7	3.53	7	alternative mRNA splicing, via spliceosome	0.0301011901959805
+GO:0032968	24	11	4.7	11	positive regulation of transcription elongation from RNA polymerase II promoter	0.00317787238631955
+GO:0045892	317	87	62.09	87	negative regulation of transcription, DNA-templated	0.000693191902094226
+GO:0045893	503	139	98.52	139	positive regulation of transcription, DNA-templated	7.39300162168542e-07
+GO:0015746	2	2	0.39	2	citrate transport	0.0383570642455083
+GO:0046256	2	2	0.39	2	2,4,6-trinitrotoluene catabolic process	0.0383570642455083
+GO:0090332	53	26	10.38	26	stomatal closure	1.75478819050446e-05
+GO:0090333	35	14	6.86	14	regulation of stomatal closure	0.00429516039404397
+GO:0007165	1667	494	326.51	494	signal transduction	0.00131581898528355
+GO:0019048	6	4	1.18	4	modulation by virus of host process	0.0157108267709238
+GO:0042939	7	4	1.37	4	tripeptide transport	0.0075094224380062
+GO:0000338	11	5	2.15	5	protein deneddylation	0.0464697591662518
+GO:0090306	4	3	0.78	3	spindle assembly involved in meiosis	0.0256306522089519
+GO:0000302	170	79	33.3	79	response to reactive oxygen species	0.0133111725720139
+GO:0000303	14	5	2.74	5	response to superoxide	0.0383470753733659
+GO:0048366	441	140	86.38	140	leaf development	0.0176249127236632
+GO:0046203	3	3	0.59	3	spermidine catabolic process	0.00751040045701578
+GO:0046208	5	4	0.98	4	spermine catabolic process	0.00620038853395783
+GO:0045836	5	4	0.98	4	positive regulation of meiotic nuclear division	0.00620038853395783
+GO:0080164	2	2	0.39	2	regulation of nitric oxide metabolic process	0.0383570642455083
+GO:0080168	6	5	1.18	5	abscisic acid transport	0.00144516941547487
+GO:0015853	4	3	0.78	3	adenine transport	0.0383477170076258
+GO:0015854	4	3	0.78	3	guanine transport	0.0383477170076258
+GO:0006749	77	30	15.08	30	glutathione metabolic process	1.28998104140167e-05
+GO:0080187	6	5	1.18	5	floral organ senescence	0.00144516941547487
+GO:0071370	67	19	13.12	19	cellular response to gibberellin stimulus	0.0255773827228481
+GO:0048317	11	5	2.15	5	seed morphogenesis	0.0464697591662518
+GO:0080173	2	2	0.39	2	male-female gamete recognition during double fertilization forming a zygote and endosperm	0.0383570642455083
+GO:0010363	22	10	4.31	10	regulation of plant-type hypersensitive response	0.0309425916436446
+GO:0010365	2	2	0.39	2	positive regulation of ethylene biosynthetic process	0.0383570642455083
+GO:0010366	4	3	0.78	3	negative regulation of ethylene biosynthetic process	0.0256306522089519
+GO:0080113	15	8	2.94	8	regulation of seed growth	0.00368824797780991
+GO:0060151	3	3	0.59	3	peroxisome localization	0.00751040045701578
+GO:0080144	6	4	1.18	4	amino acid homeostasis	0.0157108267709238
+GO:0010377	2	2	0.39	2	guard cell fate commitment	0.0383570642455083
+GO:0000422	18	14	3.53	14	autophagy of mitochondrion	2.58483272402329e-06
+GO:0000423	2	2	0.39	2	mitophagy	0.0383570642455083
+GO:0034605	79	33	15.47	33	cellular response to heat	0.0013661046973769
+GO:0090436	6	4	1.18	4	leaf pavement cell development	0.0157108267709238
+GO:0046777	189	72	37.02	72	protein autophosphorylation	5.04889637712962e-09
+GO:0006896	21	8	4.11	8	Golgi to vacuole transport	0.0384336730918297
+GO:0006897	92	30	18.02	30	endocytosis	0.0105961829878012
+GO:0035556	458	138	89.71	138	intracellular signal transduction	2.30380391955028e-05
+GO:0071494	4	3	0.78	3	cellular response to UV-C	0.0256306522089519
+GO:0006886	565	178	110.66	178	intracellular protein transport	0.000253878748984347
+GO:0006888	92	30	18.02	30	endoplasmic reticulum to Golgi vesicle-mediated transport	0.0287381663210843
+GO:0006874	56	19	10.97	19	cellular calcium ion homeostasis	0.0161735148371007
+GO:0009395	22	11	4.31	11	phospholipid catabolic process	0.0205493852114422
+GO:0010492	19	8	3.72	8	maintenance of shoot apical meristem identity	0.0206067979809947
+GO:0010496	26	10	5.09	10	intercellular transport	0.0309593766621118
+GO:0006817	37	13	7.25	13	phosphate ion transport	0.0383562275493117
+GO:0010498	337	120	66.01	120	proteasomal protein catabolic process	0.0117578296298835
+GO:0071456	242	139	47.4	139	cellular response to hypoxia	1.73933752211887e-38
+GO:0033962	16	7	3.13	7	P-body assembly	0.039912455350427
+GO:0006844	2	2	0.39	2	acyl carnitine transport	0.0383570642455083
+GO:0090158	11	7	2.15	7	endoplasmic reticulum membrane organization	0.00172327908470038
+GO:0000165	18	7	3.53	7	MAPK cascade	0.0399263963042546
+GO:0000184	10	6	1.96	6	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	0.00570461783088803
+GO:0030433	49	24	9.6	24	ubiquitin-dependent ERAD pathway	3.53310322435349e-06
+GO:0046856	27	13	5.29	13	phosphatidylinositol dephosphorylation	0.000767936082162385
+GO:1902457	4	4	0.78	4	negative regulation of stomatal opening	0.00147031653970374
+GO:0000122	41	13	8.03	13	negative regulation of transcription by RNA polymerase II	0.0448390800336823
+GO:0006597	6	4	1.18	4	spermine biosynthetic process	0.0157108267709238
+GO:0051410	5	4	0.98	4	detoxification of nitrogen compound	0.00620038853395783
+GO:0010431	85	27	16.65	27	seed maturation	0.0263355689451301
+GO:1902418	2	2	0.39	2	(+)-abscisic acid D-glucopyranosyl ester transmembrane transport	0.0383570642455083
+GO:0030198	23	9	4.5	9	extracellular matrix organization	0.015691720618552
+GO:0006552	7	5	1.37	5	leucine catabolic process	0.00423773649333465
+GO:0015692	5	4	0.98	4	lead ion transport	0.00620038853395783
+GO:0006572	5	4	0.98	4	tyrosine catabolic process	0.00620038853395783
+GO:0043090	7	4	1.37	4	amino acid import	0.0383413780248201
+GO:0030150	28	10	5.48	10	protein import into mitochondrial matrix	0.0342152104877348
+GO:0000290	7	5	1.37	5	deadenylation-dependent decapping of nuclear-transcribed mRNA	0.00423773649333465
+GO:0000291	27	5	5.29	5	nuclear-transcribed mRNA catabolic process, exonucleolytic	0.0383862357777312
+GO:0071169	5	5	0.98	5	establishment of protein localization to chromatin	0.000287798541140222
+GO:0006511	540	205	105.77	205	ubiquitin-dependent protein catabolic process	6.30176390443234e-12
+GO:0010193	36	16	7.05	16	response to ozone	0.000660825092200772
+GO:0006542	7	4	1.37	4	glutamine biosynthetic process	0.0310082804743759
+GO:0031347	280	118	54.84	118	regulation of defense response	6.77392910324307e-07
+GO:0031348	75	33	14.69	33	negative regulation of defense response	0.0236145380118336
+GO:0031349	103	36	20.17	36	positive regulation of defense response	0.00142847623774773
+GO:0043068	23	13	4.5	13	positive regulation of programmed cell death	0.00013893799529206
+GO:0043069	29	12	5.68	12	negative regulation of programmed cell death	0.0160725987645469
+GO:0000266	8	7	1.57	7	mitochondrial fission	7.30768016076427e-05
+GO:0010167	35	11	6.86	11	response to nitrate	0.0176307554877264
+GO:0010150	156	82	30.55	82	leaf senescence	2.94658677185099e-15
+GO:0000289	13	7	2.55	7	nuclear-transcribed mRNA poly(A) tail shortening	0.0300772643608272
+GO:0019375	13	6	2.55	6	galactolipid biosynthetic process	0.027239872853945
+GO:0090213	2	2	0.39	2	regulation of radial pattern formation	0.0383570642455083
+GO:0010187	26	10	5.09	10	negative regulation of seed germination	0.0201600395030372
+GO:0010188	6	4	1.18	4	response to microbial phytotoxin	0.0157108267709238
+GO:0008283	109	28	21.35	28	cell population proliferation	0.0160666121684788
+GO:1990592	3	3	0.59	3	protein K69-linked ufmylation	0.00751040045701578
+GO:0009410	9	5	1.76	5	response to xenobiotic stimulus	0.0256158307183875
+GO:0009413	4	3	0.78	3	response to flooding	0.0256306522089519
+GO:0009414	409	167	80.11	167	response to water deprivation	7.43979801208019e-19
+GO:0010120	15	10	2.94	10	camalexin biosynthetic process	5.19473218302904e-05
+GO:0048102	2	2	0.39	2	autophagic cell death	0.0383570642455083
+GO:0010112	22	11	4.31	11	regulation of systemic acquired resistance	0.000139348450903929
+GO:0010118	160	70	31.34	70	stomatal movement	0.003404578446158
+GO:0010119	104	41	20.37	41	regulation of stomatal movement	0.00339831268107514
+GO:1903335	2	2	0.39	2	regulation of vacuolar transport	0.0383570642455083
+GO:0000245	24	9	4.7	9	spliceosomal complex assembly	0.0238729313483293
+GO:0010143	24	9	4.7	9	cutin biosynthetic process	0.031915804667718
+GO:0046512	10	5	1.96	5	sphingosine biosynthetic process	0.0301117887844616
+GO:0046513	17	8	3.33	8	ceramide biosynthetic process	0.0398838362254562
+GO:0071108	7	5	1.37	5	protein K48-linked deubiquitination	0.00423773649333465
+GO:0010133	3	3	0.59	3	proline catabolic process to glutamate	0.00751040045701578
+GO:0009407	47	21	9.21	21	toxin catabolic process	8.00673361954805e-05
+GO:0009408	258	97	50.53	97	response to heat	2.01871053315253e-05
+GO:0009409	408	116	79.91	116	response to cold	9.79010243410729e-05
+GO:1990571	2	2	0.39	2	meiotic centromere clustering	0.0383570642455083
+GO:0016567	715	222	140.04	222	protein ubiquitination	5.54679866401937e-09
+GO:0000209	107	39	20.96	39	protein polyubiquitination	6.59005891372925e-05
+GO:0016559	12	8	2.35	8	peroxisome fission	0.000498813238441725
+GO:0010104	29	11	5.68	11	regulation of ethylene-activated signaling pathway	0.00569700038586933
+GO:0048268	17	7	3.33	7	clathrin coat assembly	0.0338849290441339
+GO:0006672	27	13	5.29	13	ceramide metabolic process	0.00748648205403458
+GO:0018105	105	42	20.57	42	peptidyl-serine phosphorylation	1.12042571731095e-06
+GO:0018107	14	6	2.74	6	peptidyl-threonine phosphorylation	0.0399341136286721
+GO:0016573	61	14	11.95	14	histone acetylation	0.0286394598645711
+GO:0016575	36	13	7.05	13	histone deacetylation	0.0443034717313261
+GO:0006621	11	5	2.15	5	protein retention in ER lumen	0.0464697591662518
+GO:0006623	41	25	8.03	25	protein targeting to vacuole	6.22600170613617e-07
+GO:0016579	73	35	14.3	35	protein deubiquitination	2.81030919327154e-06
+GO:0006624	8	5	1.57	5	vacuolar protein processing	0.00947839742805762
+GO:0006629	965	264	189.01	264	lipid metabolic process	1.528991632085e-05
+GO:0006616	11	6	2.15	6	SRP-dependent cotranslational protein targeting to membrane, translocation	0.0104822243263132
+GO:0006646	11	6	2.15	6	phosphatidylethanolamine biosynthetic process	0.0104822243263132
+GO:0048211	2	2	0.39	2	Golgi vesicle docking	0.0383570642455083
+GO:0006635	42	24	8.23	24	fatty acid beta-oxidation	6.38190018619081e-07
+GO:0006637	47	15	9.21	15	acyl-CoA metabolic process	0.0255786337265625
+GO:1905037	35	26	6.86	26	autophagosome organization	0.00145161436191762
+GO:0019483	3	3	0.59	3	beta-alanine biosynthetic process	0.0383447082816435
+GO:0071211	2	2	0.39	2	protein targeting to vacuole involved in autophagy	0.0383570642455083
+GO:0010256	109	44	21.35	44	endomembrane system organization	0.0332402719090303
+GO:0030242	5	5	0.98	5	autophagy of peroxisome	0.000287798541140222
+GO:0048235	38	14	7.44	14	pollen sperm cell differentiation	0.00996880888334148
+GO:0071219	11	6	2.15	6	cellular response to molecule of bacterial origin	0.0309821841490416
+GO:0010286	59	24	11.56	24	heat acclimation	0.000369402491518053
+GO:0051259	55	21	10.77	21	protein complex oligomerization	0.00570776063383866
+GO:0046685	18	7	3.53	7	response to arsenic-containing substance	0.0463161754341292
+GO:0046686	75	23	14.69	23	response to cadmium ion	0.00856495494082532
+GO:0010224	75	26	14.69	26	response to UV-B	0.00174814843456964
+GO:0010225	15	8	2.94	8	response to UV-C	0.0463898859981638
+GO:0010227	30	14	5.88	14	floral organ abscission	0.0108181577618338
+GO:1902289	4	3	0.78	3	negative regulation of defense response to oomycetes	0.0256306522089519
+GO:0010228	246	78	48.18	78	vegetative to reproductive phase transition of meristem	0.0308952899682477
+GO:0007568	185	97	36.24	97	aging	0.00042014499310812
+GO:0019441	5	4	0.98	4	tryptophan catabolic process to kynurenine	0.00620038853395783
+GO:0046620	19	7	3.72	7	regulation of organ growth	0.00619916320249319
+GO:0051228	3	3	0.59	3	mitotic spindle disassembly	0.00751040045701578
+GO:0010230	8	5	1.57	5	alternative respiration	0.00947839742805762
+GO:0051245	3	3	0.59	3	negative regulation of cellular defense response	0.00751040045701578
+GO:0050821	30	12	5.88	12	protein stabilization	0.00797807135514204
+GO:0010200	33	18	6.46	18	response to chitin	3.64411097530047e-05
+GO:0048767	75	25	14.69	25	root hair elongation	0.0210260568677042
+GO:0050832	276	126	54.06	126	defense response to fungus	4.70379324518833e-20
+GO:1990619	2	2	0.39	2	histone H3-K9 deacetylation	0.0383570642455083
+GO:0005985	46	18	9.01	18	sucrose metabolic process	0.00131628653366164
+GO:0031115	2	2	0.39	2	negative regulation of microtubule polymerization	0.0383570642455083
+GO:0009267	210	76	41.13	76	cellular response to starvation	0.0293343051545845
+GO:0098869	30	14	5.88	14	cellular oxidant detoxification	0.000410040777607534
+GO:0034087	5	5	0.98	5	establishment of mitotic sister chromatid cohesion	0.00146936919902795
+GO:0055091	2	2	0.39	2	phospholipid homeostasis	0.0383570642455083
+GO:0070588	40	17	7.83	17	calcium ion transmembrane transport	0.00223650202481636
+GO:0071712	17	11	3.33	11	ER-associated misfolded protein catabolic process	6.13496437267396e-05
+GO:0010789	2	2	0.39	2	meiotic sister chromatid cohesion involved in meiosis I	0.0383570642455083
+GO:0051788	26	17	5.09	17	response to misfolded protein	0.00746758434165676
+GO:0048700	2	2	0.39	2	acquisition of desiccation tolerance in seed	0.0383570642455083
+GO:0051726	237	42	46.42	42	regulation of cell cycle	0.0171487206419937
+GO:0055085	864	239	169.23	239	transmembrane transport	0.0274838880717202
+GO:0055072	62	14	12.14	14	iron ion homeostasis	0.0385180004798694
+GO:0061709	3	3	0.59	3	reticulophagy	0.00751040045701578
+GO:0045927	42	17	8.23	17	positive regulation of growth	0.000320941182333357
+GO:0015996	20	13	3.92	13	chlorophyll catabolic process	0.00106844248972532
+GO:0055046	64	27	12.54	27	microgametogenesis	0.00124738004915365
+GO:1901527	7	4	1.37	4	abscisic acid-activated signaling pathway involved in stomatal movement	0.0310082804743759
+GO:0051707	1276	486	249.92	486	response to other organism	0.0040570516406231
+GO:0009751	186	83	36.43	83	response to salicylic acid	1.08264248031734e-12
