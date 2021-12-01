@@ -1,0 +1,50 @@
+Annotated	Significant	Expected	Term	pval
+GO:0070814	8	2	0.04	hydrogen sulfide biosynthetic process	0.000599225587657196
+GO:0000162	30	2	0.14	tryptophan biosynthetic process	0.00870143630851449
+GO:0035434	10	1	0.05	copper ion transmembrane transport	0.0458673307109406
+GO:0000032	3	1	0.01	cell wall mannoprotein biosynthetic process	0.0139856074378772
+GO:0017186	5	1	0.02	peptidyl-pyroglutamic acid biosynthetic process, using glutaminyl-peptide cyclotransferase	0.0232011796232462
+GO:0006253	8	2	0.04	dCTP catabolic process	0.000599225587657196
+GO:0052865	11	2	0.05	1-deoxy-D-xylulose 5-phosphate biosynthetic process	0.00116622209591416
+GO:0055114	3664	34	17.16	oxidation-reduction process	7.52788065965317e-05
+GO:0009611	80	6	0.37	response to wounding	2.16964745962653e-06
+GO:0016114	102	6	0.48	terpenoid biosynthetic process	0.00487529233796425
+GO:0009864	9	1	0.04	induced systemic resistance, jasmonic acid mediated signaling pathway	0.0413763101070662
+GO:0030245	46	2	0.22	cellulose catabolic process	0.0197179829924313
+GO:0009298	9	1	0.04	GDP-mannose biosynthetic process	0.0413763101070662
+GO:0042372	8	1	0.04	phylloquinone biosynthetic process	0.0368642825659105
+GO:0000103	19	2	0.09	sulfate assimilation	0.00353779854733182
+GO:0048367	254	3	1.19	shoot system development	0.0366719637402765
+GO:0016104	12	2	0.06	triterpenoid biosynthetic process	0.00139516503376321
+GO:0010052	10	1	0.05	guard cell differentiation	0.0458673307109406
+GO:0031347	105	6	0.49	regulation of defense response	2.39791149613649e-05
+GO:0006556	6	1	0.03	S-adenosylmethionine biosynthetic process	0.0277768156453777
+GO:0006559	21	2	0.1	L-phenylalanine catabolic process	0.00431808155577909
+GO:0009228	22	2	0.1	thiamine biosynthetic process	0.00473534416866559
+GO:0009800	17	2	0.08	cinnamic acid biosynthetic process	0.00283102252417614
+GO:0098542	279	3	1.31	defense response to other organism	0.00191743651236535
+GO:0042262	8	2	0.04	DNA protection	0.000599225587657196
+GO:0015996	12	2	0.06	chlorophyll catabolic process	0.00139516503376321
+GO:0035672	2	1	0.01	oligopeptide transmembrane transport	0.00934547189471957
+GO:0015827	1	1	0	tryptophan transport	0.00468363636363622
+GO:0015810	1	1	0	aspartate transmembrane transport	0.00468363636363622
+GO:0009423	28	2	0.13	chorismate biosynthetic process	0.00760764020965816
+GO:0071230	3	1	0.01	cellular response to amino acid stimulus	0.0139856074378772
+GO:0046294	6	1	0.03	formaldehyde catabolic process	0.0277768156453777
+GO:0006730	64	2	0.3	one-carbon metabolic process	0.0363697692565255
+GO:0015804	5	1	0.02	neutral amino acid transport	0.0232011796232462
+GO:0043434	9	1	0.04	response to peptide hormone	0.0413763101070662
+GO:0050992	6	1	0.03	dimethylallyl diphosphate biosynthetic process	0.0277768156453777
+GO:0019288	6	1	0.03	isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway	0.0277768156453777
+GO:0008299	153	9	0.72	isoprenoid biosynthetic process	0.0146741856841314
+GO:2000022	29	5	0.14	regulation of jasmonic acid mediated signaling pathway	2.29617062387649e-07
+GO:0031408	27	3	0.13	oxylipin biosynthetic process	0.000271561920406656
+GO:0048443	10	1	0.05	stamen development	0.0458673307109406
+GO:0055085	2531	22	11.85	transmembrane transport	0.00909627995554546
+GO:0009735	55	2	0.26	response to cytokinin	0.0276452466955642
+GO:0042546	186	4	0.87	cell wall biogenesis	0.0410118203788358
+GO:0010289	2	1	0.01	homogalacturonan biosynthetic process	0.00934547189471957
+GO:0009695	12	2	0.06	jasmonic acid biosynthetic process	0.00139516503376321
+GO:0050801	154	2	0.72	ion homeostasis	0.0322692185793149
+GO:0009698	212	7	0.99	phenylpropanoid metabolic process	0.000922832389940599
+GO:0042026	58	2	0.27	protein refolding	0.0303665349265712

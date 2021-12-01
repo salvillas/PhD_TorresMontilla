@@ -1,0 +1,6 @@
+Annotated	Significant	Expected	Term	pval
+GO:0042744	224	1	0.04	hydrogen peroxide catabolic process	0.0384694963505336
+GO:0045490	191	1	0.03	pectin catabolic process	0.0328808589808454
+GO:0055114	3664	3	0.64	oxidation-reduction process	0.0188814382238835
+GO:0010215	31	1	0.01	cellulose microfibril organization	0.00539911640020907
+GO:0042545	155	1	0.03	cell wall modification	0.0267533181651374

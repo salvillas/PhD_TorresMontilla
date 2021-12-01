@@ -1,0 +1,5 @@
+Annotated	Significant	Expected	Term	pval
+GO:0006086	13	1	0	acetyl-CoA biosynthetic process from pyruvate	0.002267111398776
+GO:0015860	39	1	0.01	purine nucleoside transmembrane transport	0.00678848633393925
+GO:0042744	224	1	0.04	hydrogen peroxide catabolic process	0.0384694963505336
+GO:0055114	3664	3	0.64	oxidation-reduction process	0.0188814382238835

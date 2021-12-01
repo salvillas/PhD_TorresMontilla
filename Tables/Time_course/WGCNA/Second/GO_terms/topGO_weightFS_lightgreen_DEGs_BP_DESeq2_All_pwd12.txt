@@ -1,0 +1,12 @@
+Annotated	Significant	Expected	Term	pval
+GO:0042254	472	5	0.14	ribosome biogenesis	0.0168237606255839
+GO:0031118	5	1	0	rRNA pseudouridine synthesis	0.00145378395674989
+GO:0000469	28	1	0.01	cleavage involved in rRNA processing	0.00811672122928531
+GO:0002181	140	1	0.04	cytoplasmic translation	0.0399940422008271
+GO:0006364	289	2	0.08	rRNA processing	0.0420317532612879
+GO:0000027	41	1	0.01	ribosomal large subunit assembly	0.0118650039808852
+GO:0000028	38	1	0.01	ribosomal small subunit assembly	0.0110011489797245
+GO:0006412	1733	7	0.5	translation	6.7515502840816e-06
+GO:0006414	163	1	0.05	translational elongation	0.0464250013564194
+GO:0031120	1	1	0	snRNA pseudouridine synthesis	0.000290909090909008
+GO:0000470	55	1	0.02	maturation of LSU-rRNA	0.0158873551012968

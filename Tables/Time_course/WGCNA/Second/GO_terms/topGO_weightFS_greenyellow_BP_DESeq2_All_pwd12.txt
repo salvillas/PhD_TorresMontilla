@@ -1,0 +1,54 @@
+Annotated	Significant	Expected	Term	pval
+GO:0072699	10	1	0.03	protein localization to cortical microtubule cytoskeleton	0.0312644705235284
+GO:0055047	4	1	0.01	generative cell mitosis	0.0126239840620509
+GO:0010215	31	2	0.1	cellulose microfibril organization	0.00436268578628349
+GO:1904482	6	1	0.02	cellular response to tetrahydrofolate	0.0188766327277535
+GO:0033356	7	1	0.02	UDP-L-arabinose metabolic process	0.0219882288472995
+GO:0030259	10	1	0.03	lipid glycosylation	0.0312644705235284
+GO:0016126	43	2	0.14	sterol biosynthetic process	0.00826517458444516
+GO:0006468	2458	16	7.79	protein phosphorylation	0.00757478423182352
+GO:0010208	9	1	0.03	pollen wall assembly	0.0281821173486174
+GO:0072318	9	1	0.03	clathrin coat disassembly	0.0281821173486174
+GO:0006486	266	5	0.84	protein glycosylation	0.0288596762115617
+GO:0006487	54	2	0.17	protein N-linked glycosylation	0.0128052997339526
+GO:0030244	79	8	0.25	cellulose biosynthetic process	1.7038420611426e-10
+GO:0043622	33	3	0.1	cortical microtubule organization	0.000157872468013755
+GO:0046168	8	1	0.03	glycerol-3-phosphate catabolic process	0.025090046906414
+GO:0006565	6	1	0.02	L-serine catabolic process	0.0188766327277535
+GO:0015689	8	1	0.03	molybdate ion transport	0.025090046906414
+GO:0046398	7	1	0.02	UDP-glucuronate metabolic process	0.0219882288472995
+GO:0009846	12	1	0.04	pollen germination	0.037400146002165
+GO:0006555	80	3	0.25	methionine metabolic process	0.0155015541156323
+GO:0009833	13	1	0.04	plant-type primary cell wall biogenesis	0.0404535285381996
+GO:0051211	8	1	0.03	anisotropic cell growth	0.025090046906414
+GO:0032259	879	8	2.79	methylation	0.00698107884378249
+GO:0051592	3	1	0.01	response to calcium ion	0.00948287015675275
+GO:0010043	1	1	0	response to zinc ion	0.00317090909090911
+GO:0048868	46	2	0.15	pollen tube development	0.0461547007045071
+GO:0046655	14	1	0.04	folic acid metabolic process	0.0434973142721308
+GO:0006011	9	2	0.03	UDP-glucose metabolic process	0.000353483368787424
+GO:0046621	9	1	0.03	negative regulation of organ growth	0.0281821173486174
+GO:0052573	2	1	0.01	UDP-D-galactose metabolic process	0.00633185547215886
+GO:0009414	100	3	0.32	response to water deprivation	0.00401176118293988
+GO:0035336	5	1	0.02	long-chain fatty-acyl-CoA metabolic process	0.0157552280100666
+GO:0006166	14	1	0.04	purine ribonucleoside salvage	0.0434973142721308
+GO:0097503	6	1	0.02	sialylation	0.0188766327277535
+GO:0009901	4	1	0.01	anther dehiscence	0.0126239840620509
+GO:0044209	10	1	0.03	AMP salvage	0.0312644705235284
+GO:0035999	31	2	0.1	tetrahydrofolate interconversion	0.00436268578628349
+GO:0006004	93	2	0.29	fucose metabolic process	0.0353518315731849
+GO:0007131	48	2	0.15	reciprocal meiotic recombination	0.0102190162209133
+GO:0009409	68	2	0.22	response to cold	0.0198085097108307
+GO:0071555	535	12	1.7	cell wall organization	1.22546945525307e-07
+GO:0006116	1	1	0	NADH oxidation	0.00317090909090911
+GO:0048467	16	1	0.05	gynoecium development	0.0495562147790835
+GO:0009086	75	2	0.24	methionine biosynthetic process	0.0237876429490745
+GO:2000067	4	1	0.01	regulation of root morphogenesis	0.0126239840620509
+GO:0009753	71	2	0.23	response to jasmonic acid	0.0214764183044385
+GO:0080147	6	1	0.02	root hair cell development	0.0188766327277535
+GO:0009718	16	1	0.05	anthocyanin-containing compound biosynthetic process	0.0495562147790835
+GO:2000012	10	2	0.03	regulation of auxin polar transport	0.000440938774415708
+GO:0009395	12	2	0.04	phospholipid catabolic process	0.000644034222011345
+GO:0009734	207	4	0.66	auxin-activated signaling pathway	0.004342367808734
+GO:0009737	218	4	0.69	response to abscisic acid	0.00520991193282294
+GO:0016539	2	1	0.01	intein-mediated protein splicing	0.00633185547215886

@@ -1,0 +1,6 @@
+Annotated	Significant	Expected	Term	pval
+GO:0009691	39	1	0.01	cytokinin biosynthetic process	0.00791552666193784
+GO:0042026	58	1	0.01	protein refolding	0.0117523127621527
+GO:0006284	55	1	0.01	base-excision repair	0.0111473513609615
+GO:0050821	29	1	0.01	protein stabilization	0.00589104222073811
+GO:0034605	25	1	0.01	cellular response to heat	0.00508025752465013

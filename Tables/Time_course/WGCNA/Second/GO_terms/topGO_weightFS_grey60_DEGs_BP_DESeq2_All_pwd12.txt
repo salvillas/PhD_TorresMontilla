@@ -1,0 +1,16 @@
+Annotated	Significant	Expected	Term	pval
+GO:0009611	80	1	0.03	response to wounding	0.0275769185212598
+GO:1903830	20	1	0.01	magnesium ion transmembrane transport	0.0069606298459115
+GO:0007166	73	1	0.03	cell surface receptor signaling pathway	0.0251920684711749
+GO:0005987	39	1	0.01	sucrose catabolic process	0.0135320629290075
+GO:0006559	21	1	0.01	L-phenylalanine catabolic process	0.00730749267350084
+GO:0009695	12	1	0	jasmonic acid biosynthetic process	0.00418172504039827
+GO:0035999	31	1	0.01	tetrahydrofolate interconversion	0.0107700177635744
+GO:0000165	68	1	0.02	MAPK cascade	0.0234853229676549
+GO:2000022	29	1	0.01	regulation of jasmonic acid mediated signaling pathway	0.0100783997065175
+GO:0031347	105	1	0.04	regulation of defense response	0.0360506480407629
+GO:0006817	467	2	0.16	phosphate ion transport	0.0111077987220313
+GO:0009294	9	1	0	DNA mediated transformation	0.00313779926648272
+GO:0009800	17	1	0.01	cinnamic acid biosynthetic process	0.00591937465598413
+GO:0006914	101	1	0.04	autophagy	0.0346994160382694
+GO:0031408	27	1	0.01	oxylipin biosynthetic process	0.00938633842724979

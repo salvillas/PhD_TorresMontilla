@@ -1,0 +1,21 @@
+Annotated	Significant	Expected	Term	pval
+GO:0009694	35	1	0.03	jasmonic acid metabolic process	0.0291219003148021
+GO:0009696	37	1	0.03	salicylic acid metabolic process	0.030761037526
+GO:0009269	12	1	0.01	response to desiccation	0.0100783997065166
+GO:0009097	35	1	0.03	isoleucine biosynthetic process	0.0291219003148021
+GO:0031408	27	1	0.02	oxylipin biosynthetic process	0.0225385463241542
+GO:0046506	5	1	0	sulfolipid biosynthetic process	0.00421131521253371
+GO:0015976	12	1	0.01	carbon utilization	0.0100783997065166
+GO:0006081	42	1	0.04	cellular aldehyde metabolic process	0.0348471993433412
+GO:0006538	9	1	0.01	glutamate catabolic process	0.00756803335853573
+GO:0019509	10	2	0.01	L-methionine salvage from methylthioadenosine	3.07947129721429e-05
+GO:0006629	1330	4	1.12	lipid metabolic process	0.0306973938637896
+GO:0007264	50	1	0.04	small GTPase mediated signal transduction	0.0413504845799524
+GO:0050832	80	2	0.07	defense response to fungus	0.00208476234468732
+GO:0010951	71	6	0.06	negative regulation of endopeptidase activity	2.86137155258279e-11
+GO:0009611	80	3	0.07	response to wounding	4.24544912610828e-05
+GO:0009862	3	1	0	systemic acquired resistance, salicylic acid mediated signaling pathway	0.00252884803023534
+GO:0006857	56	1	0.05	oligopeptide transport	0.046200162421454
+GO:0031640	5	2	0	killing of cells of other organism	6.86121177138332e-06
+GO:0034440	39	1	0.03	lipid oxidation	0.0323975026462568
+GO:0015996	12	1	0.01	chlorophyll catabolic process	0.0100783997065166

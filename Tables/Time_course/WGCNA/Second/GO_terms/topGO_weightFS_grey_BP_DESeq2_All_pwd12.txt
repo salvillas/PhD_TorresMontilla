@@ -1,0 +1,26 @@
+Annotated	Significant	Expected	Term	pval
+GO:0055047	4	1	0.02	generative cell mitosis	0.0181450980624832
+GO:0017186	5	1	0.02	peptidyl-pyroglutamic acid biosynthetic process, using glutaminyl-peptide cyclotransferase	0.0226300190599579
+GO:0048756	6	1	0.03	sieve cell differentiation	0.0270945837095821
+GO:0042744	224	4	1.02	hydrogen peroxide catabolic process	0.0197352460777942
+GO:0005986	18	4	0.08	sucrose biosynthetic process	1.21907363115672e-06
+GO:0006233	4	1	0.02	dTDP biosynthetic process	0.0181450980624832
+GO:0006557	10	1	0.05	S-adenosylmethioninamine biosynthetic process	0.0447511087629721
+GO:0051211	8	1	0.04	anisotropic cell growth	0.0359630107725004
+GO:0046373	3	1	0.01	L-arabinose metabolic process	0.0136397284993037
+GO:0071244	4	1	0.02	cellular response to carbon dioxide	0.0181450980624832
+GO:0097503	6	1	0.03	sialylation	0.0270945837095821
+GO:0048250	4	1	0.02	iron import into the mitochondrion	0.0181450980624832
+GO:0007000	6	1	0.03	nucleolus organization	0.0270945837095821
+GO:0006396	1270	7	5.8	RNA processing	0.0311653110615767
+GO:0051013	10	1	0.05	microtubule severing	0.0447511087629721
+GO:0070898	5	1	0.02	RNA polymerase III preinitiation complex assembly	0.0226300190599579
+GO:0030388	9	1	0.04	fructose 1,6-bisphosphate metabolic process	0.0403670555628142
+GO:0032527	8	1	0.04	protein exit from endoplasmic reticulum	0.0359630107725004
+GO:1904263	2	1	0.01	positive regulation of TORC1 signaling	0.00911381773750741
+GO:0061504	2	1	0.01	cyclic threonylcarbamoyladenosine biosynthetic process	0.00911381773750741
+GO:0006869	189	4	0.86	lipid transport	0.0112363898371845
+GO:0009733	367	7	1.68	response to auxin	0.00592982096663149
+GO:1990937	8	1	0.04	xylan acetylation	0.0359630107725004
+GO:0045944	264	4	1.21	positive regulation of transcription by RNA polymerase II	0.0333096264333365
+GO:0016539	2	1	0.01	intein-mediated protein splicing	0.00911381773750741

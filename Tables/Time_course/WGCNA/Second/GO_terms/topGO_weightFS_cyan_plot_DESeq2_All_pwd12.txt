@@ -1,0 +1,13 @@
+Annotated	Significant	Expected	Term	pval	Enrichment
+GO:2000142	36	2	0.03	regulation of DNA-templated transcription, initiation	0.000425299523291264	3.38888888888889
+GO:0006893	19	1	0.02	Golgi to plasma membrane transport	0.0159121011653467	3.21052631578947
+GO:0006751	9	1	0.01	glutathione catabolic process	0.00756803335853573	6.77777777777778
+GO:0000165	68	2	0.06	MAPK cascade	0.0015123224470804	1.79411764705882
+GO:0009451	385	2	0.32	RNA modification	0.0416363178016302	0.316883116883117
+GO:0005983	5	1	0	starch catabolic process	0.00421131521253371	12.2
+GO:0080142	15	1	0.01	regulation of salicylic acid biosynthetic process	0.0125826344887744	4.06666666666667
+GO:0006470	477	3	0.4	protein dephosphorylation	0.00742191677093677	0.383647798742138
+GO:0036066	1	1	0	protein O-linked fucosylation	0.000843636363636269	61
+GO:0015851	4	1	0	nucleobase transport	0.00337042441238133	15.25
+GO:0045046	1	1	0	protein import into peroxisome membrane	0.000843636363636269	61
+GO:0009157	17	1	0.01	deoxyribonucleoside monophosphate biosynthetic process	0.0142487250517715	3.58823529411765

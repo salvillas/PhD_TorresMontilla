@@ -1,0 +1,25 @@
+Annotated	Significant	Expected	Term	pval
+GO:0080167	25	1	0.04	response to karrikin	0.0406539796082819
+GO:0019264	21	1	0.03	glycine biosynthetic process from serine	0.0342602311029362
+GO:0046655	14	1	0.02	folic acid metabolic process	0.0229702839855025
+GO:0052573	2	1	0	UDP-D-galactose metabolic process	0.00331366222885132
+GO:0072318	9	1	0.01	clathrin coat disassembly	0.0148267479291689
+GO:0046686	26	1	0.04	response to cadmium ion	0.0422459075023814
+GO:0016539	2	1	0	intein-mediated protein splicing	0.00331366222885132
+GO:0045490	191	2	0.32	pectin catabolic process	0.0401497379102448
+GO:0046621	9	1	0.01	negative regulation of organ growth	0.0148267479291689
+GO:0080147	6	1	0.01	root hair cell development	0.00990865614468095
+GO:1904482	6	1	0.01	cellular response to tetrahydrofolate	0.00990865614468095
+GO:0006166	14	1	0.02	purine ribonucleoside salvage	0.0229702839855025
+GO:0006011	9	2	0.01	UDP-glucose metabolic process	9.65270515143388e-05
+GO:0005977	30	1	0.05	glycogen metabolic process	0.0485877070215486
+GO:0050821	29	1	0.05	protein stabilization	0.0470061356517275
+GO:0009846	12	1	0.02	pollen germination	0.0197208365199674
+GO:0046398	7	1	0.01	UDP-glucuronate metabolic process	0.0115506942196831
+GO:0006004	93	2	0.15	fucose metabolic process	0.010492158029926
+GO:0006468	2458	12	4.08	protein phosphorylation	0.00129680342981224
+GO:0071555	535	6	0.89	cell wall organization	0.000806645690711659
+GO:0006565	6	1	0.01	L-serine catabolic process	0.00990865614468095
+GO:0033356	7	1	0.01	UDP-L-arabinose metabolic process	0.0115506942196831
+GO:0030244	79	4	0.13	cellulose biosynthetic process	9.30196336265328e-06
+GO:0044209	10	1	0.02	AMP salvage	0.0164607721207551

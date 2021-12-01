@@ -1,0 +1,31 @@
+Annotated	Significant	Expected	Term	pval
+GO:0052865	11	1	0.02	1-deoxy-D-xylulose 5-phosphate biosynthetic process	0.021549149710185
+GO:0005983	5	1	0.01	starch catabolic process	0.009852425372331
+GO:0034765	15	1	0.03	regulation of ion transmembrane transport	0.0292712211567751
+GO:0009228	22	1	0.04	thiamine biosynthetic process	0.0426406171754097
+GO:0035066	7	1	0.01	positive regulation of histone acetylation	0.013766560224821
+GO:0035067	7	1	0.01	negative regulation of histone acetylation	0.013766560224821
+GO:0045717	8	1	0.02	negative regulation of fatty acid biosynthetic process	0.0157179066489571
+GO:0071218	22	1	0.04	cellular response to misfolded protein	0.0426406171754097
+GO:0043547	88	3	0.17	positive regulation of GTPase activity	0.000720364518991648
+GO:0009624	18	1	0.04	response to nematode	0.0350233388088667
+GO:0010305	18	2	0.04	leaf vascular tissue pattern formation	0.000577977674484521
+GO:0071249	23	1	0.05	cellular response to nitrate	0.0445356609279806
+GO:0061158	1	1	0	3'-UTR-mediated mRNA destabilization	0.00197818181818177
+GO:0006515	25	1	0.05	protein quality control for misfolded or incompletely synthesized proteins	0.0483146672778618
+GO:1902811	1	1	0	positive regulation of skeletal muscle fiber differentiation	0.00197818181818177
+GO:2000766	1	1	0	negative regulation of cytoplasmic translation	0.00197818181818177
+GO:0071158	6	1	0.01	positive regulation of cell cycle arrest	0.0118114022438666
+GO:0045663	1	1	0	positive regulation of myoblast differentiation	0.00197818181818177
+GO:0010222	2	1	0	stem vascular tissue pattern formation	0.0039525078679975
+GO:0009789	12	2	0.02	positive regulation of abscisic acid-activated signaling pathway	0.000251243878012025
+GO:0006457	365	3	0.72	protein folding	0.0358529080703099
+GO:2000738	1	1	0	positive regulation of stem cell differentiation	0.00197818181818177
+GO:0080006	2	1	0	internode patterning	0.0039525078679975
+GO:1905870	1	1	0	positive regulation of 3'-UTR-mediated mRNA stabilization	0.00197818181818177
+GO:0048205	3	1	0.01	COPI coating of Golgi vesicle	0.00592298555295301
+GO:0042149	16	1	0.03	cellular response to glucose starvation	0.0311923374827747
+GO:0010197	15	1	0.03	polar nucleus fusion	0.0292712211567751
+GO:0042542	10	1	0.02	response to hydrogen peroxide	0.0196091940925008
+GO:0016579	125	2	0.25	protein deubiquitination	0.0255609555287102
+GO:0000266	18	1	0.04	mitochondrial fission	0.0350233388088667

@@ -1,0 +1,11 @@
+Annotated	Significant	Expected	Term	pval
+GO:0009611	80	2	0.03	response to wounding	0.000347710779467441
+GO:0009694	35	1	0.01	jasmonic acid metabolic process	0.0121519252431916
+GO:0009696	37	1	0.01	salicylic acid metabolic process	0.0128422151814771
+GO:0015996	12	1	0	chlorophyll catabolic process	0.00418172504039827
+GO:0031640	5	1	0	killing of cells of other organism	0.00174433774700544
+GO:0010951	71	4	0.02	negative regulation of endopeptidase activity	8.16588048658974e-09
+GO:0009862	3	1	0	systemic acquired resistance, salicylic acid mediated signaling pathway	0.00104693762275043
+GO:0006538	9	1	0	glutamate catabolic process	0.00313779926648272
+GO:0007264	50	1	0.02	small GTPase mediated signal transduction	0.0173183328820513
+GO:0050832	80	1	0.03	defense response to fungus	0.0275769185212598

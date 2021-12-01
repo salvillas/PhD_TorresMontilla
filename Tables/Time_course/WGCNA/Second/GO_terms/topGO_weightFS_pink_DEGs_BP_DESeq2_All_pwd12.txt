@@ -1,0 +1,16 @@
+Annotated	Significant	Expected	Term	pval
+GO:0008299	153	5	0.19	isoprenoid biosynthetic process	0.00163317820295651
+GO:0006559	21	1	0.03	L-phenylalanine catabolic process	0.0259505331218293
+GO:0055114	3664	11	4.58	oxidation-reduction process	0.00450510107969539
+GO:0006526	23	1	0.03	arginine biosynthetic process	0.0283874268340811
+GO:0016102	16	1	0.02	diterpenoid biosynthetic process	0.0198321511896701
+GO:0016104	12	1	0.02	triterpenoid biosynthetic process	0.0149104328817667
+GO:0009228	22	1	0.03	thiamine biosynthetic process	0.0271697252705092
+GO:0009800	17	1	0.02	cinnamic acid biosynthetic process	0.021058823022344
+GO:0046294	6	1	0.01	formaldehyde catabolic process	0.00748256455670337
+GO:0055085	2531	7	3.17	transmembrane transport	0.0281339793573734
+GO:0052865	11	1	0.01	1-deoxy-D-xylulose 5-phosphate biosynthetic process	0.0136762365767044
+GO:2000022	29	1	0.04	regulation of jasmonic acid mediated signaling pathway	0.0356624334102457
+GO:0030245	46	2	0.06	cellulose catabolic process	0.00152759905361709
+GO:0098542	279	2	0.35	defense response to other organism	0.0476672913041755
+GO:0009423	28	1	0.04	chorismate biosynthetic process	0.0344536380696635

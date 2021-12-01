@@ -1,0 +1,40 @@
+Annotated	Significant	Expected	Term	pval
+GO:0035436	6	1	0.04	triose phosphate transmembrane transport	0.036101855302822
+GO:0010469	1	1	0.01	regulation of signaling receptor activity	0.00610909090909084
+GO:1900056	3	1	0.02	negative regulation of leaf senescence	0.0182160644375846
+GO:0000733	6	1	0.04	DNA strand renaturation	0.036101855302822
+GO:0006952	893	14	5.46	defense response	0.00278693432083657
+GO:0006953	2	1	0.01	acute-phase response	0.0121810374648911
+GO:0015713	6	1	0.04	phosphoglycerate transmembrane transport	0.036101855302822
+GO:0046513	8	1	0.05	ceramide biosynthetic process	0.0478451782087633
+GO:0016126	43	3	0.26	sterol biosynthetic process	0.0023167703293473
+GO:0009626	111	3	0.68	plant-type hypersensitive response	0.0308114819803777
+GO:0006468	2458	30	15.02	protein phosphorylation	0.000318050207993495
+GO:0009643	1	1	0.01	photosynthetic acclimation	0.00610909090909084
+GO:0072334	8	1	0.05	UDP-galactose transmembrane transport	0.0478451782087633
+GO:0006470	477	8	2.91	protein dephosphorylation	0.0487551819061401
+GO:0009873	196	5	1.2	ethylene-activated signaling pathway	0.00725562645789072
+GO:0019722	19	2	0.12	calcium-mediated signaling	0.00593144909191818
+GO:0009607	418	6	2.55	response to biotic stimulus	0.046871779335709
+GO:1901796	3	1	0.02	regulation of signal transduction by p53 class mediator	0.0182160644375846
+GO:0009809	29	4	0.18	lignin biosynthetic process	2.85177090129131e-05
+GO:0033468	4	1	0.02	CMP-keto-3-deoxy-D-manno-octulosonic acid biosynthetic process	0.0242143952437089
+GO:0010189	5	1	0.03	vitamin E biosynthetic process	0.0301762519542738
+GO:0051091	5	1	0.03	positive regulation of DNA-binding transcription factor activity	0.0301762519542738
+GO:0071456	35	2	0.21	cellular response to hypoxia	0.0193611253115717
+GO:0051555	4	1	0.02	flavonol biosynthetic process	0.0242143952437089
+GO:0016226	46	2	0.28	iron-sulfur cluster assembly	0.0322407593417908
+GO:0007188	4	1	0.02	adenylate cyclase-modulating G protein-coupled receptor signaling pathway	0.0242143952437089
+GO:0034097	4	1	0.02	response to cytokine	0.0242143952437089
+GO:0046294	6	1	0.04	formaldehyde catabolic process	0.036101855302822
+GO:0051762	22	2	0.13	sesquiterpene biosynthetic process	0.0079169223259472
+GO:0030187	3	1	0.02	melatonin biosynthetic process	0.0182160644375846
+GO:0006355	2859	29	17.47	regulation of transcription, DNA-templated	0.000352529980218857
+GO:0072511	156	3	0.95	divalent inorganic cation transport	0.0300226300935039
+GO:0016567	901	13	5.5	protein ubiquitination	0.00512447929799976
+GO:0080142	15	3	0.09	regulation of salicylic acid biosynthetic process	9.6871048595309e-05
+GO:0019287	7	1	0.04	isopentenyl diphosphate biosynthetic process, mevalonate pathway	0.0419914246934472
+GO:2001289	3	1	0.02	lipid X metabolic process	0.0182160644375846
+GO:0008299	153	5	0.93	isoprenoid biosynthetic process	0.025523424169001
+GO:0048564	8	1	0.05	photosystem I assembly	0.0478451782087633
+GO:0070262	3	1	0.02	peptidyl-serine dephosphorylation	0.0182160644375846

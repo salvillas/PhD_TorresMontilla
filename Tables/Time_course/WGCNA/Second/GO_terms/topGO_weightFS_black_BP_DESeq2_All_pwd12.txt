@@ -1,0 +1,32 @@
+Annotated	Significant	Expected	Term	pval
+GO:0009786	10	1	0.04	regulation of asymmetric cell division	0.0422353111541465
+GO:0000919	11	1	0.05	cell plate assembly	0.0463601234326045
+GO:0000186	2	1	0.01	activation of MAPKK activity	0.00859249686602448
+GO:0007098	2	1	0.01	centrosome cycle	0.00859249686602448
+GO:1905786	5	2	0.02	positive regulation of anaphase-promoting complex-dependent catabolic process	0.000182563066258235
+GO:0008283	74	3	0.32	cell population proliferation	0.00297039444647382
+GO:0033615	4	1	0.02	mitochondrial proton-transporting ATP synthase complex assembly	0.0171116573277569
+GO:0007076	11	1	0.05	mitotic chromosome condensation	0.0463601234326045
+GO:1900057	2	1	0.01	positive regulation of leaf senescence	0.00859249686602448
+GO:0007010	369	8	1.59	cytoskeleton organization	0.000904378918681902
+GO:0007017	390	13	1.68	microtubule-based process	8.88869454998429e-05
+GO:0007018	147	6	0.63	microtubule-based movement	0.000386440802368283
+GO:0032774	3268	16	14.07	RNA biosynthetic process	0.00691710085013187
+GO:0034059	1	1	0	response to anoxia	0.0043054545454545
+GO:0007275	988	7	4.25	multicellular organism development	0.0411168018616351
+GO:2000145	8	1	0.03	regulation of cell motility	0.033932450602196
+GO:0035735	2	1	0.01	intraciliary transport involved in cilium assembly	0.00859249686602448
+GO:0001944	8	1	0.03	vasculature development	0.033932450602196
+GO:0033388	4	1	0.02	putrescine biosynthetic process from arginine	0.0171116573277569
+GO:2000032	11	1	0.05	regulation of secondary shoot formation	0.0463601234326045
+GO:1904668	13	4	0.06	positive regulation of ubiquitin protein ligase activity	2.28872996836978e-07
+GO:0006574	8	1	0.03	valine catabolic process	0.033932450602196
+GO:0043968	5	1	0.02	histone H2A acetylation	0.0213439308931315
+GO:0046621	9	1	0.04	negative regulation of organ growth	0.0380927787457891
+GO:0033528	5	1	0.02	S-methylmethionine cycle	0.0213439308931315
+GO:0035020	2	1	0.01	regulation of Rac protein signal transduction	0.00859249686602448
+GO:0051301	392	8	1.69	cell division	0.0010960724005005
+GO:0042744	224	4	0.96	hydrogen peroxide catabolic process	0.0162594578230362
+GO:0006751	9	1	0.04	glutathione catabolic process	0.0380927787457891
+GO:0007155	12	2	0.05	cell adhesion	0.00118128164900145
+GO:0009698	212	4	0.91	phenylpropanoid metabolic process	0.00898850031815469

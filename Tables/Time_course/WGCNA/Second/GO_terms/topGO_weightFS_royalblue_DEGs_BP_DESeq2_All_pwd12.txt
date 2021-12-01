@@ -1,0 +1,4 @@
+Annotated	Significant	Expected	Term	pval
+GO:0009607	418	1	0.04	response to biotic stimulus	0.0360392368796774
+GO:0006086	13	1	0	acetyl-CoA biosynthetic process from pyruvate	0.00113414942576884
+GO:0055114	3664	2	0.32	oxidation-reduction process	0.0316551960724814

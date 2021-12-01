@@ -1,0 +1,39 @@
+Annotated	Significant	Expected	Term	pval
+GO:0035556	620	9	3.7	intracellular signal transduction	0.0308352094520558
+GO:0032515	47	2	0.28	negative regulation of phosphoprotein phosphatase activity	0.0320961281409616
+GO:0018026	16	2	0.1	peptidyl-lysine monomethylation	0.004019579757419
+GO:0009749	30	3	0.18	response to glucose	0.000753534228813431
+GO:0006646	2	1	0.01	phosphatidylethanolamine biosynthetic process	0.011891880226598
+GO:0009734	207	4	1.23	auxin-activated signaling pathway	0.0358713845399599
+GO:0046835	48	2	0.29	carbohydrate phosphorylation	0.0333626078126107
+GO:0070814	8	1	0.05	hydrogen sulfide biosynthetic process	0.0467297204780424
+GO:0048768	1	1	0.01	root hair cell tip growth	0.00596363636363628
+GO:0070084	7	1	0.04	protein initiator methionine removal	0.0410094849219728
+GO:0007010	369	11	2.2	cytoskeleton organization	2.56332855046413e-07
+GO:0007017	390	12	2.33	microtubule-based process	2.45433649414734e-05
+GO:0007018	147	4	0.88	microtubule-based movement	0.0118324710454415
+GO:0016121	5	1	0.03	carotene catabolic process	0.0294663408863214
+GO:0016126	43	2	0.26	sterol biosynthetic process	0.0272287288516554
+GO:0005980	3	1	0.02	glycogen catabolic process	0.0177849406098511
+GO:0005975	1975	33	11.78	carbohydrate metabolic process	2.81886919261026e-06
+GO:0005978	17	3	0.1	glycogen biosynthetic process	0.000133625156984038
+GO:0052837	2	2	0.01	thiazole biosynthetic process	3.53925006743999e-05
+GO:0016104	12	2	0.07	triterpenoid biosynthetic process	0.00224573741400003
+GO:0000278	240	4	1.43	mitotic cell cycle	0.0183738048756124
+GO:0032922	4	1	0.02	circadian regulation of gene expression	0.0236430253059696
+GO:0060178	6	2	0.04	regulation of exocyst localization	0.000522581776879422
+GO:0015866	24	2	0.14	ADP transport	0.00896017826251032
+GO:0043489	4	1	0.02	RNA stabilization	0.0236430253059696
+GO:0016042	186	5	1.11	lipid catabolic process	0.00549684268219813
+GO:0006283	5	1	0.03	transcription-coupled nucleotide-excision repair	0.0294663408863214
+GO:0019252	62	6	0.37	starch biosynthetic process	1.94604348667832e-06
+GO:0030587	8	1	0.05	sorocarp development	0.0467297204780424
+GO:0030244	79	4	0.47	cellulose biosynthetic process	0.00130140526245642
+GO:0009228	22	2	0.13	thiamine biosynthetic process	0.00755809877195448
+GO:0010477	1	1	0.01	response to sulfur dioxide	0.00596363636363628
+GO:0048015	8	1	0.05	phosphatidylinositol-mediated signaling	0.0467297204780424
+GO:0016540	7	1	0.04	protein autoprocessing	0.0410094849219728
+GO:0071805	134	3	0.8	potassium ion transmembrane transport	0.0464442149384626
+GO:0061615	24	2	0.14	glycolytic process through fructose-6-phosphate	0.00896017826251032
+GO:0043153	2	1	0.01	entrainment of circadian clock by photoperiod	0.011891880226598
+GO:0044030	6	1	0.04	regulation of DNA methylation	0.0352550927082098

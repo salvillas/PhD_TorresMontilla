@@ -1,0 +1,51 @@
+Annotated	Significant	Expected	Term	pval
+GO:0009773	18	2	0.15	photosynthetic electron transport in photosystem I	0.00960129803151793
+GO:0006623	42	2	0.35	protein targeting to vacuole	0.0474623185910773
+GO:0019432	24	2	0.2	triglyceride biosynthetic process	0.0167642967277834
+GO:0018298	275	16	2.28	protein-chromophore linkage	1.57231274520628e-09
+GO:1990575	2	1	0.02	mitochondrial L-ornithine transmembrane transport	0.0165133182056202
+GO:0009688	6	2	0.05	abscisic acid biosynthetic process	0.00100514797623804
+GO:0035494	6	2	0.05	SNARE complex disassembly	0.00100514797623804
+GO:0032502	1247	11	10.34	developmental process	0.0109656021456156
+GO:0046838	24	2	0.2	phosphorylated carbohydrate dephosphorylation	0.00826734979040533
+GO:0009640	39	2	0.32	photomorphogenesis	0.0415095798823976
+GO:0009644	13	2	0.11	response to high light intensity	0.00503013765596118
+GO:0010143	1	1	0.01	cutin biosynthetic process	0.00829090909090913
+GO:0043001	6	1	0.05	Golgi to plasma membrane protein transport	0.0487291652121826
+GO:0015995	46	10	0.38	chlorophyll biosynthetic process	4.10610028212334e-12
+GO:1903826	2	1	0.02	arginine transmembrane transport	0.0165133182056202
+GO:0006096	146	4	1.21	glycolytic process	0.0336959613001363
+GO:0015671	3	1	0.02	oxygen transport	0.0246677913185697
+GO:0016126	43	3	0.36	sterol biosynthetic process	0.0054477812240612
+GO:0005983	5	1	0.04	starch catabolic process	0.0407751623395253
+GO:0055114	3664	55	30.38	oxidation-reduction process	3.66178643766178e-05
+GO:0015969	13	2	0.11	guanosine tetraphosphate metabolic process	0.00503013765596118
+GO:0045053	16	2	0.13	protein retention in Golgi apparatus	0.00761296067363778
+GO:0005975	1975	40	16.37	carbohydrate metabolic process	0.00336214948400648
+GO:0006813	145	4	1.2	potassium ion transport	0.00356394657387604
+GO:0015979	598	26	4.96	photosynthesis	4.58089424000148e-06
+GO:0006021	9	2	0.07	inositol biosynthetic process	0.00237298152438313
+GO:0006032	28	2	0.23	chitin catabolic process	0.0224677388112796
+GO:2000082	3	1	0.02	regulation of L-ascorbic acid biosynthetic process	0.0246677913185697
+GO:1902358	31	2	0.26	sulfate transmembrane transport	0.0271945149678493
+GO:0015812	2	1	0.02	gamma-aminobutyric acid transport	0.0165133182056202
+GO:0015813	6	1	0.05	L-glutamate transmembrane transport	0.0487291652121826
+GO:0019375	6	1	0.05	galactolipid biosynthetic process	0.0487291652121826
+GO:0042546	186	5	1.54	cell wall biogenesis	0.0197839210824142
+GO:0070481	2	1	0.02	nuclear-transcribed mRNA catabolic process, non-stop decay	0.0165133182056202
+GO:0006572	4	1	0.03	tyrosine catabolic process	0.0327548877771467
+GO:0045490	191	5	1.58	pectin catabolic process	0.0218919053992465
+GO:0030245	46	3	0.38	cellulose catabolic process	0.00658009579413471
+GO:0015808	2	1	0.02	L-alanine transport	0.0165133182056202
+GO:0046686	26	2	0.22	response to cadmium ion	0.019527739861077
+GO:0010411	79	4	0.65	xyloglucan metabolic process	0.00427022733026667
+GO:0007623	68	4	0.56	circadian rhythm	0.00254162659648963
+GO:0050896	4699	39	38.96	response to stimulus	0.0212442314452265
+GO:0070966	2	1	0.02	nuclear-transcribed mRNA catabolic process, no-go decay	0.0165133182056202
+GO:0006782	30	3	0.25	protoporphyrinogen IX biosynthetic process	0.00193991244821076
+GO:1903401	6	1	0.05	L-lysine transmembrane transport	0.0487291652121826
+GO:0048211	3	1	0.02	Golgi vesicle docking	0.0246677913185697
+GO:0009765	62	13	0.51	photosynthesis, light harvesting	9.08474850165372e-12
+GO:0009768	12	3	0.1	photosynthesis, light harvesting in photosystem I	0.000117380156433572
+GO:0071586	22	2	0.18	CAAX-box protein processing	0.0141841215058699
+GO:0009416	292	10	2.42	response to light stimulus	0.00314557032426077

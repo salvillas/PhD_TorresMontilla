@@ -1,0 +1,19 @@
+Annotated	Significant	Expected	Term	pval
+GO:1990544	16	1	0.01	mitochondrial ATP transmembrane transport	0.0147942104392093
+GO:0005975	1975	5	1.84	carbohydrate metabolic process	0.016154763668736
+GO:0050896	4699	7	4.37	response to stimulus	0.024231947081091
+GO:0006166	14	1	0.01	purine ribonucleoside salvage	0.0129565956676859
+GO:0006168	9	1	0.01	adenine salvage	0.00834802002349233
+GO:0009638	5	1	0	phototropism	0.00464615742706731
+GO:0009835	10	2	0.01	fruit ripening	3.76036167756196e-05
+GO:0009740	24	1	0.02	gibberellic acid mediated signaling pathway	0.0221115829692844
+GO:0007264	50	1	0.05	small GTPase mediated signal transduction	0.0455312441195921
+GO:0006809	6	1	0.01	nitric oxide biosynthetic process	0.0055728761632422
+GO:1903506	2887	2	2.69	regulation of nucleic acid-templated transcription	0.0271904360211367
+GO:0019265	1	1	0	glycine biosynthetic process, by transamination of glyoxylate	0.000930909090908982
+GO:0009693	20	2	0.02	ethylene biosynthetic process	0.000157850016647554
+GO:0016126	43	1	0.04	sterol biosynthetic process	0.0392799574373337
+GO:0140021	16	1	0.01	mitochondrial ADP transmembrane transport	0.0147942104392093
+GO:0042218	8	2	0.01	1-aminocyclopropane-1-carboxylate biosynthetic process	2.3425048856117e-05
+GO:0044209	10	1	0.01	AMP salvage	0.00927139962423851
+GO:0042128	30	1	0.03	nitrate assimilation	0.0275650329344203

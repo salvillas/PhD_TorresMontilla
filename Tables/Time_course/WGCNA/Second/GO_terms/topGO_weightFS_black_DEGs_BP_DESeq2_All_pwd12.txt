@@ -1,0 +1,33 @@
+Annotated	Significant	Expected	Term	pval
+GO:0006207	19	1	0.04	'de novo' pyrimidine nucleobase biosynthetic process	0.0390650330828106
+GO:1904668	13	2	0.03	positive regulation of ubiquitin protein ligase activity	0.000332450688312052
+GO:0007018	147	4	0.31	microtubule-based movement	0.00327759617509381
+GO:0046621	9	1	0.02	negative regulation of organ growth	0.0186958996312884
+GO:0035735	2	1	0	intraciliary transport involved in cilium assembly	0.00418476459480455
+GO:2000032	11	1	0.02	regulation of secondary shoot formation	0.0228035006200172
+GO:0007275	988	5	2.07	multicellular organism development	0.0246994930944321
+GO:0044205	14	1	0.03	'de novo' UMP biosynthetic process	0.0289331311372726
+GO:1900057	2	1	0	positive regulation of leaf senescence	0.00418476459480455
+GO:0010090	18	1	0.04	trichome morphogenesis	0.0370470276105039
+GO:0035020	2	1	0	regulation of Rac protein signal transduction	0.00418476459480455
+GO:0060236	15	1	0.03	regulation of mitotic spindle organization	0.0309679035408148
+GO:0008283	74	3	0.15	cell population proliferation	0.000705308854368399
+GO:0008285	18	1	0.04	negative regulation of cell population proliferation	0.0370470276105039
+GO:0030154	303	4	0.63	cell differentiation	0.00941853193628713
+GO:0046785	21	1	0.04	microtubule polymerization	0.0430885413138119
+GO:0000186	2	1	0	activation of MAPKK activity	0.00418476459480455
+GO:0045893	415	4	0.87	positive regulation of transcription, DNA-templated	0.0386444145174462
+GO:0007155	12	1	0.03	cell adhesion	0.0248509382860437
+GO:0032774	3268	13	6.84	RNA biosynthetic process	0.00148148735846049
+GO:0032147	25	2	0.05	activation of protein kinase activity	0.0464587506207828
+GO:0006075	22	1	0.05	(1->3)-beta-D-glucan biosynthetic process	0.0450940610502446
+GO:2000145	8	1	0.02	regulation of cell motility	0.0166357189861058
+GO:0006265	24	1	0.05	DNA topological change	0.0490926740815173
+GO:0051865	14	1	0.03	protein autoubiquitination	0.0289331311372726
+GO:0051017	19	1	0.04	actin filament bundle assembly	0.0390650330828106
+GO:0009718	16	1	0.03	anthocyanin-containing compound biosynthetic process	0.0329984713797281
+GO:0000919	11	1	0.02	cell plate assembly	0.0228035006200172
+GO:0007098	2	1	0	centrosome cycle	0.00418476459480455
+GO:0033388	4	1	0.01	putrescine biosynthetic process from arginine	0.0083522591566253
+GO:0000290	17	1	0.04	deadenylation-dependent decapping of nuclear-transcribed mRNA	0.0350248432200226
+GO:0120029	20	1	0.04	proton export across plasma membrane	0.0410788681514457

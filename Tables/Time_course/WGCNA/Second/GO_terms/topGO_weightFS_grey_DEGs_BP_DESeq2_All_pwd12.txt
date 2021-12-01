@@ -1,0 +1,20 @@
+Annotated	Significant	Expected	Term	pval
+GO:0097503	6	1	0.01	sialylation	0.0140561725661129
+GO:0002229	15	1	0.04	defense response to oomycetes	0.034775324222898
+GO:0042149	16	1	0.04	cellular response to glucose starvation	0.0370507374574127
+GO:0060320	14	1	0.03	rejection of self pollen	0.032494600805805
+GO:0016539	2	1	0	intein-mediated protein splicing	0.00470724321236426
+GO:0006869	189	3	0.45	lipid transport	0.0101956975008884
+GO:0006233	4	1	0.01	dTDP biosynthetic process	0.00939260057108049
+GO:0042744	224	3	0.53	hydrogen peroxide catabolic process	0.0160499739697257
+GO:0005986	18	2	0.04	sucrose biosynthetic process	0.000818751729037609
+GO:0007178	19	1	0.04	transmembrane receptor protein serine/threonine kinase signaling pathway	0.0438452380214448
+GO:0048250	4	1	0.01	iron import into the mitochondrion	0.00939260057108049
+GO:0006004	93	2	0.22	fucose metabolic process	0.0204273787783039
+GO:0006597	12	1	0.03	spermine biosynthetic process	0.0279171744471304
+GO:0032527	8	1	0.02	protein exit from endoplasmic reticulum	0.0186980592318363
+GO:0046373	3	1	0.01	L-arabinose metabolic process	0.00705265133210398
+GO:0008295	18	1	0.04	spermidine biosynthetic process	0.0415856821887851
+GO:0006557	10	1	0.02	S-adenosylmethioninamine biosynthetic process	0.0233183601490744
+GO:0009733	367	4	0.86	response to auxin	0.00625219756703366
+GO:1990937	8	1	0.02	xylan acetylation	0.0186980592318363

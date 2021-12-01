@@ -1,0 +1,10 @@
+Annotated	Significant	Expected	Term	pval
+GO:0070588	99	1	0.03	calcium ion transmembrane transport	0.0312322047863618
+GO:0042546	186	3	0.06	cell wall biogenesis	2.49119088560421e-05
+GO:0030244	79	1	0.03	cellulose biosynthetic process	0.0249950976193404
+GO:0009873	196	3	0.06	ethylene-activated signaling pathway	2.9123066690041e-05
+GO:0051560	20	1	0.01	mitochondrial calcium ion homeostasis	0.00638233997277249
+GO:0071555	535	4	0.17	cell wall organization	1.75550799143716e-05
+GO:0006355	2859	4	0.91	regulation of transcription, DNA-templated	0.00978317423735861
+GO:0006952	893	3	0.29	defense response	0.00246642347891374
+GO:0010411	79	3	0.03	xyloglucan metabolic process	1.902135783682e-06

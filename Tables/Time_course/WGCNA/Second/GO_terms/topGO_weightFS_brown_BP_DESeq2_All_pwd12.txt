@@ -1,0 +1,69 @@
+Annotated	Significant	Expected	Term	pval
+GO:0046470	34	3	0.52	phosphatidylcholine metabolic process	0.044148221769005
+GO:0010117	3	1	0.05	photoprotection	0.0452925176021031
+GO:0010142	2	2	0.03	farnesyl diphosphate biosynthetic process, mevalonate pathway	0.000234597608128766
+GO:0051762	22	7	0.34	sesquiterpene biosynthetic process	2.67297456516595e-08
+GO:0045490	191	8	2.93	pectin catabolic process	0.00960764429781299
+GO:0019674	10	2	0.15	NAD metabolic process	0.00973052452730194
+GO:2001289	3	1	0.05	lipid X metabolic process	0.0452925176021031
+GO:0019752	1449	28	22.21	carboxylic acid metabolic process	0.000941041611650669
+GO:0006598	2	2	0.03	polyamine catabolic process	0.000234597608128766
+GO:0043434	9	2	0.14	response to peptide hormone	0.00786377867337934
+GO:2001246	3	1	0.05	negative regulation of phosphatidylcholine biosynthetic process	0.0452925176021031
+GO:0048544	199	9	3.05	recognition of pollen	0.0037864790138076
+GO:0019722	19	2	0.29	calcium-mediated signaling	0.0337702149877033
+GO:0006559	21	2	0.32	L-phenylalanine catabolic process	0.0406507415572326
+GO:0048278	53	3	0.81	vesicle docking	0.0477592145675828
+GO:0016042	186	9	2.85	lipid catabolic process	0.002313816188183
+GO:0030187	3	2	0.05	melatonin biosynthetic process	0.000696626516861925
+GO:0010951	71	4	1.09	negative regulation of endopeptidase activity	0.0236959232045368
+GO:0009696	37	6	0.57	salicylic acid metabolic process	0.0437025433908663
+GO:0015914	56	7	0.86	phospholipid transport	2.3169766581381e-05
+GO:0009651	117	6	1.79	response to salt stress	0.009452877925377
+GO:0006355	2859	58	43.83	regulation of transcription, DNA-templated	0.000170885894537082
+GO:0034097	4	2	0.06	response to cytokine	0.0013790842938559
+GO:0006952	893	38	13.69	defense response	8.46002234791163e-08
+GO:0006953	2	2	0.03	acute-phase response	0.000234597608128766
+GO:1990569	3	1	0.05	UDP-N-acetylglucosamine transmembrane transport	0.0452925176021031
+GO:0009626	111	6	1.7	plant-type hypersensitive response	0.00738394761748609
+GO:0015787	3	1	0.05	UDP-glucuronic acid transmembrane transport	0.0452925176021031
+GO:0034204	32	6	0.49	lipid translocation	8.1509210524068e-06
+GO:0015789	3	1	0.05	UDP-N-acetylgalactosamine transmembrane transport	0.0452925176021031
+GO:0009643	1	1	0.02	photosynthetic acclimation	0.015330909090909
+GO:0010047	2	1	0.03	fruit dehiscence	0.0304272205736892
+GO:0035264	1	1	0.02	multicellular organism growth	0.015330909090909
+GO:0071456	35	5	0.54	cellular response to hypoxia	0.000184497980666926
+GO:0098717	3	1	0.05	pantothenate import across plasma membrane	0.0452925176021031
+GO:1900056	3	1	0.05	negative regulation of leaf senescence	0.0452925176021031
+GO:0009607	418	15	6.41	response to biotic stimulus	0.00173883429450104
+GO:0010469	1	1	0.02	regulation of signaling receptor activity	0.015330909090909
+GO:0009737	218	9	3.34	response to abscisic acid	0.00381620864191181
+GO:0055062	12	2	0.18	phosphate ion homeostasis	0.0139853969016482
+GO:0032515	47	3	0.72	negative regulation of phosphoprotein phosphatase activity	0.0353286946580375
+GO:0051555	4	2	0.06	flavonol biosynthetic process	0.0013790842938559
+GO:0034721	3	2	0.05	histone H3-K4 demethylation, trimethyl-H3-K4-specific	0.000696626516861925
+GO:0008152	26224	390	402.04	metabolic process	0.0261283599437618
+GO:0030212	10	3	0.15	hyaluronan metabolic process	0.000396795257688902
+GO:0006004	93	5	1.43	fucose metabolic process	0.0143410045513167
+GO:1901352	3	1	0.05	negative regulation of phosphatidylglycerol biosynthetic process	0.0452925176021031
+GO:0006468	2458	78	37.68	protein phosphorylation	1.25503799621296e-09
+GO:0006741	7	2	0.11	NADP biosynthetic process	0.00468139525922258
+GO:0051260	19	2	0.29	protein homooligomerization	0.0337702149877033
+GO:0016126	43	5	0.66	sterol biosynthetic process	0.000494681422512308
+GO:0006470	477	16	7.31	protein dephosphorylation	0.0287522118489609
+GO:0016114	102	11	1.56	terpenoid biosynthetic process	0.000174703250076821
+GO:1901796	3	1	0.05	regulation of signal transduction by p53 class mediator	0.0452925176021031
+GO:0009873	196	11	3	ethylene-activated signaling pathway	0.000240396480991936
+GO:0042545	155	6	2.38	cell wall modification	0.032738283657598
+GO:0016567	901	30	13.81	protein ubiquitination	4.03190030722822e-05
+GO:0007188	4	2	0.06	adenylate cyclase-modulating G protein-coupled receptor signaling pathway	0.0013790842938559
+GO:0019285	2	1	0.03	glycine betaine biosynthetic process from choline	0.0304272205736892
+GO:0019287	7	3	0.11	isopentenyl diphosphate biosynthetic process, mevalonate pathway	0.000119778599763611
+GO:0070262	3	1	0.05	peptidyl-serine dephosphorylation	0.0452925176021031
+GO:0080142	15	4	0.23	regulation of salicylic acid biosynthetic process	6.51867626319858e-05
+GO:0046777	96	5	1.47	protein autophosphorylation	0.0162558240288084
+GO:0045927	34	3	0.52	positive regulation of growth	0.0150740424446968
+GO:0008299	153	16	2.35	isoprenoid biosynthetic process	0.0234758976003885
+GO:0006887	104	5	1.59	exocytosis	0.022171603953267
+GO:0009800	17	2	0.26	cinnamic acid biosynthetic process	0.0274023941695091
+GO:0009809	29	7	0.44	lignin biosynthetic process	2.22907374433485e-07

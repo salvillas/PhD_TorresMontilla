@@ -1,0 +1,45 @@
+Annotated	Significant	Expected	Term	pval
+GO:0023014	108	3	0.67	signal transduction by protein phosphorylation	0.0301458647861681
+GO:0018106	9	2	0.06	peptidyl-histidine phosphorylation	0.00134932319661346
+GO:0006623	42	2	0.26	protein targeting to vacuole	0.028212897392194
+GO:0061817	9	2	0.06	endoplasmic reticulum-plasma membrane tethering	0.00134932319661346
+GO:0009734	207	4	1.29	auxin-activated signaling pathway	0.0409418970355243
+GO:0046835	48	2	0.3	carbohydrate phosphorylation	0.0360784387727288
+GO:0010113	2	1	0.01	negative regulation of systemic acquired resistance	0.012412332788524
+GO:0009641	7	1	0.04	shade avoidance	0.0427763558905534
+GO:0015713	6	1	0.04	phosphoglycerate transmembrane transport	0.036778819370588
+GO:0007018	147	4	0.92	microtubule-based movement	0.0136635872491427
+GO:0006857	56	3	0.35	oligopeptide transport	0.00517391584779445
+GO:0006094	27	2	0.17	gluconeogenesis	0.0122225192380466
+GO:0006096	146	6	0.91	glycolytic process	0.000319037148446604
+GO:0019919	3	1	0.02	peptidyl-arginine methylation, to asymmetrical-dimethyl arginine	0.018560872653629
+GO:2000601	1	1	0.01	positive regulation of Arp2/3 complex-mediated actin nucleation	0.00622545454545442
+GO:0035436	6	1	0.04	triose phosphate transmembrane transport	0.036778819370588
+GO:0006817	467	9	2.91	phosphate ion transport	0.00277086415533929
+GO:0051156	39	3	0.24	glucose 6-phosphate metabolic process	0.00184312605250972
+GO:0001678	16	2	0.1	cellular glucose homeostasis	0.00437050177860506
+GO:0033147	3	1	0.02	negative regulation of intracellular estrogen receptor signaling pathway	0.018560872653629
+GO:0055085	2531	24	15.76	transmembrane transport	0.0028503699064749
+GO:0055088	20	2	0.12	lipid homeostasis	0.00680771583518349
+GO:0032922	4	1	0.02	circadian regulation of gene expression	0.0246713106046393
+GO:0050482	4	1	0.02	arachidonic acid secretion	0.0246713106046393
+GO:0034219	25	4	0.16	carbohydrate transmembrane transport	0.000149706537046337
+GO:0006283	5	1	0.03	transcription-coupled nucleotide-excision repair	0.0307438816537976
+GO:0010236	5	2	0.03	plastoquinone biosynthetic process	0.000381026408007651
+GO:0090158	9	2	0.06	endoplasmic reticulum membrane organization	0.00134932319661346
+GO:2000327	3	1	0.02	positive regulation of nuclear receptor transcription coactivator activity	0.018560872653629
+GO:0071816	3	1	0.02	tail-anchored membrane protein insertion into ER membrane	0.018560872653629
+GO:0019318	231	6	1.44	hexose metabolic process	0.0175069528631474
+GO:0043966	6	1	0.04	histone H3 acetylation	0.036778819370588
+GO:0002215	3	1	0.02	defense response to nematode	0.018560872653629
+GO:0033512	4	1	0.02	L-lysine catabolic process to acetyl-CoA via saccharopine	0.0246713106046393
+GO:0045761	2	1	0.01	regulation of adenylate cyclase activity	0.012412332788524
+GO:0032264	7	1	0.04	IMP salvage	0.0427763558905534
+GO:0043153	2	1	0.01	entrainment of circadian clock by photoperiod	0.012412332788524
+GO:0051572	2	1	0.01	negative regulation of histone H3-K4 methylation	0.012412332788524
+GO:0007163	7	1	0.04	establishment or maintenance of cell polarity	0.0427763558905534
+GO:0034969	6	1	0.04	histone arginine methylation	0.036778819370588
+GO:0009423	28	2	0.17	chorismate biosynthetic process	0.0131092676830468
+GO:0006662	21	2	0.13	glycerol ether metabolic process	0.00749365687727237
+GO:0071244	4	1	0.02	cellular response to carbon dioxide	0.0246713106046393
+GO:0006657	3	1	0.02	CDP-choline pathway	0.018560872653629

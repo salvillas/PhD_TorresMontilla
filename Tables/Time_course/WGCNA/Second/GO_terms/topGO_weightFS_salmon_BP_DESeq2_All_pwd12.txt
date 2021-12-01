@@ -1,0 +1,29 @@
+Annotated	Significant	Expected	Term	pval
+GO:0071577	28	1	0.05	zinc ion transmembrane transport	0.0454219813715342
+GO:0010583	2	1	0	response to cyclopentenone	0.00331366222885132
+GO:0010239	15	1	0.02	chloroplast mRNA processing	0.0245910369849149
+GO:0009820	17	1	0.03	alkaloid metabolic process	0.0278246226922155
+GO:0048575	3	1	0	short-day photoperiodism, flowering	0.00496644555451287
+GO:2000028	34	2	0.06	regulation of photoperiodism, flowering	0.00146469114076181
+GO:0010114	17	1	0.03	response to red light	0.0278246226922155
+GO:0071482	43	3	0.07	cellular response to light stimulus	0.000392753948674788
+GO:0010452	14	1	0.02	histone H3-K36 methylation	0.0229702839855025
+GO:0042793	17	1	0.03	plastid transcription	0.0278246226922155
+GO:0010028	2	1	0	xanthophyll cycle	0.00331366222885132
+GO:0010100	4	1	0.01	negative regulation of photomorphogenesis	0.0066165361108782
+GO:0010017	25	1	0.04	red or far-red light signaling pathway	0.0406539796082819
+GO:0009658	122	2	0.2	chloroplast organization	0.0175573056189046
+GO:0033523	2	1	0	histone H2B ubiquitination	0.00331366222885132
+GO:0019511	16	1	0.03	peptidyl-proline hydroxylation	0.0262091484776934
+GO:0018022	98	2	0.16	peptidyl-lysine methylation	0.0353209156149292
+GO:0018107	14	1	0.02	peptidyl-threonine phosphorylation	0.0229702839855025
+GO:0009228	22	1	0.04	thiamine biosynthetic process	0.0358625821196195
+GO:0015768	2	1	0	maltose transport	0.00331366222885132
+GO:0009637	25	1	0.04	response to blue light	0.0406539796082819
+GO:0010193	14	1	0.02	response to ozone	0.0229702839855025
+GO:0048280	13	1	0.02	vesicle fusion with Golgi apparatus	0.0213468852444195
+GO:0010228	64	3	0.11	vegetative to reproductive phase transition of meristem	0.0346669617880435
+GO:0010218	4	1	0.01	response to far red light	0.0066165361108782
+GO:2000142	36	2	0.06	regulation of DNA-templated transcription, initiation	0.00164134579045002
+GO:0070544	1	1	0	histone H3-K36 demethylation	0.00165818181818178
+GO:0030259	10	1	0.02	lipid glycosylation	0.0164607721207551

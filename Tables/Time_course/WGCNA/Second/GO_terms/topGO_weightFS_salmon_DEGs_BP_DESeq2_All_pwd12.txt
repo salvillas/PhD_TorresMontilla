@@ -1,0 +1,19 @@
+Annotated	Significant	Expected	Term	pval
+GO:0009820	17	1	0.01	alkaloid metabolic process	0.0137605872226392
+GO:0010193	14	1	0.01	response to ozone	0.0113455897305241
+GO:0042793	17	1	0.01	plastid transcription	0.0137605872226392
+GO:0098869	378	2	0.31	cellular oxidant detoxification	0.0377699803494814
+GO:0010028	2	1	0	xanthophyll cycle	0.00162845110204823
+GO:2000142	36	1	0.03	regulation of DNA-templated transcription, initiation	0.0289239927231363
+GO:0033523	2	1	0	histone H2B ubiquitination	0.00162845110204823
+GO:0010583	2	1	0	response to cyclopentenone	0.00162845110204823
+GO:0071482	43	1	0.04	cellular response to light stimulus	0.034453638069663
+GO:0045454	62	1	0.05	cell redox homeostasis	0.0493100514606973
+GO:0042026	58	1	0.05	protein refolding	0.0462008200136926
+GO:0015860	39	1	0.03	purine nucleoside transmembrane transport	0.0312975697618917
+GO:2000028	34	1	0.03	regulation of photoperiodism, flowering	0.0273384934340697
+GO:0050896	4699	9	3.83	response to stimulus	0.0454002198338763
+GO:0090503	53	1	0.04	RNA phosphodiester bond hydrolysis, exonucleolytic	0.0423004897427526
+GO:0010224	44	1	0.04	response to UV-B	0.0352411045188665
+GO:0010228	64	2	0.05	vegetative to reproductive phase transition of meristem	0.0171642299243561
+GO:0015994	62	1	0.05	chlorophyll metabolic process	0.0493100514606973

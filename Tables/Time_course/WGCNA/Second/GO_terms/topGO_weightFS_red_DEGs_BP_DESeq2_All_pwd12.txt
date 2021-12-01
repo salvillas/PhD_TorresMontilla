@@ -1,0 +1,20 @@
+Annotated	Significant	Expected	Term	pval
+GO:0005978	17	2	0.03	glycogen biosynthetic process	0.000361561045336642
+GO:0006283	5	1	0.01	transcription-coupled nucleotide-excision repair	0.00826393820688043
+GO:0045739	14	1	0.02	positive regulation of DNA repair	0.0229702839855025
+GO:0042149	16	1	0.03	cellular response to glucose starvation	0.0262091484776934
+GO:0016042	186	2	0.31	lipid catabolic process	0.0382690980184224
+GO:0009749	30	1	0.05	response to glucose	0.0485877070215486
+GO:0010477	1	1	0	response to sulfur dioxide	0.00165818181818178
+GO:0019252	62	2	0.1	starch biosynthetic process	0.00479250592664272
+GO:0042908	135	2	0.22	xenobiotic transport	0.0212232672327338
+GO:0035556	620	5	1.03	intracellular signal transduction	0.013351778756781
+GO:0071577	28	1	0.05	zinc ion transmembrane transport	0.0454219813715342
+GO:0061615	24	1	0.04	glycolytic process through fructose-6-phosphate	0.0390594521935059
+GO:0051301	392	3	0.65	cell division	0.0273665715143171
+GO:0009088	17	1	0.03	threonine biosynthetic process	0.0278246226922155
+GO:0009089	20	1	0.03	lysine biosynthetic process via diaminopimelate	0.0326552638504106
+GO:0008152	26224	37	43.48	metabolic process	0.0204148997663217
+GO:0018026	16	1	0.03	peptidyl-lysine monomethylation	0.0262091484776934
+GO:0016104	12	1	0.02	triterpenoid biosynthetic process	0.0197208365199674
+GO:0030259	10	1	0.02	lipid glycosylation	0.0164607721207551

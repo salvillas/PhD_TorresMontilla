@@ -1,0 +1,7 @@
+Annotated	Significant	Expected	Term	pval	Enrichment
+GO:0000165	68	1	0.03	MAPK cascade	0.033109707634734	1.13445378151261
+GO:0009157	17	1	0.01	deoxyribonucleoside monophosphate biosynthetic process	0.00837603440195267	4.53781512605042
+GO:0009451	385	2	0.19	RNA modification	0.0152265090067641	0.400742115027829
+GO:2000142	36	1	0.02	regulation of DNA-templated transcription, initiation	0.0176593282757472	2.14285714285714
+GO:0006893	19	1	0.01	Golgi to plasma membrane transport	0.00935709745188285	4.06015037593985
+GO:0080142	15	1	0.01	regulation of salicylic acid biosynthetic process	0.00739405698096818	5.14285714285714

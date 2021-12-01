@@ -1,0 +1,26 @@
+Annotated	Significant	Expected	Term	pval
+GO:0070966	2	1	0.01	nuclear-transcribed mRNA catabolic process, no-go decay	0.00795514072475467
+GO:0055114	3664	30	14.6	oxidation-reduction process	0.000633396645547505
+GO:0052865	11	1	0.04	1-deoxy-D-xylulose 5-phosphate biosynthetic process	0.0429828791132296
+GO:0005975	1975	21	7.87	carbohydrate metabolic process	0.00495242023652199
+GO:0030245	46	3	0.18	cellulose catabolic process	0.000829263510181868
+GO:0044209	10	1	0.04	AMP salvage	0.0391523501439205
+GO:0006168	9	1	0.04	adenine salvage	0.0353066015672671
+GO:0019375	6	1	0.02	galactolipid biosynthetic process	0.0236774367700205
+GO:0009416	292	7	1.16	response to light stimulus	0.00800703418187445
+GO:0009688	6	2	0.02	abscisic acid biosynthetic process	0.000234059123450016
+GO:0009644	13	2	0.05	response to high light intensity	0.00119502154379194
+GO:0006572	4	1	0.02	tyrosine catabolic process	0.0158474554645671
+GO:0070481	2	1	0.01	nuclear-transcribed mRNA catabolic process, non-stop decay	0.00795514072475467
+GO:0015995	46	4	0.18	chlorophyll biosynthetic process	3.45982288662942e-05
+GO:0009765	62	6	0.25	photosynthesis, light harvesting	4.56022239615067e-05
+GO:0009768	12	2	0.05	photosynthesis, light harvesting in photosystem I	0.00101381843413572
+GO:0009773	18	2	0.07	photosynthetic electron transport in photosystem I	0.00231367450802172
+GO:0015979	598	13	2.38	photosynthesis	0.00243706781528697
+GO:0006021	9	1	0.04	inositol biosynthetic process	0.0353066015672671
+GO:0006656	12	1	0.05	phosphatidylcholine biosynthetic process	0.0467982482658738
+GO:0018298	275	8	1.1	protein-chromophore linkage	1.5547566025108e-05
+GO:0006813	145	2	0.58	potassium ion transport	0.0428390457424288
+GO:0006833	8	1	0.03	water transport	0.0314455733585237
+GO:0030259	10	1	0.04	lipid glycosylation	0.0391523501439205
+GO:0009082	67	2	0.27	branched-chain amino acid biosynthetic process	0.0294511172503501
