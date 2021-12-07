@@ -1,0 +1,42 @@
+response to zinc ion
+folic acid metabolic process
+intein-mediated protein splicing
+reciprocal meiotic recombination
+tetrahydrofolate interconversion
+methionine biosynthetic process
+response to abscisic acid
+UDP-D-galactose metabolic process
+clathrin coat disassembly
+negative regulation of organ growth
+gynoecium development
+glycerol-3-phosphate catabolic process
+phospholipid catabolic process
+response to water deprivation
+AMP salvage
+regulation of root morphogenesis
+response to cold
+NADH oxidation
+anther dehiscence
+protein N-linked glycosylation
+plant-type primary cell wall biogenesis
+long-chain fatty-acyl-CoA metabolic process
+molybdate ion transport
+cortical microtubule organization
+generative cell mitosis
+methylation
+cell wall organization
+regulation of auxin polar transport
+root hair cell development
+pollen wall assembly
+UDP-glucuronate metabolic process
+methionine metabolic process
+UDP-L-arabinose metabolic process
+pollen tube development
+sialylation
+pollen germination
+cellular response to tetrahydrofolate
+anisotropic cell growth
+purine ribonucleoside salvage
+response to calcium ion
+L-serine catabolic process
+protein localization to cortical microtubule cytoskeleton

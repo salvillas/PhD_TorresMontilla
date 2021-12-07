@@ -1,0 +1,130 @@
+negative regulation of phosphatidylglycerol biosynthetic process
+chitin catabolic process
+trehalose biosynthetic process
+farnesyl diphosphate biosynthetic process
+lipid biosynthetic process
+mature ribosome assembly
+GMP metabolic process
+response to cytokine
+gamma-aminobutyric acid catabolic process
+tryptophan catabolic process to kynurenine
+brassinosteroid mediated signaling pathway
+negative regulation of phosphatidylcholine biosynthetic process
+signal transduction
+dephosphorylation
+mitochondrial translational elongation
+protein transport
+L-glutamate biosynthetic process
+defense response
+negative regulation of gibberellic acid mediated signaling pathway
+calcium-mediated signaling
+lipid translocation
+response to ethylene
+transport of virus in host, cell to cell
+response to freezing
+protein N-linked glycosylation via asparagine
+sphingoid catabolic process
+glutamate decarboxylation to succinate
+citrate metabolic process
+ceramide biosynthetic process
+negative regulation of phosphoprotein phosphatase activity
+flavonol biosynthetic process
+dolichyl monophosphate biosynthetic process
+glycerol metabolic process
+positive regulation of response to water deprivation
+lignin biosynthetic process
+defense response to bacterium
+succinyl-CoA metabolic process
+inflorescence morphogenesis
+phosphatidylcholine metabolic process
+positive regulation of proteasomal protein catabolic process
+extracellular matrix organization
+negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway
+acetyl-CoA biosynthetic process from acetate
+positive regulation of kinase activity
+ribosomal small subunit biogenesis
+tricarboxylic acid cycle
+rRNA processing
+exocytosis
+recognition of pollen
+phospholipid transport
+protein retention in ER lumen
+calcium ion transmembrane transport
+activation of GTPase activity
+formation of cytoplasmic translation initiation complex
+box H/ACA snoRNP assembly
+polyamine catabolic process
+mitochondrial cytochrome c oxidase assembly
+long-chain fatty acid metabolic process
+acute-phase response
+response to vitamin B1
+endoplasmic reticulum to Golgi vesicle-mediated transport
+ribosome biogenesis
+succinate metabolic process
+regulation of salicylic acid biosynthetic process
+hyaluronan metabolic process
+cellular response to osmotic stress
+biosynthetic process
+sesquiterpene biosynthetic process
+negative regulation of seed germination
+protein autophosphorylation
+protein dephosphorylation
+protein kinase C-activating G protein-coupled receptor signaling pathway
+plant-type hypersensitive response
+clathrin-dependent endocytosis
+ascospore formation
+response to biotic stimulus
+cytochrome b6f complex assembly
+glycolytic process through fructose-6-phosphate
+developmental vegetative growth
+carboxylic acid metabolic process
+maintenance of seed dormancy by absisic acid
+fatty acid metabolic process
+intermembrane lipid transfer
+peroxisome fission
+lead ion transport
+regulation of peroxisome size
+ATP transport
+response to insect
+oxidation-dependent protein catabolic process
+protein localization involved in auxin polar transport
+G protein-coupled receptor signaling pathway
+protein ubiquitination
+UDP-galactose transmembrane transport
+tRNA export from nucleus
+cell plate formation involved in plant-type cell wall biogenesis
+intracellular protein transport
+hyperosmotic salinity response
+regulation of actin cytoskeleton organization
+adenylate cyclase-modulating G protein-coupled receptor signaling pathway
+fructose 6-phosphate metabolic process
+cellular response to hypoxia
+response to nitrate
+L-lysine catabolic process to acetyl-CoA via saccharopine
+myo-inositol hexakisphosphate biosynthetic process
+cellular response to lead ion
+vesicle docking involved in exocytosis
+regulation of metabolic process
+phytochelatin biosynthetic process
+cell surface receptor signaling pathway
+histone H3-K4 demethylation, trimethyl-H3-K4-specific
+galactolipid biosynthetic process
+(1->3)-beta-D-glucan biosynthetic process
+farnesyl diphosphate biosynthetic process, mevalonate pathway
+melatonin biosynthetic process
+cell wall macromolecule catabolic process
+response to cadmium ion
+response to chitin
+regulation of catalytic activity
+red light signaling pathway
+isopentenyl diphosphate biosynthetic process, mevalonate pathway
+regulation of seed dormancy process
+ethylene biosynthetic process
+glutathione metabolic process
+maintenance of shoot apical meristem identity
+regulation of defense response to fungus
+vesicle docking
+seed trichome elongation
+Golgi vesicle budding
+GDP metabolic process
+endoplasmic reticulum unfolded protein response

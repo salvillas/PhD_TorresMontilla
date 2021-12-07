@@ -1,0 +1,61 @@
+positive regulation of transcription, DNA-templated
+phosphorelay signal transduction system
+histone arginine methylation
+tail-anchored membrane protein insertion into ER membrane
+inositol phosphate-mediated signaling
+shade avoidance
+histone H4-R3 demethylation
+carbohydrate phosphorylation
+galactose metabolic process
+phosphatidylinositol phosphorylation
+endoplasmic reticulum-plasma membrane tethering
+defense response to nematode
+endoplasmic reticulum membrane organization
+polyphosphate biosynthetic process
+cell redox homeostasis
+negative regulation of intracellular estrogen receptor signaling pathway
+positive regulation of nuclear receptor transcription coactivator activity
+lipid homeostasis
+floral meristem determinacy
+magnesium ion transmembrane transport
+somatic stem cell population maintenance
+entrainment of circadian clock
+phosphate ion transport
+sucrose biosynthetic process
+peptidyl-arginine methylation, to asymmetrical-dimethyl arginine
+lactate biosynthetic process
+peptidyl-histidine phosphorylation
+gluconeogenesis
+regulation of monopolar cell growth
+plastoquinone biosynthetic process
+IMP salvage
+histone H3-R2 demethylation
+glycolytic process
+gene silencing by RNA
+cell plate assembly
+cellular response to nitrate
+microtubule nucleation by interphase microtubule organizing center
+CDP-choline pathway
+glycerol ether metabolic process
+sphingosine biosynthetic process
+anthocyanin-containing compound metabolic process
+cadmium ion transmembrane transport
+vegetative phase change
+regulation of adenylate cyclase activity
+steroid biosynthetic process
+glucose 6-phosphate metabolic process
+positive regulation of circadian rhythm
+actin filament bundle assembly
+histone H4-R3 methylation
+reversible differentiation
+positive regulation of Arp2/3 complex-mediated actin nucleation
+xenobiotic transport
+regulation of stomatal movement
+carbohydrate transmembrane transport
+response to starvation
+negative regulation of systemic acquired resistance
+nitrate transport
+negative regulation of histone H3-K4 methylation
+cellular glucose homeostasis
+seedling development
+malonyl-CoA biosynthetic process

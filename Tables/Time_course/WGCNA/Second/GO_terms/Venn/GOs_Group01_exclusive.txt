@@ -1,0 +1,58 @@
+urate catabolic process
+positive regulation of ATPase activity
+regulation of synapse structure or activity
+mRNA 5'-splice site recognition
+de-etiolation
+endoplasmic reticulum tubular network organization
+stem vascular tissue pattern formation
+receptor internalization
+positive regulation of abscisic acid-activated signaling pathway
+negative regulation of ubiquitin-dependent protein catabolic process
+response to salt stress
+detection of mechanical stimulus
+negative regulation of transcription by RNA polymerase II
+chloride transport
+SCF-dependent proteasomal ubiquitin-dependent protein catabolic process
+positive regulation of angiogenesis
+regulation of leaf development
+positive regulation of cell cycle arrest
+internode patterning
+kinetochore assembly
+dynamin family protein polymerization involved in mitochondrial fission
+spliceosomal snRNP assembly
+positive regulation of superoxide dismutase activity
+peptidyl-lysine modification to peptidyl-hypusine
+sodium ion import across plasma membrane
+anion transport
+negative regulation of Wnt signaling pathway
+cellular response to misfolded protein
+peptidyl-proline hydroxylation to 4-hydroxy-L-proline
+positive regulation of skeletal muscle fiber differentiation
+starch catabolic process
+positive regulation of GTPase activity
+histone H2A acetylation
+cellular response to glucose starvation
+positive regulation of 3'-UTR-mediated mRNA stabilization
+prostaglandin biosynthetic process
+cellular response to heat
+positive regulation of endothelial cell proliferation
+threonine catabolic process
+protein import into chloroplast stroma
+3'-UTR-mediated mRNA destabilization
+protein stabilization
+chaperone cofactor-dependent protein refolding
+response to chlorate
+circulatory system development
+protein-containing complex assembly
+ion transport
+regulation of peptidyl-tyrosine phosphorylation
+negative regulation of cytoplasmic translation
+protein complex oligomerization
+COPI coating of Golgi vesicle
+leaf vascular tissue pattern formation
+cell volume homeostasis
+positive regulation of stem cell differentiation
+mitochondrial fission
+positive regulation of myoblast differentiation
+DNA replication, Okazaki fragment processing
+negative regulation of chaperone-mediated protein folding

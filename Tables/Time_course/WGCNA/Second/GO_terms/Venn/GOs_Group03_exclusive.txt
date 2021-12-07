@@ -1,0 +1,55 @@
+response to endoplasmic reticulum stress
+positive regulation of leaf senescence
+photosynthesis, light harvesting in photosystem I
+abscisic acid biosynthetic process
+response to glucose
+photosynthetic electron transport in photosystem I
+phosphorylated carbohydrate dephosphorylation
+photosynthesis, light harvesting
+carbohydrate metabolic process
+regulation of Rac protein signal transduction
+starch biosynthetic process
+protoporphyrinogen IX biosynthetic process
+positive regulation of ubiquitin protein ligase activity
+L-alanine transport
+thiazole biosynthetic process
+microtubule cytoskeleton organization
+root hair cell tip growth
+trichome morphogenesis
+mitochondrial L-ornithine transmembrane transport
+triglyceride biosynthetic process
+response to light stimulus
+peptidyl-lysine monomethylation
+nuclear-transcribed mRNA catabolic process, non-stop decay
+response to sulfur dioxide
+guanosine tetraphosphate metabolic process
+response to high light intensity
+potassium ion transport
+intraciliary transport involved in cilium assembly
+glucan catabolic process
+cutin biosynthetic process
+cell division
+response to stimulus
+cytoskeleton organization
+chlorophyll biosynthetic process
+cell adhesion
+developmental process
+protein retention in Golgi apparatus
+cell population proliferation
+arginine transmembrane transport
+phosphatidylethanolamine biosynthetic process
+centrosome cycle
+localization
+multicellular organism development
+SNARE complex disassembly
+response to anoxia
+microtubule-based process
+inositol biosynthetic process
+gamma-aminobutyric acid transport
+photosynthesis
+glycogen biosynthetic process
+positive regulation of anaphase-promoting complex-dependent catabolic process
+circadian rhythm
+regulation of exocyst localization
+protein-chromophore linkage
+nuclear-transcribed mRNA catabolic process, no-go decay
